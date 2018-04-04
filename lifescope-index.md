@@ -6,6 +6,7 @@
 <h1 id="lifescope">LIFESCOPE</h1>
 <h3 id="the-internet-of-you">The Internet of You</h3>
 <h1 id="architecture">Architecture</h1>
+<p><a href="https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20Planning%203-26-18.pdf"> <img src="https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg" alt="arch alt text" title="Logo Title Text 2"></a></p>
 <h2 id="frontend">Frontend</h2>
 <h3 id="lifescope-site"><a href="https://lifescopelabs.github.io/site.html">lifescope-site</a></h3>
 <ul>
