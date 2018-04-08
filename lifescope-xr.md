@@ -112,6 +112,8 @@ BitScoop Marker Pattern File
 
 [vrmapbox]:https://lifescopelabs.github.io/assets/wireframes/vr-maps-aframe-mapbox.png
 [argateway]:https://lifescopelabs.github.io/assets/wireframes/ar-phone-gateway.png
+[procedural]:https://lifescopelabs.github.io/assets/wireframes/vr-maps-aframe-mapbox.png
+[vrmapbox]:https://lifescopelabs.github.io/assets/wireframes/vr-maps-aframe-mapbox.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0OTk2NDI0OV19
+eyJoaXN0b3J5IjpbMjA3NDgzNjM0NV19
 -->
