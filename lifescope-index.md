@@ -71,6 +71,9 @@ LIFESCOPE App to search explorer and curate your personal data in various views.
 - Published You
 
 ## Repository Index
+
+Here is the GitHub repositoryies for 
+
 | Repository | Priority | Status |
 |--|--|--|
 | [lifescope-ai](https://lifescopelabs.github.io/ai.html) | low | concept |
@@ -128,5 +131,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNTE0MDgzMF19
+eyJoaXN0b3J5IjpbNTY2MjE5ODY4XX0=
 -->
