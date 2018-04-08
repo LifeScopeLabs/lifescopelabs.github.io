@@ -1,27 +1,27 @@
-# lifescope-api
+# LIFESCOPE-API
 
 Universal API backend for the LIFESCOPE platform.
 
-GraphQL-based API for CRUD operations on the lifescope data schema. 
+GraphQL-based API for CRUD operations on the LIFESCOPE data schema. 
 
 REST API for login/logout/signup and connection OAUTH workflow
 
-## Workflows
+# Workflows
 
-### Connection Workflow
+## Connection Workflow
  1. Choose a provider and grant permissions
  2. Create an OAuth connection to provider
  3. Approve OAuth permission and complete connection
 
-### Signup Workflow
+## Signup Workflow
 1. Complete the connection wf with first provider
 2. Create a user and a login session
 
-### Login Workflow
+## Login Workflow
 1. Complete the connection wf but do not create a new connection
 2. Lookup user and create a login session
 
-## API Endpoints
+# API Endpoints
 * Exposes objects of the data schema for CRUD operations in GraphQL
 * Exposes the connection, signup, and login workflows as GraphQL endpoints
 
@@ -40,9 +40,9 @@ REST API for login/logout/signup and connection OAUTH workflow
 * **Google**
 * **Slice**
 
-## Data Schema
+# Data Schema
 
-### connections
+## connections
   * auth
     * status
       * authorized
@@ -60,7 +60,7 @@ REST API for login/logout/signup and connection OAUTH workflow
 * status
 * user_id
 
-### events
+## events
 
 * connection
 * contact_interaction_type
@@ -145,5 +145,5 @@ REST API for login/logout/signup and connection OAUTH workflow
 * [graphql-compose-mongoose](https://github.com/graphql-compose/graphql-compose-mongoose)
 * Vue/Nuxt
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTUwNjAyNF19
+eyJoaXN0b3J5IjpbLTM1NjQ3ODI4XX0=
 -->
