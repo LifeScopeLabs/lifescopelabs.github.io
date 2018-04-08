@@ -89,7 +89,6 @@ Relate contacts together into People and relate People into Users
 * capture voice data
 
 ### [lifescope-xr](https://lifescopelabs.github.io/app.html)
-* AR/VR views
 
 ## Backend
 
@@ -105,5 +104,5 @@ Relate contacts together into People and relate People into Users
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
 [arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg  "Arch" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTExMjQzNTFdfQ==
+eyJoaXN0b3J5IjpbMTg3ODcyNzc2M119
 -->
