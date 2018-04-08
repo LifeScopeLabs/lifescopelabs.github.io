@@ -1,8 +1,5 @@
-# lifescope-voice
-* voice search
-* voice response
-* capture voice data
+# lifescope-voice (concept phase, low priority)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTM1ODhdfQ==
+eyJoaXN0b3J5IjpbNzE0MzI3NTY5XX0=
 -->
