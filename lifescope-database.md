@@ -1,4 +1,4 @@
-# lifescope Database
+# lifescope database
 
 * Common Schema (schema.org)
 * User level encryption
@@ -94,5 +94,5 @@ gulp devel
 Next, go to lambda/migrations/fixtures/providers and open up each JSON file.
 You will need to copy the ID of the API Map you made for each service into the 'remote_provider_id' field in the corresponding provider file.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NDM0NzIxMF19
+eyJoaXN0b3J5IjpbMjAxMTg4OTMwMl19
 -->
