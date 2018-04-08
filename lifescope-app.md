@@ -6,15 +6,15 @@
 * Written with plugin framework such as location tracking, web xr and web voice
 * Should be containerizable inside a universal app framework Cordova
 
-#### Login
+## Login
 * Able to sign up and login with any provider
 
-#### Homepage
+## Homepage
 * List saved searches and hashtags
 
-#### Explorer
+## Explorer
 
-##### Views
+### Views
 * Feed
 * List
 * Map
@@ -30,18 +30,19 @@ Gallery View
 Map View
 ![mappoly]
 
-#### Providers
+## Providers
 
 ![providerpage]
 
-#### People Management
+## People Management
 * Relate contacts together into People
 * Relate People into Users
-#### Settings
+
+## Settings
 * Manage username
 * Manage providers
 
-#### Published Content
+## Published Content
 * Embed saved searches as dynamic iFrame
 * Served publicly
 
@@ -54,5 +55,5 @@ Alt Feed View
 [lifescope-app-legacy]:https://lifescopelabs.github.io/assets/screenshots/lifescope-app-legacy.png
 [lifescope-app-wireframe]:https://lifescopelabs.github.io/assets/wireframes/week-content-feed.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MDc2OTc3N119
+eyJoaXN0b3J5IjpbLTIwMDY3MjgyMjNdfQ==
 -->
