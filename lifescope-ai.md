@@ -35,6 +35,7 @@ Prediction and anomaly detection based on location history.
 - [Numenta Geospatioal Github Example](https://github.com/numenta/nupic.geospatial)
 
 [heatmap]:https://lifescopelabs.github.io/assets/maps/heat-map.png
+[assets](https://github.com/LifeScopeLabs/lifescopelabs.github.io/tree/master/assets)/[screenshots](https://github.com/LifeScopeLabs/lifescopelabs.github.io/tree/master/assets/screenshots)/**infographics1.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5OTIyNDMyMF19
+eyJoaXN0b3J5IjpbMTM4NDI4NTczM119
 -->
