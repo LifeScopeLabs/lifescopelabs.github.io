@@ -33,7 +33,7 @@ Impersonation Ideas:
 
 Prediction and anomaly detection based on location history.
 
-![heatmap][heatmap]
+![heatmap]
 
 #### Examples:
 - [Numenta Geospatioal](https://numenta.com/assets/pdf/whitepapers/Geospatial%20Tracking%20White%20Paper.pdf)
@@ -43,5 +43,5 @@ Prediction and anomaly detection based on location history.
 [infographics1]:https://lifescopelabs.github.io/assets/screenshots/infographics1.png
 [infographics2]:https://lifescopelabs.github.io/assets/screenshots/infographics2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMjI1NzkwOV19
+eyJoaXN0b3J5IjpbMjAzMDE4NzE2M119
 -->
