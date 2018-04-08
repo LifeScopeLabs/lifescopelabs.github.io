@@ -102,14 +102,17 @@ Liam Broza and the team at BitScoop Labs have been working on problems big data 
 
 https://web.archive.org/web/20141222111903/http://www.smokesignal.info/
 
-
+SmokeSignal site screenshot
 ![smokesignalss2]
+
+SmokeSignal Sources
 ![smokesignalss1] 
 
 In 2016, BitScoop Labs rebuilt the project as Live Explorer. This is now the legacy LIFESCOPE app.
 
 https://web.archive.org/web/20151116131419/http://ografy.io/
 
+Ografy site screenshot
 ![ografy]
 
 [conceptdiagram]:https://lifescopelabs.github.io/assets/img/concept-diagram.png
@@ -121,5 +124,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjQ3ODgxNjVdfQ==
+eyJoaXN0b3J5IjpbMTMxMDYzODM2M119
 -->
