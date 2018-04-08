@@ -1,4 +1,4 @@
-# lifescope-app (development phase, high priority)
+# lifescope-app
 
 * App to search explorer and curate your personal data in various views
 * Single-page Universal web app built on Nuxt and Vue.js
@@ -53,5 +53,5 @@
 
 [providerpage]:https://lifescopelabs.github.io/assets/screenshots/provider-maps-screenshot.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyOTA3NzYyMl19
+eyJoaXN0b3J5IjpbMTQyMDU1MjUwM119
 -->
