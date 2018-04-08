@@ -39,9 +39,6 @@ LifeScope is still in early days, but we have plans to expand this platform so i
 
 App to search explorer and curate your personal data in various views. Single-page Universal web app built on Nuxt and Vue.js. Desktop/mobile reactive design interface with javascript extensions. Written with plugin framework such as location tracking, web xr and web voice. Should be containerizable inside a universal app framework like Cordova. Able to connect as many provider accounts you want. List saved searches and hashtags
 
-### [lifescope-site](https://lifescopelabs.github.io/site.html)
-
-### [lifescope-app](https://lifescopelabs.github.io/app.html)
 
 #### Explorer
 
@@ -72,13 +69,17 @@ App to search explorer and curate your personal data in various views. Single-pa
 Relate contacts together into People and relate People into Users
 - Settings
 - Published Content
+High Priority
+
+Medium Priority
+
+Low Priority
+
+### [lifescope-site](https://lifescopelabs.github.io/site.html)
 
 ### [lifescope-browser-extension](https://lifescopelabs.github.io/app.html)
 ### [lifescope-voice](https://lifescopelabs.github.io/app.html)
 ### [lifescope-xr](https://lifescopelabs.github.io/app.html)
-
-## Backend
-
 ### [lifescope-api](https://lifescopelabs.github.io/app.html)
 ### [lifescope-ai](https://lifescopelabs.github.io/app.html)
 ### [lifescope-etl](https://lifescopelabs.github.io/etl.html)
@@ -88,5 +89,5 @@ Relate contacts together into People and relate People into Users
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
 [arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg  "Arch" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDY5NTk2MF19
+eyJoaXN0b3J5IjpbLTY1MTg1ODkzMl19
 -->
