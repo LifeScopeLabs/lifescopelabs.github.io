@@ -35,6 +35,9 @@ The core of LIFESCOPE is an automated set of tools to collect personal data (via
 
 The LIFESCOPE platform is designed to be completely pluggable. Easily add data sources, change data organization, change database technologies, and create apps on the API.
 
+
+The [LIFESCOPE App](https://lifescopelabs.github.io/app.html)
+
 ## Data Collection
 LIFESCOPE collects personal information from three places. When you create connections in the App or API, [API ETL Scripts](https://lifescopelabs.github.io/etl.html) will run. The [Browser Plugin](https://lifescopelabs.github.io/browser-extension.html) allows for opting into recording url and visits. The plugin can also scrape webpages. The native and web JavaScrip [App](https://lifescopelabs.github.io/app.html) can pull information on the device such as locations and contacts.
 
@@ -44,7 +47,6 @@ LIFESCOPE collects personal information from three places. When you create conne
 The [LIFESCOPE API](https://lifescopelabs.github.io/api.html) uses GraphQL and REST to signup, login, manage sources, and access all your data. LIFESCOPE's API will eventually allow for pluggable [Database Support](https://lifescopelabs.github.io/database.html).
 
 ![conceptdiagram]
-
 
 ## Single App Architecture
 
@@ -117,5 +119,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MzMzNDcxMl19
+eyJoaXN0b3J5IjpbLTE0Mzg4ODU4NTBdfQ==
 -->
