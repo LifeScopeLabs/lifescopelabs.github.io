@@ -2,15 +2,13 @@
 
 ### The Internet of You
 
-
 _"My friends and I work, play, and communicate on dozens platforms. Conversation start on texts, continue on Facebook Messenger, continue in person, then go to Skype and conclude on Slack. Retracing my history keeps me jumping from app to app."_
 
 **Does this sound familiar?**
 
 ![dataknot][dataknot]
 
-Pretty much all internet connected software is a broken experience. 
-
+Internet connected software is broken. 
 
 The internet landscape is a vast, overwhelming, and broken terrain of data. Only the best companies in the world can tap into a tiny fraction of data's potential. People create and consume digital information without understanding what’s going on.  It is hopeless for anyone to create a complete and up to date accounting of their information, let alone search and organize their data.
 
@@ -98,5 +96,5 @@ Published Content
 [dataknot]:https://lifescopelabs.github.io/assets/img/dataknot.png
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzUzNzM3N119
+eyJoaXN0b3J5IjpbLTk3Mzg4OTc2XX0=
 -->
