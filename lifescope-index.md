@@ -48,9 +48,9 @@ The [LIFESCOPE API](https://lifescopelabs.github.io/api.html) uses GraphQL and R
 
 ## Single App Architecture
 
-LIFESCOPE App to search explorer and curate your personal data in various views. Explore data with various views (Feed, List, Map, Gallery, Timeline, Virtual Reality, Augmented Reality). Explore people from your history. People are represented as related contacts and history across services. Single-page Universal web app built on Nuxt and Vue.js. Desktop/mobile reactive design interface with javascript extensions.
+LIFESCOPE App to search explorer and curate your personal data in various views. Explore data with various views (Feed, List, Map, Gallery, Timeline, [Virtual Reality, Augmented Reality]((https://lifescopelabs.github.io/xr.html))). Explore people from your history. People are represented as related contacts and history across services. Single-page Universal web app built on Nuxt and Vue.js. Desktop/mobile reactive design interface with javascript extensions.
 
-Written with plugin framework such as location tracking, web xr and web voice. Should be containerizable inside a universal app framework like Cordova (iOS, Android, Mac, Win). Able to connect as many provider accounts you want. List saved searches and hashtags.
+Written with plugin framework such as location tracking, WebXR and ebSpeach. Should be containerizable inside a universal app framework like Cordova (iOS, Android, Mac, Win). Able to connect as many provider accounts you want. List saved searches and hashtags.
 
 ![arch]
 
@@ -115,5 +115,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODU1MjgyMjBdfQ==
+eyJoaXN0b3J5IjpbMTc1NDg3MjE0OV19
 -->
