@@ -88,12 +88,13 @@ Published Content
 | Google | Provider API ETL | production | events, content, contacts |
 | Slice | Provider API ETL | development | events, content, contacts |
 | FitBit | Provider API ETL | planned | events, things |
-| Browser History | Browser plugin | planned | events, content, places |
+| **Browser** | Browser plugin | planned | events, content, places |
+| **Native App** | Native app | planned | events, content, contacts, places |
 
 
 [conceptdiagram]:https://lifescopelabs.github.io/assets/img/concept-diagram.png
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
 [arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg  "Arch" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMzMzgxNjRdfQ==
+eyJoaXN0b3J5IjpbMTkxOTc4MjM3OV19
 -->
