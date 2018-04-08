@@ -112,14 +112,10 @@ Relate contacts together into People and relate People into Users
 * Keep a copy of original data
 
 ### [DB Storage](https://lifescopelabs.github.io/db.html)
-* Common Schema (schema.org)
-* User level encryption
-* Whole DB backups
-* Eventually pluggable (Local/OBDC/JBDC/Etc)
 
 [conceptdiagram]:https://lifescopelabs.github.io/assets/img/concept-diagram.png
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
 [arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg  "Arch" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzM2NjU4NDBdfQ==
+eyJoaXN0b3J5IjpbLTg5Nzg4OTI4Ml19
 -->
