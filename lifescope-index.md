@@ -72,11 +72,11 @@ Published Content
 - [Database Documentation](https://lifescopelabs.github.io/db.html)
 - [Legacy App Documentation](https://github.com/LifeScopeLabs/lifescope-etl/tree/master/archive/tutorial)
 
-## Supported Sources
+## Supported Personal Data Sources
 
-| Name | Provider | Status | Data Collected |
-|--|--|--|
-| Facebook |  |  |
+| Name | Source | Status | Data Collected |
+|--|--|--|--|
+| Facebook | Provider API ETL | production | messages, posts, likes |
 
 
 * Twitter
@@ -96,5 +96,5 @@ Published Content
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
 [arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg  "Arch" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1ODY5ODY2XX0=
+eyJoaXN0b3J5IjpbOTAyNDA5MDU0XX0=
 -->
