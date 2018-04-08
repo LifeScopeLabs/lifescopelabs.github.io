@@ -20,9 +20,10 @@ In Chrome go to: [chrome://inspect/#devices](chrome://inspect/#devices)
 
 Configure > Target: lifescope-api.glitch.me:3001
 
-## Graphql Playground web interface for glitch
+## GraphQL Playground web interface for API
 
+Example on glitch:
 [https://lifescope-api.glitch.me/gql-p/](https://lifescope-api.glitch.me/gql-p/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNzI3MTU3N119
+eyJoaXN0b3J5IjpbLTE4NDExNzMyNl19
 -->
