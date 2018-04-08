@@ -45,7 +45,8 @@ App to search explorer and curate your personal data in various views. Single-pa
   * Augmented Reality Phone
   * Voice
 - People Management
-	-  Relate contacts together into People and relate People into Users
+	- Relate contacts together into People 
+	- Relate People to Users
 - Settings
 - Published Content
 
@@ -106,5 +107,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 [smokesignalss2]:https://lifescopelabs.github.io/assets/screenshots/smokesignal-io-legacy-2.png
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTc0NTU1MzFdfQ==
+eyJoaXN0b3J5IjpbLTg2MDUzMzMzNF19
 -->
