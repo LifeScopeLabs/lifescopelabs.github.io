@@ -27,11 +27,14 @@ We are currently looking for designers, creators, developers, and data scientist
 
 ## How does LIFESCOPE work?
 
+
+
 ### Data Flow
 
 ![source flow][soureflow]
 
 ![conceptdiagram][conceptdiagram]
+
 ### Architecture  Overview
 
 ![arch]
@@ -113,5 +116,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NDg5OTc4MF19
+eyJoaXN0b3J5IjpbMTA3MTU0ODU5NF19
 -->
