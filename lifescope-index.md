@@ -70,11 +70,11 @@ Settings
 Published Content
 
 ## Documentation
-|  |  |
-|--|--|
-|  |  |
+| Repository | Priority | Status |
+|--|--|--|
+| [lifescope-ai](https://lifescopelabs.github.io/a.html) |  |  |
 
-[lifescope-app](https://lifescopelabs.github.io/app.html)
+
 [lifescope-site](https://lifescopelabs.github.io/site.html)
 [lifescope-browser-extension](https://lifescopelabs.github.io/app.html)
 [lifescope-voice](https://lifescopelabs.github.io/app.html)
@@ -89,5 +89,5 @@ Published Content
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
 [arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg  "Arch" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NTM2MDM4NF19
+eyJoaXN0b3J5IjpbMTE3MDY3NjgzOV19
 -->
