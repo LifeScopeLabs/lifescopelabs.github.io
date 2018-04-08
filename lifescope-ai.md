@@ -1,7 +1,6 @@
 # lifescope-ai
 
-This is a suite of tools for Reporting
-* Visualization
+This is a suite of tools for reporting and machine learning from l, visualization
 * Behavior modeling
   * correlation
   * prediction
@@ -42,5 +41,5 @@ Prediction and anomaly detection based on location history.
 [infographics1]:https://lifescopelabs.github.io/assets/screenshots/infographics1.png
 [infographics2]:https://lifescopelabs.github.io/assets/screenshots/infographics2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg2NDMxMjE2XX0=
+eyJoaXN0b3J5IjpbLTQzMzU1MzU4Ml19
 -->
