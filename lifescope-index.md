@@ -33,6 +33,9 @@ We are currently looking for designers, creators, developers, and data scientist
 
 The core of LIFESCOPE is an automated set of tools to collect personal data (via [API ETL Scripts](https://lifescopelabs.github.io/etl.html), [Browser Plugin](https://lifescopelabs.github.io/browser-extension.html), [App](https://lifescopelabs.github.io/app.html) repositories) and organize everything a standard way. All of the collected data is then organized and presented with the [API](https://lifescopelabs.github.io/api.html).
 
+### Data Sources
+ - [API ETL Scripts](https://lifescopelabs.github.io/etl.html), [Browser Plugin](https://lifescopelabs.github.io/browser-extension.html), [App](https://lifescopelabs.github.io/app.html) repositories) and organize everything a standard way. All of the collected data is then organized and presented with the [API](https://lifescopelabs.github.io/api.html).
+
 ![soureflow]
 
 ![conceptdiagram]
@@ -120,5 +123,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NjA5Nzk2NF19
+eyJoaXN0b3J5IjpbNjg0NjAwOTE4XX0=
 -->
