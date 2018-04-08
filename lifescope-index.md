@@ -76,13 +76,13 @@ Published Content
 
 | Name | Source | Status | Data Collected |
 |--|--|--|--|
-| Facebook | Provider API ETL | production | events, content, locations |
-| Twitter | Provider API ETL | production | events, content, locations |
-| Pinterest | Provider API ETL | production | messages, posts, likes |
-| Dropbox | Provider API ETL | production | files |
-| Steam | Provider API ETL | production | achievements, games |
-| Reddit | Provider API ETL | production | various content |
-| Spotify | Provider API ETL | production | messages, posts, likes |
+| Facebook | Provider API ETL | production | events, content, contacts, locations |
+| Twitter | Provider API ETL | production | events, content, contacts, locations |
+| Pinterest | Provider API ETL | production | events, content, locations |
+| Dropbox | Provider API ETL | production | events, content, locations |
+| Steam | Provider API ETL | production | events, content |
+| Reddit | Provider API ETL | production | events, content, contacts, contacts |
+| Spotify | Provider API ETL | production | events, content |
 | FitBit | Provider API ETL | production | messages, posts, likes |
 | GitHub | Provider API ETL | production | messages, posts, likes |
 | Instagram | Provider API ETL | production | messages, posts, likes |
@@ -94,5 +94,5 @@ Published Content
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
 [arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg  "Arch" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMDYxMzI5NV19
+eyJoaXN0b3J5IjpbMjAzOTA1NzI1XX0=
 -->
