@@ -2,15 +2,13 @@
 
 This is a suite of tools for reporting and machine learning from LIFESCOPE data. Reporting is focused on building approachable dashboard visualizations and infographics.
 
-Machine learning models based on L are focused on Behavior modeling
-  * correlation
-  * prediction
-  * suggestion
+Machine learning models based on LIFESCOPE data are focused on behavior modeling, correlation, prediction, suggestion, and impersonation.
 
 ## Reporting
 
 Create infographics and reports for lifescope users based on their data.
 
+Examples:
 ![infographics1][infographics1]
 
 ![infographics2][infographics2]
@@ -42,5 +40,5 @@ Prediction and anomaly detection based on location history.
 [infographics1]:https://lifescopelabs.github.io/assets/screenshots/infographics1.png
 [infographics2]:https://lifescopelabs.github.io/assets/screenshots/infographics2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNTMxNjE1Ml19
+eyJoaXN0b3J5IjpbLTY4MDY0ODMxOF19
 -->
