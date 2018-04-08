@@ -19,7 +19,9 @@ Examples:
 
 ## Machine Learning
 
-Build a variety of other conversational agents. [CakeChat Framework](https://cakechat.replika.ai/) 
+#### Conversational Agents
+Examples:
+[CakeChat Framework](https://cakechat.replika.ai/) 
 
 Ideas:
 - **Persona-based model**. Condition responses on a certain author of messages (User ID) to make responses lexically similar to them and mimic someone’s linguistic style in a conversation. Use new or pre-trained models to run a chatbot that maintains a conversation in a certain emotional state. 
@@ -40,5 +42,5 @@ Prediction and anomaly detection based on location history.
 [infographics1]:https://lifescopelabs.github.io/assets/screenshots/infographics1.png
 [infographics2]:https://lifescopelabs.github.io/assets/screenshots/infographics2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MDY0ODMxOF19
+eyJoaXN0b3J5IjpbLTI1NjM5OTYwN119
 -->
