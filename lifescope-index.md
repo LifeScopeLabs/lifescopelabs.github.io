@@ -90,22 +90,22 @@ Published Content
 
 ![fractal][fractal]
 
-## Who thought of this?
+## Who thought of lifescope?
 
 Liam Broza and the team at Bitscoop Labs have been working on problems big data and quantified self for over a decade. This project started as SmokeSignal in 2009 as a Java desktop app for crawling android app data. 
 
-In 2016, BitScoop Labs rebuilt the project as Live Explorer. This is now the legacy lifescope app.
+![smokesignalss2][smokesignalss2]
+![smokesignalss1][smokesignalss1]
 
-![fractal][fractal]
-![fractal][fractal]
+In 2016, BitScoop Labs rebuilt the project as Live Explorer. This is now the legacy lifescope app.
 
 [conceptdiagram]:https://lifescopelabs.github.io/assets/img/concept-diagram.png
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
 [arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg  
 [dataknot]:https://lifescopelabs.github.io/assets/img/dataknot.png
-[smokesignalss1]:https://lifescopelabs.github.io/screenshots/smokesignal-io-legacy-1.png
-[smokesignalss2]:https://lifescopelabs.github.io/screenshots/smokesignal-io-legacy-2.png
+[smokesignalss1]:https://lifescopelabs.github.io/assets/screenshots/smokesignal-io-legacy-1.png
+[smokesignalss2]:https://lifescopelabs.github.io/assets/screenshots/smokesignal-io-legacy-2.png
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODkwNTE1M119
+eyJoaXN0b3J5IjpbMTI0NTEyNTMyM119
 -->
