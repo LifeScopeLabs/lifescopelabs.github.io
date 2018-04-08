@@ -2,10 +2,9 @@
 
 **The Internet of You**
 
-### [LIFESCOPE Main Site](https://lifescope.io)
-### [LIFESCOPE Legac](https://lifescope.io)
-
-### [LIFESCOPE Documentation](https://lifescope.io)
+- [LIFESCOPE Main Site](https://lifescope.io)
+- [LIFESCOPE Legacy App](https://app.lifescope.io)
+- [LIFESCOPE Documentation](https://lifescope.io/learn)
 
 > "My friends and I work, play, and communicate on dozens platforms. Conversation start on texts, continue on Facebook Messenger, continue in person, then go to Skype and conclude on Slack. Retracing my history keeps me jumping from app to app."
 
@@ -121,5 +120,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODU4OTI4MTddfQ==
+eyJoaXN0b3J5IjpbLTE3NjQ4MTgxMjddfQ==
 -->
