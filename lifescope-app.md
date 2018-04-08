@@ -54,8 +54,8 @@
 * Served publicly
 
 [providerpage]:https://lifescopelabs.github.io/assets/screenshots/provider-maps-screenshot.png
-
 [spider]:https://lifescopelabs.github.io/assets/maps/map-spider.png
+[spider]:https://lifescopelabs.github.io/assets/maps/**lifescope-app-legacy.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODk0Mzk4OTNdfQ==
+eyJoaXN0b3J5IjpbLTk5NzI3Mzk4Ml19
 -->
