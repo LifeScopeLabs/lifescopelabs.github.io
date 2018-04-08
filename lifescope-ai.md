@@ -1,5 +1,12 @@
 # lifescope-ai (concept phase, low priority)
 
+* Reporting
+* Visualization
+* Behavior modeling
+  * correlation
+  * prediction
+  * suggestion
+
 ## Reporting
 
 Create infographics and reports for lifescope users based on their data.
@@ -29,5 +36,5 @@ Prediction and anomaly detection based on location history.
 
 [heatmap]:https://lifescopelabs.github.io/assets/maps/heat-map.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NDI0ODQyMF19
+eyJoaXN0b3J5IjpbMTUxOTIzNjk1MF19
 -->
