@@ -98,6 +98,7 @@ Liam Broza and the team at Bitscoop Labs have been working on problems big data 
 ![smokesignalss1][smokesignalss1]
 
 In 2016, BitScoop Labs rebuilt the project as Live Explorer. This is now the legacy lifescope app.
+https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [conceptdiagram]:https://lifescopelabs.github.io/assets/img/concept-diagram.png
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
@@ -107,5 +108,5 @@ In 2016, BitScoop Labs rebuilt the project as Live Explorer. This is now the leg
 [smokesignalss2]:https://lifescopelabs.github.io/assets/screenshots/smokesignal-io-legacy-2.png
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NTEyNTMyM119
+eyJoaXN0b3J5IjpbNzQ0NTgxNDc2XX0=
 -->
