@@ -90,7 +90,9 @@ Published Content
 
 ![fractal][fractal]
 
-## Who thought of this 
+## Who thought of this?
+
+Liam Broza and the team at Bitscoop Labs have been working on problems big data and quantified self for over a decade. This project started as SmokeSignal in 2009 as a Java.
 
 [conceptdiagram]:https://lifescopelabs.github.io/assets/img/concept-diagram.png
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
@@ -98,5 +100,5 @@ Published Content
 [dataknot]:https://lifescopelabs.github.io/assets/img/dataknot.png
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjM5OTgyOThdfQ==
+eyJoaXN0b3J5IjpbMTI4NDQxODk3Ml19
 -->
