@@ -77,7 +77,7 @@ REST API for login/logout/signup and connection OAUTH workflow
 * updated
 * user_id
 
-### contacts
+## contacts
 * avatar_url
 * connection
 * created
@@ -89,7 +89,7 @@ REST API for login/logout/signup and connection OAUTH workflow
 * updated
 * user_id
 
-### content
+## content
 * connection
 * created
 * embed_content
@@ -112,7 +112,7 @@ REST API for login/logout/signup and connection OAUTH workflow
 * user_id
 
 
-### locations
+## locations
 * connection
 * created
 * datetime
@@ -123,7 +123,7 @@ REST API for login/logout/signup and connection OAUTH workflow
 * updated
 * user_id
 
-### providers
+## providers
 * alt_sources
   * likes
     * description
@@ -134,16 +134,17 @@ REST API for login/logout/signup and connection OAUTH workflow
 * sources
   * todo 
 
-### searches
-### sessions
-### tags
-### things
-### users
+## searches
+## sessions
+## tags
+## things
+## users
 
-## Dependencies
+# Dependencies
+
 * [graphql-compose](https://github.com/graphql-compose/graphql-compose)
 * [graphql-compose-mongoose](https://github.com/graphql-compose/graphql-compose-mongoose)
 * Vue/Nuxt
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NjQ3ODI4XX0=
+eyJoaXN0b3J5IjpbLTIzNDcwMTk0Nl19
 -->
