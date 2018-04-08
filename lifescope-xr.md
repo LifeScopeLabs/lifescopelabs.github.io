@@ -63,7 +63,7 @@ Notice how the pattern encodes the variance of the bitmap
 - [Networked AFrame](https://github.com/networked-aframe/networked-aframe#more-examples)
 
 ## 3. Facial recognition (concept phase, low priority)
-#Requirements
+## Requirements
 - **MVP**: Able to recognize faces from LIFESCOPE data
 - Capture store photo/video/location/speech of “AR encounter” in LIFESCOPE api
 Dependencies
@@ -71,37 +71,38 @@ Dependencies
 Examples
 - [JS Facial tracking experiment](https://tastenkunst.github.io/brfv4_javascript_examples/)
 
-### Virtual Reality
-#### 1. Globe of LIFESCOPE trails (development phase, medium priority)
+# Virtual Reality
+
+## 1. Globe of LIFESCOPE trails (development phase, medium priority)
 
 ![vrmapbox]
 
-Requirements
+### Requirements
 - MVP: Shows the current location (GPS) on globe and database LIFESCOPE objects using marker
 - Able to select locations, zoom, objects
 - Able to see friends
 
-Dependencies
+### Dependencies
 - Vue/Nuxt compatible
 - [AR.JS](https://github.com/jeromeetienne/AR.js/tree/master/aframe/demos/demo-mapbox)
 - [AFrame (0.8+)](https://aframe.io/)
 - [Mapbox (0.44.1+)](https://www.mapbox.com/mapbox-gl-js/api/)
 
-Examples
+### Examples
 - [Aframe Earth](https://github.com/leemark/aframe-earth)
 - [Networked AFrame](https://github.com/networked-aframe/networked-aframe#more-examples)
 
-#### 2. Infinite procedural walls (concept phase, low priority)
+## 2. Infinite procedural walls (concept phase, low priority)
 
 ![infinitewalls]
 
-#### 3. Memory palace (concept phase, low priority)
+## 3. Memory palace (concept phase, low priority)
 
 ![proceduralvr1]
 
 ![proceduralvr2]
 
-## BitScoop WebXR Examples
+# BitScoop WebXR Examples
 
 BitScoop Marker
 ![markerbs]
@@ -124,5 +125,5 @@ BitScoop Marker Pattern File
 [proceduralvr1]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame1.png
 [proceduralvr2]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MTgzNjE3M119
+eyJoaXN0b3J5IjpbOTA0OTg0NDkwXX0=
 -->
