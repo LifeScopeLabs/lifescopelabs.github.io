@@ -1,4 +1,4 @@
-# lifescope-ai (concept phase, low priority)
+# lifescope-ai
 
 * Reporting
 * Visualization
@@ -36,5 +36,5 @@ Prediction and anomaly detection based on location history.
 
 [heatmap]:https://lifescopelabs.github.io/assets/maps/heat-map.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxOTIzNjk1MF19
+eyJoaXN0b3J5IjpbLTY5OTIyNDMyMF19
 -->
