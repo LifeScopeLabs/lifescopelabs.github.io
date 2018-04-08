@@ -27,19 +27,13 @@ LifeScope is still in early days, but we have plans to expand this platform so i
 
 [ ![alt text][arch]](https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20Planning%203-26-18.pdf)
 
-[arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg  "Arch" 
 
 ### Data Source Flow
 
-
 ![source flow][soureflow]
-
-[soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
-
 
 ![conceptdiagram][conceptdiagram]
 
-[conceptdiagram]:https://lifescopelabs.github.io/assets/img/concept-diagram.png
 
 ## Frontend
 ### [lifescope-site](https://lifescopelabs.github.io/site.html)
@@ -127,6 +121,10 @@ LifeScope is still in early days, but we have plans to expand this platform so i
 * User level encryption
 * Whole DB backups
 * Eventually pluggable (Local/OBDC/JBDC/Etc)
+
+[conceptdiagram]:https://lifescopelabs.github.io/assets/img/concept-diagram.png
+[soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
+[arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg  "Arch" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3ODk1MDYyOF19
+eyJoaXN0b3J5IjpbOTI3OTM3NDUwXX0=
 -->
