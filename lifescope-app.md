@@ -24,11 +24,11 @@
 * Augmented Reality Phone
 * Voice
 
-![lifescope-app-legacy][lifescope-app-legacy]
+![lifescope-app-legacy]
 
 #### Providers
 
-![providerpage][providerpage]
+![providerpage]
 
 #### People Management
 * Relate contacts together into People
@@ -41,10 +41,12 @@
 * Embed saved searches as dynamic iFrame
 * Served publicly
 
+![lifescope-app-wireframe]
+
 [providerpage]:https://lifescopelabs.github.io/assets/screenshots/provider-maps-screenshot.png
 [spider]:https://lifescopelabs.github.io/assets/maps/map-spider.png
 [lifescope-app-legacy]:https://lifescopelabs.github.io/assets/screenshots/lifescope-app-legacy.png
-
+[lifescope-app-wireframe]:https://lifescopelabs.github.io/assets/wireframes/week-content-feed.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEwNjcwODU2XX0=
+eyJoaXN0b3J5IjpbMTU5ODAzMjY4Nl19
 -->
