@@ -7,11 +7,11 @@ This is the LIFESCOPE automated data collection system for connected services. T
 * Transform data into LIFESCOPE schema.
 * Provider scripts keep a copy of original data.
 
-## LIFESCOPE Archive APP 
+# LIFESCOPE Archive App
 
-**To be Deprecated**
+**Note: DEPRICATED**
 
-The old front end lifescope app is in the lifescope-etl /archive folder.
+The old front end LIFESCOPE app is in the LIFESCOPE-etl /archive folder.
 
 ### Old Frontend App Architecture
 ![arch][arche]
@@ -21,13 +21,13 @@ The old front end lifescope app is in the lifescope-etl /archive folder.
 Learn more about the Old Frontend App:
 https://github.com/LifeScopeLabs/lifescope-etl/tree/master/archive/tutorial
 
-## AWS services Required
+# AWS services Required
 
 You will also need to upload various portions of this project to Lambda, ElasticBeanstalk, and S3, and you will create two SQS queues to facilitate communication between some of the Lambda functions.
 We'll start with creating an S3 bucket since it's a prerequisite for other parts.
 We have to wait to upload the static files until later since they require the domain of the webserver, which doesn't exist yet.
 
-#### Create S3 bucket static files to S3
+### Create S3 bucket static files to S3
 Go to S3 and create a new bucket.
 Give it a name and select the region that’s closest to you, then click Next.
 You can leave Versioning, Logging, and Tags disabled, so click Next.
@@ -42,7 +42,7 @@ Lastly, go to the following files and replace ***INSERT S3 BUCKET NAME HERE*** w
 
 Also copy the IDs of the Login Maps into their respective places in 'login.<service>.id'.
 
-#### Build Lambda functions and webserver code
+### Build Lambda functions and webserver code
 From the top level of the project run
 
 ```
@@ -61,12 +61,12 @@ to zip up the webserver code for deployment to ElasticBeanstalk.
 Next we're going to create the SQS queues, as they need to be set up before some of the Lambda functions are created.
 
 Go to [SQS](https://console.aws.amazon.com/sqs/home) and click on Create New Queue.
-Name it 'lifescope-jobs-dead-letter' and make sure it's a Standard Queue.
+Name it 'LIFESCOPE-jobs-dead-letter' and make sure it's a Standard Queue.
 Click Quick Create Queue at the bottom of the page.
 You should be taken back to the home page for SQS.
-Create another queue, name this one 'lifescope-jobs', and make sure it's also a Standard Queue.
+Create another queue, name this one 'LIFESCOPE-jobs', and make sure it's also a Standard Queue.
 Click on the Configure Queue button at the bottom instead of Quick Create.
-Check 'Use Redrive Policy', set the Dead Letter Queue to 'lifescope-jobs-dead-letter' and Maximum Receives to 5, then click Create Queue.
+Check 'Use Redrive Policy', set the Dead Letter Queue to 'LIFESCOPE-jobs-dead-letter' and Maximum Receives to 5, then click Create Queue.
 Finally, click on one of the queues and, under the Details tab, take note of its URL.
 Get the URL for the other queue as well.
 
@@ -122,10 +122,10 @@ The Handler should be ‘index.handler’.
 
 You will need to add Environment Variables specific to each function:
 
-##### lifescope-migrations
+## lifescope-migrations
 - MONGO_ADDRESS (obtained from Mongo Atlas instance)
 
-##### lifescope-generator
+## lifescope-generator
 - MONGO_ADDRESS (obtained from Mongo Atlas instance)
 - QUEUE_URL (obtained from SQS queue)
 
@@ -235,5 +235,5 @@ In order to begin running the local Lambda function run the following code in th
 
 you will then be shown the urls to your lambda functions along with their port numbers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzgyNjI4OF19
+eyJoaXN0b3J5IjpbMTY4ODE5OTUxOF19
 -->
