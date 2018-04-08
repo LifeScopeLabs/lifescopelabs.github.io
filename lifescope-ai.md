@@ -20,10 +20,11 @@ Examples:
 ## Machine Learning
 
 #### Conversational Agents
+
 Examples:
 [CakeChat Framework](https://cakechat.replika.ai/) 
 
-Ideas:
+Impersonation Ideas:
 - **Persona-based model**. Condition responses on a certain author of messages (User ID) to make responses lexically similar to them and mimic someone’s linguistic style in a conversation. Use new or pre-trained models to run a chatbot that maintains a conversation in a certain emotional state. 
 - **Emotional chatting machine** with your own set of emotions. There are so many emotions that you can use as condition labels in your dataset. CakeChat only uses five basic emotions (anger, sadness, joy, fear and neutral). 
 - **Topic-centric model**. Instead of emotions, you can use a set of topics that will condition the model’s responses. As a result, you can build an agent that sticks to a given topic in a conversation. For example, you can build a model that talks about weather, food, kids or mortgage at any given moment.
@@ -42,5 +43,5 @@ Prediction and anomaly detection based on location history.
 [infographics1]:https://lifescopelabs.github.io/assets/screenshots/infographics1.png
 [infographics2]:https://lifescopelabs.github.io/assets/screenshots/infographics2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NjM5OTYwN119
+eyJoaXN0b3J5IjpbMTkyNjYwNjE0M119
 -->
