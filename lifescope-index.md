@@ -16,9 +16,11 @@ LifeScope is an open platform for personal data designed to empower anyone with 
 
 Connect anywhere and everywhere your information resides and LifeScope will automatically collect, organize, and present everything in your digital memory. Search and leverage your entire digital and social footprint, while streamlining your life online. Curate your history data into the stories you care about.
 
-We want to build lifescope as an open source platform for anything you want to do with your personal data and we have plans to expand this platform so it can power the next generation of software technology. 
+Lifescope as an open source platform for anything you want to do with your personal data. We have plans to expand this platform so it can power the next generation of software technology. 
 
-### Want to help make the LifeScope dream real? [Join the cause](https://lifescope.io/signupdev)!
+***Want to help make the LifeScope dream real?***
+
+***[Join the cause](https://lifescope.io/signupdev)!***
 
 # Architecture  Overview
 
@@ -90,5 +92,5 @@ Published Content
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
 [arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTYxMTkxOTJdfQ==
+eyJoaXN0b3J5IjpbLTIwODMxMjY4MjVdfQ==
 -->
