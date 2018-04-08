@@ -35,7 +35,6 @@ LifeScope is still in early days, but we have plans to expand this platform so i
 
 ![conceptdiagram][conceptdiagram]
 
-
 ## Frontend
 
 App to search explorer and curate your personal data in various views. Single-page Universal web app built on Nuxt and Vue.js. Desktop/mobile reactive design interface with javascript extensions. Written with plugin framework such as location tracking, web xr and web voice. Should be containerizable inside a universal app framework like Cordova. Able to connect as many provider accounts you want. List saved searches and hashtags
@@ -78,11 +77,6 @@ Relate contacts together into People and relate People into Users
 #### Published Content
 
 ### [lifescope-browser-extension](https://lifescopelabs.github.io/app.html)
-* Regularly post browser history into Lifescope schema
-* Capture web history on a url, site visit, or domain basis
-* Scrape important info (like netflix or hulu history)
-* Surface metadata (oEmbed, Embedly)
-* Capture and store location data
 
 ### [lifescope-voice](https://lifescopelabs.github.io/app.html)
 
@@ -102,5 +96,5 @@ Relate contacts together into People and relate People into Users
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
 [arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg  "Arch" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzc1ODgwNDRdfQ==
+eyJoaXN0b3J5IjpbLTIwMjM5NTc4NTVdfQ==
 -->
