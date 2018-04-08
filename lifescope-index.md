@@ -44,11 +44,8 @@ LifeScope is still in early days, but we have plans to expand this platform so i
 * Single-page Universal web app built on Nuxt and Vue.js
 * Desktop/mobile reactive design interface with javascript extentions
 * Written with plugin framework such as location tracking, web xr and web voice
-* Should be containerizable inside a universal app framework Cordova
-#### Login
-* Able to sign up and login with any provider
-#### Homepage
-* List saved searches and hashtags
+* Should be containerizable inside a universal app framework like Cordova.
+* Able to connect as many provider accounts you want. List saved searches and hashtags
 #### Explorer
 ##### Views
 * Feed
@@ -123,5 +120,5 @@ Relate contacts together into People and relate People into Users
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
 [arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg  "Arch" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI0NTg3ODA5XX0=
+eyJoaXN0b3J5IjpbMTY3MTQxNTI3N119
 -->
