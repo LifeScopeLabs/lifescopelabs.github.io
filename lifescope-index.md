@@ -24,12 +24,12 @@ LIFESCOPE as an open source platform for anything you want to do with your perso
 - [LIFESCOPE Legacy App](https://app.lifescope.io)
 - [LIFESCOPE Documentation](https://lifescope.io/learn)
 
-## Want to help make LIFESCOPE? 
+## Want to help? 
 We are currently looking for designers, creators, developers, and data scientists to help build and grow LIFESCOPE.
 
 ### **[Join the team!](https://lifescope.io/signupdev)**
 
-## How does LIFESCOPE work?
+## How does it work?
 
 The core of LIFESCOPE is an automated set of tools to collect personal data (via [API ETL Scripts](https://lifescopelabs.github.io/etl.html), [Browser Plugin](https://lifescopelabs.github.io/browser-extension.html), [App](https://lifescopelabs.github.io/app.html) repositories) and organize everything a standard way. 
 
@@ -111,7 +111,7 @@ Current status of data source support.
 
 ![fractal][fractal]
 
-## Who is behind LIFESCOPE?
+## History
 
 Liam Broza and the team at BitScoop Labs have been working on problems big data and quantified self for over a decade. This project started as SmokeSignal in 2009 as a Java desktop app for crawling android app data. 
 
@@ -133,5 +133,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTg3MjAwNzZdfQ==
+eyJoaXN0b3J5IjpbLTcwMjc3MDE1NF19
 -->
