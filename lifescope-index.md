@@ -91,6 +91,8 @@ Published Content
 [conceptdiagram]:https://lifescopelabs.github.io/assets/img/concept-diagram.png
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
 [arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg  
+
+[conceptdiagram]:https://lifescopelabs.github.io/assets/img/concept-diagram.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzE5NjEwNzNdfQ==
+eyJoaXN0b3J5IjpbLTEyNzcxNTkxMl19
 -->
