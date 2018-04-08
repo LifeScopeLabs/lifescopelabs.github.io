@@ -8,11 +8,12 @@ Machine learning models based on LIFESCOPE data are focused on behavior modeling
 
 Create infographics and reports for lifescope users based on their data.
 
-Examples:
+Personal InfoExamples:
 ![infographics1]
 
 ![infographics2]
 
+Deep learning visualizations
 ![deepviz]
 
 ### Dependences
@@ -43,8 +44,8 @@ Prediction and anomaly detection based on location history.
 [heatmap]:https://lifescopelabs.github.io/assets/maps/heat-map.png
 [infographics1]:https://lifescopelabs.github.io/assets/screenshots/infographics1.png
 [infographics2]:https://lifescopelabs.github.io/assets/screenshots/infographics2.png
-[deepviz]:https://lifescopelabs.github.io/assets/screenshots/DeepLearningViz.png
+[deepviz]:https://lifescopelabs.github.io/assets/wireframes/DeepLearningViz.png
 [webviz]:https://lifescopelabs.github.io/assets/wireframes/3d-graph.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjQ5MTY2NjFdfQ==
+eyJoaXN0b3J5IjpbLTExNzc4MTg1OTZdfQ==
 -->
