@@ -22,7 +22,7 @@ LifeScope is still in early days, but we have plans to expand this platform so i
 - platform
 - components
 
-#### Want to help make the LifeScope dream real? [Join the cause](https://lifescope.io/signupdev)!
+### Want to help make the LifeScope dream real? [Join the cause](https://lifescope.io/signupdev)!
 
 # Architecture  Overview
 
@@ -82,13 +82,12 @@ Published Content
 | [lifescope-xr](https://lifescopelabs.github.io/xr.html) | medium | development |
 
 
-
-[LifeScope Database Documentation](https://lifescopelabs.github.io/db.html)
+[Database Documentation](https://lifescopelabs.github.io/db.html)
 
 
 [conceptdiagram]:https://lifescopelabs.github.io/assets/img/concept-diagram.png
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
 [arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg  "Arch" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDg4NjM1NzhdfQ==
+eyJoaXN0b3J5IjpbNzczMzQxNTA3XX0=
 -->
