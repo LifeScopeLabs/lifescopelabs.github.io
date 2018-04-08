@@ -93,7 +93,7 @@ LifeSope App to search explorer and curate your personal data in various views. 
 Liam Broza and the team at Bitscoop Labs have been working on problems big data and quantified self for over a decade. This project started as SmokeSignal in 2009 as a Java desktop app for crawling android app data. 
 
 https://web.archive.org/web/20141222111903/http://www.smokesignal.info/
-
+|  |  |
 |--|--|
 | ![smokesignalss2] | ![smokesignalss1] |
 
@@ -108,5 +108,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 [smokesignalss2]:https://lifescopelabs.github.io/assets/screenshots/smokesignal-io-legacy-2.png
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MDU0MzA3OV19
+eyJoaXN0b3J5IjpbMTM3OTE0MjAxNV19
 -->
