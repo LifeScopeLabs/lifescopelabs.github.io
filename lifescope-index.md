@@ -27,14 +27,14 @@ We are currently looking for designers, creators, developers, and data scientist
 
 ## How does LIFESCOPE work?
 
-The core of LIFESCOPE is an automated set of tools to collect personal data (via etl, browser-plugin, app repos) and organize everything a standard way. The 
+The core of LIFESCOPE is an automated set of tools to collect personal data (via APIetl, browser-plugin, app repos) and organize everything a standard way. All of the collected data is then organized and presented with the [API](https://lifescopelabs.github.io/api.html).
 
 ![soureflow]
 
 [lifescope-app](https://lifescopelabs.github.io/app.html)
 [lifescope-browser extension](https://lifescopelabs.github.io/browser-extension.html)
-[API Connections - lifescope-etl](https://lifescopelabs.github.io/etl.html)
-[lifescope-api](https://lifescopelabs.github.io/api.html)
+[API Connections - lifescope-etl
+[lifescope-api
 
 ![conceptdiagram][conceptdiagram]
 
@@ -119,5 +119,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgxMjIzOTY2XX0=
+eyJoaXN0b3J5IjpbLTEwNjU5MTc0MTFdfQ==
 -->
