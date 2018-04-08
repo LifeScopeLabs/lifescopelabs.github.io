@@ -58,37 +58,17 @@
 <h3 id="join-the-team"><strong><a href="https://lifescope.io/signupdev">Join the team!</a></strong></h3>
 <h1 id="how-does-it-work">How does it work?</h1>
 <p>The core of LIFESCOPE is an automated set of tools to collect personal data (via <a href="https://lifescopelabs.github.io/etl.html">API ETL Scripts</a>, <a href="https://lifescopelabs.github.io/browser-extension.html">Browser Plugin</a>, <a href="https://lifescopelabs.github.io/app.html">App</a> repositories) and organize everything a standard way. All of the collected data is organized into a <a href="https://lifescopelabs.github.io/database.html">database</a> and presented with the <a href="https://lifescopelabs.github.io/api.html">API</a>.</p>
+<p>The LIFESCOPE platform is designed to be completely pluggable. Easily add data sources, change data organization, change database technologies, and create apps on the API.</p>
 <h2 id="data-collection">Data Collection</h2>
 <p>LIFESCOPE collects personal information from three places. When you create connections in the App or API, <a href="https://lifescopelabs.github.io/etl.html">API ETL Scripts</a> will run. The <a href="https://lifescopelabs.github.io/browser-extension.html">Browser Plugin</a> allows for opting into recording url and visits. The plugin can also scrape webpages. The native and web JavaScrip <a href="https://lifescopelabs.github.io/app.html">App</a> can pull information on the device such as locations and contacts.</p>
 <p><img src="https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png" alt="soureflow"></p>
 <h2 id="data-organization-storage-and-services">Data Organization, Storage, and Services</h2>
-<p>The LIFESCOPE <a href="https://lifescopelabs.github.io/api.html">API</a> uses GraphQL and REST to signup, login, manage sources, and access all your data. LIFESCOPE’s API will eventually allow for pluggable <a href="https://lifescopelabs.github.io/database.html">Database Support</a>.</p>
+<p>The <a href="https://lifescopelabs.github.io/api.html">LIFESCOPE API</a> uses GraphQL and REST to signup, login, manage sources, and access all your data. LIFESCOPE’s API will eventually allow for pluggable <a href="https://lifescopelabs.github.io/database.html">Database Support</a>.</p>
 <p><img src="https://lifescopelabs.github.io/assets/img/concept-diagram.png" alt="conceptdiagram"></p>
 <h2 id="single-app-architecture">Single App Architecture</h2>
-<p>LIFESCOPE App to search explorer and curate your personal data in various views. Single-page Universal web app built on Nuxt and Vue.js. Desktop/mobile reactive design interface with javascript extensions. Written with plugin framework such as location tracking, web xr and web voice. Should be containerizable inside a universal app framework like Cordova (iOS, Android, Mac, Win). Able to connect as many provider accounts you want. List saved searches and hashtags.</p>
-<ul>
-<li>Explorer Views
-<ul>
-<li>Feed</li>
-<li>List</li>
-<li>Map</li>
-<li>Gallery</li>
-<li>Timeline</li>
-<li>Virtual Reality Room</li>
-<li>Augmented Reality Phone</li>
-<li>Voice</li>
-</ul>
-</li>
-<li>Explore People
-<ul>
-<li>Relate contacts together into People</li>
-<li>Relate People to Users</li>
-</ul>
-</li>
-<li>Your Settings</li>
-<li>Published You</li>
-</ul>
-<p>The LIFESCOPE platform is designed to be completely pluggable. Easily add data sources, change data organization, change database technologies, and create apps on the API.</p>
+<p>The <a href="https://lifescopelabs.github.io/app.html">LIFESCOPE App</a> is to search, explore, and curate your personal data in various views. Explore data with various views (Feed, List, Map, Gallery, Timeline, <a href="https://lifescopelabs.github.io/xr.html">Virtual Reality, Augmented Reality</a>.  Let the app look and <a href="https://lifescopelabs.github.io/voice.html">listen to you</a>. Speak questions about yourself or record and automatically respond.</p>
+<p>Curate your data with saved searches and hashtags. See <a href="https://lifescopelabs.github.io/ai.html">reports and data visualizations</a>. Get smart notifications with machine learning. Explore people from your history. People are represented as related contacts and history across services.</p>
+<p>Single-page Universal web app built on Nuxt and Vue.js. Desktop/mobile reactive design interface with javascript extensions. Written with plugin framework such as location tracking, WebXR and Web Speech. Should be containerizable inside a universal app framework like Cordova (iOS, Android, Mac, Win).</p>
 <p><img src="https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg" alt="arch"></p>
 <h1 id="repository-index">Repository Index</h1>
 <p>Status of source repositories and project components.</p>
