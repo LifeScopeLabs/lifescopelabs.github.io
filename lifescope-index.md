@@ -39,7 +39,7 @@ The core of LIFESCOPE is an automated set of tools to collect personal data (via
 
 ### Architecture  Overview
 
-Lifescope is designed to be 
+Lifescope is designed to be completely pluggable. 
 
 ![arch]
 
@@ -120,5 +120,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMDIwMDc1XX0=
+eyJoaXN0b3J5IjpbLTEzNzUxODI0NzRdfQ==
 -->
