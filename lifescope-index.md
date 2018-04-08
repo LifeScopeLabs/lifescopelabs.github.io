@@ -92,7 +92,9 @@ Published Content
 
 ## Who thought of this?
 
-Liam Broza and the team at Bitscoop Labs have been working on problems big data and quantified self for over a decade. This project started as SmokeSignal in 2009 as a Java.
+Liam Broza and the team at Bitscoop Labs have been working on problems big data and quantified self for over a decade. This project started as SmokeSignal in 2009 as a Java desktop app for crawling android app data. 
+
+In 2015, BitScoop rebuilt the project as Live Explorer. This is now the legacy lifescope app.
 
 [conceptdiagram]:https://lifescopelabs.github.io/assets/img/concept-diagram.png
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
@@ -100,5 +102,5 @@ Liam Broza and the team at Bitscoop Labs have been working on problems big data 
 [dataknot]:https://lifescopelabs.github.io/assets/img/dataknot.png
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDQxODk3Ml19
+eyJoaXN0b3J5IjpbMjAyNjk2MTQ4XX0=
 -->
