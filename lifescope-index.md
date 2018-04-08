@@ -25,7 +25,7 @@ LIFESCOPE as an open source platform for anything you want to do with your perso
 We are currently looking for designers, creators, developers, and data scientists to help build and grow LIFESCOPE.
 #### **[Join the team!](https://lifescope.io/signupdev)**
 
-## How does the LIFESCOPE platform work?
+## How does LIFESCOPE work?
 
 ### Data Flow
 
@@ -113,5 +113,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzI1MjE5OTJdfQ==
+eyJoaXN0b3J5IjpbMTM5MTAyNzc4XX0=
 -->
