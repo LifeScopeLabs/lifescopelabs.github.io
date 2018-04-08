@@ -16,19 +16,10 @@
 <li><a href="#lifescope">LIFESCOPE</a>
 <ul>
 <li></li>
-</ul>
-</li>
-<li><a href="#architecture--overview">Architecture  Overview</a>
-<ul>
-<li></li>
-<li><a href="#frontend">Frontend</a>
-<ul>
-<li></li>
-</ul>
-</li>
+<li><a href="#how-does-the-lifescope-platform-work">How does the LIFESCOPE platform work?</a></li>
 <li><a href="#developer-documentation-index">Developer Documentation Index</a></li>
 <li><a href="#supported-personal-data-sources">Supported Personal Data Sources</a></li>
-<li><a href="#who-thought-of-lifescope">Who thought of lifescope?</a></li>
+<li><a href="#who-thought-of-lifescope">Who thought of LIFESCOPE?</a></li>
 </ul>
 </li>
 </ul>
@@ -38,39 +29,51 @@
   <div class="stackedit__right">
     <div class="stackedit__html">
       <h1 id="lifescope">LIFESCOPE</h1>
-<h3 id="the-internet-of-you">The Internet of You</h3>
-<p><em>“My friends and I work, play, and communicate on dozens platforms. Conversation start on texts, continue on Facebook Messenger, continue in person, then go to Skype and conclude on Slack. Retracing my history keeps me jumping from app to app.”</em></p>
-<p><strong>Does this sound familiar?</strong></p>
+<p><strong>The Internet of You</strong></p>
+<blockquote>
+<p>“My friends and I work, play, and communicate on dozens platforms. Conversation start on texts, continue on Facebook Messenger, continue in person, then go to Skype and conclude on Slack. Retracing my history keeps me jumping from app to app.”</p>
+</blockquote>
+<p><em>Does this sound familiar?</em></p>
 <p><img src="https://lifescopelabs.github.io/assets/img/dataknot.png" alt="dataknot"></p>
-<p>Internet connected software is broken.</p>
+<p><strong>Internet connected software is broken.</strong></p>
 <p>The internet landscape is a vast, overwhelming, and broken terrain of data. Only the best companies in the world can tap into a tiny fraction of data’s potential. People create and consume digital information without understanding what’s going on.  It is hopeless for anyone to create a complete and up to date accounting of their information, let alone search and organize their data.</p>
 <p>The study and use of psychometircs and psychographics is the biggest hidden force in the world. Our personal data doesn’t just describe who we really are, but also give others power over us by enabling them to reverse engineer our minds. Understanding and controlling our own data should be a human right.</p>
-<p>LifeScope is an open platform for personal data designed to empower anyone with insights while preserving privacy and ownership. Master time and space with a digital memory. The platform is designed the ultimate private repository of your digital life.</p>
-<p>Connect anywhere and everywhere your information resides and LifeScope will automatically collect, organize, and present everything in your digital memory. Search and leverage your entire digital and social footprint, while streamlining your life online. Curate your history data into the stories you care about.</p>
-<p>Lifescope as an open source platform for anything you want to do with your personal data. We have plans to expand this platform so it can power the next generation of software technology.</p>
-<p><em><strong>Want to help make the LifeScope dream real?</strong></em></p>
-<p><em><strong><a href="https://lifescope.io/signupdev">Join the cause!</a></strong></em></p>
-<h1 id="architecture--overview">Architecture  Overview</h1>
-<p><a href="https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20Planning%203-26-18.pdf"> <img src="https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg" alt="alt text"></a></p>
-<h3 id="data-source-flow">Data Source Flow</h3>
+<p>LIFESCOPE is an open platform for personal data designed to empower anyone with insights while preserving privacy and ownership. Master time and space with a digital memory. The platform is designed the ultimate private repository of your digital life.</p>
+<p>Connect anywhere and everywhere your information resides and LIFESCOPE will automatically collect, organize, and present everything in your digital memory. Search and leverage your entire digital and social footprint, while streamlining your life online. Curate your history data into the stories you care about.</p>
+<p>LIFESCOPE as an open source platform for anything you want to do with your personal data. We have plans to expand this platform so it can power the next generation of software technology.</p>
+<h3 id="want-to-help-make-lifescope">Want to help make LIFESCOPE?</h3>
+<p>We are currently looking for designers, creators, developers, and data scientists to help build and grow LIFESCOPE.</p>
+<h4 id="join-the-team"><strong><a href="https://lifescope.io/signupdev">Join the team!</a></strong></h4>
+<h2 id="how-does-the-lifescope-platform-work">How does the LIFESCOPE platform work?</h2>
+<h3 id="data-flow">Data Flow</h3>
 <p><img src="https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png" alt="source flow"></p>
 <p><img src="https://lifescopelabs.github.io/assets/img/concept-diagram.png" alt="conceptdiagram"></p>
-<h2 id="frontend">Frontend</h2>
-<p>App to search explorer and curate your personal data in various views. Single-page Universal web app built on Nuxt and Vue.js. Desktop/mobile reactive design interface with javascript extensions. Written with plugin framework such as location tracking, web xr and web voice. Should be containerizable inside a universal app framework like Cordova. Able to connect as many provider accounts you want. List saved searches and hashtags</p>
-<h4 id="explorer">Explorer</h4>
-<h5 id="views">Views</h5>
+<h3 id="architecture--overview">Architecture  Overview</h3>
+<p><img src="https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg" alt="arch"></p>
+<h4 id="single-app-architecture">Single App Architecture</h4>
+<p>LifeSope App to search explorer and curate your personal data in various views. Single-page Universal web app built on Nuxt and Vue.js. Desktop/mobile reactive design interface with javascript extensions. Written with plugin framework such as location tracking, web xr and web voice. Should be containerizable inside a universal app framework like Cordova (iOS, Android, Mac, Win). Able to connect as many provider accounts you want. List saved searches and hashtags.</p>
+<ul>
+<li>Explorer Views
 <ul>
 <li>Feed</li>
 <li>List</li>
 <li>Map</li>
 <li>Gallery</li>
+<li>Timeline</li>
 <li>Virtual Reality Room</li>
 <li>Augmented Reality Phone</li>
 <li>Voice</li>
 </ul>
-<p>People Management - Relate contacts together into People and relate People into Users<br>
-Settings<br>
-Published Content</p>
+</li>
+<li>Explore People
+<ul>
+<li>Relate contacts together into People</li>
+<li>Relate People to Users</li>
+</ul>
+</li>
+<li>Your Settings</li>
+<li>Published You</li>
+</ul>
 <h2 id="developer-documentation-index">Developer Documentation Index</h2>
 
 <table>
@@ -225,12 +228,24 @@ Published Content</p>
 </tr>
 </tbody>
 </table><p><img src="https://lifescopelabs.github.io/assets/img/fractal.png" alt="fractal"></p>
-<h2 id="who-thought-of-lifescope">Who thought of lifescope?</h2>
-<p>Liam Broza and the team at Bitscoop Labs have been working on problems big data and quantified self for over a decade. This project started as SmokeSignal in 2009 as a Java desktop app for crawling android app data.</p>
+<h2 id="who-thought-of-lifescope">Who thought of LIFESCOPE?</h2>
+<p>Liam Broza and the team at BitScoop Labs have been working on problems big data and quantified self for over a decade. This project started as SmokeSignal in 2009 as a Java desktop app for crawling android app data.</p>
 <p><a href="https://web.archive.org/web/20141222111903/http://www.smokesignal.info/">https://web.archive.org/web/20141222111903/http://www.smokesignal.info/</a></p>
-<p><img src="https://lifescopelabs.github.io/assets/screenshots/smokesignal-io-legacy-2.png" alt="smokesignalss2"></p>
-<p><img src="https://lifescopelabs.github.io/assets/screenshots/smokesignal-io-legacy-1.png" alt="smokesignalss1"></p>
-<p>In 2016, BitScoop Labs rebuilt the project as Live Explorer. This is now the legacy lifescope app.<br>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="https://lifescopelabs.github.io/assets/screenshots/smokesignal-io-legacy-2.png" alt="smokesignalss2"></td>
+<td><img src="https://lifescopelabs.github.io/assets/screenshots/smokesignal-io-legacy-1.png" alt="smokesignalss1"></td>
+</tr>
+</tbody>
+</table><p>In 2016, BitScoop Labs rebuilt the project as Live Explorer. This is now the legacy LIFESCOPE app.<br>
 <a href="https://web.archive.org/web/20151116131419/http://ografy.io/">https://web.archive.org/web/20151116131419/http://ografy.io/</a></p>
 
     </div>
