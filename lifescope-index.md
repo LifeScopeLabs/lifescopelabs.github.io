@@ -98,12 +98,16 @@ LifeScope is still in early days, but we have plans to expand this platform so i
 * voice search
 * voice response
 * capture voice data
+
 ### [lifescope-xr](https://lifescopelabs.github.io/app.html)
 * AR/VR views
+
 ## Backend
+
 ### [lifescope-api](https://lifescopelabs.github.io/app.html)
 * GraphQL-based for CRUD operations on data schema
 * REST api for login/logout/signup and OAUTH workflow
+
 ### [lifescope-ai](https://lifescopelabs.github.io/app.html)
 * Reporting
 * Visualization
@@ -111,16 +115,18 @@ LifeScope is still in early days, but we have plans to expand this platform so i
   * correlation
   * prediction
   * suggestion
+
 ### [lifescope-etl](https://lifescopelabs.github.io/etl.html)
 * Pull data from source apis through BitScoop SDK
 * Syncs on a scheduled basis
 * Transform data into lifescope schema
 * Keep a copy of original data
+
 ### [DB Storage](https://lifescopelabs.github.io/db.html)
 * Common Schema (schema.org)
 * User level encryption
 * Whole DB backups
 * Eventually pluggable (Local/OBDC/JBDC/Etc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM5MzYzNDkyXX0=
+eyJoaXN0b3J5IjpbLTc3ODk1MDYyOF19
 -->
