@@ -11,6 +11,10 @@
 
 Create infographics and reports for lifescope users based on their data.
 
+![infographics1][infographics1]
+
+![infographics2][infographics2]
+
 ### Dependences
 
 - [Tau Charts](https://www.taucharts.com/)
@@ -35,8 +39,8 @@ Prediction and anomaly detection based on location history.
 - [Numenta Geospatioal Github Example](https://github.com/numenta/nupic.geospatial)
 
 [heatmap]:https://lifescopelabs.github.io/assets/maps/heat-map.png
-[infographics1]:https://github.com/LifeScopeLabs/lifescopelabs.github.io/tree/master/assets/screenshots/infographics1.png
-[infographics2]:https://github.com/LifeScopeLabs/lifescopelabs.github.io/tree/master/assets/screenshots/infographics2.png
+[infographics1]:https://lifescopelabs.github.io/assets/screenshots/infographics1.png
+[infographics2]:https://lifescopelabs.github.io/assets/screenshots/infographics2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDcxMDA4MzJdfQ==
+eyJoaXN0b3J5IjpbLTYxNzIwNzkwMl19
 -->
