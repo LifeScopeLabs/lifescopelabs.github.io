@@ -47,6 +47,8 @@
 [spider]:https://lifescopelabs.github.io/assets/maps/map-spider.png
 [lifescope-app-legacy]:https://lifescopelabs.github.io/assets/screenshots/lifescope-app-legacy.png
 [lifescope-app-wireframe]:https://lifescopelabs.github.io/assets/wireframes/week-content-feed.jpg
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5ODAzMjY4Nl19
+eyJoaXN0b3J5IjpbLTYzODg0MTU5MF19
 -->
