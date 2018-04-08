@@ -33,6 +33,8 @@ The core of LIFESCOPE is an automated set of tools to collect personal data (via
 
 ![source flow][soureflow]
 
+[lifescope-app](https://lifescopelabs.github.io/app.html)
+
 ![conceptdiagram][conceptdiagram]
 
 ### Architecture  Overview
@@ -116,5 +118,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTkwODE0ODddfQ==
+eyJoaXN0b3J5IjpbODc1MTU3OTg1XX0=
 -->
