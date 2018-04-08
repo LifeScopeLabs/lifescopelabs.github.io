@@ -39,7 +39,7 @@ LIFESCOPE collects personal information from three places. When you create conne
 ![soureflow]
 
 ## Data Organization, Storage, and Services
-The LIFESCOPE [API](https://lifescopelabs.github.io/api.html) uses GraphQL and REST to signup, login, manage sources, and access all your data. LIFESCOPE's API will eventually allow for pluggable [Database Support](https://lifescopelabs.github.io/database.html).
+The [LIFESCOPE API](https://lifescopelabs.github.io/api.html) uses GraphQL and REST to signup, login, manage sources, and access all your data. LIFESCOPE's API will eventually allow for pluggable [Database Support](https://lifescopelabs.github.io/database.html).
 
 ![conceptdiagram]
 
@@ -128,5 +128,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTUxMTQ1ODNdfQ==
+eyJoaXN0b3J5IjpbNjUyOTA0NjMzXX0=
 -->
