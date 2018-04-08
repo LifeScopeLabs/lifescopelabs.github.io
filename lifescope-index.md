@@ -38,9 +38,8 @@ The core of LIFESCOPE is an automated set of tools to collect personal data (via
  - [Browser Plugin](https://lifescopelabs.github.io/browser-extension.html)
  - [App](https://lifescopelabs.github.io/app.html) 
 
-### Data Organization, Storage, and Services
-- [API](https://lifescopelabs.github.io/api.html)
-- [Database Suppo]
+
+
 
 ![soureflow]
 
@@ -48,7 +47,7 @@ The core of LIFESCOPE is an automated set of tools to collect personal data (via
 
 ### Architecture  Overview
 
-The Lifescope platform is designed to be completely pluggable. 
+The Lifescope platform is designed to be completelypluggable. 
 
 ![arch]
 
@@ -129,5 +128,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5OTQxNTQyOV19
+eyJoaXN0b3J5IjpbMTM5OTM5NDI4MF19
 -->
