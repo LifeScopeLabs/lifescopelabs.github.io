@@ -72,7 +72,7 @@ LIFESCOPE App to search explorer and curate your personal data in various views.
 
 ## Repository Index
 
-Here is the GitHub repositoryies for 
+Status of source repositories and project components:
 
 | Repository | Priority | Status |
 |--|--|--|
@@ -89,6 +89,7 @@ Here is the GitHub repositoryies for
 - [Legacy App Documentation](https://github.com/LifeScopeLabs/lifescope-etl/tree/master/archive/tutorial)
 
 ## Data Sources
+
 
 | Name | Source | Status | Data Collected |
 |--|--|--|--|
@@ -131,5 +132,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY2MjE5ODY4XX0=
+eyJoaXN0b3J5IjpbLTEzMDYxMzUwNTBdfQ==
 -->
