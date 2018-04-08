@@ -4,9 +4,9 @@
 
 Pretty much all internet connected software is a broken experience. 
 
-Does this sound familiar?
+**Does this sound familiar?**
 
-"My friends and I work, play, and communicate on dozens platforms. Conversation start on texts, continue on Facebook Messenger, continue in person, then go to Skype and conclude on Slack. Retracing my history keeps me jumping from app to app."
+_"My friends and I work, play, and communicate on dozens platforms. Conversation start on texts, continue on Facebook Messenger, continue in person, then go to Skype and conclude on Slack. Retracing my history keeps me jumping from app to app."_**
 
 The internet landscape is a vast, overwhelming, and broken terrain of data. Only the best companies in the world can tap into a tiny fraction of data's potential. People create and consume digital information without understanding what’s going on.  It is hopeless for anyone to create a complete and up to date accounting of their information, let alone search and organize their data.
 
@@ -22,9 +22,7 @@ LifeScope is still in early days, but we have plans to expand this platform so i
 
 #### Want to help make the LifeScope dream real? [Join the cause](https://lifescope.io/signupdev)!
 
-# Architecture
-
-### Overview
+# Architecture  Overview
 
 [ ![alt text][arch]](https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20Planning%203-26-18.pdf)
 
@@ -69,7 +67,7 @@ People Management - Relate contacts together into People and relate People into 
 Settings
 Published Content
 
-## Repository Documentation
+## Documentation
 
 
  [lifescope-app](https://lifescopelabs.github.io/app.html)
@@ -89,5 +87,5 @@ Published Content
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
 [arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg  "Arch" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzOTUyMTEzXX0=
+eyJoaXN0b3J5IjpbNjA5NTg0NDQwXX0=
 -->
