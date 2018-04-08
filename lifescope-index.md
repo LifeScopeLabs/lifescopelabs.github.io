@@ -94,22 +94,10 @@ Relate contacts together into People and relate People into Users
 ## Backend
 
 ### [lifescope-api](https://lifescopelabs.github.io/app.html)
-* GraphQL-based for CRUD operations on data schema
-* REST api for login/logout/signup and OAUTH workflow
 
 ### [lifescope-ai](https://lifescopelabs.github.io/app.html)
-* Reporting
-* Visualization
-* Behavior modeling
-  * correlation
-  * prediction
-  * suggestion
 
 ### [lifescope-etl](https://lifescopelabs.github.io/etl.html)
-* Pull data from source apis through BitScoop SDK
-* Syncs on a scheduled basis
-* Transform data into lifescope schema
-* Keep a copy of original data
 
 ### [DB Storage](https://lifescopelabs.github.io/db.html)
 
@@ -117,5 +105,5 @@ Relate contacts together into People and relate People into Users
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
 [arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg  "Arch" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5Nzg4OTI4Ml19
+eyJoaXN0b3J5IjpbLTEzNTExMjQzNTFdfQ==
 -->
