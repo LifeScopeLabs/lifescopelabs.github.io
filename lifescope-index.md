@@ -114,9 +114,7 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 [dataknot]:https://lifescopelabs.github.io/assets/img/dataknot.png
 [smokesignalss1]:https://lifescopelabs.github.io/assets/screenshots/smokesignal-io-legacy-1.png
 [smokesignalss2]:https://lifescopelabs.github.io/assets/screenshots/smokesignal-io-legacy-2.png
-
-
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxMTU2MDUyXX0=
+eyJoaXN0b3J5IjpbLTc3MzMyNjYwMF19
 -->
