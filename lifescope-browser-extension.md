@@ -1,4 +1,4 @@
-# lifescope-browser-extension (development phase, low priority)
+# lifescope-browser-extension
 
 * Regularly post browser history into Lifescope schema
 * Capture web history on a url, site visit, or domain basis
@@ -10,5 +10,5 @@
 
 [browserext]:https://lifescopelabs.github.io/assets/screenshots/browser-plugin-screenshot.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTI2Nzg4MF19
+eyJoaXN0b3J5IjpbMTAzNjMzMDkyN119
 -->
