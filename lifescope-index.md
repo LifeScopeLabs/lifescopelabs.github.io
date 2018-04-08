@@ -22,6 +22,7 @@ LIFESCOPE as an open source platform for anything you want to do with your perso
 
 ### Want to help make LIFESCOPE real? 
 
+We are currently looking for designers, creators, developers, and data scientists to help build and
 #### **[Join the team!](https://lifescope.io/signupdev)**
 
 ## How does the LIFESCOPE platform work?
@@ -92,7 +93,7 @@ LifeSope App to search explorer and curate your personal data in various views. 
 
 ## Who thought of LIFESCOPE?
 
-Liam Broza and the team at Bitscoop Labs have been working on problems big data and quantified self for over a decade. This project started as SmokeSignal in 2009 as a Java desktop app for crawling android app data. 
+Liam Broza and the team at BitScoop Labs have been working on problems big data and quantified self for over a decade. This project started as SmokeSignal in 2009 as a Java desktop app for crawling android app data. 
 
 https://web.archive.org/web/20141222111903/http://www.smokesignal.info/
 |  |  |
@@ -112,5 +113,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk0MDEwNjU5XX0=
+eyJoaXN0b3J5IjpbLTExNTkxMDEzMF19
 -->
