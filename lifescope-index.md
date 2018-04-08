@@ -75,7 +75,7 @@ Published Content
 | [lifescope-ai](https://lifescopelabs.github.io/ai.html) | low | concept |
 | [lifescope-api](https://lifescopelabs.github.io/api.html) | high | production |
 | [lifescope-app](https://lifescopelabs.github.io/ai.html) | high | development |
-| [lifescope-browser extension](https://lifescopelabs.github.io/browser-ext.html) | medium | development |
+| [lifescope-browser extension](https://lifescopelabs.github.io/browser-extension.html) | medium | development |
 | [lifescope-etl](https://lifescopelabs.github.io/etl.html) | high | production |
 | [lifescope-site](https://lifescopelabs.github.io/site.html) | low | development |
 | [lifescope-voice](https://lifescopelabs.github.io/voice.html) | low | concept |
@@ -90,5 +90,5 @@ Published Content
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
 [arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg  "Arch" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjk5Nzk5ODNdfQ==
+eyJoaXN0b3J5IjpbLTIwNDA1NjQ2NTddfQ==
 -->
