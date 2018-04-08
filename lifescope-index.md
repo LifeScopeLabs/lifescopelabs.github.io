@@ -20,7 +20,7 @@ Lifescope as an open source platform for anything you want to do with your perso
 
 ***Want to help make the LifeScope dream real?***
 
-***[Join the cause](https://lifescope.io/signupdev)!***
+***[Join the cause!](https://lifescope.io/signupdev)***
 
 # Architecture  Overview
 
@@ -92,5 +92,5 @@ Published Content
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
 [arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODMxMjY4MjVdfQ==
+eyJoaXN0b3J5IjpbLTEzMzE5NjEwNzNdfQ==
 -->
