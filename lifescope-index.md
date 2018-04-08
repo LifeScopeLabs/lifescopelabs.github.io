@@ -69,7 +69,7 @@ LifeSope App to search explorer and curate your personal data in various views. 
 | [lifescope-ai](https://lifescopelabs.github.io/ai.html) | low | concept |
 | [lifescope-api](https://lifescopelabs.github.io/api.html) | high | production |
 | [lifescope-app](https://lifescopelabs.github.io/app.html) | high | development |
-| [lifescope-browser extension](https://lifescopelabs.github.io/browser-extension.html) | medium | development |
+| [lifescope-browser-extension](https://lifescopelabs.github.io/browser-extension.html) | medium | development |
 | [lifescope-etl](https://lifescopelabs.github.io/etl.html) | high | production |
 | [lifescope-site](https://lifescopelabs.github.io/site.html) | low | development |
 | [lifescope-voice](https://lifescopelabs.github.io/voice.html) | low | concept |
@@ -121,5 +121,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjQyMTAyNzRdfQ==
+eyJoaXN0b3J5IjpbLTIxMjI2MzEzMTddfQ==
 -->
