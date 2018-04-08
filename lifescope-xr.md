@@ -1,22 +1,22 @@
 # LIFESCOPE-XR
 This repo contains a series of AR/VR Views written to extend lifescope-app codebase as JS/Vue/Nuxt plugins.
 
-# Views
 ## Augmented Reality
 
-#### LIFESCOPE AR Marker
+### LIFESCOPE AR Marker
 ![marker]
 
-#### LIFESCOPE AR Marker Pattern file. 
+### LIFESCOPE AR Marker Pattern file. 
 
 Notice how the pattern encodes the variance of the bitmap
 ![patternar]
-#### 1. AR Floor Topography Map (development phase, medium priority)
+
+## 1. AR Floor Topography Map (development phase, medium priority)
 
 ![armap][armap]
 ![armap][armap2]
 
-Requirements
+### Requirements
 - **MVP**: See a trail of gateways left behind from LIFESCOPE location objects.
 - Shows the current location (GPS) tile and database LIFESCOPE objects using markers.
 - See location of other lifLIFESCOPEescope objects.
@@ -26,13 +26,13 @@ Requirements
 - Able to work without marker. Using compass, accelerometer, gyroscope, camera (slam), etc…
 - Able to see other LIFESCOPE users with permissions.
 
-Dependencies
+### Dependencies
 - Vue/Nuxt compatible
 - [AR.JS](https://github.com/jeromeetienne/AR.js/tree/master/aframe/demos/demo-mapbox)
 - [AFrame (0.8+)](https://aframe.io/)
 - [Mapbox (0.44.1+)](https://www.mapbox.com/mapbox-gl-js/api/)
 
-Examples
+### Examples
 - [AR.JS Mapbox with marker](https://github.com/jeromeetienne/AR.js/tree/master/aframe/demos/demo-mapbox)
 - [AR.JS markerless](https://github.com/1d10t/test)
 - [Web Geo adapter (De-noise web GPS data](https://github.com/Esri/html5-geolocation-tool-js/blob/master/js/GeolocationHelper.js)
@@ -40,30 +40,30 @@ Examples
 - [BitScoop Marker](https://github.com/LifeScopeLabs/lifescopelabs.github.io/tree/master/assets/xr)
 - [Networked AFrame](https://github.com/networked-aframe/networked-aframe#more-examples)
 
-#### 2. Phone AR Gateways (concept phase, low priority)
+## 2. Phone AR Gateways (concept phase, low priority)
 
 ![argateway]
 
-Requirements
+### Requirements
 - **MVP**: Shows AR gateways around the current location (GPS) from the LIFESCOPE database
 - Able to select gateways, zoom, objects
 - Able to see friends
 
-Dependencies
+### Dependencies
 - Vue/Nuxt compatible
 - [AR.JS](https://github.com/jeromeetienne/AR.js/tree/master/aframe/demos/demo-mapbox)
 - [AFrame (0.8+)](https://aframe.io/)
 - [Mapbox (0.44.1+)](https://www.mapbox.com/mapbox-gl-js/api/)
 
-Examples
+### Examples
 - [AR.JS markerless](https://github.com/1d10t/test)
 - [Web Geo adapter (De-noise web GPS data](https://github.com/Esri/html5-geolocation-tool-js/blob/master/js/GeolocationHelper.js)
 - [Marker Maker](https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html)
 - [BitScoop Marker](https://github.com/LifeScopeLabs/lifescopelabs.github.io/tree/master/assets/xr)
 - [Networked AFrame](https://github.com/networked-aframe/networked-aframe#more-examples)
 
-#### 3. Facial recognition (concept phase, low priority)
-Requirements
+## 3. Facial recognition (concept phase, low priority)
+#Requirements
 - **MVP**: Able to recognize faces from LIFESCOPE data
 - Capture store photo/video/location/speech of “AR encounter” in LIFESCOPE api
 Dependencies
@@ -124,5 +124,5 @@ BitScoop Marker Pattern File
 [proceduralvr1]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame1.png
 [proceduralvr2]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzOTQzODA5MV19
+eyJoaXN0b3J5IjpbMTM3MTgzNjE3M119
 -->
