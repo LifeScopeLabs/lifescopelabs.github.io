@@ -90,11 +90,13 @@ Published Content
 
 ![fractal][fractal]
 
+## Who thought of this 
+
 [conceptdiagram]:https://lifescopelabs.github.io/assets/img/concept-diagram.png
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
 [arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg  
 [dataknot]:https://lifescopelabs.github.io/assets/img/dataknot.png
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3Mzg4OTc2XX0=
+eyJoaXN0b3J5IjpbLTEzNjM5OTgyOThdfQ==
 -->
