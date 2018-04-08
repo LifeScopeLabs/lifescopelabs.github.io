@@ -89,7 +89,7 @@ Status of source repositories and project components.
 - [Database Documentation](https://lifescopelabs.github.io/db.html)
 - [Legacy App Documentation](https://github.com/LifeScopeLabs/lifescope-etl/tree/master/archive/tutorial)
 
-## Data Sources
+# Data Sources
 
 Current status of data source support.
 | Name | Source | Status | Data Collected |
@@ -111,7 +111,7 @@ Current status of data source support.
 
 ![fractal][fractal]
 
-## History
+# History
 
 Liam Broza and the team at BitScoop Labs have been working on problems big data and quantified self for over a decade. This project started as SmokeSignal in 2009 as a Java desktop app for crawling android app data. 
 
@@ -133,5 +133,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDkyNTUxM119
+eyJoaXN0b3J5IjpbLTE4NzE0MTQ4OTVdfQ==
 -->
