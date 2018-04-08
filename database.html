@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>lifescope-database</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li><a href="#lifescope-using-mongo-database">lifescope using Mongo Database</a>
+<ul>
+<li>
+<ul>
+<li></li>
+<li><a href="#migrations">Migrations</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <h1 id="lifescope-using-mongo-database">lifescope using Mongo Database</h1>
+<p><strong>Lifescope requires a MongoDB instance to run.</strong></p>
+<p>We suggest creating a free instance of <a href="https://www.mongodb.com/cloud/atlas">MongoDB Atlas</a> to test things out. When the free instance is created, click the ‘Connect’ button. You’ll need to whitelist the IP address(es) that will be connecting to it, or use 0.0.0.0/0 to allow all incoming traffic. You’ll have to copy the Connection URI into ‘databases.mongo.address’ in config/default.json, making sure to fill in the password and database name. You can use ‘admin’ as the database name since our code specifies the ‘lifescope’ database whenever it reads from or writes to Mongo.</p>
+<h4 id="install-dependencies-and-fill-in-remote-map-ids">Install dependencies and fill in Remote Map IDs</h4>
+<p>All the migration scripts are currently in lifescope-etl /archive/</p>
+<p>Install brew</p>
+<p><code>/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"</code></p>
+<p>Install Mongo</p>
+<p><code>brew install mongodb --with-openssl</code></p>
+<p>Install NGINX</p>
+<p><code>brew install nginx</code></p>
+<p>Install node</p>
+<p><a href="https://nodejs.org/en/download/">https://nodejs.org/en/download/</a></p>
+<p>Install yarn</p>
+<p><code>brew install yarn</code></p>
+<p>Edit your host file:\</p>
+<p><code>sudo nano /etc/hosts</code></p>
+<p><code>127.0.0.1 lifescope.io www.lifescope.io app.lifescope.io</code></p>
+<p>Navigate to the Lifescope-Core directory, and in the config folder<br>
+create a local.json and production.json copy of config/default.json<br>
+Do not commit the production keys to GitHub under penalty of death!</p>
+<p>From the top level of the Lifescope-Core directory run:</p>
+<p><code>yarn install</code></p>
+<p>to install all of the project-wide dependencies, then go to each sub-directory in the ‘lambda’ folder (‘consumer’, ‘generator’, ‘migrations’, and ‘worker’) and run</p>
+<p><code>yarn install</code></p>
+<p>to install the dependencies for each Lambda function that we will be setting up shortly.</p>
+<p><code>sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout devel.key -out devel.crt</code></p>
+<p>Run NGINX</p>
+<p><code>sudo nginx -p . -c nginx.conf</code></p>
+<h3 id="migrations">Migrations</h3>
+<h4 id="install-mongodb-compass">Install MongoDB Compass</h4>
+<pre><code>mkdir -p /data/db
+sudo chmod -R go+w /data/db
+cd /data/db
+mongod
+</code></pre>
+<p>Run mongo from /data/db</p>
+<p><code>mongod</code></p>
+<p>Add remote_map_id for each map to /fixtures/providers folders</p>
+<p>Update both scripts in /migrations with your mongodb address</p>
+<p><code>mongodb://localhost:27017</code></p>
+<p>Run the migrations</p>
+<pre><code>node migrations/0001_create_indices.js
+node migrations/0002_insert_providers.js
+</code></pre>
+<p>gulp devel</p>
+<p>Next, go to lambda/migrations/fixtures/providers and open up each JSON file.<br>
+You will need to copy the ID of the API Map you made for each service into the ‘remote_provider_id’ field in the corresponding provider file.</p>
+
+    </div>
+  </div>
+</body>
+
+</html>
