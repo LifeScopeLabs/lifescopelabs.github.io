@@ -1,6 +1,6 @@
-# LIFESCOPE-Browse-extension
+# LIFESCOPE-Browser-Extension
 
-* Regularly post browser history into Lifescope schema
+* Regularly post browser history into LIFESCOPE schema
 * Capture web history on a url, site visit, or domain basis
 * Scrape important info (like netflix or hulu history)
 * Surface metadata (oEmbed, Embedly)
@@ -10,5 +10,5 @@
 
 [browserext]:https://lifescopelabs.github.io/assets/screenshots/browser-plugin-screenshot.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjc1MDAyM119
+eyJoaXN0b3J5IjpbLTg0MTM2MDM2OV19
 -->
