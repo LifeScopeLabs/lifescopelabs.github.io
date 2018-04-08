@@ -41,6 +41,9 @@ Examples
 - [Networked AFrame](https://github.com/networked-aframe/networked-aframe#more-examples)
 
 #### 2. Phone AR Gateways (concept phase, low priority)
+
+![argateway]
+
 Requirements
 - **MVP**: Shows AR gateways around the current location (GPS) from the lifescope database
 - Able to select gateways, zoom, objects
@@ -107,6 +110,7 @@ BitScoop Marker Pattern File
 [markerbs]:https://lifescopelabs.github.io/assets/xr/bitscoop-marker.png
 
 [vrmapbox]:https://lifescopelabs.github.io/assets/wireframes/vr-maps-aframe-mapbox.png
+[argateway]:https://lifescopelabs.github.io/assets/wireframes/gateway.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NjkzNTc0OV19
+eyJoaXN0b3J5IjpbNDQyNzM3MDkyXX0=
 -->
