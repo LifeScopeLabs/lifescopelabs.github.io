@@ -108,6 +108,7 @@ https://web.archive.org/web/20141222111903/http://www.smokesignal.info/
 In 2016, BitScoop Labs rebuilt the project as Live Explorer. This is now the legacy LIFESCOPE app.
 
 https://web.archive.org/web/20151116131419/http://ografy.io/
+
 ![ografy]
 
 [conceptdiagram]:https://lifescopelabs.github.io/assets/img/concept-diagram.png
@@ -119,5 +120,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 [ografy]:https://github.com/LifeScopeLabs/lifescopelabs.github.io/tree/master/assets/screenshots/ografy.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYwNTE0MDM3XX0=
+eyJoaXN0b3J5IjpbMTk5MzA5NzA5NV19
 -->
