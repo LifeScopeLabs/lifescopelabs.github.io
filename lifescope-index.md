@@ -24,32 +24,32 @@ LIFESCOPE as an open source platform for anything you want to do with your perso
 - [LIFESCOPE Legacy App](https://app.lifescope.io)
 - [LIFESCOPE Documentation](https://lifescope.io/learn)
 
-## Want to help? 
+# Want to help? 
 We are currently looking for designers, creators, developers, and data scientists to help build and grow LIFESCOPE.
 
 ### **[Join the team!](https://lifescope.io/signupdev)**
 
-## How does it work?
+# How does it work?
 
 The core of LIFESCOPE is an automated set of tools to collect personal data (via [API ETL Scripts](https://lifescopelabs.github.io/etl.html), [Browser Plugin](https://lifescopelabs.github.io/browser-extension.html), [App](https://lifescopelabs.github.io/app.html) repositories) and organize everything a standard way. 
 
 All of the collected data is organized into a [database](https://lifescopelabs.github.io/database.html) and presented with the [GraphQL and Rest APIs](https://lifescopelabs.github.io/api.html).
 
-### Data Collection
+## Data Collection
  - [API ETL Scripts](https://lifescopelabs.github.io/etl.html)
  - [Browser Plugin](https://lifescopelabs.github.io/browser-extension.html)
  - [App](https://lifescopelabs.github.io/app.html) 
 
 ![soureflow]
 
-### Data Organization, Storage, and Services
+## Data Organization, Storage, and Services
 - [API](https://lifescopelabs.github.io/api.html)
 - [Database Support](https://lifescopelabs.github.io/database.html)
 
 ![conceptdiagram]
 
 
-#### Single App Architecture
+## Single App Architecture
 
 LIFESCOPE App to search explorer and curate your personal data in various views. Single-page Universal web app built on Nuxt and Vue.js. Desktop/mobile reactive design interface with javascript extensions. Written with plugin framework such as location tracking, web xr and web voice. Should be containerizable inside a universal app framework like Cordova (iOS, Android, Mac, Win). Able to connect as many provider accounts you want. List saved searches and hashtags.
 
@@ -72,7 +72,7 @@ The LIFESCOPE platform is designed to be completely pluggable. Easily add data s
 
 ![arch]
 
-## Repository Index
+# Repository Index
 
 Status of source repositories and project components.
 | Repository | Priority | Status |
@@ -133,5 +133,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMjc3MDE1NF19
+eyJoaXN0b3J5IjpbLTE2MDkyNTUxM119
 -->
