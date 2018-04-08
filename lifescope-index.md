@@ -2,10 +2,6 @@
 
 **The Internet of You**
 
-- [LIFESCOPE Main Site](https://lifescope.io)
-- [LIFESCOPE Legacy App](https://app.lifescope.io)
-- [LIFESCOPE Documentation](https://lifescope.io/learn)
-
 > "My friends and I work, play, and communicate on dozens platforms. Conversation start on texts, continue on Facebook Messenger, continue in person, then go to Skype and conclude on Slack. Retracing my history keeps me jumping from app to app."
 
 _Does this sound familiar?_
@@ -23,6 +19,10 @@ LIFESCOPE is an open platform for personal data designed to empower anyone with 
 Connect anywhere and everywhere your information resides and LIFESCOPE will automatically collect, organize, and present everything in your digital memory. Search and leverage your entire digital and social footprint, while streamlining your life online. Curate your history data into the stories you care about.
 
 LIFESCOPE as an open source platform for anything you want to do with your personal data. We have plans to expand this platform so it can power the next generation of software technology. 
+
+- [LIFESCOPE Main Site](https://lifescope.io)
+- [LIFESCOPE Legacy App](https://app.lifescope.io)
+- [LIFESCOPE Documentation](https://lifescope.io/learn)
 
 ## Want to help make LIFESCOPE? 
 We are currently looking for designers, creators, developers, and data scientists to help build and grow LIFESCOPE.
@@ -103,9 +103,8 @@ LifeSope App to search explorer and curate your personal data in various views. 
 Liam Broza and the team at BitScoop Labs have been working on problems big data and quantified self for over a decade. This project started as SmokeSignal in 2009 as a Java desktop app for crawling android app data. 
 
 https://web.archive.org/web/20141222111903/http://www.smokesignal.info/
-|  |  |
-|--|--|
-| ![smokesignalss2] | ![smokesignalss1] |
+![smokesignalss2]
+![smokesignalss1] 
 
 In 2016, BitScoop Labs rebuilt the project as Live Explorer. This is now the legacy LIFESCOPE app.
 https://web.archive.org/web/20151116131419/http://ografy.io/
@@ -120,5 +119,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjQ4MTgxMjddfQ==
+eyJoaXN0b3J5IjpbLTg1ODQyNDI1OV19
 -->
