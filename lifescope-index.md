@@ -65,12 +65,12 @@ App to search explorer and curate your personal data in various views. Single-pa
 * **Google**
 * **Slice**
 
-- People Management
-Relate contacts together into People and relate People into Users
-- Settings
-- Published Content
-High Priority
+People Management - Relate contacts together into People and relate People into Users
+Settings
+Published Content
 
+## Repository Documentation
+ [lifescope-app](https://lifescopelabs.github.io/app.html)
 Medium Priority
 
 Low Priority
@@ -89,5 +89,5 @@ Low Priority
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
 [arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg  "Arch" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTg1ODkzMl19
+eyJoaXN0b3J5IjpbLTM0OTU5NDA0MF19
 -->
