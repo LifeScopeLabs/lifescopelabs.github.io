@@ -14,17 +14,17 @@ The internet landscape is a vast, overwhelming, and broken terrain of data. Only
 
 The study and use of psychometircs and psychographics is the biggest hidden force in the world. Our personal data doesn't just describe who we really are, but also give others power over us by enabling them to reverse engineer our minds. Understanding and controlling our own data should be a human right.
 
-LifeScope is an open platform for personal data designed to empower anyone with insights while preserving privacy and ownership. Master time and space with a digital memory. The platform is designed the ultimate private repository of your digital life. 
+LIFESCOPE is an open platform for personal data designed to empower anyone with insights while preserving privacy and ownership. Master time and space with a digital memory. The platform is designed the ultimate private repository of your digital life. 
 
-Connect anywhere and everywhere your information resides and LifeScope will automatically collect, organize, and present everything in your digital memory. Search and leverage your entire digital and social footprint, while streamlining your life online. Curate your history data into the stories you care about.
+Connect anywhere and everywhere your information resides and LIFESCOPE will automatically collect, organize, and present everything in your digital memory. Search and leverage your entire digital and social footprint, while streamlining your life online. Curate your history data into the stories you care about.
 
-Lifescope as an open source platform for anything you want to do with your personal data. We have plans to expand this platform so it can power the next generation of software technology. 
+LIFESCOPE as an open source platform for anything you want to do with your personal data. We have plans to expand this platform so it can power the next generation of software technology. 
 
-### Want to help make the LifeScope dream real? 
+### Want to help make LIFESCOPE real? 
 
 #### **[Join the team!](https://lifescope.io/signupdev)**
 
-## How does the Lifescope platform work?
+## How does the LIFESCOPE platform work?
 
 ### Data Flow
 
@@ -90,7 +90,7 @@ LifeSope App to search explorer and curate your personal data in various views. 
 
 ![fractal][fractal]
 
-## Who thought of lifescope?
+## Who thought of LIFESCOPE?
 
 Liam Broza and the team at Bitscoop Labs have been working on problems big data and quantified self for over a decade. This project started as SmokeSignal in 2009 as a Java desktop app for crawling android app data. 
 
@@ -99,7 +99,7 @@ https://web.archive.org/web/20141222111903/http://www.smokesignal.info/
 |--|--|
 | ![smokesignalss2] | ![smokesignalss1] |
 
-In 2016, BitScoop Labs rebuilt the project as Live Explorer. This is now the legacy lifescope app.
+In 2016, BitScoop Labs rebuilt the project as Live Explorer. This is now the legacy LIFESCOPE app.
 https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [conceptdiagram]:https://lifescopelabs.github.io/assets/img/concept-diagram.png
@@ -112,5 +112,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NjY1MzU5XX0=
+eyJoaXN0b3J5IjpbNDk0MDEwNjU5XX0=
 -->
