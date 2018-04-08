@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>lifescope-api</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li><a href="#lifescope-api-production-phase-high-priority">lifescope-api (production phase, high priority)</a>
+<ul>
+<li><a href="#workflows">Workflows</a></li>
+<li><a href="#api-endpoints">API Endpoints</a></li>
+<li><a href="#providers">Providers</a></li>
+<li><a href="#data-schema">Data Schema</a></li>
+<li><a href="#dependencies">Dependencies</a></li>
+</ul>
+</li>
+</ul>
+
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <h1 id="lifescope-api-production-phase-high-priority">lifescope-api (production phase, high priority)</h1>
+<p>Universal API backend for the LIFESCOPE platform.</p>
+<p>GraphQL-based API for CRUD operations on the lifescope data schema.</p>
+<p>REST API for login/logout/signup and connection OAUTH workflow</p>
+<h2 id="workflows">Workflows</h2>
+<h3 id="connection-workflow">Connection Workflow</h3>
+<ol>
+<li>Choose a provider and grant permissions</li>
+<li>Create an OAuth connection to provider</li>
+<li>Approve OAuth permission and complete connection</li>
+</ol>
+<h3 id="signup-workflow">Signup Workflow</h3>
+<ol>
+<li>Complete the connection wf with first provider</li>
+<li>Create a user and a login session</li>
+</ol>
+<h3 id="login-workflow">Login Workflow</h3>
+<ol>
+<li>Complete the connection wf but do not create a new connection</li>
+<li>Lookup user and create a login session</li>
+</ol>
+<h2 id="api-endpoints">API Endpoints</h2>
+<ul>
+<li>Exposes objects of the data schema for CRUD operations in GraphQL</li>
+<li>Exposes the connection, signup, and login workflows as GraphQL endpoints</li>
+</ul>
+<h2 id="providers">Providers</h2>
+<ul>
+<li>Facebook</li>
+<li>Twitter</li>
+<li>Pinterest</li>
+<li>Dropbox</li>
+<li>Steam</li>
+<li>Reddit</li>
+<li>Spotify</li>
+<li>FitBit</li>
+<li>GitHub</li>
+<li>Instagram</li>
+<li><strong>Google</strong></li>
+<li><strong>Slice</strong></li>
+</ul>
+<h2 id="data-schema">Data Schema</h2>
+<h3 id="connections">connections</h3>
+<ul>
+<li>auth
+<ul>
+<li>status
+<ul>
+<li>authorized</li>
+<li>complete</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>enabled</li>
+<li>endpoint_data
+<ul>
+<li>XXX</li>
+</ul>
+</li>
+<li>frequency</li>
+<li>last_run</li>
+<li>permissions
+<ul>
+<li>ETC…</li>
+</ul>
+</li>
+<li>provider_id</li>
+<li>provider_name</li>
+<li>remote_connection_id</li>
+<li>status</li>
+<li>user_id</li>
+</ul>
+<h3 id="events">events</h3>
+<ul>
+<li>connection</li>
+<li>contact_interaction_type</li>
+<li>contacts</li>
+<li>content</li>
+<li>context</li>
+<li>created</li>
+<li>datetime</li>
+<li>identifier</li>
+<li>provider</li>
+<li>provider_name</li>
+<li>source</li>
+<li>type</li>
+<li>updated</li>
+<li>user_id</li>
+</ul>
+<h3 id="contacts">contacts</h3>
+<ul>
+<li>avatar_url</li>
+<li>connection</li>
+<li>created</li>
+<li>handle</li>
+<li>identifier</li>
+<li>name</li>
+<li>provider_name</li>
+<li>remote_id</li>
+<li>updated</li>
+<li>user_id</li>
+</ul>
+<h3 id="content">content</h3>
+<ul>
+<li>connection</li>
+<li>created</li>
+<li>embed_content</li>
+<li>embed_format</li>
+<li>embed_thumbnail</li>
+<li>embedded_format</li>
+<li>identifier</li>
+<li>mimeType</li>
+<li>mimetype</li>
+<li>owner</li>
+<li>provider_name</li>
+<li>remote_id</li>
+<li>tagMasks</li>
+<li>text</li>
+<li>thumbnail</li>
+<li>title</li>
+<li>type</li>
+<li>updated</li>
+<li>url</li>
+<li>user_id</li>
+</ul>
+<h3 id="locations">locations</h3>
+<ul>
+<li>connection</li>
+<li>created</li>
+<li>datetime</li>
+<li>estimated</li>
+<li>geo_format</li>
+<li>geolocation</li>
+<li>identifier</li>
+<li>updated</li>
+<li>user_id</li>
+</ul>
+<h3 id="providers-1">providers</h3>
+<ul>
+<li>alt_sources
+<ul>
+<li>likes
+<ul>
+<li>description</li>
+<li>enabled_by_default</li>
+<li>mapping</li>
+<li>name</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>remote_map_id</li>
+<li>sources
+<ul>
+<li>todo</li>
+</ul>
+</li>
+</ul>
+<h3 id="searches">searches</h3>
+<h3 id="sessions">sessions</h3>
+<h3 id="tags">tags</h3>
+<h3 id="things">things</h3>
+<h3 id="users">users</h3>
+<h2 id="dependencies">Dependencies</h2>
+<ul>
+<li><a href="https://github.com/graphql-compose/graphql-compose">graphql-compose</a></li>
+<li><a href="https://github.com/graphql-compose/graphql-compose-mongoose">graphql-compose-mongoose</a></li>
+<li>Vue/Nuxt</li>
+</ul>
+
+    </div>
+  </div>
+</body>
+
+</html>
