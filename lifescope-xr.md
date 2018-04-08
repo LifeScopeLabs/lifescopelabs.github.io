@@ -4,12 +4,12 @@ This repo contains a series of AR/VR Views written to extend lifescope-app codeb
 ## Views
 ### Augmented Reality
 
-####LIFESCOPE AR Marker
+##### LIFESCOPE AR Marker
 ![marker]
 
-#### LIFESCOPE AR Marker Pattern file.
+#### LIFESCOPE AR Marker Pattern file. 
 
-Notice how
+Notice how the pattern encodes the variance of the bitmap
 ![patternar]
 #### 1. AR Floor Topography Map (development phase, medium priority)
 
@@ -90,8 +90,10 @@ Examples
 
 #### 3. Memory palace (concept phase, low priority)
 
-
+BitScoop Marker
 ![markerbs]
+
+BitScoop Marker Pattern file
 ![patternarbs]
 
 [armap]:https://lifescopelabs.github.io/assets/maps/ar-phone-topo-mapbox.jpg
@@ -103,5 +105,5 @@ Examples
 [patternarbs]:https://lifescopelabs.github.io/assets/xr/bitscoop-marker-patt-file.png
 [markerbs]:https://lifescopelabs.github.io/assets/xr/bitscoop-marker.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjIyMDA1OTNdfQ==
+eyJoaXN0b3J5IjpbMTg3Mzg0NzYzNV19
 -->
