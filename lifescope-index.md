@@ -48,7 +48,7 @@ The [LIFESCOPE API](https://lifescopelabs.github.io/api.html) uses GraphQL and R
 
 ## Single App Architecture
 
-The [LIFESCOPE App](https://lifescopelabs.github.io/app.html) is to search, explore, and curate your personal data in various views. Explore data with various views (Feed, List, Map, Gallery, Timeline, [Virtual Reality, Augmented Reality](https://lifescopelabs.github.io/xr.html). 
+The [LIFESCOPE App](https://lifescopelabs.github.io/app.html) is to search, explore, and curate your personal data in various views. Explore data with various views (Feed, List, Map, Gallery, Timeline, [Virtual Reality, Augmented Reality](https://lifescopelabs.github.io/xr.html).  Let the app look and listen to you
 
 Curate your data with saved searches and hashtags. See [reports and data visualizations](https://lifescopelabs.github.io/ai.html). Get smart notifications with machine learning. Explore people from your history. People are represented as related contacts and history across services. 
 
@@ -117,5 +117,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDgyMzk4NDldfQ==
+eyJoaXN0b3J5IjpbMTgwODM4MjY3N119
 -->
