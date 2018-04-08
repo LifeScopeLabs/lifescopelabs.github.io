@@ -45,6 +45,7 @@ Prediction and anomaly detection based on location history.
 [infographics1]:https://lifescopelabs.github.io/assets/screenshots/infographics1.png
 [infographics2]:https://lifescopelabs.github.io/assets/screenshots/infographics2.png
 [deepviz]:https://lifescopelabs.github.io/assets/screenshots/DeepLearningViz.png
+[webviz]:https://lifescopelabs.github.io/assets/wireframes/3d-graph.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMjYxODE1NF19
+eyJoaXN0b3J5IjpbMTg5NDI2MTI5NV19
 -->
