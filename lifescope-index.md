@@ -20,7 +20,7 @@ Connect anywhere and everywhere your information resides and LIFESCOPE will auto
 
 LIFESCOPE as an open source platform for anything you want to do with your personal data. We have plans to expand this platform so it can power the next generation of software technology. 
 
-### Want to help make LIFESCOPE? 
+## Want to help make LIFESCOPE? 
 
 We are currently looking for designers, creators, developers, and data scientists to help build and grow LIFESCOPE.
 #### **[Join the team!](https://lifescope.io/signupdev)**
@@ -113,5 +113,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzI3NDgzMDRdfQ==
+eyJoaXN0b3J5IjpbODIzNTgyNTg1XX0=
 -->
