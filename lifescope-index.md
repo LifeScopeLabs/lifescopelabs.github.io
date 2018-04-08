@@ -43,7 +43,6 @@ App to search explorer and curate your personal data in various views. Single-pa
 
 ### [lifescope-app](https://lifescopelabs.github.io/app.html)
 
-
 #### Explorer
 
 ##### Views
@@ -75,24 +74,19 @@ Relate contacts together into People and relate People into Users
 - Published Content
 
 ### [lifescope-browser-extension](https://lifescopelabs.github.io/app.html)
-
 ### [lifescope-voice](https://lifescopelabs.github.io/app.html)
-
 ### [lifescope-xr](https://lifescopelabs.github.io/app.html)
 
 ## Backend
 
 ### [lifescope-api](https://lifescopelabs.github.io/app.html)
-
 ### [lifescope-ai](https://lifescopelabs.github.io/app.html)
-
 ### [lifescope-etl](https://lifescopelabs.github.io/etl.html)
-
 ### [DB Storage](https://lifescopelabs.github.io/db.html)
 
 [conceptdiagram]:https://lifescopelabs.github.io/assets/img/concept-diagram.png
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
 [arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg  "Arch" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzgyNjk2OF19
+eyJoaXN0b3J5IjpbLTQxNDY5NTk2MF19
 -->
