@@ -68,7 +68,7 @@ LIFESCOPE App to search explorer and curate your personal data in various views.
 - Your Settings
 - Published You
 
-The Lifescope platform is designed to be completely pluggable. 
+The LIFESCOPE platform is designed to be completely pluggable. Easily add data sources, change data organization, change database technologies, and create apps on the API.
 
 ![arch]
 
@@ -133,5 +133,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA4NzIxMDE3XX0=
+eyJoaXN0b3J5IjpbLTEzMTg3MjAwNzZdfQ==
 -->
