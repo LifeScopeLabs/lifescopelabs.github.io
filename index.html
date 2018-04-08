@@ -13,15 +13,22 @@
     <div class="stackedit__toc">
       
 <ul>
-<li><a href="#lifescope">LIFESCOPE</a>
+<li><a href="#lifescope">LIFESCOPE</a></li>
+<li><a href="#want-to-help">Want to help?</a>
 <ul>
-<li><a href="#want-to-help-make-lifescope">Want to help make LIFESCOPE?</a></li>
-<li><a href="#how-does-lifescope-work">How does LIFESCOPE work?</a></li>
-<li><a href="#developer-index">Developer Index</a></li>
-<li><a href="#data-sources">Data Sources</a></li>
-<li><a href="#who-is-behind-lifescope">Who is behind LIFESCOPE?</a></li>
+<li></li>
 </ul>
 </li>
+<li><a href="#how-does-it-work">How does it work?</a>
+<ul>
+<li><a href="#data-collection">Data Collection</a></li>
+<li><a href="#data-organization-storage-and-services">Data Organization, Storage, and Services</a></li>
+<li><a href="#single-app-architecture">Single App Architecture</a></li>
+</ul>
+</li>
+<li><a href="#repository-index">Repository Index</a></li>
+<li><a href="#data-sources">Data Sources</a></li>
+<li><a href="#history">History</a></li>
 </ul>
 
     </div>
@@ -46,18 +53,19 @@
 <li><a href="https://app.lifescope.io">LIFESCOPE Legacy App</a></li>
 <li><a href="https://lifescope.io/learn">LIFESCOPE Documentation</a></li>
 </ul>
-<h2 id="want-to-help-make-lifescope">Want to help make LIFESCOPE?</h2>
+<h1 id="want-to-help">Want to help?</h1>
 <p>We are currently looking for designers, creators, developers, and data scientists to help build and grow LIFESCOPE.</p>
 <h3 id="join-the-team"><strong><a href="https://lifescope.io/signupdev">Join the team!</a></strong></h3>
-<h2 id="how-does-lifescope-work">How does LIFESCOPE work?</h2>
-<p>The core of LIFESCOPE is an automated set of tools to collect personal data (via <a href="https://lifescopelabs.github.io/etl.html">API ETL Scripts</a>, <a href="https://lifescopelabs.github.io/browser-extension.html">Browser Plugin</a>, <a href="https://lifescopelabs.github.io/app.html">App</a> repositories) and organize everything a standard way. All of the collected data is then organized and presented with the <a href="https://lifescopelabs.github.io/api.html">API</a>.</p>
+<h1 id="how-does-it-work">How does it work?</h1>
+<p>The core of LIFESCOPE is an automated set of tools to collect personal data (via <a href="https://lifescopelabs.github.io/etl.html">API ETL Scripts</a>, <a href="https://lifescopelabs.github.io/browser-extension.html">Browser Plugin</a>, <a href="https://lifescopelabs.github.io/app.html">App</a> repositories) and organize everything a standard way. All of the collected data is organized into a <a href="https://lifescopelabs.github.io/database.html">database</a> and presented with the <a href="https://lifescopelabs.github.io/api.html">API</a>.</p>
+<h2 id="data-collection">Data Collection</h2>
+<p>LIFESCOPE collects personal information from three places. When you create connections in the App or API, <a href="https://lifescopelabs.github.io/etl.html">API ETL Scripts</a> will run. The <a href="https://lifescopelabs.github.io/browser-extension.html">Browser Plugin</a> allows for opting into recording url and visits. The plugin can also scrape webpages. The native and web JavaScrip <a href="https://lifescopelabs.github.io/app.html">App</a> can pull information on the device such as locations and contacts.</p>
 <p><img src="https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png" alt="soureflow"></p>
+<h2 id="data-organization-storage-and-services">Data Organization, Storage, and Services</h2>
+<p>The LIFESCOPE <a href="https://lifescopelabs.github.io/api.html">API</a> uses GraphQL and REST to signup, login, manage sources, and access all your data. LIFESCOPE’s API will eventually allow for pluggable <a href="https://lifescopelabs.github.io/database.html">Database Support</a>.</p>
 <p><img src="https://lifescopelabs.github.io/assets/img/concept-diagram.png" alt="conceptdiagram"></p>
-<h3 id="architecture--overview">Architecture  Overview</h3>
-<p>Lifescope is designed to be</p>
-<p><img src="https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg" alt="arch"></p>
-<h4 id="single-app-architecture">Single App Architecture</h4>
-<p>LifeSope App to search explorer and curate your personal data in various views. Single-page Universal web app built on Nuxt and Vue.js. Desktop/mobile reactive design interface with javascript extensions. Written with plugin framework such as location tracking, web xr and web voice. Should be containerizable inside a universal app framework like Cordova (iOS, Android, Mac, Win). Able to connect as many provider accounts you want. List saved searches and hashtags.</p>
+<h2 id="single-app-architecture">Single App Architecture</h2>
+<p>LIFESCOPE App to search explorer and curate your personal data in various views. Single-page Universal web app built on Nuxt and Vue.js. Desktop/mobile reactive design interface with javascript extensions. Written with plugin framework such as location tracking, web xr and web voice. Should be containerizable inside a universal app framework like Cordova (iOS, Android, Mac, Win). Able to connect as many provider accounts you want. List saved searches and hashtags.</p>
 <ul>
 <li>Explorer Views
 <ul>
@@ -80,7 +88,10 @@
 <li>Your Settings</li>
 <li>Published You</li>
 </ul>
-<h2 id="developer-index">Developer Index</h2>
+<p>The LIFESCOPE platform is designed to be completely pluggable. Easily add data sources, change data organization, change database technologies, and create apps on the API.</p>
+<p><img src="https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg" alt="arch"></p>
+<h1 id="repository-index">Repository Index</h1>
+<p>Status of source repositories and project components.</p>
 
 <table>
 <thead>
@@ -136,7 +147,8 @@
 <li><a href="https://lifescopelabs.github.io/db.html">Database Documentation</a></li>
 <li><a href="https://github.com/LifeScopeLabs/lifescope-etl/tree/master/archive/tutorial">Legacy App Documentation</a></li>
 </ul>
-<h2 id="data-sources">Data Sources</h2>
+<h1 id="data-sources">Data Sources</h1>
+<p>Current status of data source support.</p>
 
 <table>
 <thead>
@@ -234,7 +246,7 @@
 </tr>
 </tbody>
 </table><p><img src="https://lifescopelabs.github.io/assets/img/fractal.png" alt="fractal"></p>
-<h2 id="who-is-behind-lifescope">Who is behind LIFESCOPE?</h2>
+<h1 id="history">History</h1>
 <p>Liam Broza and the team at BitScoop Labs have been working on problems big data and quantified self for over a decade. This project started as SmokeSignal in 2009 as a Java desktop app for crawling android app data.</p>
 <p><a href="https://web.archive.org/web/20141222111903/http://www.smokesignal.info/">https://web.archive.org/web/20141222111903/http://www.smokesignal.info/</a></p>
 <p><img src="https://lifescopelabs.github.io/assets/screenshots/smokesignal-io-legacy-2.png" alt="smokesignalss2"><br>
