@@ -29,7 +29,7 @@ Impersonation Ideas:
 - **Emotional chatting machine** with your own set of emotions. There are so many emotions that you can use as condition labels in your dataset. CakeChat only uses five basic emotions (anger, sadness, joy, fear and neutral). 
 - **Topic-centric model**. Instead of emotions, you can use a set of topics that will condition the model’s responses. As a result, you can build an agent that sticks to a given topic in a conversation. For example, you can build a model that talks about weather, food, kids or mortgage at any given moment.
 
-### Geodata
+### Geolocation Based Models
 
 Prediction and anomaly detection based on location history.
 
@@ -43,5 +43,5 @@ Prediction and anomaly detection based on location history.
 [infographics1]:https://lifescopelabs.github.io/assets/screenshots/infographics1.png
 [infographics2]:https://lifescopelabs.github.io/assets/screenshots/infographics2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNjYwNjE0M119
+eyJoaXN0b3J5IjpbLTYyMjI1NzkwOV19
 -->
