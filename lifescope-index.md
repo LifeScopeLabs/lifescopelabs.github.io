@@ -102,6 +102,7 @@ Liam Broza and the team at BitScoop Labs have been working on problems big data 
 
 https://web.archive.org/web/20141222111903/http://www.smokesignal.info/
 
+
 ![smokesignalss2]
 ![smokesignalss1] 
 
@@ -118,7 +119,7 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 [smokesignalss1]:https://lifescopelabs.github.io/assets/screenshots/smokesignal-io-legacy-1.png
 [smokesignalss2]:https://lifescopelabs.github.io/assets/screenshots/smokesignal-io-legacy-2.png
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
-[ografy]:https://github.com/LifeScopeLabs/lifescopelabs.github.io/tree/master/assets/screenshots/ografy.png
+[ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MzA5NzA5NV19
+eyJoaXN0b3J5IjpbLTE2MjQ3ODgxNjVdfQ==
 -->
