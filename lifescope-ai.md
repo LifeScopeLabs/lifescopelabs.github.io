@@ -23,8 +23,7 @@ Examples:
 
 #### Conversational Agents
 
-Examples:
-[CakeChat Framework](https://cakechat.replika.ai/) 
+Examples: [CakeChat Framework](https://cakechat.replika.ai/) 
 
 Impersonation Ideas:
 - **Persona-based model**. Condition responses on a certain author of messages (User ID) to make responses lexically similar to them and mimic someone’s linguistic style in a conversation. Use new or pre-trained models to run a chatbot that maintains a conversation in a certain emotional state. 
@@ -45,7 +44,7 @@ Prediction and anomaly detection based on location history.
 [infographics1]:https://lifescopelabs.github.io/assets/screenshots/infographics1.png
 [infographics2]:https://lifescopelabs.github.io/assets/screenshots/infographics2.png
 [deepviz]:https://lifescopelabs.github.io/assets/screenshots/DeepLearningViz.png
-[webviz]:https://lifescopelabs.github.io/assets/wireframes/3d-graph.png
+[webviz]:https://lifescopelabs.github.io/assets/wireframes/3d-graph.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NDI2MTI5NV19
+eyJoaXN0b3J5IjpbLTE4MjQ5MTY2NjFdfQ==
 -->
