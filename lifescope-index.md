@@ -82,12 +82,6 @@ Published Content
 
 
 [lifescope-site](https://lifescopelabs.github.io/site.html)
-[lifescope-browser-extension](https://lifescopelabs.github.io/app.html)
-[lifescope-voice](https://lifescopelabs.github.io/app.html)
-[lifescope-xr](https://lifescopelabs.github.io/app.html)
-[lifescope-api](https://lifescopelabs.github.io/app.html)
-[lifescope-ai](https://lifescopelabs.github.io/app.html)
-[lifescope-etl](https://lifescopelabs.github.io/etl.html)
 [LifeScope Database Documentation](https://lifescopelabs.github.io/db.html)
 
 
@@ -95,5 +89,5 @@ Published Content
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
 [arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg  "Arch" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMjQ5ODQ5OF19
+eyJoaXN0b3J5IjpbLTgzMTM0MjU0MV19
 -->
