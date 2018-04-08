@@ -1,6 +1,6 @@
 # LIFESCOPE
 
-### The Internet of You
+**The Internet of You**
 
 > "My friends and I work, play, and communicate on dozens platforms. Conversation start on texts, continue on Facebook Messenger, continue in person, then go to Skype and conclude on Slack. Retracing my history keeps me jumping from app to app."
 
@@ -20,9 +20,9 @@ Connect anywhere and everywhere your information resides and LIFESCOPE will auto
 
 LIFESCOPE as an open source platform for anything you want to do with your personal data. We have plans to expand this platform so it can power the next generation of software technology. 
 
-### Want to help make LIFESCOPE real? 
+### Want to help make LIFESCOPE? 
 
-We are currently looking for designers, creators, developers, and data scientists to help build and
+We are currently looking for designers, creators, developers, and data scientists to help build and grow LIFESCOPE.
 #### **[Join the team!](https://lifescope.io/signupdev)**
 
 ## How does the LIFESCOPE platform work?
@@ -113,5 +113,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTkxMDEzMF19
+eyJoaXN0b3J5IjpbLTIwNzI1MjE5OTJdfQ==
 -->
