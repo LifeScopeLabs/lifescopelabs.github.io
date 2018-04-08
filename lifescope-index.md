@@ -47,9 +47,8 @@ The core of LIFESCOPE is an automated set of tools to collect personal data (via
 ![conceptdiagram]
 
 
-The Lifescope platform is designed to be completely pluggable. 
 
-![arch]
+
 
 #### Single App Architecture
 
@@ -69,6 +68,10 @@ LIFESCOPE App to search explorer and curate your personal data in various views.
 	- Relate People to Users
 - Your Settings
 - Published You
+
+The Lifescope platform is designed to be completely pluggable. 
+
+![arch]
 
 ## Repository Index
 
@@ -131,5 +134,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjgxMjAzNl19
+eyJoaXN0b3J5IjpbLTQzMDM0MzQ3Nl19
 -->
