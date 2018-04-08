@@ -1,13 +1,15 @@
-# lifescope-etl
+# LIFESCOPE-ETL
 
-This is the lifescope automated data collection system for connected services. The serverless ETL functions are built for Lambda and pull user data data from APIs on a scheduled basis into MongoDB.
+This is the LIFESCOPE automated data collection system for connected services. The serverless ETL functions are built for Lambda and pull user data data from APIs on a scheduled basis into MongoDB.
 
 * Pull data from source apis through BitScoop SDK
 * Syncs on a scheduled basis.
-* Transform data into lifescope schema.
+* Transform data into LIFESCOPE schema.
 * Provider scripts keep a copy of original data.
 
-## App Archive (to be deprecated)
+## LIFESCOPE Archive APP 
+
+**To be Deprecated**
 
 The old front end lifescope app is in the lifescope-etl /archive folder.
 
@@ -233,5 +235,5 @@ In order to begin running the local Lambda function run the following code in th
 
 you will then be shown the urls to your lambda functions along with their port numbers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDI1OTM0MjNdfQ==
+eyJoaXN0b3J5IjpbLTczNzgyNjI4OF19
 -->
