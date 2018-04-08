@@ -1,4 +1,4 @@
-# lifescope-etl (development phase, low priority)
+# lifescope-etl (development phase, high priority)
 
 This is the lifescope automated data collection system for connected services. The serverless ETL functions are built for Lambda and pull user data data from APIs on a scheduled basis into MongoDB.
 
@@ -7,7 +7,7 @@ This is the lifescope automated data collection system for connected services. T
 * Transform data into lifescope schema.
 * Provider scripts keep a copy of original data.
 
-## App Archive
+## App Archive (to be deprecated)
 
 The old front end lifescope app is in the lifescope-etl /archive folder.
 
@@ -19,7 +19,7 @@ The old front end lifescope app is in the lifescope-etl /archive folder.
 Learn more about the Old Frontend App:
 https://github.com/LifeScopeLabs/lifescope-etl/tree/master/archive/tutorial
 
-## AWS services
+## AWS services Required
 
 You will also need to upload various portions of this project to Lambda, ElasticBeanstalk, and S3, and you will create two SQS queues to facilitate communication between some of the Lambda functions.
 We'll start with creating an S3 bucket since it's a prerequisite for other parts.
@@ -233,5 +233,5 @@ In order to begin running the local Lambda function run the following code in th
 
 you will then be shown the urls to your lambda functions along with their port numbers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzg2OTAxNDldfQ==
+eyJoaXN0b3J5IjpbLTg2MTY5MzE0MF19
 -->
