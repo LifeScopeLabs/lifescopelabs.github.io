@@ -13,7 +13,7 @@
     <div class="stackedit__toc">
       
 <ul>
-<li><a href="#lifescope-using-mongo-database">lifescope using Mongo Database</a>
+<li><a href="#lifescope-database">lifescope database</a>
 <ul>
 <li>
 <ul>
@@ -29,8 +29,14 @@
   </div>
   <div class="stackedit__right">
     <div class="stackedit__html">
-      <h1 id="lifescope-using-mongo-database">lifescope using Mongo Database</h1>
-<p><strong>Lifescope requires a MongoDB instance to run.</strong></p>
+      <h1 id="lifescope-database">lifescope database</h1>
+<ul>
+<li>Common Schema (<a href="http://schema.org">schema.org</a>)</li>
+<li>User level encryption</li>
+<li>Whole DB backups</li>
+<li>Eventually pluggable (Local/OBDC/JBDC/Etc)</li>
+</ul>
+<p><strong>Lifescope currently requires a MongoDB instance to run.</strong></p>
 <p>We suggest creating a free instance of <a href="https://www.mongodb.com/cloud/atlas">MongoDB Atlas</a> to test things out. When the free instance is created, click the ‘Connect’ button. You’ll need to whitelist the IP address(es) that will be connecting to it, or use 0.0.0.0/0 to allow all incoming traffic. You’ll have to copy the Connection URI into ‘databases.mongo.address’ in config/default.json, making sure to fill in the password and database name. You can use ‘admin’ as the database name since our code specifies the ‘lifescope’ database whenever it reads from or writes to Mongo.</p>
 <h4 id="install-dependencies-and-fill-in-remote-map-ids">Install dependencies and fill in Remote Map IDs</h4>
 <p>All the migration scripts are currently in lifescope-etl /archive/</p>
