@@ -1,4 +1,4 @@
-# lifescope-api (production phase, high priority)
+# lifescope-api
 
 Universal API backend for the LIFESCOPE platform.
 
@@ -145,5 +145,5 @@ REST API for login/logout/signup and connection OAUTH workflow
 * [graphql-compose-mongoose](https://github.com/graphql-compose/graphql-compose-mongoose)
 * Vue/Nuxt
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MTAxNDc1M119
+eyJoaXN0b3J5IjpbLTExOTUwNjAyNF19
 -->
