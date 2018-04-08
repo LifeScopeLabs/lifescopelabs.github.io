@@ -103,6 +103,8 @@ BitScoop Marker Pattern File
 
 [patternarbs]:https://lifescopelabs.github.io/assets/xr/bitscoop-marker-patt-file.png
 [markerbs]:https://lifescopelabs.github.io/assets/xr/bitscoop-marker.png
+
+[vrmapbox]:https://lifescopelabs.github.io/assets/wireframes/vr-maps-aframe-mapbox.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIzNDY3NjE3XX0=
+eyJoaXN0b3J5IjpbMjU0MzI2NDE1XX0=
 -->
