@@ -1,7 +1,8 @@
 # lifescope-ai
 
-This is a suite of tools for reporting and machine learning from l, visualization
-* Behavior modeling
+This is a suite of tools for reporting and machine learning from LIFESCOPE data. Reporting is focused on building approachable dashboard visualizations and infographics.
+
+Machine learning models based on L are focused on Behavior modeling
   * correlation
   * prediction
   * suggestion
@@ -41,5 +42,5 @@ Prediction and anomaly detection based on location history.
 [infographics1]:https://lifescopelabs.github.io/assets/screenshots/infographics1.png
 [infographics2]:https://lifescopelabs.github.io/assets/screenshots/infographics2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMzU1MzU4Ml19
+eyJoaXN0b3J5IjpbMTQxNTMxNjE1Ml19
 -->
