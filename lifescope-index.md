@@ -1,6 +1,6 @@
 # LIFESCOPE
-### The Internet of You
 
+### The Internet of You
 
 "My friends and I work, play, and communicate on dozens platforms. Conversation start on texts, continue on Facebook Messenger, continue in person, then go to Skype and conclude on Slack. Retracing my history keeps me jumping from app to app without any control. Pretty much all software is like this; it's a broken experience."
 
@@ -20,7 +20,6 @@ LifeScope is still in early days, but we have plans to expand this platform so i
 
 #### Want to help make the LifeScope dream real? [Join the cause](https://lifescope.io/signupdev)!
 
-
 # Architecture
 
 ### Overview
@@ -36,16 +35,15 @@ LifeScope is still in early days, but we have plans to expand this platform so i
 
 
 ## Frontend
+
 ### [lifescope-site](https://lifescopelabs.github.io/site.html)
-* Backups of all site content /documentation for lifescope.github.io
-* lifescope.io served by SquareSquare
+Backups of all site content /documentation for lifescope.github.io. lifescope.io served by SquareSquare.
+
 ### [lifescope-app](https://lifescopelabs.github.io/app.html)
-App to search explorer and curate your personal data in various views. Single-page Universal web app built on Nuxt and Vue.js.
-* Desktop/mobile reactive design interface with javascript extentions
-* Written with plugin framework such as location tracking, web xr and web voice
-* Should be containerizable inside a universal app framework like Cordova.
-* Able to connect as many provider accounts you want. List saved searches and hashtags
+App to search explorer and curate your personal data in various views. Single-page Universal web app built on Nuxt and Vue.js. Desktop/mobile reactive design interface with javascript extensions. Written with plugin framework such as location tracking, web xr and web voice. Should be containerizable inside a universal app framework like Cordova. Able to connect as many provider accounts you want. List saved searches and hashtags
+
 #### Explorer
+
 ##### Views
 * Feed
 * List
@@ -54,6 +52,7 @@ App to search explorer and curate your personal data in various views. Single-pa
 * Virtual Reality Room
 * Augmented Reality Phone
 * Voice
+
 #### Providers
 * Facebook
 * Twitter
@@ -67,6 +66,7 @@ App to search explorer and curate your personal data in various views. Single-pa
 * Instagram
 * **Google**
 * **Slice**
+
 #### People Management
 Relate contacts together into People and relate People into Users
 
@@ -119,5 +119,5 @@ Relate contacts together into People and relate People into Users
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
 [arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg  "Arch" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTQ5MTYyNTldfQ==
+eyJoaXN0b3J5IjpbLTE3Nzc2NjM3NTRdfQ==
 -->
