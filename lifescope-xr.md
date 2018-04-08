@@ -84,13 +84,11 @@ Examples
 #### 3. Memory palace (concept phase, low priority)
 
 
-![spider][spider]
 
 [armap]:https://lifescopelabs.github.io/assets/maps/ar-phone-topo-mapbox.jpg
 [armap2]:https://lifescopelabs.github.io/assets/maps/ar-phone-topo-mapbox2.jpg
 
-[spider]:https://lifescopelabs.github.io/assets/maps/map-spider.png
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk3MDczMjE5XX0=
+eyJoaXN0b3J5IjpbMTg3ODUxMTA3XX0=
 -->
