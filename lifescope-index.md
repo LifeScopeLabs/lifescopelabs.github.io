@@ -72,15 +72,12 @@ LifeScope is still in early days, but we have plans to expand this platform so i
 * **Google**
 * **Slice**
 #### People Management
-* Relate contacts together into People
-* Relate People into Users
+Relate contacts together into People and relate People into Users
+
 #### Settings
-* Manage username
-* Manage providers
-* 
+
 #### Published Content
-* Embed saved searches as dynamic iFrame
-* Served publicly
+
 ### [lifescope-browser-extension](https://lifescopelabs.github.io/app.html)
 * Regularly post browser history into Lifescope schema
 * Capture web history on a url, site visit, or domain basis
@@ -126,5 +123,5 @@ LifeScope is still in early days, but we have plans to expand this platform so i
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
 [arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg  "Arch" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI3OTM3NDUwXX0=
+eyJoaXN0b3J5IjpbMjI0NTg3ODA5XX0=
 -->
