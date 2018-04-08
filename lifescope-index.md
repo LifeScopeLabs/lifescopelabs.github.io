@@ -83,16 +83,16 @@ Published Content
 | Steam | Provider API ETL | production | events, content |
 | Reddit | Provider API ETL | production | events, content, contacts, contacts |
 | Spotify | Provider API ETL | production | events, content |
-| FitBit | Provider API ETL | production | messages, posts, likes |
-| GitHub | Provider API ETL | production | messages, posts, likes |
-| Instagram | Provider API ETL | production | messages, posts, likes |
-| **Google** | Provider API ETL | production | messages, posts, likes |
-| **Slice** | Provider API ETL | production | messages, posts, likes |
+| GitHub | Provider API ETL | production | events, content, contacts |
+| Instagram | Provider API ETL | production | events, content, contacts |
+| Google | Provider API ETL | production | events, content, contacts |
+| Slice | Provider API ETL | development | events, content, contacts |
+| FitBit | Provider API ETL | planned | events, things |
 
 
 [conceptdiagram]:https://lifescopelabs.github.io/assets/img/concept-diagram.png
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
 [arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg  "Arch" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzOTA1NzI1XX0=
+eyJoaXN0b3J5IjpbNzQ2MjIxNDczXX0=
 -->
