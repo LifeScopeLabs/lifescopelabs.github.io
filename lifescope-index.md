@@ -47,9 +47,6 @@ The core of LIFESCOPE is an automated set of tools to collect personal data (via
 ![conceptdiagram]
 
 
-
-### Architecture  Overview
-
 The Lifescope platform is designed to be completely pluggable. 
 
 ![arch]
@@ -58,6 +55,7 @@ The Lifescope platform is designed to be completely pluggable.
 
 LIFESCOPE App to search explorer and curate your personal data in various views. Single-page Universal web app built on Nuxt and Vue.js. Desktop/mobile reactive design interface with javascript extensions. Written with plugin framework such as location tracking, web xr and web voice. Should be containerizable inside a universal app framework like Cordova (iOS, Android, Mac, Win). Able to connect as many provider accounts you want. List saved searches and hashtags.
 
+- Explorer Views
   * Feed
   * List
   * Map
@@ -130,5 +128,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY5NDg4NzIxXX0=
+eyJoaXN0b3J5IjpbLTIwODY2MjQ4OTJdfQ==
 -->
