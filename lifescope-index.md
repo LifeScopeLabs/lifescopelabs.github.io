@@ -72,7 +72,13 @@ Published Content
 ## Documentation
 | Repository | Priority | Status |
 |--|--|--|
-| [lifescope-ai](https://lifescopelabs.github.io/a.html) |  |  |
+| [lifescope-ai](https://lifescopelabs.github.io/ai.html) | low | concept |
+| [lifescope-api](https://lifescopelabs.github.io/api.html) | high | production |
+| [lifescope-ai](https://lifescopelabs.github.io/ai.html) | low | concept |
+| [lifescope-ai](https://lifescopelabs.github.io/ai.html) | low | concept |
+| [lifescope-ai](https://lifescopelabs.github.io/ai.html) | low | concept |
+| [lifescope-ai](https://lifescopelabs.github.io/ai.html) | low | concept |
+| [lifescope-ai](https://lifescopelabs.github.io/ai.html) | low | concept |
 
 
 [lifescope-site](https://lifescopelabs.github.io/site.html)
@@ -89,5 +95,5 @@ Published Content
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
 [arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg  "Arch" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MDY3NjgzOV19
+eyJoaXN0b3J5IjpbLTkxMTE0MTMxOV19
 -->
