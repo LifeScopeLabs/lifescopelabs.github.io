@@ -57,7 +57,7 @@ gulp bundle:ebs
 
 to zip up the webserver code for deployment to ElasticBeanstalk.
 
-#### Create SQS queues
+### Create SQS queues
 Next we're going to create the SQS queues, as they need to be set up before some of the Lambda functions are created.
 
 Go to [SQS](https://console.aws.amazon.com/sqs/home) and click on Create New Queue.
@@ -74,7 +74,7 @@ What this does is create a regular queue for scheduled jobs.
 If a job fails 5 times, it gets sent to the dead letter queue.
 If we wanted to do some analysis on failed jobs to figure out why they failed, we'd have a record of them in the dead letter queue.
 
-#### Create IAM role
+### Create IAM role
 Go to [IAM roles](https://console.aws.amazon.com/iam/home#/roles).
 Create a new role and click the Select button next to AWS Lambda.
 You'll want to search for and add four policies:
@@ -97,7 +97,7 @@ Finally, click Next Step, then give this policy a name like 'LambdaInvoke', then
 Go back to the 'lifescope' role and under the Permissions tab select Attach Policy.
 Search for the LambdaInvoke policy you just made, check it, then click Attach Policy.
 
-#### Create Lambda functions
+### Create Lambda functions
 Next we're going to creating four lambda functions for some recurring tasks that will be run, as well as a migration script.
 Follow this general flow for each of them, paying attention to instructions specific to a given function.
 You must create the 'worker' function before the 'lifescope-consumer' function, as the latter needs the ARN of the former as an Environment Variable.
@@ -122,20 +122,20 @@ The Handler should be ‘index.handler’.
 
 You will need to add Environment Variables specific to each function:
 
-## lifescope-migrations
+### lifescope-migrations
 - MONGO_ADDRESS (obtained from Mongo Atlas instance)
 
-## lifescope-generator
+### lifescope-generator
 - MONGO_ADDRESS (obtained from Mongo Atlas instance)
 - QUEUE_URL (obtained from SQS queue)
 
-##### lifescope-worker
+### lifescope-worker
 - MONGO_ADDRESS (obtained from Mongo Atlas instance)
 - QUEUE_URL (obtained from SQS queue)
 - BITSCOOP_API_KEY (obtainable at https://bitscoop.com/keys)
 - DEAD_LETTER_QUEUE_URL (obtained from SQS dead letter queue)
 
-##### lifescope-consumer
+### lifescope-consumer
 - MONGO_ADDRESS (obtained from Mongo Atlas instance)
 - QUEUE_URL (obtained from SQS queue)
 - WORKER_FUNCTION_ARN (ARN of the worker function, found in the top right corner of its details page)
@@ -152,7 +152,7 @@ You can do this by clicking the Test button when looking at that function's page
 The sample event doesn't matter since the script doesn't use any information from the event it's passed.
 This only needs to be run once, so you shouldn't set up any triggers.
 
-#### Upload webserver code to ElasticBeanstalk
+## Upload webserver code to ElasticBeanstalk
 Next we're going to create the webserver using ElasticBeanstalk.
 This will run the main application that displays your data and allows you to search through it.
 
@@ -166,7 +166,7 @@ If you want to use a custom domain or make any other modifications to the instan
 It will take a few minutes for EBS to spin up the box.
 When that's finished, go to the environment that was made for this application and get its URL, as we need to use this in some static files.
 
-#### Upload static files to S3
+## Upload static files to S3
 You need to replace ***INSERT EBS URL HERE*** with the URL of your EBS environment in six static files:
 
 - static/js/components/search.js
@@ -196,9 +196,9 @@ Click Next, then Next again, then review everything and click Upload.
 At this point, everything should be ready to go.
 Go to the EBS environment's URL and you should be taken to the home page of the application.
 
-## How to run Lambda Local
+# How to run Lambda Local
 
-### 1. Install Docker
+## 1. Install Docker
 
 This tutorial assumes a unix based system, and is written on an OSX system
 Install docker
@@ -206,7 +206,7 @@ Install docker
 go to https://docs.docker.com/engine/installation/ and install docker on your system.
 
 
-### 2. Install AWS SAM local
+## 2. Install AWS SAM local
 
 Note: this will install SAM local globally on your system
 `npm install -g aws-sam-local`
@@ -216,18 +216,18 @@ Check the install using
 
 The template file and the environment variables file are locate in the lambda/local folder of the project.
 
-### 3. Install ElasticMQ as mock SQS
+## 3. Install ElasticMQ as mock SQS
 
 You can download file distribution here: https://s3-eu-west-1.amazonaws.com/softwaremill-public/elasticmq-server-0.13.8.jar
 place the JAR file in the SQS folder of the project
 
-### 4.Run the SQS server
+## 4.Run the SQS server
 
 in a new shell run the following at the top level of the project
 
 `java -Dconfig.file=SQS/sqs_config/lifescopeSQS.conf -jar SQS/elasticmq-server-0.13.8.jar`
 
-### 4. Running SAM local
+## 4. Running SAM local
 
 In order to begin running the local Lambda function run the following code in the top level directory of the project
 
@@ -235,5 +235,5 @@ In order to begin running the local Lambda function run the following code in th
 
 you will then be shown the urls to your lambda functions along with their port numbers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4ODE5OTUxOF19
+eyJoaXN0b3J5IjpbLTIwMjU0Nzg1NTldfQ==
 -->
