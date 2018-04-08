@@ -19,8 +19,6 @@ The old front end lifescope app is in the lifescope-etl /archive folder.
 Learn more about the Old Frontend App:
 https://github.com/LifeScopeLabs/lifescope-etl/tree/master/archive/tutorial
 
-
-
 ## AWS services
 
 You will also need to upload various portions of this project to Lambda, ElasticBeanstalk, and S3, and you will create two SQS queues to facilitate communication between some of the Lambda functions.
@@ -235,5 +233,5 @@ In order to begin running the local Lambda function run the following code in th
 
 you will then be shown the urls to your lambda functions along with their port numbers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU2NzUyODQwXX0=
+eyJoaXN0b3J5IjpbLTE2NTc0MzQyMDRdfQ==
 -->
