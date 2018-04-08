@@ -88,7 +88,8 @@ Examples
 [armap]:https://lifescopelabs.github.io/assets/maps/ar-phone-topo-mapbox.jpg
 [armap2]:https://lifescopelabs.github.io/assets/maps/ar-phone-topo-mapbox2.jpg
 
-https://lifescopelabs.github.io/assets/xr/bitscoop-marker-patt-file.png
+[patternar]:https://lifescopelabs.github.io/assets/xr/bitscoop-marker-patt-file.png
+[marker]:https://lifescopelabs.github.io/assets/xr/bitscoop-marker.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMjE2Mjg1MV19
+eyJoaXN0b3J5IjpbMTUyMjAwODc5MV19
 -->
