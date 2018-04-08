@@ -37,8 +37,7 @@ All of the collected data is organized into a [database](https://lifescopelabs.g
 
 ## Data Collection
 LIFESCOPE collects personal information from three places. When you create connections in the App or API, [API ETL Scripts](https://lifescopelabs.github.io/etl.html) will run.
-The[Browser Plugin](https://lifescopelabs.github.io/browser-extension.html) allows for opting into recording domain an url visits by
- - [App](https://lifescopelabs.github.io/app.html) 
+The[Browser Plugin](https://lifescopelabs.github.io/browser-extension.html) allows for opting into recording url and visits. The plugin can also scrape webpages. The native and web JavaScrip [App](https://lifescopelabs.github.io/app.html) can pull information on the device like l
 
 ![soureflow]
 
@@ -133,5 +132,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTk4MTM0OTBdfQ==
+eyJoaXN0b3J5IjpbMTExNTQ0ODk1M119
 -->
