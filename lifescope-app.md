@@ -24,7 +24,7 @@
 * Augmented Reality Phone
 * Voice
 
-![spider][spider]
+![lifescope-app-legacy][lifescope-app-legacy]
 
 #### Providers
 * Facebook
@@ -55,7 +55,7 @@
 
 [providerpage]:https://lifescopelabs.github.io/assets/screenshots/provider-maps-screenshot.png
 [spider]:https://lifescopelabs.github.io/assets/maps/map-spider.png
-[spider]:https://lifescopelabs.github.io/assets/maps/**lifescope-app-legacy.png
+[lifescope-app-legacy]:https://lifescopelabs.github.io/assets/screenshots/lifescope-app-legacy.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NzI3Mzk4Ml19
+eyJoaXN0b3J5IjpbMTE3MzA1OTk5N119
 -->
