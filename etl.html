@@ -13,15 +13,26 @@
     <div class="stackedit__toc">
       
 <ul>
-<li><a href="#lifescope-etl">lifescope-etl</a>
-<ul>
-<li><a href="#app-archive-to-be-deprecated">App Archive (to be deprecated)</a></li>
-<li><a href="#aws-services-required">AWS services Required</a>
+<li><a href="#lifescope-etl">LIFESCOPE-ETL</a></li>
+<li><a href="#lifescope-archive-app">LIFESCOPE Archive App</a>
 <ul>
 <li></li>
 </ul>
 </li>
-<li><a href="#how-to-run-lambda-local">How to run Lambda Local</a></li>
+<li><a href="#aws-services-required">AWS services Required</a>
+<ul>
+<li></li>
+<li><a href="#upload-webserver-code-to-elasticbeanstalk">Upload webserver code to ElasticBeanstalk</a></li>
+<li><a href="#upload-static-files-to-s3">Upload static files to S3</a></li>
+</ul>
+</li>
+<li><a href="#how-to-run-lambda-local">How to run Lambda Local</a>
+<ul>
+<li><a href="#install-docker">1. Install Docker</a></li>
+<li><a href="#install-aws-sam-local">2. Install AWS SAM local</a></li>
+<li><a href="#install-elasticmq-as-mock-sqs">3. Install ElasticMQ as mock SQS</a></li>
+<li><a href="#run-the-sqs-server">4.Run the SQS server</a></li>
+<li><a href="#running-sam-local">4. Running SAM local</a></li>
 </ul>
 </li>
 </ul>
@@ -30,25 +41,26 @@
   </div>
   <div class="stackedit__right">
     <div class="stackedit__html">
-      <h1 id="lifescope-etl">lifescope-etl</h1>
-<p>This is the lifescope automated data collection system for connected services. The serverless ETL functions are built for Lambda and pull user data data from APIs on a scheduled basis into MongoDB.</p>
+      <h1 id="lifescope-etl">LIFESCOPE-ETL</h1>
+<p>This is the LIFESCOPE automated data collection system for connected services. The serverless ETL functions are built for Lambda and pull user data data from APIs on a scheduled basis into MongoDB.</p>
 <ul>
 <li>Pull data from source apis through BitScoop SDK</li>
 <li>Syncs on a scheduled basis.</li>
-<li>Transform data into lifescope schema.</li>
+<li>Transform data into LIFESCOPE schema.</li>
 <li>Provider scripts keep a copy of original data.</li>
 </ul>
-<h2 id="app-archive-to-be-deprecated">App Archive (to be deprecated)</h2>
-<p>The old front end lifescope app is in the lifescope-etl /archive folder.</p>
+<h1 id="lifescope-archive-app">LIFESCOPE Archive App</h1>
+<p><strong>Note: DEPRICATED</strong></p>
+<p>The old front end LIFESCOPE app is in the LIFESCOPE-etl /archive folder.</p>
 <h3 id="old-frontend-app-architecture">Old Frontend App Architecture</h3>
 <p><img src="https://lifescopelabs.github.io/assets/diagrams/LifeScopeArchitectureOLD.jpg" alt="arch"></p>
 <p>Learn more about the Old Frontend App:<br>
 <a href="https://github.com/LifeScopeLabs/lifescope-etl/tree/master/archive/tutorial">https://github.com/LifeScopeLabs/lifescope-etl/tree/master/archive/tutorial</a></p>
-<h2 id="aws-services-required">AWS services Required</h2>
+<h1 id="aws-services-required">AWS services Required</h1>
 <p>You will also need to upload various portions of this project to Lambda, ElasticBeanstalk, and S3, and you will create two SQS queues to facilitate communication between some of the Lambda functions.<br>
 We’ll start with creating an S3 bucket since it’s a prerequisite for other parts.<br>
 We have to wait to upload the static files until later since they require the domain of the webserver, which doesn’t exist yet.</p>
-<h4 id="create-s3-bucket-static-files-to-s3">Create S3 bucket static files to S3</h4>
+<h3 id="create-s3-bucket-static-files-to-s3">Create S3 bucket static files to S3</h3>
 <p>Go to S3 and create a new bucket.<br>
 Give it a name and select the region that’s closest to you, then click Next.<br>
 You can leave Versioning, Logging, and Tags disabled, so click Next.<br>
@@ -62,7 +74,7 @@ Click Next, review everything, then click Create Bucket.</p>
 <li>templates/components/header.html</li>
 </ul>
 <p>Also copy the IDs of the Login Maps into their respective places in ‘login..id’.</p>
-<h4 id="build-lambda-functions-and-webserver-code">Build Lambda functions and webserver code</h4>
+<h3 id="build-lambda-functions-and-webserver-code">Build Lambda functions and webserver code</h3>
 <p>From the top level of the project run</p>
 <pre><code>gulp bundle:lambda
 </code></pre>
@@ -70,21 +82,21 @@ Click Next, review everything, then click Create Bucket.</p>
 <pre><code>gulp bundle:ebs
 </code></pre>
 <p>to zip up the webserver code for deployment to ElasticBeanstalk.</p>
-<h4 id="create-sqs-queues">Create SQS queues</h4>
+<h3 id="create-sqs-queues">Create SQS queues</h3>
 <p>Next we’re going to create the SQS queues, as they need to be set up before some of the Lambda functions are created.</p>
 <p>Go to <a href="https://console.aws.amazon.com/sqs/home">SQS</a> and click on Create New Queue.<br>
-Name it ‘lifescope-jobs-dead-letter’ and make sure it’s a Standard Queue.<br>
+Name it ‘LIFESCOPE-jobs-dead-letter’ and make sure it’s a Standard Queue.<br>
 Click Quick Create Queue at the bottom of the page.<br>
 You should be taken back to the home page for SQS.<br>
-Create another queue, name this one ‘lifescope-jobs’, and make sure it’s also a Standard Queue.<br>
+Create another queue, name this one ‘LIFESCOPE-jobs’, and make sure it’s also a Standard Queue.<br>
 Click on the Configure Queue button at the bottom instead of Quick Create.<br>
-Check ‘Use Redrive Policy’, set the Dead Letter Queue to ‘lifescope-jobs-dead-letter’ and Maximum Receives to 5, then click Create Queue.<br>
+Check ‘Use Redrive Policy’, set the Dead Letter Queue to ‘LIFESCOPE-jobs-dead-letter’ and Maximum Receives to 5, then click Create Queue.<br>
 Finally, click on one of the queues and, under the Details tab, take note of its URL.<br>
 Get the URL for the other queue as well.</p>
 <p>What this does is create a regular queue for scheduled jobs.<br>
 If a job fails 5 times, it gets sent to the dead letter queue.<br>
 If we wanted to do some analysis on failed jobs to figure out why they failed, we’d have a record of them in the dead letter queue.</p>
-<h4 id="create-iam-role">Create IAM role</h4>
+<h3 id="create-iam-role">Create IAM role</h3>
 <p>Go to <a href="https://console.aws.amazon.com/iam/home#/roles">IAM roles</a>.<br>
 Create a new role and click the Select button next to AWS Lambda.<br>
 You’ll want to search for and add four policies:</p>
@@ -105,7 +117,7 @@ For Amazon Resource Name enter ‘*’, then click Add Statement.<br>
 Finally, click Next Step, then give this policy a name like ‘LambdaInvoke’, then click Create Policy.<br>
 Go back to the ‘lifescope’ role and under the Permissions tab select Attach Policy.<br>
 Search for the LambdaInvoke policy you just made, check it, then click Attach Policy.</p>
-<h4 id="create-lambda-functions">Create Lambda functions</h4>
+<h3 id="create-lambda-functions">Create Lambda functions</h3>
 <p>Next we’re going to creating four lambda functions for some recurring tasks that will be run, as well as a migration script.<br>
 Follow this general flow for each of them, paying attention to instructions specific to a given function.<br>
 You must create the ‘worker’ function before the ‘lifescope-consumer’ function, as the latter needs the ARN of the former as an Environment Variable.</p>
@@ -122,23 +134,23 @@ Make sure to check ‘Enable trigger’ for each function that has a trigger, th
 Navigate to the dist/ directory in this project and select the .zip file that corresponds to the function you’re uploading.<br>
 The Handler should be ‘index.handler’.</p>
 <p>You will need to add Environment Variables specific to each function:</p>
-<h5 id="lifescope-migrations">lifescope-migrations</h5>
+<h3 id="lifescope-migrations">lifescope-migrations</h3>
 <ul>
 <li>MONGO_ADDRESS (obtained from Mongo Atlas instance)</li>
 </ul>
-<h5 id="lifescope-generator">lifescope-generator</h5>
+<h3 id="lifescope-generator">lifescope-generator</h3>
 <ul>
 <li>MONGO_ADDRESS (obtained from Mongo Atlas instance)</li>
 <li>QUEUE_URL (obtained from SQS queue)</li>
 </ul>
-<h5 id="lifescope-worker">lifescope-worker</h5>
+<h3 id="lifescope-worker">lifescope-worker</h3>
 <ul>
 <li>MONGO_ADDRESS (obtained from Mongo Atlas instance)</li>
 <li>QUEUE_URL (obtained from SQS queue)</li>
 <li>BITSCOOP_API_KEY (obtainable at <a href="https://bitscoop.com/keys">https://bitscoop.com/keys</a>)</li>
 <li>DEAD_LETTER_QUEUE_URL (obtained from SQS dead letter queue)</li>
 </ul>
-<h5 id="lifescope-consumer">lifescope-consumer</h5>
+<h3 id="lifescope-consumer">lifescope-consumer</h3>
 <ul>
 <li>MONGO_ADDRESS (obtained from Mongo Atlas instance)</li>
 <li>QUEUE_URL (obtained from SQS queue)</li>
@@ -153,7 +165,7 @@ Hit next and you’ll be taken to a review screen, and then select ‘Create Fun
 You can do this by clicking the Test button when looking at that function’s page, then clicking Save and Test.<br>
 The sample event doesn’t matter since the script doesn’t use any information from the event it’s passed.<br>
 This only needs to be run once, so you shouldn’t set up any triggers.</p>
-<h4 id="upload-webserver-code-to-elasticbeanstalk">Upload webserver code to ElasticBeanstalk</h4>
+<h2 id="upload-webserver-code-to-elasticbeanstalk">Upload webserver code to ElasticBeanstalk</h2>
 <p>Next we’re going to create the webserver using ElasticBeanstalk.<br>
 This will run the main application that displays your data and allows you to search through it.</p>
 <p>Start <a href="https://console.aws.amazon.com/elasticbeanstalk/home#/newApplication">creating</a> a new application with ElasticBeanstalk.<br>
@@ -165,7 +177,7 @@ You can leave it as the default for this first time, but if you need to re-uploa
 If you want to use a custom domain or make any other modifications to the instance you’re creating, click ‘Configure more options’, otherwise click ‘Create application’.<br>
 It will take a few minutes for EBS to spin up the box.<br>
 When that’s finished, go to the environment that was made for this application and get its URL, as we need to use this in some static files.</p>
-<h4 id="upload-static-files-to-s3">Upload static files to S3</h4>
+<h2 id="upload-static-files-to-s3">Upload static files to S3</h2>
 <p>You need to replace <em><strong>INSERT EBS URL HERE</strong></em> with the URL of your EBS environment in six static files:</p>
 <ul>
 <li>static/js/components/search.js</li>
@@ -189,24 +201,24 @@ Open the ‘Manage Group Permissions’ accordion and give Everyone read access 
 Click Next, then Next again, then review everything and click Upload.</p>
 <p>At this point, everything should be ready to go.<br>
 Go to the EBS environment’s URL and you should be taken to the home page of the application.</p>
-<h2 id="how-to-run-lambda-local">How to run Lambda Local</h2>
-<h3 id="install-docker">1. Install Docker</h3>
+<h1 id="how-to-run-lambda-local">How to run Lambda Local</h1>
+<h2 id="install-docker">1. Install Docker</h2>
 <p>This tutorial assumes a unix based system, and is written on an OSX system<br>
 Install docker</p>
 <p>go to <a href="https://docs.docker.com/engine/installation/">https://docs.docker.com/engine/installation/</a> and install docker on your system.</p>
-<h3 id="install-aws-sam-local">2. Install AWS SAM local</h3>
+<h2 id="install-aws-sam-local">2. Install AWS SAM local</h2>
 <p>Note: this will install SAM local globally on your system<br>
 <code>npm install -g aws-sam-local</code></p>
 <p>Check the install using<br>
 <code>sam --version</code></p>
 <p>The template file and the environment variables file are locate in the lambda/local folder of the project.</p>
-<h3 id="install-elasticmq-as-mock-sqs">3. Install ElasticMQ as mock SQS</h3>
+<h2 id="install-elasticmq-as-mock-sqs">3. Install ElasticMQ as mock SQS</h2>
 <p>You can download file distribution here: <a href="https://s3-eu-west-1.amazonaws.com/softwaremill-public/elasticmq-server-0.13.8.jar">https://s3-eu-west-1.amazonaws.com/softwaremill-public/elasticmq-server-0.13.8.jar</a><br>
 place the JAR file in the SQS folder of the project</p>
-<h3 id="run-the-sqs-server">4.Run the SQS server</h3>
+<h2 id="run-the-sqs-server">4.Run the SQS server</h2>
 <p>in a new shell run the following at the top level of the project</p>
 <p><code>java -Dconfig.file=SQS/sqs_config/lifescopeSQS.conf -jar SQS/elasticmq-server-0.13.8.jar</code></p>
-<h3 id="running-sam-local">4. Running SAM local</h3>
+<h2 id="running-sam-local">4. Running SAM local</h2>
 <p>In order to begin running the local Lambda function run the following code in the top level directory of the project</p>
 <p><code>sam local start-api -t lambda/local/template.yml --env-vars lambda/local/environmentVars.json</code></p>
 <p>you will then be shown the urls to your lambda functions along with their port numbers.</p>
