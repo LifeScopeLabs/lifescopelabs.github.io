@@ -1,5 +1,5 @@
-# lifescope-voice (concept phase, low priority)
+# lifescope-voice
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0MzI3NTY5XX0=
+eyJoaXN0b3J5IjpbLTE0ODYwNzgxM119
 -->
