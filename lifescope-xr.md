@@ -93,6 +93,10 @@ Examples
 
 #### 2. Infinite procedural walls (concept phase, low priority)
 
+![proceduralvr1]
+
+![proceduralvr2]
+
 #### 3. Memory palace (concept phase, low priority)
 
 BitScoop Marker
@@ -112,8 +116,8 @@ BitScoop Marker Pattern File
 
 [vrmapbox]:https://lifescopelabs.github.io/assets/wireframes/vr-maps-aframe-mapbox.png
 [argateway]:https://lifescopelabs.github.io/assets/wireframes/ar-phone-gateway.png
-[procedural]:https://lifescopelabs.github.io/assets/wireframes/vr-maps-aframe-mapbox.png
-[vrmapbox]:https://lifescopelabs.github.io/assets/wireframes/vr-maps-aframe-mapbox.png
+[proceduralvr1]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame1.png
+[proceduralvr2]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NDgzNjM0NV19
+eyJoaXN0b3J5IjpbODEwNDgxMTk2XX0=
 -->
