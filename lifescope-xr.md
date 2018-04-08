@@ -1,10 +1,10 @@
-# lifescope-xr
+# LIFESCOPE-XR
 This repo contains a series of AR/VR Views written to extend lifescope-app codebase as JS/Vue/Nuxt plugins.
 
-## Views
-### Augmented Reality
+# Views
+## Augmented Reality
 
-##### LIFESCOPE AR Marker
+#### LIFESCOPE AR Marker
 ![marker]
 
 #### LIFESCOPE AR Marker Pattern file. 
@@ -17,14 +17,14 @@ Notice how the pattern encodes the variance of the bitmap
 ![armap][armap2]
 
 Requirements
-- **MVP**: See a trail of gateways left behind from lifescope location objects.
-- Shows the current location (GPS) tile and database lifescope objects using markers.
-- See location of other lifescope objects.
-- See geo-polygons drawn from lifescope places objects.
+- **MVP**: See a trail of gateways left behind from LIFESCOPE location objects.
+- Shows the current location (GPS) tile and database LIFESCOPE objects using markers.
+- See location of other lifLIFESCOPEescope objects.
+- See geo-polygons drawn from LIFESCOPE places objects.
 - Able to select locations, zoom, objects
 - Ability to see AR Globe (See VR Globe)
 - Able to work without marker. Using compass, accelerometer, gyroscope, camera (slam), etc…
-- Able to see other lifescope users with permissions.
+- Able to see other LIFESCOPE users with permissions.
 
 Dependencies
 - Vue/Nuxt compatible
@@ -45,7 +45,7 @@ Examples
 ![argateway]
 
 Requirements
-- **MVP**: Shows AR gateways around the current location (GPS) from the lifescope database
+- **MVP**: Shows AR gateways around the current location (GPS) from the LIFESCOPE database
 - Able to select gateways, zoom, objects
 - Able to see friends
 
@@ -64,20 +64,20 @@ Examples
 
 #### 3. Facial recognition (concept phase, low priority)
 Requirements
-- **MVP**: Able to recognize faces from lifescope data
-- Capture store photo/video/location/speech of “AR encounter” in lifescope api
+- **MVP**: Able to recognize faces from LIFESCOPE data
+- Capture store photo/video/location/speech of “AR encounter” in LIFESCOPE api
 Dependencies
  - Vue/Nuxt compatible
 Examples
 - [JS Facial tracking experiment](https://tastenkunst.github.io/brfv4_javascript_examples/)
 
 ### Virtual Reality
-#### 1. Globe of lifescope trails (development phase, medium priority)
+#### 1. Globe of LIFESCOPE trails (development phase, medium priority)
 
 ![vrmapbox]
 
 Requirements
-- MVP: Shows the current location (GPS) on globe and database lifescope objects using marker
+- MVP: Shows the current location (GPS) on globe and database LIFESCOPE objects using marker
 - Able to select locations, zoom, objects
 - Able to see friends
 
@@ -124,5 +124,5 @@ BitScoop Marker Pattern File
 [proceduralvr1]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame1.png
 [proceduralvr2]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI4MjQ5NzE0XX0=
+eyJoaXN0b3J5IjpbMTkzOTQzODA5MV19
 -->
