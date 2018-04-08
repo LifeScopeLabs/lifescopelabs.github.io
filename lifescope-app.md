@@ -27,18 +27,6 @@
 ![lifescope-app-legacy][lifescope-app-legacy]
 
 #### Providers
-* Facebook
-* Twitter
-* Pinterest
-* Dropbox
-* Steam
-* Reddit
-* Spotify
-* FitBit
-* GitHub
-* Instagram
-* **Google**
-* **Slice**
 
 ![providerpage][providerpage]
 
@@ -57,5 +45,5 @@
 [spider]:https://lifescopelabs.github.io/assets/maps/map-spider.png
 [lifescope-app-legacy]:https://lifescopelabs.github.io/assets/screenshots/lifescope-app-legacy.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MzA1OTk5N119
+eyJoaXN0b3J5IjpbOTI0NzgwNDJdfQ==
 -->
