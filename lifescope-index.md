@@ -69,12 +69,10 @@ App to search explorer and curate your personal data in various views. Single-pa
 * **Google**
 * **Slice**
 
-#### People Management
+- People Management
 Relate contacts together into People and relate People into Users
-
-#### Settings
-
-#### Published Content
+- Settings
+- Published Content
 
 ### [lifescope-browser-extension](https://lifescopelabs.github.io/app.html)
 
@@ -96,5 +94,5 @@ Relate contacts together into People and relate People into Users
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
 [arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg  "Arch" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjM5NTc4NTVdfQ==
+eyJoaXN0b3J5IjpbLTg2NzgyNjk2OF19
 -->
