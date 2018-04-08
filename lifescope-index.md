@@ -12,7 +12,7 @@ The internet landscape is a vast, overwhelming, and broken terrain of data. Only
 
 The study and use of psychometircs and psychographics is the biggest hidden force in the world. Our personal data doesn't just describe who we really are, but also give others power over us by enabling them to reverse engineer our minds. Understanding and controlling our own data should be a human right.
 
-LifeScope is an open platform for personal data designed to empower anyone and preserve dat. The platform is designed the ultimate private repository of your digital life. Connect anywhere and everywhere your information resides and LifeScope will automatically collect, organize, and present everything in your digital memory. Search and leverage your entire digital and social footprint, while streamlining your life online. Curate your history data into the stories you care about.
+LifeScope is an open platform for personal data designed to empower anyone with insights while preserving privacy and ownership. The platform is designed the ultimate private repository of your digital life. Connect anywhere and everywhere your information resides and LifeScope will automatically collect, organize, and present everything in your digital memory. Search and leverage your entire digital and social footprint, while streamlining your life online. Curate your history data into the stories you care about.
 
 LifeScope is still in early days, but we have plans to expand this platform so it can power the next generation of software technology.
 
@@ -121,5 +121,5 @@ Relate contacts together into People and relate People into Users
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
 [arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg  "Arch" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NTEwMzcyM119
+eyJoaXN0b3J5IjpbLTE3MzM2NjU4NDBdfQ==
 -->
