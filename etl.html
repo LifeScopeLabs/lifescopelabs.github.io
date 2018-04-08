@@ -15,8 +15,8 @@
 <ul>
 <li><a href="#lifescope-etl">lifescope-etl</a>
 <ul>
-<li><a href="#app-archive">App Archive</a></li>
-<li><a href="#aws-services">AWS services</a>
+<li><a href="#app-archive-to-be-deprecated">App Archive (to be deprecated)</a></li>
+<li><a href="#aws-services-required">AWS services Required</a>
 <ul>
 <li></li>
 </ul>
@@ -38,13 +38,13 @@
 <li>Transform data into lifescope schema.</li>
 <li>Provider scripts keep a copy of original data.</li>
 </ul>
-<h2 id="app-archive">App Archive</h2>
+<h2 id="app-archive-to-be-deprecated">App Archive (to be deprecated)</h2>
 <p>The old front end lifescope app is in the lifescope-etl /archive folder.</p>
 <h3 id="old-frontend-app-architecture">Old Frontend App Architecture</h3>
 <p><img src="https://lifescopelabs.github.io/assets/diagrams/LifeScopeArchitectureOLD.jpg" alt="arch"></p>
 <p>Learn more about the Old Frontend App:<br>
 <a href="https://github.com/LifeScopeLabs/lifescope-etl/tree/master/archive/tutorial">https://github.com/LifeScopeLabs/lifescope-etl/tree/master/archive/tutorial</a></p>
-<h2 id="aws-services">AWS services</h2>
+<h2 id="aws-services-required">AWS services Required</h2>
 <p>You will also need to upload various portions of this project to Lambda, ElasticBeanstalk, and S3, and you will create two SQS queues to facilitate communication between some of the Lambda functions.<br>
 We’ll start with creating an S3 bucket since it’s a prerequisite for other parts.<br>
 We have to wait to upload the static files until later since they require the domain of the webserver, which doesn’t exist yet.</p>
