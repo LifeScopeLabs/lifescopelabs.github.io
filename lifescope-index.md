@@ -72,8 +72,7 @@ LIFESCOPE App to search explorer and curate your personal data in various views.
 
 ## Repository Index
 
-Status of source repositories and project components:
-
+Status of source repositories and project components.
 | Repository | Priority | Status |
 |--|--|--|
 | [lifescope-ai](https://lifescopelabs.github.io/ai.html) | low | concept |
@@ -90,7 +89,7 @@ Status of source repositories and project components:
 
 ## Data Sources
 
-
+Current status of data source support.
 | Name | Source | Status | Data Collected |
 |--|--|--|--|
 | Facebook | API ETL | production | events, content, contacts, locations |
@@ -132,5 +131,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDYxMzUwNTBdfQ==
+eyJoaXN0b3J5IjpbMTYxMjgxMjAzNl19
 -->
