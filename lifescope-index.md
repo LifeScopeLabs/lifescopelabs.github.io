@@ -72,10 +72,11 @@ Published Content
 - [Database Documentation](https://lifescopelabs.github.io/db.html)
 - [Legacy App Documentation](https://github.com/LifeScopeLabs/lifescope-etl/tree/master/archive/tutorial)
 
-## Providers
-| Provider | Status | Endpoints |
+## Supported Sources
+
+| Name | Provider | Status | Data Collected |
 |--|--|--|
-|  |  |  |
+| Facebook |  |  |
 
 
 * Twitter
@@ -95,5 +96,5 @@ Published Content
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
 [arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg  "Arch" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDk3MDMwOTBdfQ==
+eyJoaXN0b3J5IjpbMjA1ODY5ODY2XX0=
 -->
