@@ -1,7 +1,7 @@
 # LIFESCOPE-XR
 This repo contains a series of AR/VR Views written to extend lifescope-app codebase as JS/Vue/Nuxt plugins.
 
-## Augmented Reality
+# Augmented Reality
 
 ### LIFESCOPE AR Marker
 ![marker]
@@ -125,5 +125,5 @@ BitScoop Marker Pattern File
 [proceduralvr1]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame1.png
 [proceduralvr2]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA0OTg0NDkwXX0=
+eyJoaXN0b3J5IjpbNzcwNDk3NzI3XX0=
 -->
