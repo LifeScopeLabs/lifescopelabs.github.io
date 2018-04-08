@@ -55,7 +55,7 @@ LifeSope App to search explorer and curate your personal data in various views. 
 - Your Settings
 - Published You
 
-## Developer Documentation Index
+## Developer Index
 | Repository | Priority | Status |
 |--|--|--|
 | [lifescope-ai](https://lifescopelabs.github.io/ai.html) | low | concept |
@@ -70,7 +70,7 @@ LifeSope App to search explorer and curate your personal data in various views. 
 - [Database Documentation](https://lifescopelabs.github.io/db.html)
 - [Legacy App Documentation](https://github.com/LifeScopeLabs/lifescope-etl/tree/master/archive/tutorial)
 
-## Supported Personal Data Sources
+## Data Sources
 
 | Name | Source | Status | Data Collected |
 |--|--|--|--|
@@ -91,7 +91,7 @@ LifeSope App to search explorer and curate your personal data in various views. 
 
 ![fractal][fractal]
 
-## Who thought of LIFESCOPE?
+## Who is behind LIFESCOPE?
 
 Liam Broza and the team at BitScoop Labs have been working on problems big data and quantified self for over a decade. This project started as SmokeSignal in 2009 as a Java desktop app for crawling android app data. 
 
@@ -113,5 +113,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTAyNzc4XX0=
+eyJoaXN0b3J5IjpbLTE2MzI3NDgzMDRdfQ==
 -->
