@@ -44,6 +44,7 @@
 [providerpage]:https://lifescopelabs.github.io/assets/screenshots/provider-maps-screenshot.png
 [spider]:https://lifescopelabs.github.io/assets/maps/map-spider.png
 [lifescope-app-legacy]:https://lifescopelabs.github.io/assets/screenshots/lifescope-app-legacy.png
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI0NzgwNDJdfQ==
+eyJoaXN0b3J5IjpbNzEwNjcwODU2XX0=
 -->
