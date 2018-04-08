@@ -22,7 +22,7 @@ Lifescope as an open source platform for anything you want to do with your perso
 
 ### ***Want to help make the LifeScope dream real? [Join the cause!](https://lifescope.io/signupdev)***
 
-## How does it work?
+## How does the Lifescope platform work?
 
 ### Data Flow
 
@@ -109,5 +109,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 [smokesignalss2]:https://lifescopelabs.github.io/assets/screenshots/smokesignal-io-legacy-2.png
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM1MTgzODA5XX0=
+eyJoaXN0b3J5IjpbNjQ3NzAxNjk2XX0=
 -->
