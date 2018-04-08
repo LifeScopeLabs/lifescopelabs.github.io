@@ -42,7 +42,7 @@ The core of LIFESCOPE is an automated set of tools to collect personal data (via
 
 ### Data Organization, Storage, and Services
 - [API](https://lifescopelabs.github.io/api.html)
-- [Database Support]
+- [Database Support](https://lifescopelabs.github.io/database.html)
 
 ![conceptdiagram]
 
@@ -129,5 +129,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MTg2OTMzNl19
+eyJoaXN0b3J5IjpbLTE3MDg1NzkxODRdfQ==
 -->
