@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>lifescope-xr</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li><a href="#lifescope-xr">lifescope-xr</a>
+<ul>
+<li><a href="#views">Views</a></li>
+</ul>
+</li>
+</ul>
+
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <h1 id="lifescope-xr">lifescope-xr</h1>
+<p>This repo contains a series of AR/VR Views written to extend lifescope-app codebase as JS/Vue/Nuxt plugins.</p>
+<h2 id="views">Views</h2>
+<h3 id="augmented-reality">Augmented Reality</h3>
+<h4 id="ar-floor-topography-map-development-phase-medium-priority">1. AR Floor Topography Map (development phase, medium priority)</h4>
+<p><img src="https://lifescopelabs.github.io/assets/maps/ar-phone-topo-mapbox.jpg" alt="armap"><br>
+<img src="https://lifescopelabs.github.io/assets/maps/ar-phone-topo-mapbox2.jpg" alt="armap"></p>
+<p>Requirements</p>
+<ul>
+<li><strong>MVP</strong>: See a trail of gateways left behind from lifescope location objects.</li>
+<li>Shows the current location (GPS) tile and database lifescope objects using markers.</li>
+<li>See location of other lifescope objects.</li>
+<li>See geo-polygons drawn from lifescope places objects.</li>
+<li>Able to select locations, zoom, objects</li>
+<li>Ability to see AR Globe (See VR Globe)</li>
+<li>Able to work without marker. Using compass, accelerometer, gyroscope, camera (slam), etc…</li>
+<li>Able to see other lifescope users with permissions.</li>
+</ul>
+<p>Dependencies</p>
+<ul>
+<li>Vue/Nuxt compatible</li>
+<li><a href="https://github.com/jeromeetienne/AR.js/tree/master/aframe/demos/demo-mapbox">AR.JS</a></li>
+<li><a href="https://aframe.io/">AFrame (0.8+)</a></li>
+<li><a href="https://www.mapbox.com/mapbox-gl-js/api/">Mapbox (0.44.1+)</a></li>
+</ul>
+<p>Examples</p>
+<ul>
+<li><a href="https://github.com/jeromeetienne/AR.js/tree/master/aframe/demos/demo-mapbox">AR.JS Mapbox with marker</a></li>
+<li><a href="https://github.com/1d10t/test">AR.JS markerless</a></li>
+<li><a href="https://github.com/Esri/html5-geolocation-tool-js/blob/master/js/GeolocationHelper.js">Web Geo adapter (De-noise web GPS data</a></li>
+<li><a href="https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html">Marker Maker</a></li>
+<li><a href="https://github.com/LifeScopeLabs/lifescopelabs.github.io/tree/master/assets/xr">BitScoop Marker</a></li>
+<li><a href="https://github.com/networked-aframe/networked-aframe#more-examples">Networked AFrame</a></li>
+</ul>
+<h4 id="phone-ar-gateways-concept-phase-low-priority">2. Phone AR Gateways (concept phase, low priority)</h4>
+<p>Requirements</p>
+<ul>
+<li><strong>MVP</strong>: Shows AR gateways around the current location (GPS) from the lifescope database</li>
+<li>Able to select gateways, zoom, objects</li>
+<li>Able to see friends</li>
+</ul>
+<p>Dependencies</p>
+<ul>
+<li>Vue/Nuxt compatible</li>
+<li><a href="https://github.com/jeromeetienne/AR.js/tree/master/aframe/demos/demo-mapbox">AR.JS</a></li>
+<li><a href="https://aframe.io/">AFrame (0.8+)</a></li>
+<li><a href="https://www.mapbox.com/mapbox-gl-js/api/">Mapbox (0.44.1+)</a></li>
+</ul>
+<p>Examples</p>
+<ul>
+<li><a href="https://github.com/1d10t/test">AR.JS markerless</a></li>
+<li><a href="https://github.com/Esri/html5-geolocation-tool-js/blob/master/js/GeolocationHelper.js">Web Geo adapter (De-noise web GPS data</a></li>
+<li><a href="https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html">Marker Maker</a></li>
+<li><a href="https://github.com/LifeScopeLabs/lifescopelabs.github.io/tree/master/assets/xr">BitScoop Marker</a></li>
+<li><a href="https://github.com/networked-aframe/networked-aframe#more-examples">Networked AFrame</a></li>
+</ul>
+<h4 id="facial-recognition-concept-phase-low-priority">3. Facial recognition (concept phase, low priority)</h4>
+<p>Requirements</p>
+<ul>
+<li><strong>MVP</strong>: Able to recognize faces from lifescope data</li>
+<li>Capture store photo/video/location/speech of “AR encounter” in lifescope api<br>
+Dependencies</li>
+<li>Vue/Nuxt compatible<br>
+Examples</li>
+<li><a href="https://tastenkunst.github.io/brfv4_javascript_examples/">JS Facial tracking experiment</a></li>
+</ul>
+<h3 id="virtual-reality">Virtual Reality</h3>
+<h4 id="globe-of-lifescope-trails-development-phase-medium-priority">1. Globe of lifescope trails (development phase, medium priority)</h4>
+<p>Requirements</p>
+<ul>
+<li>MVP: Shows the current location (GPS) on globe and database lifescope objects using marker</li>
+<li>Able to select locations, zoom, objects</li>
+<li>Able to see friends</li>
+</ul>
+<p>Dependencies</p>
+<ul>
+<li>Vue/Nuxt compatible</li>
+<li><a href="https://github.com/jeromeetienne/AR.js/tree/master/aframe/demos/demo-mapbox">AR.JS</a></li>
+<li><a href="https://aframe.io/">AFrame (0.8+)</a></li>
+<li><a href="https://www.mapbox.com/mapbox-gl-js/api/">Mapbox (0.44.1+)</a></li>
+</ul>
+<p>Examples</p>
+<ul>
+<li><a href="https://github.com/leemark/aframe-earth">Aframe Earth</a></li>
+<li><a href="https://github.com/networked-aframe/networked-aframe#more-examples">Networked AFrame</a></li>
+</ul>
+<h4 id="infinite-procedural-walls-concept-phase-low-priority">2. Infinite procedural walls (concept phase, low priority)</h4>
+<h4 id="memory-palace-concept-phase-low-priority">3. Memory palace (concept phase, low priority)</h4>
+<p><img src="https://lifescopelabs.github.io/assets/maps/map-spider.png" alt="spider"></p>
+
+    </div>
+  </div>
+</body>
+
+</html>
