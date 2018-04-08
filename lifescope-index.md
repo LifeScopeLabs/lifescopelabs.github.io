@@ -33,7 +33,7 @@ We are currently looking for designers, creators, developers, and data scientist
 
 The core of LIFESCOPE is an automated set of tools to collect personal data (via [API ETL Scripts](https://lifescopelabs.github.io/etl.html), [Browser Plugin](https://lifescopelabs.github.io/browser-extension.html), [App](https://lifescopelabs.github.io/app.html) repositories) and organize everything a standard way. 
 
-All of the collected data is organized into a [database](https://lifescopelabs.github.io/database.html) and presented with the [GraphQL and Rest APIs](https://lifescopelabs.github.io/api.html).
+All of the collected data is organized into a [database](https://lifescopelabs.github.io/database.html) and presented with the [ APIs](https://lifescopelabs.github.io/api.html).
 
 ## Data Collection
 LIFESCOPE collects personal information from three places. When you create connections in the App or API, [API ETL Scripts](https://lifescopelabs.github.io/etl.html) will run. The [Browser Plugin](https://lifescopelabs.github.io/browser-extension.html) allows for opting into recording url and visits. The plugin can also scrape webpages. The native and web JavaScrip [App](https://lifescopelabs.github.io/app.html) can pull information on the device such as locations and contacts.
@@ -41,7 +41,7 @@ LIFESCOPE collects personal information from three places. When you create conne
 ![soureflow]
 
 ## Data Organization, Storage, and Services
-The  [API](https://lifescopelabs.github.io/api.html)
+The LIFESCOPE [API](https://lifescopelabs.github.io/api.html) uses
 - [Database Support](https://lifescopelabs.github.io/database.html)
 
 ![conceptdiagram]
@@ -131,5 +131,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjY0NDI5NTFdfQ==
+eyJoaXN0b3J5IjpbLTIwMjY5NzAzODFdfQ==
 -->
