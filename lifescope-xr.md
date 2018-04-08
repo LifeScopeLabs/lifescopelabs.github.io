@@ -75,6 +75,7 @@ Examples
 #### 1. Globe of lifescope trails (development phase, medium priority)
 
 ![vrmapbox]
+
 Requirements
 - MVP: Shows the current location (GPS) on globe and database lifescope objects using marker
 - Able to select locations, zoom, objects
@@ -110,7 +111,7 @@ BitScoop Marker Pattern File
 [markerbs]:https://lifescopelabs.github.io/assets/xr/bitscoop-marker.png
 
 [vrmapbox]:https://lifescopelabs.github.io/assets/wireframes/vr-maps-aframe-mapbox.png
-[argateway]:https://lifescopelabs.github.io/assets/wireframes/gateway.jpg
+[argateway]:https://lifescopelabs.github.io/assets/wireframes/ar-phone-gateway.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQyNzM3MDkyXX0=
+eyJoaXN0b3J5IjpbMjE0MTYwNTIzMV19
 -->
