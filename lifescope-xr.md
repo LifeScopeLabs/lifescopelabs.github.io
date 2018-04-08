@@ -91,11 +91,11 @@ Examples
 [armap]:https://lifescopelabs.github.io/assets/maps/ar-phone-topo-mapbox.jpg
 [armap2]:https://lifescopelabs.github.io/assets/maps/ar-phone-topo-mapbox2.jpg
 
-[patternar]:https://lifescopelabs.github.io/assets/xr/bitscoomarker-patt-file.png
-[marker]:https://lifescopelabs.github.io/assets/xr/bitscoop-marker.png
+[patternar]:https://lifescopelabs.github.io/assets/xr/marker-patt-file.png
+[marker]:https://lifescopelabs.github.io/assets/xr/marker.png
 
 [patternarbs]:https://lifescopelabs.github.io/assets/xr/bitscoop-marker-patt-file.png
 [markerbs]:https://lifescopelabs.github.io/assets/xr/bitscoop-marker.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5ODk0NzM5NF19
+eyJoaXN0b3J5IjpbLTg2NTIyMTEwMV19
 -->
