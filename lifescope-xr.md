@@ -59,7 +59,6 @@ Examples
 - [BitScoop Marker](https://github.com/LifeScopeLabs/lifescopelabs.github.io/tree/master/assets/xr)
 - [Networked AFrame](https://github.com/networked-aframe/networked-aframe#more-examples)
 
-
 #### 3. Facial recognition (concept phase, low priority)
 Requirements
 - **MVP**: Able to recognize faces from lifescope data
@@ -93,7 +92,7 @@ Examples
 BitScoop Marker
 ![markerbs]
 
-BitScoop Marker Pattern file
+BitScoop Marker Pattern File
 ![patternarbs]
 
 [armap]:https://lifescopelabs.github.io/assets/maps/ar-phone-topo-mapbox.jpg
@@ -105,5 +104,5 @@ BitScoop Marker Pattern file
 [patternarbs]:https://lifescopelabs.github.io/assets/xr/bitscoop-marker-patt-file.png
 [markerbs]:https://lifescopelabs.github.io/assets/xr/bitscoop-marker.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3Mzg0NzYzNV19
+eyJoaXN0b3J5IjpbOTIzNDY3NjE3XX0=
 -->
