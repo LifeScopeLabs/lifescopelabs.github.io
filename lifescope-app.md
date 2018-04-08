@@ -46,6 +46,8 @@ Map View
 * Embed saved searches as dynamic iFrame
 * Served publicly
 
+## Notes
+
 Alt Feed View
 ![lifescope-app-wireframe]
 
@@ -55,5 +57,5 @@ Alt Feed View
 [lifescope-app-legacy]:https://lifescopelabs.github.io/assets/screenshots/lifescope-app-legacy.png
 [lifescope-app-wireframe]:https://lifescopelabs.github.io/assets/wireframes/week-content-feed.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDY3MjgyMjNdfQ==
+eyJoaXN0b3J5IjpbNzI1MDQxMTQ4XX0=
 -->
