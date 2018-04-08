@@ -2,13 +2,15 @@
 
 ### The Internet of You
 
-Pretty much all internet connected software is a broken experience. 
-
-**Does this sound familiar?**
 
 _"My friends and I work, play, and communicate on dozens platforms. Conversation start on texts, continue on Facebook Messenger, continue in person, then go to Skype and conclude on Slack. Retracing my history keeps me jumping from app to app."_
 
+**Does this sound familiar?**
+
 ![dataknot][dataknot]
+
+Pretty much all internet connected software is a broken experience. 
+
 
 The internet landscape is a vast, overwhelming, and broken terrain of data. Only the best companies in the world can tap into a tiny fraction of data's potential. People create and consume digital information without understanding what’s going on.  It is hopeless for anyone to create a complete and up to date accounting of their information, let alone search and organize their data.
 
@@ -38,7 +40,6 @@ Lifescope as an open source platform for anything you want to do with your perso
 ## Frontend
 
 App to search explorer and curate your personal data in various views. Single-page Universal web app built on Nuxt and Vue.js. Desktop/mobile reactive design interface with javascript extensions. Written with plugin framework such as location tracking, web xr and web voice. Should be containerizable inside a universal app framework like Cordova. Able to connect as many provider accounts you want. List saved searches and hashtags
-
 
 #### Explorer
 
@@ -97,5 +98,5 @@ Published Content
 [dataknot]:https://lifescopelabs.github.io/assets/img/dataknot.png
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTA1Njg5N119
+eyJoaXN0b3J5IjpbLTcyNzUzNzM3N119
 -->
