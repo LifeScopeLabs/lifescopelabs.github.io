@@ -8,6 +8,8 @@ Pretty much all internet connected software is a broken experience.
 
 _"My friends and I work, play, and communicate on dozens platforms. Conversation start on texts, continue on Facebook Messenger, continue in person, then go to Skype and conclude on Slack. Retracing my history keeps me jumping from app to app."_
 
+![dataknot][dataknot]
+
 The internet landscape is a vast, overwhelming, and broken terrain of data. Only the best companies in the world can tap into a tiny fraction of data's potential. People create and consume digital information without understanding what’s going on.  It is hopeless for anyone to create a complete and up to date accounting of their information, let alone search and organize their data.
 
 The study and use of psychometircs and psychographics is the biggest hidden force in the world. Our personal data doesn't just describe who we really are, but also give others power over us by enabling them to reverse engineer our minds. Understanding and controlling our own data should be a human right.
@@ -91,8 +93,7 @@ Published Content
 [conceptdiagram]:https://lifescopelabs.github.io/assets/img/concept-diagram.png
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
 [arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg  
-
-[conceptdiagram]:https://lifescopelabs.github.io/assets/img/concept-diagram.png
+[dataknot]:https://lifescopelabs.github.io/assets/img/dataknot.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzcxNTkxMl19
+eyJoaXN0b3J5IjpbLTEzNzc1MjM5MjBdfQ==
 -->
