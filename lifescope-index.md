@@ -31,7 +31,7 @@ Lifescope as an open source platform for anything you want to do with your perso
 ![conceptdiagram][conceptdiagram]
 ### Architecture  Overview
 
-[ ![alt text][arch]](https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20Planning%203-26-18.pdf)
+![arch]
 
 #### Single App Architecture
 
@@ -110,5 +110,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NTQwNzE5NV19
+eyJoaXN0b3J5IjpbNTMzNzg0NTI3XX0=
 -->
