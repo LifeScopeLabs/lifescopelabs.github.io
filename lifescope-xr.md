@@ -3,7 +3,7 @@ This repo contains a series of AR/VR Views written to extend lifescope-app codeb
 
 ## Views
 ### Augmented Reality
-
+![patternar]
 #### 1. AR Floor Topography Map (development phase, medium priority)
 
 ![armap][armap]
@@ -91,5 +91,5 @@ Examples
 [patternar]:https://lifescopelabs.github.io/assets/xr/bitscoop-marker-patt-file.png
 [marker]:https://lifescopelabs.github.io/assets/xr/bitscoop-marker.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMjAwODc5MV19
+eyJoaXN0b3J5IjpbNDkyMjkwNjg5XX0=
 -->
