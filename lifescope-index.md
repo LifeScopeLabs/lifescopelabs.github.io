@@ -33,7 +33,7 @@ Lifescope as an open source platform for anything you want to do with your perso
 
 #### Single App Architecture
 
-LifeSope App to search explorer and curate your personal data in various views. Single-page Universal web app built on Nuxt and Vue.js. Desktop/mobile reactive design interface with javascript extensions. Written with plugin framework such as location tracking, web xr and web voice. Should be containerizable inside a universal app framework like Cordova (. Able to connect as many provider accounts you want. List saved searches and hashtags
+LifeSope App to search explorer and curate your personal data in various views. Single-page Universal web app built on Nuxt and Vue.js. Desktop/mobile reactive design interface with javascript extensions. Written with plugin framework such as location tracking, web xr and web voice. Should be containerizable inside a universal app framework like Cordova (iOS, Android, Mac, Win). Able to connect as many provider accounts you want. List saved searches and hashtags.
 
 - Explorer Views
   * Feed
@@ -107,5 +107,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 [smokesignalss2]:https://lifescopelabs.github.io/assets/screenshots/smokesignal-io-legacy-2.png
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MDI4NzA5Nl19
+eyJoaXN0b3J5IjpbLTg2NjMxNDQ1OF19
 -->
