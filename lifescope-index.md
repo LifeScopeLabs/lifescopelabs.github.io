@@ -20,9 +20,7 @@ Connect anywhere and everywhere your information resides and LifeScope will auto
 
 Lifescope as an open source platform for anything you want to do with your personal data. We have plans to expand this platform so it can power the next generation of software technology. 
 
-***Want to help make the LifeScope dream real?***
-
-# ***[Join the cause!](https://lifescope.io/signupdev)***
+### ***Want to help make the LifeScope dream real? [Join the cause!](https://lifescope.io/signupdev)***
 
 # Architecture  Overview
 
@@ -111,5 +109,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 [smokesignalss2]:https://lifescopelabs.github.io/assets/screenshots/smokesignal-io-legacy-2.png
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNjMxMjM1XX0=
+eyJoaXN0b3J5IjpbLTEzODg0MTMxNDVdfQ==
 -->
