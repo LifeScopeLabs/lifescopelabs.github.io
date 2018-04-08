@@ -1,4 +1,4 @@
-# lifescope-ai
+# LIFESCOPE-AI
 
 This is a suite of tools for reporting and machine learning from LIFESCOPE data. Reporting is focused on building approachable dashboard visualizations and infographics.
 
@@ -6,7 +6,7 @@ Machine learning models based on LIFESCOPE data are focused on behavior modeling
 
 ## Reporting
 
-Create infographics and reports for lifescope users based on their data.
+Create infographics and reports for LIFESCOPE users based on their data.
 
 Personal Infographic Examples:
 ![infographics1]
@@ -20,7 +20,7 @@ Deep learning visualizations
 
 - [Tau Charts](https://www.taucharts.com/)
 
-## Machine Learning
+# Machine Learning
 
 #### Conversational Agents
 
@@ -47,5 +47,5 @@ Prediction and anomaly detection based on location history.
 [deepviz]:https://lifescopelabs.github.io/assets/wireframes/DeepLearningViz.png
 [webviz]:https://lifescopelabs.github.io/assets/wireframes/3d-graph.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4OTUzOTQxMl19
+eyJoaXN0b3J5IjpbLTM1MDUwNTE5N119
 -->
