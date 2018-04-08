@@ -93,6 +93,8 @@ Examples
 
 #### 2. Infinite procedural walls (concept phase, low priority)
 
+![infinitewalls]
+
 #### 3. Memory palace (concept phase, low priority)
 
 ![proceduralvr1]
@@ -122,5 +124,5 @@ BitScoop Marker Pattern File
 [proceduralvr1]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame1.png
 [proceduralvr2]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzM1MzUyODRdfQ==
+eyJoaXN0b3J5IjpbOTI4MjQ5NzE0XX0=
 -->
