@@ -24,7 +24,11 @@
 * Augmented Reality Phone
 * Voice
 
+Gallery View
 ![lifescope-app-legacy]
+
+Map View
+![mappoly]
 
 #### Providers
 
@@ -41,13 +45,14 @@
 * Embed saved searches as dynamic iFrame
 * Served publicly
 
+Alt Feed View
 ![lifescope-app-wireframe]
 
 [providerpage]:https://lifescopelabs.github.io/assets/screenshots/provider-maps-screenshot.png
 [spider]:https://lifescopelabs.github.io/assets/maps/map-spider.png
-[map]:https://lifescopelabs.github.io/assets/wireframes/sat-select-poly.png
+[mappoly]:https://lifescopelabs.github.io/assets/wireframes/sat-select-poly.png
 [lifescope-app-legacy]:https://lifescopelabs.github.io/assets/screenshots/lifescope-app-legacy.png
 [lifescope-app-wireframe]:https://lifescopelabs.github.io/assets/wireframes/week-content-feed.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc0OTcyNzcwXX0=
+eyJoaXN0b3J5IjpbMTM3NDY3NTUzM119
 -->
