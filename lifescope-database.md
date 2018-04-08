@@ -1,11 +1,11 @@
-# lifescope using Mongo Database
+# lifescope databas
 
 * Common Schema (schema.org)
 * User level encryption
 * Whole DB backups
 * Eventually pluggable (Local/OBDC/JBDC/Etc)
 
-**Lifescope requires a MongoDB instance to run.**
+**Lifescope currently requires a MongoDB instance to run.**
 
 We suggest creating a free instance of [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) to test things out. When the free instance is created, click the 'Connect' button. You'll need to whitelist the IP address(es) that will be connecting to it, or use 0.0.0.0/0 to allow all incoming traffic. You'll have to copy the Connection URI into 'databases.mongo.address' in config/default.json, making sure to fill in the password and database name. You can use 'admin' as the database name since our code specifies the 'lifescope' database whenever it reads from or writes to Mongo.
 
@@ -94,5 +94,5 @@ gulp devel
 Next, go to lambda/migrations/fixtures/providers and open up each JSON file.
 You will need to copy the ID of the API Map you made for each service into the 'remote_provider_id' field in the corresponding provider file.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTkyNzQ4MjRdfQ==
+eyJoaXN0b3J5IjpbLTE4NDA4NTIwOTldfQ==
 -->
