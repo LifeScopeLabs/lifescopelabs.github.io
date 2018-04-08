@@ -51,25 +51,13 @@ App to search explorer and curate your personal data in various views. Single-pa
 * Augmented Reality Phone
 * Voice
 
-#### Providers
-* Facebook
-* Twitter
-* Pinterest
-* Dropbox
-* Steam
-* Reddit
-* Spotify
-* FitBit
-* GitHub
-* Instagram
-* **Google**
-* **Slice**
+
 
 People Management - Relate contacts together into People and relate People into Users
 Settings
 Published Content
 
-## Documentation
+## Developer Documentation Index
 | Repository | Priority | Status |
 |--|--|--|
 | [lifescope-ai](https://lifescopelabs.github.io/ai.html) | low | concept |
@@ -84,10 +72,24 @@ Published Content
 - [Database Documentation](https://lifescopelabs.github.io/db.html)
 - [Legacy App Documentation](https://github.com/LifeScopeLabs/lifescope-etl/tree/master/archive/tutorial)
 
+#### Providers
+* Facebook
+* Twitter
+* Pinterest
+* Dropbox
+* Steam
+* Reddit
+| Spotify
+| FitBit
+| GitHub
+| Instagram
+| **Google**
+| **Slice**
+
 
 [conceptdiagram]:https://lifescopelabs.github.io/assets/img/concept-diagram.png
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
 [arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg  "Arch" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5OTQxMjQzXX0=
+eyJoaXN0b3J5IjpbLTI0Njc3MzI0N119
 -->
