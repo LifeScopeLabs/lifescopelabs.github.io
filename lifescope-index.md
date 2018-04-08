@@ -49,9 +49,6 @@ All of the collected data is organized into a [database](https://lifescopelabs.g
 ![conceptdiagram]
 
 
-
-
-
 #### Single App Architecture
 
 LIFESCOPE App to search explorer and curate your personal data in various views. Single-page Universal web app built on Nuxt and Vue.js. Desktop/mobile reactive design interface with javascript extensions. Written with plugin framework such as location tracking, web xr and web voice. Should be containerizable inside a universal app framework like Cordova (iOS, Android, Mac, Win). Able to connect as many provider accounts you want. List saved searches and hashtags.
@@ -136,5 +133,5 @@ https://web.archive.org/web/20151116131419/http://ografy.io/
 
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDE4ODUwMDldfQ==
+eyJoaXN0b3J5IjpbNjA4NzIxMDE3XX0=
 -->
