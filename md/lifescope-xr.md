@@ -1,4 +1,6 @@
-# LIFESCOPE-XR
+# [LIFESCOPE-XR](https://github.com/LifeScopeLabs/lifescope-xr)
+
+## [Repository](https://github.com/LifeScopeLabs/lifescope-xr)
 
 The LIFESCOPE API allows anyone to create a shared virtual space to access their memory and tell their stories. 
 
@@ -167,6 +169,7 @@ BitScoop Marker Pattern File. Notice how the bitmap matches the file.
 [proceduralvr1]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame1.png
 [proceduralvr2]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3Mjc4MTEsLTE2MjAwNzk4NTksMTY3Mj
-c5NTE4OSwtOTY5MzkwMzI2LC0yODc1MDcyNzRdfQ==
+eyJoaXN0b3J5IjpbMTc4NDYzNTgzNyw1NDcyNzgxMSwtMTYyMD
+A3OTg1OSwxNjcyNzk1MTg5LC05NjkzOTAzMjYsLTI4NzUwNzI3
+NF19
 -->
