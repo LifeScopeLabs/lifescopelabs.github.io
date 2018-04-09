@@ -117,15 +117,20 @@ Current status of data source support.
 
 ### App
 
-| Data Source | Status | Data Collected |
-|--|--|--|
-| **Scrape** Calls | Native app | planned | events, content, contacts, places |
+| Data Source | Support | Status | Data Collected |
+|--|--|--|--|
+| **Scrape** Calls | Native app | planned | events, content |
+| **Scrape** Calls | Native app | planned | events, content |
+| **Scrape** Calls | Native app | planned | events, content |
+| **Scrape** Calls | Native app | planned | events, content |
+| **Scrape** Calls | Native app | planned | events, content |
 
 ![fractal][fractal]
 
 # History
 
-Liam Broza and the team at BitScoop Labs have been working on problems big data and quantified self for over a decade. This project started as SmokeSignal in 2009 as a Java desktop app for crawling android app data. 
+Liam Broza and the team at B
+| **Scrape** Calls | Native app | planned | events, content |itScoop Labs have been working on problems big data and quantified self for over a decade. This project started as SmokeSignal in 2009 as a Java desktop app for crawling android app data. 
 
 https://web.archive.org/web/20141222111903/http://www.smokesignal.info/
 
@@ -152,6 +157,6 @@ Ografy site screenshot
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
 [gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwODk5MzAyMCwtODEwNjI1MzA4LDEzMD
+eyJoaXN0b3J5IjpbMTczNjcxOTg5MSwtODEwNjI1MzA4LDEzMD
 UwODk5NDEsLTEyMDI2MjUwMDYsMTMxMDYzODM2M119
 -->
