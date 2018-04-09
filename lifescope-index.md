@@ -88,7 +88,7 @@ Current status of data source support.
 
 ### API ETL
 
-| Name | Status | Data Collected |
+| Data Source | Status | Data Collected |
 |--|--|--|
 | Facebook | production | events, content, contacts, locations |
 | Twitter | production | events, content, contacts, locations |
@@ -105,7 +105,7 @@ Current status of data source support.
 
 ### Browser Plugin
 
-| Name | Status | Data Collected |
+| Data Source | Status | Data Collected |
 |--|--|--|
 | URL History | beta | events, content |
 | Location History | development | location |
@@ -117,9 +117,9 @@ Current status of data source support.
 
 ### App
 
-| Name | Status | Data Collected |
+| Data Source | Status | Data Collected |
 |--|--|--|
-| **Scrape** YouTube | Native app | planned | events, content, contacts, places |
+| **Scrape** Calls | Native app | planned | events, content, contacts, places |
 
 ![fractal][fractal]
 
@@ -152,6 +152,6 @@ Ografy site screenshot
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
 [gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM3NjU4Mjg0LC04MTA2MjUzMDgsMTMwNT
-A4OTk0MSwtMTIwMjYyNTAwNiwxMzEwNjM4MzYzXX0=
+eyJoaXN0b3J5IjpbMTAwODk5MzAyMCwtODEwNjI1MzA4LDEzMD
+UwODk5NDEsLTEyMDI2MjUwMDYsMTMxMDYzODM2M119
 -->
