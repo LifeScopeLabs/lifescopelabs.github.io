@@ -19,7 +19,8 @@ This repo contains a series of AR/VR Views written to extend lifescope-app codeb
 
 ## 1. AR Floor Topography Map (development phase, medium priority)
 
-**Marker based AR.JS Mapbox trail  **
+**Marker based AR.JS Mapbox trail wireframes. **
+
 ![armap][armap]
 ![armap][armap2]
 
@@ -179,7 +180,7 @@ Social Wars in React VR. A VR demo using the BitScoop Platform for Social Login.
 [proceduralvr1]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame1.png
 [proceduralvr2]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NTgyMzQxMywxNzg0NjM1ODM3LDU0Nz
-I3ODExLC0xNjIwMDc5ODU5LDE2NzI3OTUxODksLTk2OTM5MDMy
-NiwtMjg3NTA3Mjc0XX0=
+eyJoaXN0b3J5IjpbLTE3Njk1MjI5MDgsMTc4NDYzNTgzNyw1ND
+cyNzgxMSwtMTYyMDA3OTg1OSwxNjcyNzk1MTg5LC05NjkzOTAz
+MjYsLTI4NzUwNzI3NF19
 -->
