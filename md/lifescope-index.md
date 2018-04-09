@@ -36,7 +36,7 @@ We are currently looking for designers, creators, developers, and data scientist
 
 # Documentation Index
 
-Developer documentation serves as a roadmap planning workbook for each repository. Here is the repository documentation and development status of all project components.
+Developer documentation serves as a roadmap planning workbook for each repository.
 
 | Repository Documentation | Priority | Status |
 |--|--|--|
@@ -160,6 +160,6 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 eyJoaXN0b3J5IjpbLTM5NTE2NDI3Nl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTIyMTcyNDAsLTExNDYzODA2NDIsMT
-Y0NDQwNDc4OF19
+eyJoaXN0b3J5IjpbMTY2OTUxOTMyOCwtMTI5MjIxNzI0MCwtMT
+E0NjM4MDY0MiwxNjQ0NDA0Nzg4XX0=
 -->
