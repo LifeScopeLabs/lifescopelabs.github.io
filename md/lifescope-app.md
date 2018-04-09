@@ -10,6 +10,14 @@
 * Written with plugin framework such as location tracking, web xr and web voice
 * Should be containerizable inside a universal app framework Cordova
 
+### Requirements
+- **MVP**: 
+
+### Dependencies
+- Vue/Nuxt compatible
+
+### Examples
+
 ## Login
 * Able to sign up and login with any provider
 
@@ -90,5 +98,6 @@ Alt Feed View
 [lifescope-app-legacy]:https://lifescopelabs.github.io/assets/screenshots/lifescope-app-legacy.png
 [lifescope-app-wireframe]:https://lifescopelabs.github.io/assets/wireframes/week-content-feed.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwODI1NDMyMCwxOTI4MzExNzYyXX0=
+eyJoaXN0b3J5IjpbODY4MTkyOTk2LDE4MDgyNTQzMjAsMTkyOD
+MxMTc2Ml19
 -->
