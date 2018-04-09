@@ -14,7 +14,7 @@
 
 [browserext]:https://lifescopelabs.github.io/assets/screenshots/browser-plugin-screenshot.png
 
-## Data Sources
+## Data Collection Sources
 
 | Data Source | Status | Data Collected |
 |--|--|--|
@@ -31,5 +31,5 @@
 1. Clone this repo
 2. Install the repo's directory as an extension
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3NzA5OTU1LDE5Mjc3Nzc0MjldfQ==
+eyJoaXN0b3J5IjpbLTY3NzcxNTQ1LDE5Mjc3Nzc0MjldfQ==
 -->
