@@ -123,7 +123,12 @@ Examples
 
 ## 3. Memory palace (concept phase, low priority)
 
+**AFrame generated rooms.**
+
 ![proceduralvr1]
+
+
+**AFrame generated rooms.**
 
 ![proceduralvr2]
 
@@ -154,7 +159,8 @@ Social Wars in React VR. A VR demo using the BitScoop Platform for Social Login.
 ## BitScoop AR Marker
 ![markerbs]
 
-BitScoop Marker Pattern File. Notice how the bitmap matches the file.
+**BitScoop Marker Pattern File. Notice how the bitmap matches the file.**
+
 ![patternarbs]
 
 [armap]:https://lifescopelabs.github.io/assets/maps/ar-phone-topo-mapbox.jpg
@@ -170,7 +176,7 @@ BitScoop Marker Pattern File. Notice how the bitmap matches the file.
 [proceduralvr1]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame1.png
 [proceduralvr2]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA5OTA5NDU1LDE3ODQ2MzU4MzcsNTQ3Mj
-c4MTEsLTE2MjAwNzk4NTksMTY3Mjc5NTE4OSwtOTY5MzkwMzI2
-LC0yODc1MDcyNzRdfQ==
+eyJoaXN0b3J5IjpbLTEyNjcwMTA2MTUsMTc4NDYzNTgzNyw1ND
+cyNzgxMSwtMTYyMDA3OTg1OSwxNjcyNzk1MTg5LC05NjkzOTAz
+MjYsLTI4NzUwNzI3NF19
 -->
