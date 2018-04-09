@@ -29,10 +29,12 @@ Messaging Bar Chart
 ![infographics2]
 
 Heat Map of activity
+[Location x Time]
 
 ![heatmap]
 
 Network Visualizations of Deep Learning Training
+[Adversarial Match]
 
 ![deepviz]
 
@@ -80,7 +82,7 @@ Prediction and anomaly detection based on location history.
 [webviz]:https://lifescopelabs.github.io/assets/wireframes/3d-graph.jpg
 [mlgeo]:https://raw.githubusercontent.com/numenta/nupic.geospatial/master/images/viewer.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNjk1MjIxLDE3MzQyMDE1NzUsNTEzNz
-Q1NjA0LDkyODI3MjczNCwtMTEzNzM2NTA0MSwtMzUwNTA1MTk3
-XX0=
+eyJoaXN0b3J5IjpbLTEyMjIxNDM3MjQsMTczNDIwMTU3NSw1MT
+M3NDU2MDQsOTI4MjcyNzM0LC0xMTM3MzY1MDQxLC0zNTA1MDUx
+OTddfQ==
 -->
