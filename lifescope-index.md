@@ -34,7 +34,7 @@ We are currently looking for designers, creators, developers, and data scientist
 
 # Repository Documentation Index
 
-Here is documentation and development status of all repositories.
+Here is the repository documentation and development status of all project components.
 | Repository Documentation | Priority | Status |
 |--|--|--|
 | **[LIFESCOPE-AI](https://lifescopelabs.github.io/ai.html)** | low | concept |
@@ -151,8 +151,8 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
 [gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDY5NjIwMzUsLTg1NjAyOTU0MSwtNj
-U1MTU4NTAxLC0xNjg5NDA3ODQ1LC00NjgyMTY4NjQsLTEwMDk0
-NzE1OTMsLTkxNDAwODc1NywtODEwNjI1MzA4LDEzMDUwODk5ND
-EsLTEyMDI2MjUwMDYsMTMxMDYzODM2M119
+eyJoaXN0b3J5IjpbMzg5NzA3OTU5LC04NTYwMjk1NDEsLTY1NT
+E1ODUwMSwtMTY4OTQwNzg0NSwtNDY4MjE2ODY0LC0xMDA5NDcx
+NTkzLC05MTQwMDg3NTcsLTgxMDYyNTMwOCwxMzA1MDg5OTQxLC
+0xMjAyNjI1MDA2LDEzMTA2MzgzNjNdfQ==
 -->
