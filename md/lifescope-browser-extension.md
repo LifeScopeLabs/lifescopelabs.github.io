@@ -14,10 +14,22 @@
 
 [browserext]:https://lifescopelabs.github.io/assets/screenshots/browser-plugin-screenshot.png
 
+## Data Sources
+
+| Data Source | Status | Data Collected |
+|--|--|--|
+| URL History | beta | events, content |
+| Location History | development | locations |
+| **Scrape** Netflix | planned | events, content |
+| **Scrape** Hulu | planned | events, content |
+| **Scrape** Amazon Prime | planned | events, content |
+| **Scrape** HBO GO | planned | events, content |
+| **Scrape** YouTube | planned | events, content |
+
 ## Developer Setup
 
 1. Clone this repo
 2. Install the repo's directory as an extension
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNzc3NzQyOV19
+eyJoaXN0b3J5IjpbMzg3NzA5OTU1LDE5Mjc3Nzc0MjldfQ==
 -->
