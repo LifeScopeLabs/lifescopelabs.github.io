@@ -81,12 +81,13 @@ Single-page Universal web app built on Nuxt and Vue.js. Desktop/mobile reactive 
 
 Current status of data source support.
 
+### API ETL
 
 | Name | Status | Data Collected |
-|--|--|--|--|
-| Facebook | API ETL | production | events, content, contacts, locations |
-| Twitter | API ETL | production | events, content, contacts, locations |
-| Pinterest | API ETL | production | events, content, locations |
+|--|--|--|
+| Facebook | production | events, content, contacts, locations |
+| Twitter | production | events, content, contacts, locations |
+| Pinterest | production | events, content, locations |
 | Dropbox | API ETL | production | events, content, locations |
 | Steam | API ETL | production | events, content |
 | Reddit | API ETL | production | events, content, contacts, contacts |
@@ -95,7 +96,9 @@ Current status of data source support.
 | Instagram | API ETL | production | events, content, contacts |
 | Google | API ETL | production | events, content, contacts |
 | Slice | API ETL | development | events, content, contacts |
-| FitBit | API ETL | planned | events, things |
+| FitBit | planned | events, things |
+
+
 | **Browser** | Browser plugin | planned | events, content, places |
 | **Native App** | Native app | planned | events, content, contacts, places |
 
@@ -129,6 +132,6 @@ Ografy site screenshot
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNzE5NTYwOSwtMTIwMjYyNTAwNiwxMz
-EwNjM4MzYzXX0=
+eyJoaXN0b3J5IjpbMjk0NzQ5NzEsLTEyMDI2MjUwMDYsMTMxMD
+YzODM2M119
 -->
