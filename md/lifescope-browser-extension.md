@@ -10,6 +10,14 @@
 * Surface metadata (oEmbed, Embedly)
 * Capture and store location data
 
+### Requirements
+- **MVP**: 
+
+### Dependencies
+- Vue/Nuxt compatible
+
+### Examples
+
 ![browserext]
 
 [browserext]:https://lifescopelabs.github.io/assets/screenshots/browser-plugin-screenshot.png
@@ -31,5 +39,5 @@
 1. Clone this repo
 2. Install the repo's directory as an extension
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NzcxNTQ1LDE5Mjc3Nzc0MjldfQ==
+eyJoaXN0b3J5IjpbMzYwNDU3MjAzLDE5Mjc3Nzc0MjldfQ==
 -->
