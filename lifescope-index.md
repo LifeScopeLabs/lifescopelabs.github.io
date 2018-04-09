@@ -37,14 +37,14 @@ We are currently looking for designers, creators, developers, and data scientist
 Status of source repositories and project components.
 | Repository | Priority | Status |
 |--|--|--|
-| [lifescope-ai](https://lifescopelabs.github.io/ai.html) | low | concept |
+| [AI Documentation](https://lifescopelabs.github.io/ai.html) | low | concept |
 | [lifescope-api](https://lifescopelabs.github.io/api.html) | high | production |
 | [lifescope-app](https://lifescopelabs.github.io/app.html) | high | development |
-| [lifescope-browser-extension](https://lifescopelabs.github.io/browser-extension.html) | medium | development |
-| [lifescope-etl](https://lifescopelabs.github.io/etl.html) | high | production |
-| [lifescope-site](https://lifescopelabs.github.io/site.html) | low | beta |
-| [lifescope-voice](https://lifescopelabs.github.io/voice.html) | low | concept |
-| [lifescope-xr](https://lifescopelabs.github.io/xr.html) | medium | development |
+| [LIFESCOPE-browser-extension](https://lifescopelabs.github.io/browser-extension.html) | medium | development |
+| [LIFESCOPE-etl](https://lifescopelabs.github.io/etl.html) | high | production |
+| [LIFESCOPE-site](https://lifescopelabs.github.io/site.html) | low | beta |
+| [LIFESCOPE-voice](https://lifescopelabs.github.io/voice.html) | low | concept |
+| [LIFESCOPE-xr](https://lifescopelabs.github.io/xr.html) | medium | development |
 
 - [Database Documentation](https://lifescopelabs.github.io/db.html)
 - [Legacy App Documentation](https://github.com/LifeScopeLabs/lifescope-etl/tree/master/archive/tutorial)
@@ -151,7 +151,8 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
 [gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODk0MDc4NDUsLTQ2ODIxNjg2NCwtMT
-AwOTQ3MTU5MywtOTE0MDA4NzU3LC04MTA2MjUzMDgsMTMwNTA4
-OTk0MSwtMTIwMjYyNTAwNiwxMzEwNjM4MzYzXX0=
+eyJoaXN0b3J5IjpbMTY3MDg5NjY5NCwtMTY4OTQwNzg0NSwtND
+Y4MjE2ODY0LC0xMDA5NDcxNTkzLC05MTQwMDg3NTcsLTgxMDYy
+NTMwOCwxMzA1MDg5OTQxLC0xMjAyNjI1MDA2LDEzMTA2MzgzNj
+NdfQ==
 -->
