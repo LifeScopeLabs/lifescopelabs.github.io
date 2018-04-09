@@ -131,7 +131,7 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 
 # History
 
-Liam Broza and the team at BitScoop Labs have been working on problems big data and quantified self for over a decade. This project started as SmokeSignal in 2009 as a Java desktop app for crawling android app data.  [Origional SmokeSignal LifeLogger Site](https://web.archive.org/web/20141222111903/http://www.smokesignal.info/)
+[Liam Broza](htto) and the team at [BitScoop Labs](https://bitscoop.com) have been working on problems big data and quantified self for over a decade. This project started as SmokeSignal in 2009 as a Java desktop app for crawling android app data.  [Origional SmokeSignal LifeLogger Site](https://web.archive.org/web/20141222111903/http://www.smokesignal.info/)
 
 **Origional SmokeSignal LifeLogger Site**
 
@@ -157,7 +157,7 @@ In 2016, BitScoop Labs rebuilt the project as Live Explorer. This is now the leg
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
 [gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2ODIxNjg2NCwtMTAwOTQ3MTU5MywtOT
-E0MDA4NzU3LC04MTA2MjUzMDgsMTMwNTA4OTk0MSwtMTIwMjYy
-NTAwNiwxMzEwNjM4MzYzXX0=
+eyJoaXN0b3J5IjpbNjk4ODk4NTY0LC00NjgyMTY4NjQsLTEwMD
+k0NzE1OTMsLTkxNDAwODc1NywtODEwNjI1MzA4LDEzMDUwODk5
+NDEsLTEyMDI2MjUwMDYsMTMxMDYzODM2M119
 -->
