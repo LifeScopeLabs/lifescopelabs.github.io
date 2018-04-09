@@ -14,6 +14,8 @@ Finance Overview Bubble Chart {Merchants x Item Count x Total Price]
 Social Overview Line Chart [Social platform (Twitter, Linked In, Facebook) x Mentions & Likes x Time ]
 ![infographics1]
 
+Time Vertical Gantt Chart [Week x Event Type]
+Messaging 
 ![infographics2]
 
 Deep learning visualizations
@@ -51,6 +53,6 @@ Prediction and anomaly detection based on location history.
 [deepviz]:https://lifescopelabs.github.io/assets/wireframes/DeepLearningViz.png
 [webviz]:https://lifescopelabs.github.io/assets/wireframes/3d-graph.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTU2MjE3LDUxMzc0NTYwNCw5MjgyNz
-I3MzQsLTExMzczNjUwNDEsLTM1MDUwNTE5N119
+eyJoaXN0b3J5IjpbLTEzNjk2NDYxODIsNTEzNzQ1NjA0LDkyOD
+I3MjczNCwtMTEzNzM2NTA0MSwtMzUwNTA1MTk3XX0=
 -->
