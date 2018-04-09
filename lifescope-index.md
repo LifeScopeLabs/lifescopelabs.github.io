@@ -37,7 +37,7 @@ We are currently looking for designers, creators, developers, and data scientist
 Status of source repositories and project components.
 | Repository | Priority | Status |
 |--|--|--|
-| **[LIFESCOPE-AI Re](https://lifescopelabs.github.io/ai.html)** | low | concept |
+| **[LIFESCOPE-AI](https://lifescopelabs.github.io/ai.html)** | low | concept |
 | **[LIFESCOPE-API](https://lifescopelabs.github.io/api.html)** | high | production |
 | **[LIFESCOPE-APP](https://lifescopelabs.github.io/app.html)** | high | development |
 | **[LIFESCOPE-BROWSER-EXTENSION](https://lifescopelabs.github.io/browser-extension.html)** | medium | development |
@@ -151,8 +151,8 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
 [gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.pngZZ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxNTA3MjU4LC0xNjg5NDA3ODQ1LC00Nj
-gyMTY4NjQsLTEwMDk0NzE1OTMsLTkxNDAwODc1NywtODEwNjI1
-MzA4LDEzMDUwODk5NDEsLTEyMDI2MjUwMDYsMTMxMDYzODM2M1
-19
+eyJoaXN0b3J5IjpbLTY1NTE1ODUwMSwtMTY4OTQwNzg0NSwtND
+Y4MjE2ODY0LC0xMDA5NDcxNTkzLC05MTQwMDg3NTcsLTgxMDYy
+NTMwOCwxMzA1MDg5OTQxLC0xMjAyNjI1MDA2LDEzMTA2MzgzNj
+NdfQ==
 -->
