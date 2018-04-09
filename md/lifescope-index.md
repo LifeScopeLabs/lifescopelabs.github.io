@@ -14,20 +14,20 @@ The internet landscape is a vast, overwhelming, and broken terrain of data. Only
 
 The study and use of psychometircs and psychographics is the biggest hidden force in the world. Our personal data doesn't just describe who we really are, but also give others power over us by enabling them to reverse engineer our minds. Understanding and controlling our own data should be a human right.
 
-LIFESCOPE is an open platform for personal data designed to empower anyone with insights while preserving privacy and ownership. Master time and space with a digital memory. The platform is designed the ultimate private repository of your digital life. 
+LIFESCOPE is an open platform for personal data designed to empower anyone with insights while preserving privacy and ownership. Master time and space with a digital memory. The platform is designed the ultimate private repository of your digital life.
 
 ![conceptdiagram]
 
 Connect anywhere and everywhere your information resides and LIFESCOPE will automatically collect, organize, and present everything in your digital memory. Search and leverage your entire digital and social footprint, while streamlining your life online. Curate your history data into the stories you care about.
 
-LIFESCOPE as an open source platform for anything you want to do with your personal data. We have plans to expand this platform so it can power the next generation of software technology. 
+LIFESCOPE as an open source platform for anything you want to do with your personal data. We have plans to expand this platform so it can power the next generation of software technology.
 
 - [LIFESCOPE Main Site](https://lifescope.io)
 - [LIFESCOPE Legacy App](https://app.lifescope.io)
 - [LIFESCOPE Documentation](https://lifescope.io/learn)
 - [LIFESCOPE GitHub](https://github.com/LifeScopeLabs)
 
-# Want to help? 
+# Want to help?
 We are currently looking for designers, creators, developers, and data scientists to help build and grow LIFESCOPE.
 
 ### **[Join the team!](https://lifescope.io/signupdev)**
@@ -46,7 +46,7 @@ Here is the repository documentation and development status of all project compo
 | **[LIFESCOPE-VOICE](https://lifescopelabs.github.io/voice.html)** | low | concept |
 | **[LIFESCOPE-XR](https://lifescopelabs.github.io/xr.html)** | medium | development |
 
-- [Database Documentation](https://lifescopelabs.github.io/database.html)
+- [Database Documentation](https://lifescopelabs.github.io/db.html)
 - [Legacy App Documentation](https://github.com/LifeScopeLabs/lifescope-etl/tree/master/archive/tutorial)
 
 # How does it work?
@@ -74,9 +74,9 @@ LIFESCOPE collects personal information from three places. When you create conne
 
 The [LIFESCOPE App](https://lifescopelabs.github.io/app.html) is to search, explore, and curate your personal data in various views. Explore data with various views (Feed, List, Map, Gallery, Timeline, [Virtual Reality, Augmented Reality](https://lifescopelabs.github.io/xr.html).  Let the app look and [listen to you](https://lifescopelabs.github.io/voice.html). Speak questions about yourself or record and automatically respond.
 
-Curate your data with saved searches and hashtags. See [reports and data visualizations](https://lifescopelabs.github.io/ai.html). Get smart notifications with machine learning. Explore people from your history. People are represented as related contacts and history across services. 
+Curate your data with saved searches and hashtags. See [reports and data visualizations](https://lifescopelabs.github.io/ai.html). Get smart notifications with machine learning. Explore people from your history. People are represented as related contacts and history across services.
 
-Single-page Universal web app built on Nuxt and Vue.js. Desktop/mobile reactive design interface with javascript extensions. Written with plugin framework such as location tracking, WebXR and Web Speech. Should be containerizable inside a universal app framework like Cordova (iOS, Android, Mac, Win). 
+Single-page Universal web app built on Nuxt and Vue.js. Desktop/mobile reactive design interface with javascript extensions. Written with plugin framework such as location tracking, WebXR and Web Speech. Should be containerizable inside a universal app framework like Cordova (iOS, Android, Mac, Win).
 
 The current LIFESCOPE codebases are hosted on Amazon Web Services to power the web platform.
 
@@ -132,7 +132,7 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 
 # History
 
-[Liam Broza](httos://liambroza.com) and the team at [BitScoop Labs](https://bitscoop.com) have been working on problems big data and quantified self for over a decade. This project started as SmokeSignal in 2009 as a Java desktop app for crawling android app data.  [Original SmokeSignal LifeLogger Site](https://web.archive.org/web/20141222111903/http://www.smokesignal.info/) In 2016, BitScoop Labs rebuilt the project as Live Explorer (and is now the legacy LIFESCOPE app). In 2018, LIFESCOPE was released open source by the BitScoop team to help give people control of their digital identity.  
+[Liam Broza](httos://liambroza.com) and the team at [BitScoop Labs](https://bitscoop.com) have been working on problems big data and quantified self for over a decade. This project started as SmokeSignal in 2009 as a Java desktop app for crawling android app data.  [Original SmokeSignal LifeLogger Site](https://web.archive.org/web/20141222111903/http://www.smokesignal.info/) In 2016, BitScoop Labs rebuilt the project as Live Explorer (and is now the legacy LIFESCOPE app). In 2018, LIFESCOPE was released open source by the BitScoop team to help give people control of their digital identity.
 
 **Original SmokeSignal LifeLogger Site**
 
@@ -140,11 +140,11 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 
 **Original SmokeSignal LifeLogger Sources**
 
-![smokesignalss1] 
+![smokesignalss1]
 
 [conceptdiagram]:https://lifescopelabs.github.io/assets/img/concept-diagram.png
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
-[arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg  
+[arch]: https://lifescopelabs.github.io/assets/diagrams/LifeScopeArchitecturePlanningNEW.jpg  
 [dataknot]:https://lifescopelabs.github.io/assets/img/dataknot.png
 [smokesignalss1]:https://lifescopelabs.github.io/assets/screenshots/smokesignal-io-legacy-1.png
 [smokesignalss2]:https://lifescopelabs.github.io/assets/screenshots/smokesignal-io-legacy-2.png
@@ -152,5 +152,5 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
 [gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDU3NDUyNzFdfQ==
+eyJoaXN0b3J5IjpbLTM5NTE2NDI3Nl19
 -->
