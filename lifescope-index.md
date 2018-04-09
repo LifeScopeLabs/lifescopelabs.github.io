@@ -149,10 +149,10 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 [smokesignalss2]:https://lifescopelabs.github.io/assets/screenshots/smokesignal-io-legacy-2.png
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
-[gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.pngZZ
+[gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NTE1ODUwMSwtMTY4OTQwNzg0NSwtND
-Y4MjE2ODY0LC0xMDA5NDcxNTkzLC05MTQwMDg3NTcsLTgxMDYy
-NTMwOCwxMzA1MDg5OTQxLC0xMjAyNjI1MDA2LDEzMTA2MzgzNj
-NdfQ==
+eyJoaXN0b3J5IjpbLTg1NjAyOTU0MSwtNjU1MTU4NTAxLC0xNj
+g5NDA3ODQ1LC00NjgyMTY4NjQsLTEwMDk0NzE1OTMsLTkxNDAw
+ODc1NywtODEwNjI1MzA4LDEzMDUwODk5NDEsLTEyMDI2MjUwMD
+YsMTMxMDYzODM2M119
 -->
