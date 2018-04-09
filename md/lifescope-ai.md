@@ -54,10 +54,14 @@ Create infographics and reports for LIFESCOPE users based on their data.
 
 
 ### Requirements
+- **Persona-based model**. Condition responses on a certain author of messages (User ID) to make responses lexically similar to them and mimic someone’s linguistic style in a conversation. Use new or pre-trained models to run a chatbot that maintains a conversation in a certain emotional state. 
+- **Emotional chatting machine** with your own set of emotions. There are so many emotions that you can use as condition labels in your dataset. CakeChat only uses five basic emotions (anger, sadness, joy, fear and neutral). 
+- **Topic-centric model**. Instead of emotions, you can use a set of topics that will condition the model’s responses. As a result, you can build an agent that sticks to a given topic in a conversation. For example, you can build a model that talks about weather, food, kids or mortgage at any given moment.
 ### Dependencies
 
 - [CakeChat Framework](https://cakechat.replika.ai/) 
-- 
+ - Others (Tensorflow) [Tenorflow Research Models for (Speech, Text, Video, Geodata](https://github.com/tensorflow/models/tree/master/research)
+
 ### Examples
 
 Impersonation Ideas:
@@ -92,6 +96,6 @@ Prediction and anomaly detection based on location history.
 [webviz]:https://lifescopelabs.github.io/assets/wireframes/3d-graph.jpg
 [mlgeo]:https://raw.githubusercontent.com/numenta/nupic.geospatial/master/images/viewer.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MDkzNzk4MSwxNzI2NTE2NzYwLC03MT
-QyMTg3MDZdfQ==
+eyJoaXN0b3J5IjpbLTE1MDQwMDg0NzcsMTcyNjUxNjc2MCwtNz
+E0MjE4NzA2XX0=
 -->
