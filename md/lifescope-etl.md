@@ -10,6 +10,22 @@ This is the LIFESCOPE automated data collection system for connected services. T
 * Transform data into LIFESCOPE schema.
 * Provider scripts keep a copy of original data.
 
+| Data Source | Status | Data Collected |
+|--|--|--|
+| Facebook | production | events, content, contacts, locations |
+| Twitter | production | events, content, contacts, locations |
+| Pinterest | beta | events, content, locations |
+| Dropbox | production | events, content, locations |
+| Steam | production | events, content |
+| Reddit | production | events, content, contacts, contacts |
+| Spotify | production | events, content |
+| GitHub | production | events, content, contacts |
+| Instagram | production | events, content, contacts |
+| Google | production | events, content, contacts |
+| Slice | development | events, content, things |
+| FitBit | planned | events, things |
+| TV Time | planned | events, content |
+
 # LIFESCOPE Archive App
 
 **Note: DEPRICATED**
@@ -238,5 +254,5 @@ In order to begin running the local Lambda function run the following code in th
 
 you will then be shown the urls to your lambda functions along with their port numbers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNzEzMzM1OV19
+eyJoaXN0b3J5IjpbLTE4OTEzNDE5NzEsLTYwNzEzMzM1OV19
 -->
