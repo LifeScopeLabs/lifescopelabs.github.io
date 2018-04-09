@@ -144,7 +144,10 @@ The LIFESCOPE API is a universal platform backend. There are two components to t
 * [graphql-compose](https://github.com/graphql-compose/graphql-compose)
 * [graphql-compose-mongoose](https://github.com/graphql-compose/graphql-compose-mongoose)
 * Vue/Nuxt
+
+
+[gqlschema]:https://lifescopelabs.github.io/assets/screenshots/heat-map.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NDExNjgzNCwtMTg0NTU1MDE4NCwxMz
-IwNDc2NTM2LC0yMzQ3MDE5NDZdfQ==
+eyJoaXN0b3J5IjpbLTkzNDk5NjE5MCwxNzk0MTE2ODM0LC0xOD
+Q1NTUwMTg0LDEzMjA0NzY1MzYsLTIzNDcwMTk0Nl19
 -->
