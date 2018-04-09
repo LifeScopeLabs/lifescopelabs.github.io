@@ -6,7 +6,7 @@ This repository contains a suite of tools for reporting and machine learning wor
 
 Machine learning models based on LIFESCOPE data are currently focused on behavior modeling, correlation, prediction, suggestion, and impersonation.
 
-## Reporting
+# Reporting (concept phase, low priority)
 
 Create infographics and reports for LIFESCOPE users based on their data. Personal Infographic Examples:
 
@@ -21,13 +21,13 @@ Messaging Bar Chart [% to vs From]
 Network Visualizations of Deep Learning Training
 ![deepviz]
 
-### Proposed Technology
+## Proposed Technology
 
 - [Tau Charts](https://www.taucharts.com/)
 
-# Machine Learning
+# Machine Learning (concept phase, low priority)
 
-#### Conversational Agents
+## Conversational Agents
 
 Examples: [CakeChat Framework](https://cakechat.replika.ai/) 
 
@@ -36,13 +36,13 @@ Impersonation Ideas:
 - **Emotional chatting machine** with your own set of emotions. There are so many emotions that you can use as condition labels in your dataset. CakeChat only uses five basic emotions (anger, sadness, joy, fear and neutral). 
 - **Topic-centric model**. Instead of emotions, you can use a set of topics that will condition the model’s responses. As a result, you can build an agent that sticks to a given topic in a conversation. For example, you can build a model that talks about weather, food, kids or mortgage at any given moment.
 
-### Geolocation Based Models
+## Geolocation Based Models
 
 Prediction and anomaly detection based on location history.
 
 ![heatmap]
 
-#### Examples:
+### Proposed Technolog:
 - [Numenta Geospatioal](https://numenta.com/assets/pdf/whitepapers/Geospatial%20Tracking%20White%20Paper.pdf)
 - [Numenta Geospatioal Github Example](https://github.com/numenta/nupic.geospatial)
 - [Tenorflow Research Models for (Speech, Text, Video, Geodata](https://github.com/tensorflow/models/tree/master/research)
@@ -53,6 +53,6 @@ Prediction and anomaly detection based on location history.
 [deepviz]:https://lifescopelabs.github.io/assets/wireframes/DeepLearningViz.png
 [webviz]:https://lifescopelabs.github.io/assets/wireframes/3d-graph.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NTAzMzQ5MSw1MTM3NDU2MDQsOTI4Mj
+eyJoaXN0b3J5IjpbLTUyNDIyNTUyMSw1MTM3NDU2MDQsOTI4Mj
 cyNzM0LC0xMTM3MzY1MDQxLC0zNTA1MDUxOTddfQ==
 -->
