@@ -62,7 +62,9 @@ LIFESCOPE collects personal information from three places. When you create conne
 
 ![soureflow]
 
-## Data Organization Storage, an [LIFESCOPE API](https://lifescopelabs.github.io/api.html) uses GraphQL and REST to signup, login, manage sources, and access all your data. LIFESCOPE's API will eventually allow for pluggable [Database Support](https://lifescopelabs.github.io/database.html).
+## Data Organization and Storage
+
+[LIFESCOPE API](https://lifescopelabs.github.io/api.html) uses GraphQL and REST to signup, login, manage sources, and access all your data. LIFESCOPE's API will eventually allow for pluggable [Database Support](https://lifescopelabs.github.io/database.html).
 
 ![conceptdiagram]
 
@@ -157,7 +159,7 @@ In 2016, BitScoop Labs rebuilt the project as Live Explorer. This is now the leg
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
 [gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDk0NzE1OTMsLTkxNDAwODc1NywtOD
-EwNjI1MzA4LDEzMDUwODk5NDEsLTEyMDI2MjUwMDYsMTMxMDYz
-ODM2M119
+eyJoaXN0b3J5IjpbLTE3OTM0NzA0OSwtMTAwOTQ3MTU5MywtOT
+E0MDA4NzU3LC04MTA2MjUzMDgsMTMwNTA4OTk0MSwtMTIwMjYy
+NTAwNiwxMzEwNjM4MzYzXX0=
 -->
