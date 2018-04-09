@@ -88,18 +88,23 @@ Current status of data source support.
 | Facebook | production | events, content, contacts, locations |
 | Twitter | production | events, content, contacts, locations |
 | Pinterest | production | events, content, locations |
-| Dropbox | API ETL | production | events, content, locations |
-| Steam | API ETL | production | events, content |
-| Reddit | API ETL | production | events, content, contacts, contacts |
-| Spotify | API ETL | production | events, content |
-| GitHub | API ETL | production | events, content, contacts |
-| Instagram | API ETL | production | events, content, contacts |
-| Google | API ETL | production | events, content, contacts |
-| Slice | API ETL | development | events, content, contacts |
+| Dropbox | production | events, content, locations |
+| Steam | production | events, content |
+| Reddit | production | events, content, contacts, contacts |
+| Spotify | production | events, content |
+| GitHub | production | events, content, contacts |
+| Instagram | production | events, content, contacts |
+| Google | production | events, content, contacts |
+| Slice | development | events, content, contacts |
 | FitBit | planned | events, things |
 
+### API ETL
 
+| Name | Status | Data Collected |
+|--|--|--|
 | **Browser** | Browser plugin | planned | events, content, places |
+
+
 | **Native App** | Native app | planned | events, content, contacts, places |
 
 ![fractal][fractal]
@@ -132,6 +137,6 @@ Ografy site screenshot
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk0NzQ5NzEsLTEyMDI2MjUwMDYsMTMxMD
-YzODM2M119
+eyJoaXN0b3J5IjpbMTMwNTA4OTk0MSwtMTIwMjYyNTAwNiwxMz
+EwNjM4MzYzXX0=
 -->
