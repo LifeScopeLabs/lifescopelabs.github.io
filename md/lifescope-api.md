@@ -6,6 +6,20 @@
 
 The LIFESCOPE API is a universal platform backend. There are two components to the API; a GraphQL-based API for CRUD operations on the LIFESCOPE data schema and a REST API for login/logout/signup and connection OAuth workflow.
 
+
+# Requirements
+
+- Add WSS support for GraphQL Subscriptions
+  - Example: https://github.com/apollographql/subscriptions-transport-ws
+
+# Dependencies
+
+* [graphql-compose](https://github.com/graphql-compose/graphql-compose)
+* [graphql-compose-mongoose](https://github.com/graphql-compose/graphql-compose-mongoose)
+* Vue/Nuxt
+
+[gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
+
 # Workflows
 
 ## Connection Workflow
@@ -144,19 +158,9 @@ The LIFESCOPE API is a universal platform backend. There are two components to t
 ## things
 ## users
 
-# Requirements
 
-- Add WSS support for GraphQL Subscriptions
-  - Example: https://github.com/apollographql/subscriptions-transport-ws
 
-# Dependencies
-
-* [graphql-compose](https://github.com/graphql-compose/graphql-compose)
-* [graphql-compose-mongoose](https://github.com/graphql-compose/graphql-compose-mongoose)
-* Vue/Nuxt
-
-[gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MzQ4MDYzNiw4NDA3NDc4ODEsLTE1OD
-UyNDk4NTddfQ==
+eyJoaXN0b3J5IjpbMjA1NDgzNDgwNCwxNjkzNDgwNjM2LDg0MD
+c0Nzg4MSwtMTU4NTI0OTg1N119
 -->
