@@ -148,9 +148,8 @@ The current objects and relationships created for each LIFESCOPE user in MongoDB
 * [graphql-compose-mongoose](https://github.com/graphql-compose/graphql-compose-mongoose)
 * Vue/Nuxt
 
-
 [gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjMwMTczMywxNzk0MTE2ODM0LC0xOD
+eyJoaXN0b3J5IjpbLTgzNDQ4Mjc5NywxNzk0MTE2ODM0LC0xOD
 Q1NTUwMTg0LDEzMjA0NzY1MzYsLTIzNDcwMTk0Nl19
 -->
