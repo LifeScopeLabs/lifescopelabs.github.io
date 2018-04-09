@@ -60,6 +60,8 @@ Impersonation Ideas:
 
 ## Geolocation Based Models
 
+**Geospatial Anomaly Map Example**
+
 ![mlgeo]
 
 Prediction and anomaly detection based on location history.
@@ -84,5 +86,5 @@ Prediction and anomaly detection based on location history.
 [webviz]:https://lifescopelabs.github.io/assets/wireframes/3d-graph.jpg
 [mlgeo]:https://raw.githubusercontent.com/numenta/nupic.geospatial/master/images/viewer.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzODg2MDc0NCwtNzE0MjE4NzA2XX0=
+eyJoaXN0b3J5IjpbMTcyNjUxNjc2MCwtNzE0MjE4NzA2XX0=
 -->
