@@ -110,10 +110,7 @@ Examples
 - [AFrame (0.8+)](https://aframe.io/)
 
 ### Examples
-- [AR.JS markerless](https://github.com/1d10t/test)
-- [Web Geo adapter (De-noise web GPS data](https://github.com/Esri/html5-geolocation-tool-js/blob/master/js/GeolocationHelper.js)
-- [Marker Maker](https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html)
-- [BitScoop Marker](https://github.com/LifeScopeLabs/lifescopelabs.github.io/tree/master/assets/xr)
+- [AFrame Room Component](https://github.com/omgitsraven/aframe-room-component)
 - [Networked AFrame](https://github.com/networked-aframe/networked-aframe#more-examples)
 
 ## 3. Memory palace (concept phase, low priority)
@@ -149,6 +146,6 @@ BitScoop Marker Pattern File. Notice how the bitmap matches the file.
 [proceduralvr1]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame1.png
 [proceduralvr2]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMjY4ODQ1NSwxNjcyNzk1MTg5LC05Nj
-kzOTAzMjYsLTI4NzUwNzI3NF19
+eyJoaXN0b3J5IjpbLTE0NjI0MTY1NDQsMTY3Mjc5NTE4OSwtOT
+Y5MzkwMzI2LC0yODc1MDcyNzRdfQ==
 -->
