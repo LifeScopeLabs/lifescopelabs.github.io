@@ -26,18 +26,21 @@ The LIFESCOPE API is a universal platform backend. There are two components to t
 * Exposes the connection, signup, and login workflows as GraphQL endpoints
 
 ## Providers
-* Facebook
-* Twitter
-* Pinterest
-* Dropbox
-* Steam
-* Reddit
-* Spotify
-* GitHub
-* Instagram
-* Google
-* **Slice - In Development**
-* **FitBit - In Development**
+| Data Source | Status | Data Collected |
+|--|--|--|
+| Facebook | production | events, content, contacts, locations |
+| Twitter | production | events, content, contacts, locations |
+| Pinterest | beta | events, content, locations |
+| Dropbox | production | events, content, locations |
+| Steam | production | events, content |
+| Reddit | production | events, content, contacts, contacts |
+| Spotify | production | events, content |
+| GitHub | production | events, content, contacts |
+| Instagram | production | events, content, contacts |
+| Google | production | events, content, contacts |
+| Slice | development | events, content, things |
+| FitBit | planned | events, things |
+| TV Time | planned | events, content |
 
 # Data Schema
 
@@ -154,5 +157,6 @@ The LIFESCOPE API is a universal platform backend. There are two components to t
 
 [gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQwNzQ3ODgxLC0xNTg1MjQ5ODU3XX0=
+eyJoaXN0b3J5IjpbMTY5MzQ4MDYzNiw4NDA3NDc4ODEsLTE1OD
+UyNDk4NTddfQ==
 -->
