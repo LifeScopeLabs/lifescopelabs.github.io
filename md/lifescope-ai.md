@@ -12,28 +12,28 @@ Create infographics and reports for LIFESCOPE users based on their data.
 
 ## Personal Infographic Examples
 
-Finance Overview Bubble Chart
+**Finance Overview Bubble Chart**
 {Merchants x Item Count x Total Price]
 
-Social Overview Line Chart
+**Social Overview Line Chart**
 [Social platform (Twitter, Linked In, Facebook) x Mentions & Likes x Time ]
 
 ![infographics1]
 
-Time Vertical Gantt Chart 
+**Time Vertical Gantt Chart**
 [Week x Event Type]
 
-Messaging Bar Chart 
+**Messaging Bar Chart** 
 [% to vs From]
 
 ![infographics2]
 
-Heat Map of activity
+**Heat Map of Activity**
 [Location x Time]
 
 ![heatmap]
 
-Network Visualizations of Deep Learning Training
+**Network Visualizations of Deep Learning Training**
 [Adversarial Match]
 
 ![deepviz]
@@ -84,5 +84,5 @@ Prediction and anomaly detection based on location history.
 [webviz]:https://lifescopelabs.github.io/assets/wireframes/3d-graph.jpg
 [mlgeo]:https://raw.githubusercontent.com/numenta/nupic.geospatial/master/images/viewer.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNDIxODcwNl19
+eyJoaXN0b3J5IjpbLTgzODg2MDc0NCwtNzE0MjE4NzA2XX0=
 -->
