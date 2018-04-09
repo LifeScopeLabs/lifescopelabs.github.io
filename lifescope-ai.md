@@ -42,6 +42,7 @@ Prediction and anomaly detection based on location history.
 #### Examples:
 - [Numenta Geospatioal](https://numenta.com/assets/pdf/whitepapers/Geospatial%20Tracking%20White%20Paper.pdf)
 - [Numenta Geospatioal Github Example](https://github.com/numenta/nupic.geospatial)
+- [Tenorflow Research Models for (Speech, Text, Video, Geodata](https://github.com/tensorflow/models/tree/master/research)
 
 [heatmap]:https://lifescopelabs.github.io/assets/maps/heat-map.png
 [infographics1]:https://lifescopelabs.github.io/assets/screenshots/infographics1.png
@@ -49,5 +50,6 @@ Prediction and anomaly detection based on location history.
 [deepviz]:https://lifescopelabs.github.io/assets/wireframes/DeepLearningViz.png
 [webviz]:https://lifescopelabs.github.io/assets/wireframes/3d-graph.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzczNjUwNDEsLTM1MDUwNTE5N119
+eyJoaXN0b3J5IjpbOTI4MjcyNzM0LC0xMTM3MzY1MDQxLC0zNT
+A1MDUxOTddfQ==
 -->
