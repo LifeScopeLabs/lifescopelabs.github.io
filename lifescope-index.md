@@ -65,7 +65,7 @@ The [LIFESCOPE API](https://lifescopelabs.github.io/api.html) uses GraphQL and R
 
 ![conceptdiagram]
 
-he current objects and relationships created for each LIFESCOPE schema. Replicated in MongoDB and GraphQL A.
+**LIFESCOPE Schema** Replicated in MongoDB and the GraphQL API.
 
 ![gqlschema]
 
@@ -156,6 +156,6 @@ In 2016, BitScoop Labs rebuilt the project as Live Explorer. This is now the leg
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
 [gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1Nzk3MDgzOSwtODEwNjI1MzA4LDEzMD
+eyJoaXN0b3J5IjpbLTkxNDAwODc1NywtODEwNjI1MzA4LDEzMD
 UwODk5NDEsLTEyMDI2MjUwMDYsMTMxMDYzODM2M119
 -->
