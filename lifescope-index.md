@@ -64,6 +64,10 @@ The [LIFESCOPE API](https://lifescopelabs.github.io/api.html) uses GraphQL and R
 
 ![conceptdiagram]
 
+he current objects and relationships created for each LIFESCOPE user in MongoDB and accessible from GraphQL.
+
+![gqlschema]
+
 ## Single App Architecture
 
 The [LIFESCOPE App](https://lifescopelabs.github.io/app.html) is to search, explore, and curate your personal data in various views. Explore data with various views (Feed, List, Map, Gallery, Timeline, [Virtual Reality, Augmented Reality](https://lifescopelabs.github.io/xr.html).  Let the app look and [listen to you](https://lifescopelabs.github.io/voice.html). Speak questions about yourself or record and automatically respond.
@@ -136,7 +140,8 @@ Ografy site screenshot
 [smokesignalss2]:https://lifescopelabs.github.io/assets/screenshots/smokesignal-io-legacy-2.png
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
+[gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTA4OTk0MSwtMTIwMjYyNTAwNiwxMz
-EwNjM4MzYzXX0=
+eyJoaXN0b3J5IjpbLTgxMDYyNTMwOCwxMzA1MDg5OTQxLC0xMj
+AyNjI1MDA2LDEzMTA2MzgzNjNdfQ==
 -->
