@@ -6,9 +6,11 @@
 - voice response
 - capture voice data
 
+Synthesis support
+
 https://speechlogger.appspot.com/developers/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NDE5MTk4NV19
+eyJoaXN0b3J5IjpbLTE0NzU5MDU3NzIsMTY1NDE5MTk4NV19
 -->
