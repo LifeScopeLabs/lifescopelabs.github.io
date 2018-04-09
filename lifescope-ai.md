@@ -21,7 +21,7 @@ Messaging Bar Chart [% to vs From]
 Network Visualizations of Deep Learning Training
 ![deepviz]
 
-## Proposed Technology
+### Proposed Technology and Examples
 
 - [Tau Charts](https://www.taucharts.com/)
 
@@ -29,12 +29,15 @@ Network Visualizations of Deep Learning Training
 
 ## Conversational Agents
 
-Examples: [CakeChat Framework](https://cakechat.replika.ai/) 
 
 Impersonation Ideas:
 - **Persona-based model**. Condition responses on a certain author of messages (User ID) to make responses lexically similar to them and mimic someone’s linguistic style in a conversation. Use new or pre-trained models to run a chatbot that maintains a conversation in a certain emotional state. 
 - **Emotional chatting machine** with your own set of emotions. There are so many emotions that you can use as condition labels in your dataset. CakeChat only uses five basic emotions (anger, sadness, joy, fear and neutral). 
 - **Topic-centric model**. Instead of emotions, you can use a set of topics that will condition the model’s responses. As a result, you can build an agent that sticks to a given topic in a conversation. For example, you can build a model that talks about weather, food, kids or mortgage at any given moment.
+
+
+###  Proposed Technology and Examples 
+- [CakeChat Framework](https://cakechat.replika.ai/) 
 
 ## Geolocation Based Models
 
@@ -42,7 +45,7 @@ Prediction and anomaly detection based on location history.
 
 ![heatmap]
 
-### Proposed Technolog:
+### Proposed Technology and Examples
 - [Numenta Geospatioal](https://numenta.com/assets/pdf/whitepapers/Geospatial%20Tracking%20White%20Paper.pdf)
 - [Numenta Geospatioal Github Example](https://github.com/numenta/nupic.geospatial)
 - [Tenorflow Research Models for (Speech, Text, Video, Geodata](https://github.com/tensorflow/models/tree/master/research)
@@ -53,6 +56,6 @@ Prediction and anomaly detection based on location history.
 [deepviz]:https://lifescopelabs.github.io/assets/wireframes/DeepLearningViz.png
 [webviz]:https://lifescopelabs.github.io/assets/wireframes/3d-graph.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNDIyNTUyMSw1MTM3NDU2MDQsOTI4Mj
-cyNzM0LC0xMTM3MzY1MDQxLC0zNTA1MDUxOTddfQ==
+eyJoaXN0b3J5IjpbODcwNTIyMTQ2LDUxMzc0NTYwNCw5MjgyNz
+I3MzQsLTExMzczNjUwNDEsLTM1MDUwNTE5N119
 -->
