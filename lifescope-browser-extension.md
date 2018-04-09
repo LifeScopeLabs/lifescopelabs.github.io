@@ -1,4 +1,7 @@
-# LIFESCOPE-Browser-Extension
+# [LIFESCOPE-Browser-Extens](https://github.com/LifeScopeLabs/lifescope-ai)
+
+## [Repository](https://github.com/LifeScopeLabs/lifescope-ai)
+
 
 * Regularly post browser history into LIFESCOPE schema
 * Capture web history on a url, site visit, or domain basis
@@ -10,5 +13,5 @@
 
 [browserext]:https://lifescopelabs.github.io/assets/screenshots/browser-plugin-screenshot.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MTM2MDM2OV19
+eyJoaXN0b3J5IjpbLTQ5OTc5MTk2NSwtODQxMzYwMzY5XX0=
 -->
