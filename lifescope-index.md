@@ -23,7 +23,7 @@ LIFESCOPE as an open source platform for anything you want to do with your perso
 - [LIFESCOPE Main Site](https://lifescope.io)
 - [LIFESCOPE Legacy App](https://app.lifescope.io)
 - [LIFESCOPE Documentation](https://lifescope.io/learn)
-- [LIFESCOPE D](https://github.com/LifeScopeLabs)
+- [LIFESCOPE GitHub](https://github.com/LifeScopeLabs)
 
 # Want to help? 
 We are currently looking for designers, creators, developers, and data scientists to help build and grow LIFESCOPE.
@@ -125,5 +125,5 @@ Ografy site screenshot
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQ0MDI0NjMsMTMxMDYzODM2M119
+eyJoaXN0b3J5IjpbLTEyMDI2MjUwMDYsMTMxMDYzODM2M119
 -->
