@@ -42,6 +42,7 @@ Network Visualizations of Deep Learning Training
 
 - [Tau Charts](https://www.taucharts.com/)
 - [Plot.ly](https://plot.ly/plotly-js-scientific-d3-charting-library/)
+- [Chart.js](http://www.chartjs.org/samples/latest/)
 
 # Machine Learning (concept phase, low priority)
 
@@ -83,7 +84,7 @@ Prediction and anomaly detection based on location history.
 [webviz]:https://lifescopelabs.github.io/assets/wireframes/3d-graph.jpg
 [mlgeo]:https://raw.githubusercontent.com/numenta/nupic.geospatial/master/images/viewer.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTE2MTE5NCwtMTIyMjE0MzcyNCwxNz
+eyJoaXN0b3J5IjpbLTcxNDIxODcwNiwtMTIyMjE0MzcyNCwxNz
 M0MjAxNTc1LDUxMzc0NTYwNCw5MjgyNzI3MzQsLTExMzczNjUw
 NDEsLTM1MDUwNTE5N119
 -->
