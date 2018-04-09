@@ -131,7 +131,7 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 
 # History
 
-[Liam Broza](htto) and the team at [BitScoop Labs](https://bitscoop.com) have been working on problems big data and quantified self for over a decade. This project started as SmokeSignal in 2009 as a Java desktop app for crawling android app data.  [Origional SmokeSignal LifeLogger Site](https://web.archive.org/web/20141222111903/http://www.smokesignal.info/)
+[Liam Broza](httos://liambroza.com) and the team at [BitScoop Labs](https://bitscoop.com) have been working on problems big data and quantified self for over a decade. This project started as SmokeSignal in 2009 as a Java desktop app for crawling android app data.  [Origional SmokeSignal LifeLogger Site](https://web.archive.org/web/20141222111903/http://www.smokesignal.info/) In 2016, BitScoop Labs rebuilt the project as Live Explorer (and is now the legacy LIFESCOPE app). In 2018, LIFESCOPE was released open source by the BitScoop team to help give people control of their digital identity.  
 
 **Origional SmokeSignal LifeLogger Site**
 
@@ -140,12 +140,6 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 **Origional SmokeSignal LifeLogger Sources**
 
 ![smokesignalss1] 
-
-In 2016, BitScoop Labs rebuilt the project as Live Explorer. This is now the legacy LIFESCOPE app. [Ografy Original Site](https://web.archive.org/web/20151116131419/http://ografy.io/)
-
-**Ografy Original Site Screenshot**
-
-![ografy]
 
 [conceptdiagram]:https://lifescopelabs.github.io/assets/img/concept-diagram.png
 [soureflow]:https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png
@@ -157,7 +151,7 @@ In 2016, BitScoop Labs rebuilt the project as Live Explorer. This is now the leg
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
 [gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk4ODk4NTY0LC00NjgyMTY4NjQsLTEwMD
-k0NzE1OTMsLTkxNDAwODc1NywtODEwNjI1MzA4LDEzMDUwODk5
-NDEsLTEyMDI2MjUwMDYsMTMxMDYzODM2M119
+eyJoaXN0b3J5IjpbLTE2ODk0MDc4NDUsLTQ2ODIxNjg2NCwtMT
+AwOTQ3MTU5MywtOTE0MDA4NzU3LC04MTA2MjUzMDgsMTMwNTA4
+OTk0MSwtMTIwMjYyNTAwNiwxMzEwNjM4MzYzXX0=
 -->
