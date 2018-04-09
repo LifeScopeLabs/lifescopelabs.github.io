@@ -18,10 +18,10 @@ Time Vertical Gantt Chart [Week x Event Type]
 Messaging Bar Chart [% to vs From]
 ![infographics2]
 
-Deep learning visualizations of deeptraining
+Network Visualizations of Deep Learning Training
 ![deepviz]
 
-### Dependences
+### Proposed Technology
 
 - [Tau Charts](https://www.taucharts.com/)
 
@@ -53,6 +53,6 @@ Prediction and anomaly detection based on location history.
 [deepviz]:https://lifescopelabs.github.io/assets/wireframes/DeepLearningViz.png
 [webviz]:https://lifescopelabs.github.io/assets/wireframes/3d-graph.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1Nzg1MzA5Nyw1MTM3NDU2MDQsOTI4Mj
+eyJoaXN0b3J5IjpbMTE0NTAzMzQ5MSw1MTM3NDU2MDQsOTI4Mj
 cyNzM0LC0xMTM3MzY1MDQxLC0zNTA1MDUxOTddfQ==
 -->
