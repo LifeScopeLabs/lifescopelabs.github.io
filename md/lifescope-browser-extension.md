@@ -13,6 +13,11 @@
 ![browserext]
 
 [browserext]:https://lifescopelabs.github.io/assets/screenshots/browser-plugin-screenshot.png
+
+## Developer Setup
+
+1. Clone this repo
+2. Install the repo's directory as an extension
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNzQzMTk4M119
+eyJoaXN0b3J5IjpbMTkyNzc3NzQyOV19
 -->
