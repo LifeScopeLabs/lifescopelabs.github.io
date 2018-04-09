@@ -2,12 +2,7 @@
 
 ## [Repository](https://github.com/LifeScopeLabs/lifescope-api)
 
-
-Universal API backend for the LIFESCOPE platform.
-
-GraphQL-based API for CRUD operations on the LIFESCOPE data schema. 
-
-REST API for login/logout/signup and connection OAUTH workflow
+The LIFESCOPE API is a universal platform backend. There are two components to the API; a GraphQL-based API for CRUD operations on the LIFESCOPE data schema and a REST API for login/logout/signup and connection OAUTH workflow.
 
 # Workflows
 
@@ -29,7 +24,6 @@ REST API for login/logout/signup and connection OAUTH workflow
 * Exposes the connection, signup, and login workflows as GraphQL endpoints
 
 ## Providers
-
 * Facebook
 * Twitter
 * Pinterest
@@ -37,11 +31,11 @@ REST API for login/logout/signup and connection OAUTH workflow
 * Steam
 * Reddit
 * Spotify
-* FitBit
 * GitHub
 * Instagram
-* **Google**
+* Google
 * **Slice**
+* FitBit
 
 # Data Schema
 
@@ -149,5 +143,5 @@ REST API for login/logout/signup and connection OAUTH workflow
 * [graphql-compose-mongoose](https://github.com/graphql-compose/graphql-compose-mongoose)
 * Vue/Nuxt
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTIxMjk5NTAsLTIzNDcwMTk0Nl19
+eyJoaXN0b3J5IjpbMTU3Mzk5MTMyOCwtMjM0NzAxOTQ2XX0=
 -->
