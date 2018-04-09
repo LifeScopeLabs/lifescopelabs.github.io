@@ -34,8 +34,8 @@ The LIFESCOPE API is a universal platform backend. There are two components to t
 * GitHub
 * Instagram
 * Google
-* **Slice**
-* FitBit
+* **Slice - In Development**
+* **FitBit - In Development**
 
 # Data Schema
 
@@ -143,5 +143,5 @@ The LIFESCOPE API is a universal platform backend. There are two components to t
 * [graphql-compose-mongoose](https://github.com/graphql-compose/graphql-compose-mongoose)
 * Vue/Nuxt
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3Mzk5MTMyOCwtMjM0NzAxOTQ2XX0=
+eyJoaXN0b3J5IjpbMTMyMDQ3NjUzNiwtMjM0NzAxOTQ2XX0=
 -->
