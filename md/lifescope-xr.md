@@ -110,10 +110,10 @@ https://gurivr.com/
 
 ## [BitScoop VR Social Login Demo](https://github.com/mrhegemon/bitscoop-vr-demo)
 
-BitScoop Marker
+## BitScoop AR Marker
 ![markerbs]
 
-BitScoop Marker Pattern File
+BitScoop Marker Pattern File. Notice how the bitmap matches the file.
 ![patternarbs]
 
 
@@ -133,5 +133,5 @@ BitScoop Marker Pattern File
 [proceduralvr1]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame1.png
 [proceduralvr2]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODQwMTcyODAsLTI4NzUwNzI3NF19
+eyJoaXN0b3J5IjpbLTE0NzQ3ODk5NTcsLTI4NzUwNzI3NF19
 -->
