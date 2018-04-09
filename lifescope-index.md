@@ -126,19 +126,15 @@ Current status of data source support.
 
 # History
 
-Liam Broza and the team at BitScoop Labs have been working on problems big data and quantified self for over a decade. This project started as SmokeSignal in 2009 as a Java desktop app for crawling android app data. 
+Liam Broza and the team at BitScoop Labs have been working on problems big data and quantified self for over a decade. This project started as SmokeSignal in 2009 as a Java desktop app for crawling android app data.  [Origional SmokeSignal LifeLogger Site](https://web.archive.org/web/20141222111903/http://www.smokesignal.info/)
 
-[Origional SmokeSignal LifeLogger Site](https://web.archive.org/web/20141222111903/http://www.smokesignal.info/)
-
-Origional SmokeSignal LifeLogger Site
+**Origional SmokeSignal LifeLogger Site**
 ![smokesignalss2]
 
-Origional SmokeSignal LifeLogger Sources
+**Origional SmokeSignal LifeLogger Sources**
 ![smokesignalss1] 
 
-In 2016, BitScoop Labs rebuilt the project as Live Explorer. This is now the legacy LIFESCOPE app.
-
-https://web.archive.org/web/20151116131419/http://ografy.io/
+In 2016, BitScoop Labs rebuilt the project as Live Explorer. This is now the legacy LIFESCOPE app. [Ografy Original Site](https://web.archive.org/web/20151116131419/http://ografy.io/)
 
 Ografy Original Site Screenshot
 ![ografy]
@@ -153,6 +149,6 @@ Ografy Original Site Screenshot
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
 [gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjczMzY3MDgsLTgxMDYyNTMwOCwxMz
+eyJoaXN0b3J5IjpbLTE3MzYxNTMyMDcsLTgxMDYyNTMwOCwxMz
 A1MDg5OTQxLC0xMjAyNjI1MDA2LDEzMTA2MzgzNjNdfQ==
 -->
