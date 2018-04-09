@@ -15,10 +15,10 @@ Social Overview Line Chart [Social platform (Twitter, Linked In, Facebook) x Men
 ![infographics1]
 
 Time Vertical Gantt Chart [Week x Event Type]
-Messaging 
+Messaging Bar Chart [% to vs From]
 ![infographics2]
 
-Deep learning visualizations
+Deep learning visualizations of deeptraining
 ![deepviz]
 
 ### Dependences
@@ -53,6 +53,6 @@ Prediction and anomaly detection based on location history.
 [deepviz]:https://lifescopelabs.github.io/assets/wireframes/DeepLearningViz.png
 [webviz]:https://lifescopelabs.github.io/assets/wireframes/3d-graph.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjk2NDYxODIsNTEzNzQ1NjA0LDkyOD
-I3MjczNCwtMTEzNzM2NTA0MSwtMzUwNTA1MTk3XX0=
+eyJoaXN0b3J5IjpbLTY1Nzg1MzA5Nyw1MTM3NDU2MDQsOTI4Mj
+cyNzM0LC0xMTM3MzY1MDQxLC0zNTA1MDUxOTddfQ==
 -->
