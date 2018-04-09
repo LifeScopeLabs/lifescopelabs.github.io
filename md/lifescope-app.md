@@ -68,7 +68,7 @@ Map View
 * Embed saved searches as dynamic iFrame
 * Served publicly
 
-## Dat
+##  Data Collection Sources
 
 | Data Source | Support | Status | Data Collected |
 |--|--|--|--|
@@ -90,5 +90,5 @@ Alt Feed View
 [lifescope-app-legacy]:https://lifescopelabs.github.io/assets/screenshots/lifescope-app-legacy.png
 [lifescope-app-wireframe]:https://lifescopelabs.github.io/assets/wireframes/week-content-feed.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDA1NTEyMTMsMTkyODMxMTc2Ml19
+eyJoaXN0b3J5IjpbMTgwODI1NDMyMCwxOTI4MzExNzYyXX0=
 -->
