@@ -141,6 +141,13 @@ The LIFESCOPE API is a universal platform backend. There are two components to t
 ## things
 ## users
 
+# Requirements
+
+- Add WSS support for subscriptions
+  - https://github.com/apollographql/subscriptions-transport-ws
+  - https://github.com/graphql-compose/graphql-compose
+   - https://github.com/graphql-compose/graphql-compose-mongoose
+
 # Dependencies
 
 * [graphql-compose](https://github.com/graphql-compose/graphql-compose)
@@ -149,5 +156,5 @@ The LIFESCOPE API is a universal platform backend. There are two components to t
 
 [gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODUyNDk4NTddfQ==
+eyJoaXN0b3J5IjpbNTQxNTk3MjY0LC0xNTg1MjQ5ODU3XX0=
 -->
