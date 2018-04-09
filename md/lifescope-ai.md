@@ -65,6 +65,7 @@ Create infographics and reports for LIFESCOPE users based on their data.
 ### Examples
 
 - [Replika](https://replika.ai/) is an AI friend that is always there for you. Grow your own.
+	- This. https://www.reddit.com/r/replika/
 
 
 
@@ -96,6 +97,6 @@ Prediction and anomaly detection based on location history.
 [webviz]:https://lifescopelabs.github.io/assets/wireframes/3d-graph.jpg
 [mlgeo]:https://raw.githubusercontent.com/numenta/nupic.geospatial/master/images/viewer.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTgyNjcyNjksMTcyNjUxNjc2MCwtNz
+eyJoaXN0b3J5IjpbLTIwNzQ0OTczNjQsMTcyNjUxNjc2MCwtNz
 E0MjE4NzA2XX0=
 -->
