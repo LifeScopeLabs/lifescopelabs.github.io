@@ -68,6 +68,17 @@ Map View
 * Embed saved searches as dynamic iFrame
 * Served publicly
 
+## Dat
+
+| Data Source | Support | Status | Data Collected |
+|--|--|--|--|
+| Location History | Universal | development | locations
+| **Scrape** Calls | Native app | planned | events, content |
+| **Scrape** Messages | Native app | planned | events, content |
+| **Scrape** Media | Native app | planned | events, content |
+| **Scrape** Files | Native app | planned | events, content |
+
+
 ## Notes
 
 Alt Feed View
@@ -79,5 +90,5 @@ Alt Feed View
 [lifescope-app-legacy]:https://lifescopelabs.github.io/assets/screenshots/lifescope-app-legacy.png
 [lifescope-app-wireframe]:https://lifescopelabs.github.io/assets/wireframes/week-content-feed.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyNTY0Mjc4LDE5MjgzMTE3NjJdfQ==
+eyJoaXN0b3J5IjpbLTExMDA1NTEyMTMsMTkyODMxMTc2Ml19
 -->
