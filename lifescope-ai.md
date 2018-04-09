@@ -18,6 +18,9 @@ Time Vertical Gantt Chart [Week x Event Type]
 Messaging Bar Chart [% to vs From]
 ![infographics2]
 
+Heatmap of activity
+![heatmap]
+
 Network Visualizations of Deep Learning Training
 ![deepviz]
 
@@ -43,7 +46,6 @@ Impersonation Ideas:
 
 Prediction and anomaly detection based on location history.
 
-![heatmap]
 
 ### Proposed Technology and Examples
 - [Numenta Geospatioal](https://numenta.com/assets/pdf/whitepapers/Geospatial%20Tracking%20White%20Paper.pdf)
@@ -56,6 +58,6 @@ Prediction and anomaly detection based on location history.
 [deepviz]:https://lifescopelabs.github.io/assets/wireframes/DeepLearningViz.png
 [webviz]:https://lifescopelabs.github.io/assets/wireframes/3d-graph.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcwNTIyMTQ2LDUxMzc0NTYwNCw5MjgyNz
-I3MzQsLTExMzczNjUwNDEsLTM1MDUwNTE5N119
+eyJoaXN0b3J5IjpbLTg5ODYzOTc3NCw1MTM3NDU2MDQsOTI4Mj
+cyNzM0LC0xMTM3MzY1MDQxLC0zNTA1MDUxOTddfQ==
 -->
