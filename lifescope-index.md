@@ -77,11 +77,14 @@ Curate your data with saved searches and hashtags. See [reports and data visuali
 
 Single-page Universal web app built on Nuxt and Vue.js. Desktop/mobile reactive design interface with javascript extensions. Written with plugin framework such as location tracking, WebXR and Web Speech. Should be containerizable inside a universal app framework like Cordova (iOS, Android, Mac, Win). 
 
+The current LIFESCOPE codebases are hosted on Amazon Web Services to power the web platform.
+
+
 ![arch]
 
 # Data Sources
 
-Current status of data source support.
+**Current status of data source support.**
 
 ### API ETL
 
@@ -129,14 +132,17 @@ Current status of data source support.
 Liam Broza and the team at BitScoop Labs have been working on problems big data and quantified self for over a decade. This project started as SmokeSignal in 2009 as a Java desktop app for crawling android app data.  [Origional SmokeSignal LifeLogger Site](https://web.archive.org/web/20141222111903/http://www.smokesignal.info/)
 
 **Origional SmokeSignal LifeLogger Site**
+
 ![smokesignalss2]
 
 **Origional SmokeSignal LifeLogger Sources**
+
 ![smokesignalss1] 
 
 In 2016, BitScoop Labs rebuilt the project as Live Explorer. This is now the legacy LIFESCOPE app. [Ografy Original Site](https://web.archive.org/web/20151116131419/http://ografy.io/)
 
-Ografy Original Site Screenshot
+**Ografy Original Site Screenshot**
+
 ![ografy]
 
 [conceptdiagram]:https://lifescopelabs.github.io/assets/img/concept-diagram.png
@@ -149,6 +155,6 @@ Ografy Original Site Screenshot
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
 [gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzYxNTMyMDcsLTgxMDYyNTMwOCwxMz
+eyJoaXN0b3J5IjpbLTEyMzgyMDg4NTYsLTgxMDYyNTMwOCwxMz
 A1MDg5OTQxLC0xMjAyNjI1MDA2LDEzMTA2MzgzNjNdfQ==
 -->
