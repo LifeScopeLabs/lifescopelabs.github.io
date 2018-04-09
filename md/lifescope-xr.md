@@ -100,9 +100,9 @@ Examples
 
 ### Requirements
 - **MVP**: Show an infinite "gallery" of content from your lifescope data.
-- Able to sort, searc
-- Able to select gateways, zoom, objects
-- Able to see friends
+- Able to sort, search, curate, modify content shown.
+- Able to draw in the gallery.
+- Able to see friends.
 
 ### Dependencies
 - Vue/Nuxt compatible
@@ -149,6 +149,6 @@ BitScoop Marker Pattern File. Notice how the bitmap matches the file.
 [proceduralvr1]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame1.png
 [proceduralvr2]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIyMDI1ODk3LDE2NzI3OTUxODksLTk2OT
-M5MDMyNiwtMjg3NTA3Mjc0XX0=
+eyJoaXN0b3J5IjpbMjAzMjY4ODQ1NSwxNjcyNzk1MTg5LC05Nj
+kzOTAzMjYsLTI4NzUwNzI3NF19
 -->
