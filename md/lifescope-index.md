@@ -34,7 +34,7 @@ We are currently looking for designers, creators, developers, and data scientist
 
 # Documentation Index
 
-Here is the repository documentation and development status of all project components.
+This GitHub.io site hold as a documentation source and  Here is the repository documentation and development status of all project components.
 
 | Repository Documentation | Priority | Status |
 |--|--|--|
@@ -158,6 +158,6 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 eyJoaXN0b3J5IjpbLTM5NTE2NDI3Nl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NDE4NzEwLC0xMTQ2MzgwNjQyLDE2ND
-Q0MDQ3ODhdfQ==
+eyJoaXN0b3J5IjpbLTUzNDc5MTQyNiwtMTE0NjM4MDY0MiwxNj
+Q0NDA0Nzg4XX0=
 -->
