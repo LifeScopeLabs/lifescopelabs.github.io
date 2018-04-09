@@ -2,6 +2,8 @@
 
 ## [Repository](https://github.com/LifeScopeLabs/lifescope-api)
 
+### (development phase, high priority)
+
 The LIFESCOPE API is a universal platform backend. There are two components to the API; a GraphQL-based API for CRUD operations on the LIFESCOPE data schema and a REST API for login/logout/signup and connection OAuth workflow.
 
 # Workflows
@@ -143,6 +145,6 @@ The LIFESCOPE API is a universal platform backend. There are two components to t
 * [graphql-compose-mongoose](https://github.com/graphql-compose/graphql-compose-mongoose)
 * Vue/Nuxt
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDU1NTAxODQsMTMyMDQ3NjUzNiwtMj
-M0NzAxOTQ2XX0=
+eyJoaXN0b3J5IjpbMTc5NDExNjgzNCwtMTg0NTU1MDE4NCwxMz
+IwNDc2NTM2LC0yMzQ3MDE5NDZdfQ==
 -->
