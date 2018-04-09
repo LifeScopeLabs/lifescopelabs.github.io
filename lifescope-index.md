@@ -79,9 +79,6 @@ Single-page Universal web app built on Nuxt and Vue.js. Desktop/mobile reactive 
 
 ![arch]
 
-
-
-
 # Data Sources
 
 Current status of data source support.
@@ -92,7 +89,7 @@ Current status of data source support.
 |--|--|--|
 | Facebook | production | events, content, contacts, locations |
 | Twitter | production | events, content, contacts, locations |
-| Pinterest | production | events, content, locations |
+| Pinterest | beta | events, content, locations |
 | Dropbox | production | events, content, locations |
 | Steam | production | events, content |
 | Reddit | production | events, content, contacts, contacts |
@@ -129,10 +126,9 @@ Current status of data source support.
 
 # History
 
-Liam Broza and the team at B
-| **Scrape** Calls | Native app | planned | events, content |itScoop Labs have been working on problems big data and quantified self for over a decade. This project started as SmokeSignal in 2009 as a Java desktop app for crawling android app data. 
+Liam Broza and the team at BitScoop Labs have been working on problems big data and quantified self for over a decade. This project started as SmokeSignal in 2009 as a Java desktop app for crawling android app data. 
 
-https://web.archive.org/web/20141222111903/http://www.smokesignal.info/
+[Origional SmokeSignal ](https://web.archive.org/web/20141222111903/http://www.smokesignal.info/)
 
 SmokeSignal site screenshot
 ![smokesignalss2]
@@ -157,6 +153,6 @@ Ografy site screenshot
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
 [gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NzI0NDQyNiwtODEwNjI1MzA4LDEzMD
+eyJoaXN0b3J5IjpbLTQ0NzYyOTMzNCwtODEwNjI1MzA4LDEzMD
 UwODk5NDEsLTEyMDI2MjUwMDYsMTMxMDYzODM2M119
 -->
