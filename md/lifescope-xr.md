@@ -108,6 +108,7 @@ Examples
 - Vue/Nuxt compatible
 - [AR.JS](https://github.com/jeromeetienne/AR.js/tree/master/aframe/demos/demo-mapbox)
 - [AFrame (0.8+)](https://aframe.io/)
+- [GURI VR](https://gurivr.com/)
 
 ### Examples
 - [AFrame Room Component](https://github.com/omgitsraven/aframe-room-component)
@@ -130,8 +131,7 @@ Examples
 - Vue/Nuxt compatible
 - [AR.JS](https://github.com/jeromeetienne/AR.js/tree/master/aframe/demos/demo-mapbox)
 - [AFrame (0.8+)](https://aframe.io/)
-- [](
-https://gurivr.com/)
+- [GURI VR](https://gurivr.com/)
 
 ### Examples
 - [AFrame Room Component](https://github.com/omgitsraven/aframe-room-component)
@@ -163,6 +163,6 @@ BitScoop Marker Pattern File. Notice how the bitmap matches the file.
 [proceduralvr1]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame1.png
 [proceduralvr2]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkwNzIxODQsMTY3Mjc5NTE4OSwtOTY5Mz
-kwMzI2LC0yODc1MDcyNzRdfQ==
+eyJoaXN0b3J5IjpbLTIwMDIwOTQ4NzYsMTY3Mjc5NTE4OSwtOT
+Y5MzkwMzI2LC0yODc1MDcyNzRdfQ==
 -->
