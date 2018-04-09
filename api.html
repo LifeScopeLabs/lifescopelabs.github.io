@@ -13,7 +13,11 @@
     <div class="stackedit__toc">
       
 <ul>
-<li><a href="#lifescope-api">LIFESCOPE-API</a></li>
+<li><a href="#lifescope-api">LIFESCOPE-API</a>
+<ul>
+<li><a href="#repository">Repository</a></li>
+</ul>
+</li>
 <li><a href="#workflows">Workflows</a>
 <ul>
 <li><a href="#connection-workflow">Connection Workflow</a></li>
@@ -41,6 +45,7 @@
 <li><a href="#users">users</a></li>
 </ul>
 </li>
+<li><a href="#requirements">Requirements</a></li>
 <li><a href="#dependencies">Dependencies</a></li>
 </ul>
 
@@ -48,10 +53,10 @@
   </div>
   <div class="stackedit__right">
     <div class="stackedit__html">
-      <h1 id="lifescope-api">LIFESCOPE-API</h1>
-<p>Universal API backend for the LIFESCOPE platform.</p>
-<p>GraphQL-based API for CRUD operations on the LIFESCOPE data schema.</p>
-<p>REST API for login/logout/signup and connection OAUTH workflow</p>
+      <h1 id="lifescope-api"><a href="https://github.com/LifeScopeLabs/lifescope-api">LIFESCOPE-API</a></h1>
+<h2 id="repository"><a href="https://github.com/LifeScopeLabs/lifescope-api">Repository</a></h2>
+<h3 id="development-phase-high-priority">(development phase, high priority)</h3>
+<p>The LIFESCOPE API is a universal platform backend. There are two components to the API; a GraphQL-based API for CRUD operations on the LIFESCOPE data schema and a REST API for login/logout/signup and connection OAuth workflow.</p>
 <h1 id="workflows">Workflows</h1>
 <h2 id="connection-workflow">Connection Workflow</h2>
 <ol>
@@ -83,13 +88,14 @@
 <li>Steam</li>
 <li>Reddit</li>
 <li>Spotify</li>
-<li>FitBit</li>
 <li>GitHub</li>
 <li>Instagram</li>
-<li><strong>Google</strong></li>
-<li><strong>Slice</strong></li>
+<li>Google</li>
+<li><strong>Slice - In Development</strong></li>
+<li><strong>FitBit - In Development</strong></li>
 </ul>
 <h1 id="data-schema">Data Schema</h1>
+<p><img src="https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png" alt="gqlschema"></p>
 <h2 id="connections">connections</h2>
 <ul>
 <li>auth
@@ -212,6 +218,14 @@
 <h2 id="tags">tags</h2>
 <h2 id="things">things</h2>
 <h2 id="users">users</h2>
+<h1 id="requirements">Requirements</h1>
+<ul>
+<li>Add WSS support for GraphQL Subscriptions
+<ul>
+<li>Example: <a href="https://github.com/apollographql/subscriptions-transport-ws">https://github.com/apollographql/subscriptions-transport-ws</a></li>
+</ul>
+</li>
+</ul>
 <h1 id="dependencies">Dependencies</h1>
 <ul>
 <li><a href="https://github.com/graphql-compose/graphql-compose">graphql-compose</a></li>
