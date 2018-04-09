@@ -111,7 +111,7 @@ Examples
 
 ### Examples
 - [AFrame Room Component](https://github.com/omgitsraven/aframe-room-component)
-- [](https://3d.io/docs/api/1/aframe-components.html)
+- [3d.io Room Objects](https://3d.io/docs/api/1/aframe-components.html)
 - [Networked AFrame](https://github.com/networked-aframe/networked-aframe#more-examples)
 
 ## 3. Memory palace (concept phase, low priority)
@@ -120,7 +120,23 @@ Examples
 
 ![proceduralvr2]
 
-https://gurivr.com/
+### Requirements
+- **MVP**: Show an infinite "gallery" of content from your lifescope data.
+- Able to sort, search, curate, modify content shown.
+- Able to draw in the gallery.
+- Able to see friends.
+
+### Dependencies
+- Vue/Nuxt compatible
+- [AR.JS](https://github.com/jeromeetienne/AR.js/tree/master/aframe/demos/demo-mapbox)
+- [AFrame (0.8+)](https://aframe.io/)
+- [](
+https://gurivr.com/)
+
+### Examples
+- [AFrame Room Component](https://github.com/omgitsraven/aframe-room-component)
+- [3d.io Room Objects](https://3d.io/docs/api/1/aframe-components.html)
+- [Networked AFrame](https://github.com/networked-aframe/networked-aframe#more-examples)
 
 # BitScoop WebXR Examples
 
@@ -147,6 +163,6 @@ BitScoop Marker Pattern File. Notice how the bitmap matches the file.
 [proceduralvr1]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame1.png
 [proceduralvr2]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NDg2MjA2NCwxNjcyNzk1MTg5LC05Nj
-kzOTAzMjYsLTI4NzUwNzI3NF19
+eyJoaXN0b3J5IjpbMzkwNzIxODQsMTY3Mjc5NTE4OSwtOTY5Mz
+kwMzI2LC0yODc1MDcyNzRdfQ==
 -->
