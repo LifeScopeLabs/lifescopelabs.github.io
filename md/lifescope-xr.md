@@ -13,7 +13,8 @@ This repo contains a series of AR/VR Views written to extend lifescope-app codeb
 
 ### LIFESCOPE AR Marker Pattern file. 
 
-Notice how the pattern encodes the variance of the bitmap
+**Notice how the pattern encodes the variance of the bitmap**
+
 ![patternar]
 
 ## 1. AR Floor Topography Map (development phase, medium priority)
@@ -169,7 +170,7 @@ BitScoop Marker Pattern File. Notice how the bitmap matches the file.
 [proceduralvr1]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame1.png
 [proceduralvr2]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NDYzNTgzNyw1NDcyNzgxMSwtMTYyMD
-A3OTg1OSwxNjcyNzk1MTg5LC05NjkzOTAzMjYsLTI4NzUwNzI3
-NF19
+eyJoaXN0b3J5IjpbNTA5OTA5NDU1LDE3ODQ2MzU4MzcsNTQ3Mj
+c4MTEsLTE2MjAwNzk4NTksMTY3Mjc5NTE4OSwtOTY5MzkwMzI2
+LC0yODc1MDcyNzRdfQ==
 -->
