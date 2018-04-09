@@ -41,7 +41,7 @@ The LIFESCOPE API is a universal platform backend. There are two components to t
 
 # Data Schema
 
-The current objects and relationships created for each L
+The current objects and relationships created for each LIFESCOPE user in MongoDB and accessible from GraphQL.
 ![gqlschema]
 
 ## connections
@@ -151,6 +151,6 @@ The current objects and relationships created for each L
 
 [gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyOTI5NDM4MywxNzk0MTE2ODM0LC0xOD
+eyJoaXN0b3J5IjpbMTQyMjMwMTczMywxNzk0MTE2ODM0LC0xOD
 Q1NTUwMTg0LDEzMjA0NzY1MzYsLTIzNDcwMTk0Nl19
 -->
