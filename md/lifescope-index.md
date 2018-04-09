@@ -84,7 +84,7 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 
 ![arch]
 
-# Data Sources
+#  Data Collection Sources
 
 **Current status of data source support.**
 
@@ -155,5 +155,5 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 eyJoaXN0b3J5IjpbLTM5NTE2NDI3Nl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NDQwNDc4OF19
+eyJoaXN0b3J5IjpbLTExNDYzODA2NDIsMTY0NDQwNDc4OF19
 -->
