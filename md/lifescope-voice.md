@@ -6,11 +6,12 @@
 - voice response
 - capture voice data
 
-Synthesis support
+Browser Web Speech API allows for speech captusynthesis support
 
 https://speechlogger.appspot.com/developers/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzU5MDU3NzIsMTY1NDE5MTk4NV19
+eyJoaXN0b3J5IjpbMTQ2MzYzNTk5MCwtMTQ3NTkwNTc3MiwxNj
+U0MTkxOTg1XX0=
 -->
