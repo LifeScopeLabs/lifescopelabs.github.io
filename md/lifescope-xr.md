@@ -126,7 +126,7 @@ Examples
 
 ### Requirements
 - **MVP**: Show an infinite "gallery" of content from your lifescope data.
-	- [https://en.wikipedia.org/wiki/Method_of_loci](https://en.wikipedia.org/wiki/Method_of_loci)  [https://www.wikihow.com/Build-a-Memory-Palace](https://www.wikihow.com/Build-a-Memory-Palace)
+	- [Method_of_loci](https://en.wikipedia.org/wiki/Method_of_loci)  [Learn more on how to build-a-memory-palace](https://www.wikihow.com/Build-a-Memory-Palace)
 - Able to sort, search, curate, modify content shown.
 - Able to draw in the gallery.
 - Able to see friends.
@@ -167,6 +167,6 @@ BitScoop Marker Pattern File. Notice how the bitmap matches the file.
 [proceduralvr1]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame1.png
 [proceduralvr2]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjAwNzk4NTksMTY3Mjc5NTE4OSwtOT
-Y5MzkwMzI2LC0yODc1MDcyNzRdfQ==
+eyJoaXN0b3J5IjpbNTQ3Mjc4MTEsLTE2MjAwNzk4NTksMTY3Mj
+c5NTE4OSwtOTY5MzkwMzI2LC0yODc1MDcyNzRdfQ==
 -->
