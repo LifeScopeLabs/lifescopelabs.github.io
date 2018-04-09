@@ -1,7 +1,9 @@
 # [LIFESCOPE-Browser-Extension](https://github.com/LifeScopeLabs/lifescope-browser-extension)
 
 ## [Repository](https://github.com/LifeScopeLabs/lifescope-browser-extension)
+
 ### (development phase, medium priority)
+
 * Regularly post browser history into LIFESCOPE schema
 * Capture web history on a url, site visit, or domain basis
 * Scrape important info (like netflix or hulu history)
@@ -12,5 +14,5 @@
 
 [browserext]:https://lifescopelabs.github.io/assets/screenshots/browser-plugin-screenshot.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MjQzNTMxXX0=
+eyJoaXN0b3J5IjpbLTgwNzQzMTk4M119
 -->
