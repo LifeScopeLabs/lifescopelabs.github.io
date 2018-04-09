@@ -111,11 +111,11 @@ Current status of data source support.
 | URL History | development | location |
 | **Scrape** Netflix | planned | events, content |
 | **Scrape** Hulu | planned | events, content |
-| **Scrape** Amazon  | planned | events, content |
-| **Scrape** Netflix | planned | events, content |
-| **Scrape** Netflix | planned | events, content |
-| **Scrape** Netflix | planned | events, content |
+| **Scrape** Amazon Prime | planned | events, content |
+| **Scrape** HBO GO | planned | events, content |
+| **Scrape** YouTube | planned | events, content |
 
+### Browser Plugin
 
 | **Native App** | Native app | planned | events, content, contacts, places |
 
@@ -150,6 +150,6 @@ Ografy site screenshot
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
 [gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3OTkxMTE4LC04MTA2MjUzMDgsMTMwNT
-A4OTk0MSwtMTIwMjYyNTAwNiwxMzEwNjM4MzYzXX0=
+eyJoaXN0b3J5IjpbMTkyMDQ0NTY5MywtODEwNjI1MzA4LDEzMD
+UwODk5NDEsLTEyMDI2MjUwMDYsMTMxMDYzODM2M119
 -->
