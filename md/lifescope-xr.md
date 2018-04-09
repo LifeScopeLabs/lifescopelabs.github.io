@@ -1,6 +1,6 @@
 # LIFESCOPE-XR
 
-The lifescreate a shared virtual space to tell stories about yourself. 
+The LIFESCOPE API allows anyone to create a shared virtual space to access their memory and tell their stories. 
 
 This repo contains a series of AR/VR Views written to extend lifescope-app codebase as JS/Vue/Nuxt plugins.
 
@@ -167,6 +167,6 @@ BitScoop Marker Pattern File. Notice how the bitmap matches the file.
 [proceduralvr1]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame1.png
 [proceduralvr2]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDQ4MjI2ODUsMTY3Mjc5NTE4OSwtOT
+eyJoaXN0b3J5IjpbLTE2MjAwNzk4NTksMTY3Mjc5NTE4OSwtOT
 Y5MzkwMzI2LC0yODc1MDcyNzRdfQ==
 -->
