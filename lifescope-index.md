@@ -1,20 +1,4 @@
 # LIFESCOPE
-# Repository Index
-
-Status of source repositories and project components.
-| Repository | Priority | Status |
-|--|--|--|
-| [lifescope-ai](https://lifescopelabs.github.io/ai.html) | low | concept |
-| [lifescope-api](https://lifescopelabs.github.io/api.html) | high | production |
-| [lifescope-app](https://lifescopelabs.github.io/app.html) | high | development |
-| [lifescope-browser-extension](https://lifescopelabs.github.io/browser-extension.html) | medium | development |
-| [lifescope-etl](https://lifescopelabs.github.io/etl.html) | high | production |
-| [lifescope-site](https://lifescopelabs.github.io/site.html) | low | development |
-| [lifescope-voice](https://lifescopelabs.github.io/voice.html) | low | concept |
-| [lifescope-xr](https://lifescopelabs.github.io/xr.html) | medium | development |
-
-- [Database Documentation](https://lifescopelabs.github.io/db.html)
-- [Legacy App Documentation](https://github.com/LifeScopeLabs/lifescope-etl/tree/master/archive/tutorial)
 
 **The Internet of You**
 
@@ -45,6 +29,23 @@ LIFESCOPE as an open source platform for anything you want to do with your perso
 We are currently looking for designers, creators, developers, and data scientists to help build and grow LIFESCOPE.
 
 ### **[Join the team!](https://lifescope.io/signupdev)**
+
+# Repository Documentation Index
+
+Status of source repositories and project components.
+| Repository | Priority | Status |
+|--|--|--|
+| [lifescope-ai](https://lifescopelabs.github.io/ai.html) | low | concept |
+| [lifescope-api](https://lifescopelabs.github.io/api.html) | high | production |
+| [lifescope-app](https://lifescopelabs.github.io/app.html) | high | development |
+| [lifescope-browser-extension](https://lifescopelabs.github.io/browser-extension.html) | medium | development |
+| [lifescope-etl](https://lifescopelabs.github.io/etl.html) | high | production |
+| [lifescope-site](https://lifescopelabs.github.io/site.html) | low | beta |
+| [lifescope-voice](https://lifescopelabs.github.io/voice.html) | low | concept |
+| [lifescope-xr](https://lifescopelabs.github.io/xr.html) | medium | development |
+
+- [Database Documentation](https://lifescopelabs.github.io/db.html)
+- [Legacy App Documentation](https://github.com/LifeScopeLabs/lifescope-etl/tree/master/archive/tutorial)
 
 # How does it work?
 
@@ -102,11 +103,13 @@ Current status of data source support.
 | Slice | development | events, content, contacts |
 | FitBit | planned | events, things |
 
-### API ETL
+### Browser Plugin
 
 | Name | Status | Data Collected |
 |--|--|--|
-| **Browser** | Browser plugin | planned | events, content, places |
+| URL History | beta | events, content |
+| URL History | develop | events, content |
+| URL History | planned | events, content |
 
 
 | **Native App** | Native app | planned | events, content, contacts, places |
@@ -142,6 +145,6 @@ Ografy site screenshot
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
 [gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMDYyNTMwOCwxMzA1MDg5OTQxLC0xMj
-AyNjI1MDA2LDEzMTA2MzgzNjNdfQ==
+eyJoaXN0b3J5IjpbLTE4MzE2NjQ1ODgsLTgxMDYyNTMwOCwxMz
+A1MDg5OTQxLC0xMjAyNjI1MDA2LDEzMTA2MzgzNjNdfQ==
 -->
