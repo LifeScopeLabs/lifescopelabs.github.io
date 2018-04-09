@@ -10,20 +10,30 @@ Machine learning models based on LIFESCOPE data are currently focused on behavio
 
 Create infographics and reports for LIFESCOPE users based on their data. 
 
-###Personal Infographic Examples:
+## Personal Infographic Examples
 
-Finance Overview Bubble Chart {Merchants x Item Count x Total Price]
-Social Overview Line Chart [Social platform (Twitter, Linked In, Facebook) x Mentions & Likes x Time ]
+Finance Overview Bubble Chart
+{Merchants x Item Count x Total Price]
+
+Social Overview Line Chart
+[Social platform (Twitter, Linked In, Facebook) x Mentions & Likes x Time ]
+
 ![infographics1]
 
-Time Vertical Gantt Chart [Week x Event Type]
-Messaging Bar Chart [% to vs From]
+Time Vertical Gantt Chart 
+[Week x Event Type]
+
+Messaging Bar Chart 
+[% to vs From]
+
 ![infographics2]
 
-Heatmap of activity
+Heat Map of activity
+
 ![heatmap]
 
 Network Visualizations of Deep Learning Training
+
 ![deepviz]
 
 ### Proposed Technology and Examples
@@ -70,7 +80,7 @@ Prediction and anomaly detection based on location history.
 [webviz]:https://lifescopelabs.github.io/assets/wireframes/3d-graph.jpg
 [mlgeo]:https://raw.githubusercontent.com/numenta/nupic.geospatial/master/images/viewer.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTIxMTIxNjYsMTczNDIwMTU3NSw1MT
-M3NDU2MDQsOTI4MjcyNzM0LC0xMTM3MzY1MDQxLC0zNTA1MDUx
-OTddfQ==
+eyJoaXN0b3J5IjpbMjAzNjk1MjIxLDE3MzQyMDE1NzUsNTEzNz
+Q1NjA0LDkyODI3MjczNCwtMTEzNzM2NTA0MSwtMzUwNTA1MTk3
+XX0=
 -->
