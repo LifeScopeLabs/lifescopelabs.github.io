@@ -11,7 +11,7 @@ This repo contains a series of AR/VR Views written to extend lifescope-app codeb
 ### LIFESCOPE AR Marker
 ![marker]
 
-### LIFESCOPE AR Marker Pattern file. 
+**LIFESCOPE AR Marker Pattern file.** 
 
 **Notice how the pattern encodes the variance of the bitmap**
 
@@ -19,6 +19,7 @@ This repo contains a series of AR/VR Views written to extend lifescope-app codeb
 
 ## 1. AR Floor Topography Map (development phase, medium priority)
 
+**Marker based AR.JS Mapbox trail  **
 ![armap][armap]
 ![armap][armap2]
 
@@ -102,7 +103,7 @@ Examples
 
 ## 2. Infinite procedural walls (concept phase, low priority)
 
-### LifeScope Gallery Mockup
+**LifeScope Gallery Mockup**
 
 ![infinitewalls]
 
@@ -178,7 +179,7 @@ Social Wars in React VR. A VR demo using the BitScoop Platform for Social Login.
 [proceduralvr1]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame1.png
 [proceduralvr2]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMTQ1OTAzNywxNzg0NjM1ODM3LDU0Nz
+eyJoaXN0b3J5IjpbMTM1NTgyMzQxMywxNzg0NjM1ODM3LDU0Nz
 I3ODExLC0xNjIwMDc5ODU5LDE2NzI3OTUxODksLTk2OTM5MDMy
 NiwtMjg3NTA3Mjc0XX0=
 -->
