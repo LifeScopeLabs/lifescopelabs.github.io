@@ -108,11 +108,14 @@ https://gurivr.com/
 
 # BitScoop WebXR Examples
 
+## [BitScoop VR Social Login Demo](https://github.com/mrhegemon/bitscoop-vr-demo)
+
 BitScoop Marker
 ![markerbs]
 
 BitScoop Marker Pattern File
 ![patternarbs]
+
 
 [armap]:https://lifescopelabs.github.io/assets/maps/ar-phone-topo-mapbox.jpg
 [armap2]:https://lifescopelabs.github.io/assets/maps/ar-phone-topo-mapbox2.jpg
@@ -130,5 +133,5 @@ BitScoop Marker Pattern File
 [proceduralvr1]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame1.png
 [proceduralvr2]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NzUwNzI3NF19
+eyJoaXN0b3J5IjpbLTEyODQwMTcyODAsLTI4NzUwNzI3NF19
 -->
