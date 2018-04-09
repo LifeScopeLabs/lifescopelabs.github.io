@@ -60,11 +60,11 @@ Create infographics and reports for LIFESCOPE users based on their data.
 ### Dependencies
 
 - [CakeChat Framework](https://cakechat.replika.ai/) 
- - Others (Tensorflow) [Tenorflow Research Models for (Speech, Text, Video, Geodata](https://github.com/tensorflow/models/tree/master/research)
+ -[Tenorflow Research Models for (Speech, Text, Video, Geodata](https://github.com/tensorflow/models/tree/master/research)
 
 ### Examples
 
-Impersonation Ideas:
+- Replika is an AI friend that is always there for you. Grow your own.
 
 
 
@@ -96,6 +96,6 @@ Prediction and anomaly detection based on location history.
 [webviz]:https://lifescopelabs.github.io/assets/wireframes/3d-graph.jpg
 [mlgeo]:https://raw.githubusercontent.com/numenta/nupic.geospatial/master/images/viewer.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDQwMDg0NzcsMTcyNjUxNjc2MCwtNz
+eyJoaXN0b3J5IjpbLTE5MTc2MTg0NzIsMTcyNjUxNjc2MCwtNz
 E0MjE4NzA2XX0=
 -->
