@@ -1,6 +1,8 @@
 # LIFESCOPE
 
-**The Internet of You**
+**The Internet of You** 
+
+This GitHub.io Site serfDeveloper documentation serves as a roadmap planning workbook for each repository
 
 > "My friends and I work, play, and communicate on dozens platforms. Conversation start on texts, continue on Facebook Messenger, continue in person, then go to Skype and conclude on Slack. Retracing my history keeps me jumping from app to app."
 
@@ -34,7 +36,7 @@ We are currently looking for designers, creators, developers, and data scientist
 
 # Documentation Index
 
-Developer documentation and serves as a roadmap planning workbook. Here is the repository documentation and development status of all project components.
+Developer documentation serves as a roadmap planning workbook for each repository. Here is the repository documentation and development status of all project components.
 
 | Repository Documentation | Priority | Status |
 |--|--|--|
@@ -158,6 +160,6 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 eyJoaXN0b3J5IjpbLTM5NTE2NDI3Nl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MjAxMDc5MSwtMTE0NjM4MDY0MiwxNj
-Q0NDA0Nzg4XX0=
+eyJoaXN0b3J5IjpbLTE1NzMwNTgyODAsLTExNDYzODA2NDIsMT
+Y0NDQwNDc4OF19
 -->
