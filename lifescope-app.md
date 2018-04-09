@@ -1,4 +1,7 @@
-# LIFESCOPE-APP
+# [LIFESCOPE-APP](https://github.com/LifeScopeLabs/lifescope-app)
+
+## [Repository](https://github.com/LifeScopeLabs/lifescope-app)
+
 
 * App to search explorer and curate your personal data in various views
 * Single-page Universal web app built on Nuxt and Vue.js
@@ -57,5 +60,5 @@ Alt Feed View
 [lifescope-app-legacy]:https://lifescopelabs.github.io/assets/screenshots/lifescope-app-legacy.png
 [lifescope-app-wireframe]:https://lifescopelabs.github.io/assets/wireframes/week-content-feed.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMzI1NzU2XX0=
+eyJoaXN0b3J5IjpbMTQ1OTczMzQzMiwxMzMzMjU3NTZdfQ==
 -->
