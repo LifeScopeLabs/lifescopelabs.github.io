@@ -119,7 +119,7 @@ Current status of data source support.
 
 | Data Source | Support | Status | Data Collected |
 |--|--|--|--|
-| **Scrape** Calls | Native app | planned | events, content |
+| Location History | Universal | development | location
 | **Scrape** Calls | Native app | planned | events, content |
 | **Scrape** Calls | Native app | planned | events, content |
 | **Scrape** Calls | Native app | planned | events, content |
@@ -157,6 +157,6 @@ Ografy site screenshot
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
 [gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjcxOTg5MSwtODEwNjI1MzA4LDEzMD
+eyJoaXN0b3J5IjpbMTM5MTEwNzk2MCwtODEwNjI1MzA4LDEzMD
 UwODk5NDEsLTEyMDI2MjUwMDYsMTMxMDYzODM2M119
 -->
