@@ -13,11 +13,7 @@ Examples:
 - https://speechlogger.appspot.com/developers/
 
 ### Requirements
-- **MVP**: Show an infinite "gallery" of content from your lifescope data. 
-- Able to sort, search, curate, modify content shown.
-- Able to draw in the gallery.
-- Able to see friends.
-
+- **MVP**: 
 ### Dependencies
 - Vue/Nuxt compatible
 - [AR.JS](https://github.com/jeromeetienne/AR.js/tree/master/aframe/demos/demo-mapbox)
@@ -26,6 +22,6 @@ Examples:
 
 ### Examples
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjAyNzEwMjUsMjAyNzYyOTMwNCwtND
-YyNDM5NjQ2LC0xNDc1OTA1NzcyLDE2NTQxOTE5ODVdfQ==
+eyJoaXN0b3J5IjpbMTg1MzMwNTQ5NiwyMDI3NjI5MzA0LC00Nj
+I0Mzk2NDYsLTE0NzU5MDU3NzIsMTY1NDE5MTk4NV19
 -->
