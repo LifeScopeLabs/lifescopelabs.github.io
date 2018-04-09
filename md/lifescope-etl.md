@@ -10,6 +10,14 @@ This is the LIFESCOPE automated data collection system for connected services. T
 * Transform data into LIFESCOPE schema.
 * Provider scripts keep a copy of original data.
 
+### Requirements
+- **MVP**: 
+
+### Dependencies
+- Vue/Nuxt compatible
+
+### Examples
+
 | Data Source | Status | Data Collected |
 |--|--|--|
 | Facebook | production | events, content, contacts, locations |
@@ -254,5 +262,5 @@ In order to begin running the local Lambda function run the following code in th
 
 you will then be shown the urls to your lambda functions along with their port numbers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTEzNDE5NzEsLTYwNzEzMzM1OV19
+eyJoaXN0b3J5IjpbLTExMTUzNjIxODMsLTYwNzEzMzM1OV19
 -->
