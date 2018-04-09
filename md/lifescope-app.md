@@ -38,6 +38,22 @@ Map View
 
 ## Providers
 
+| Data Source | Status | Data Collected |
+|--|--|--|
+| Facebook | production | events, content, contacts, locations |
+| Twitter | production | events, content, contacts, locations |
+| Pinterest | beta | events, content, locations |
+| Dropbox | production | events, content, locations |
+| Steam | production | events, content |
+| Reddit | production | events, content, contacts, contacts |
+| Spotify | production | events, content |
+| GitHub | production | events, content, contacts |
+| Instagram | production | events, content, contacts |
+| Google | production | events, content, contacts |
+| Slice | development | events, content, things |
+| FitBit | planned | events, things |
+| TV Time | planned | events, content |
+
 ![providerpage]
 
 ## People Management
@@ -63,5 +79,5 @@ Alt Feed View
 [lifescope-app-legacy]:https://lifescopelabs.github.io/assets/screenshots/lifescope-app-legacy.png
 [lifescope-app-wireframe]:https://lifescopelabs.github.io/assets/wireframes/week-content-feed.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyODMxMTc2Ml19
+eyJoaXN0b3J5IjpbNDEyNTY0Mjc4LDE5MjgzMTE3NjJdfQ==
 -->
