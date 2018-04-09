@@ -9,7 +9,16 @@ Machine learning models based on LIFESCOPE data are currently focused on behavio
 # Reporting (concept phase, low priority)
 
 ## Requirements
+
+- **MVP** Reports individuals can run on demand.
+- W
+
 ## Dependencies
+
+- [Tau Charts](https://www.taucharts.com/)
+- [Plot.ly](https://plot.ly/plotly-js-scientific-d3-charting-library/)
+- [Chart.js](http://www.chartjs.org/samples/latest/)
+
 ## Examples
 
 Create infographics and reports for LIFESCOPE users based on their data. 
@@ -41,12 +50,6 @@ Create infographics and reports for LIFESCOPE users based on their data.
 [Adversarial Match]
 
 ![deepviz]
-
-### Proposed Technology and Examples
-
-- [Tau Charts](https://www.taucharts.com/)
-- [Plot.ly](https://plot.ly/plotly-js-scientific-d3-charting-library/)
-- [Chart.js](http://www.chartjs.org/samples/latest/)
 
 # Machine Learning (concept phase, low priority)
 
@@ -97,6 +100,6 @@ Prediction and anomaly detection based on location history.
 [webviz]:https://lifescopelabs.github.io/assets/wireframes/3d-graph.jpg
 [mlgeo]:https://raw.githubusercontent.com/numenta/nupic.geospatial/master/images/viewer.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQ0OTczNjQsMTcyNjUxNjc2MCwtNz
-E0MjE4NzA2XX0=
+eyJoaXN0b3J5IjpbMzYwNDAzODU1LDE3MjY1MTY3NjAsLTcxND
+IxODcwNl19
 -->
