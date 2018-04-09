@@ -2,9 +2,9 @@
 
 ## [Repository](https://github.com/LifeScopeLabs/lifescope-ai)
 
-This repository contains a suite of tools for reporting and machine learning workflow on LIFESCOPE data. Reporting is focused on building approachable dashboard visualizations and infographics.
+This repository contains a suite of tools for reporting and machine learning workflow from LIFESCOPE data. Reporting is focused on building approachable dashboard visualizations and infographics.
 
-Machine learning models based on LIFESCOPE data are focused on behavior modeling, correlation, prediction, suggestion, and impersonation.
+Machine learning models based on LIFESCOPE data are currently focused on behavior modeling, correlation, prediction, suggestion, and impersonation.
 
 ## Reporting
 
@@ -50,6 +50,6 @@ Prediction and anomaly detection based on location history.
 [deepviz]:https://lifescopelabs.github.io/assets/wireframes/DeepLearningViz.png
 [webviz]:https://lifescopelabs.github.io/assets/wireframes/3d-graph.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODAyOTYzLDkyODI3MjczNCwtMTEzNz
+eyJoaXN0b3J5IjpbNTEzNzQ1NjA0LDkyODI3MjczNCwtMTEzNz
 M2NTA0MSwtMzUwNTA1MTk3XX0=
 -->
