@@ -110,22 +110,20 @@ https://gurivr.com/
 
 ## [BitScoop VR Social Login Demo](https://github.com/mrhegemon/bitscoop-vr-demo)
 
+Social Wars in React VR. A VR demo using the BitScoop Platform for Social Login. Filled with demo data.
+
 ## BitScoop AR Marker
 ![markerbs]
 
 BitScoop Marker Pattern File. Notice how the bitmap matches the file.
 ![patternarbs]
 
-
 [armap]:https://lifescopelabs.github.io/assets/maps/ar-phone-topo-mapbox.jpg
 [armap2]:https://lifescopelabs.github.io/assets/maps/ar-phone-topo-mapbox2.jpg
-
 [patternar]:https://lifescopelabs.github.io/assets/xr/marker-patt-file.png
 [marker]:https://lifescopelabs.github.io/assets/xr/marker.png
-
 [patternarbs]:https://lifescopelabs.github.io/assets/xr/bitscoop-marker-patt-file.png
 [markerbs]:https://lifescopelabs.github.io/assets/xr/bitscoop-marker.png
-
 [vrglobe]:https://lifescopelabs.github.io/assets/xr/arglobe.gif
 [vrmapbox]:https://lifescopelabs.github.io/assets/wireframes/vr-maps-aframe-mapbox.png
 [argateway]:https://lifescopelabs.github.io/assets/wireframes/ar-phone-gateway.png
@@ -133,5 +131,5 @@ BitScoop Marker Pattern File. Notice how the bitmap matches the file.
 [proceduralvr1]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame1.png
 [proceduralvr2]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzQ3ODk5NTcsLTI4NzUwNzI3NF19
+eyJoaXN0b3J5IjpbLTk2OTM5MDMyNiwtMjg3NTA3Mjc0XX0=
 -->
