@@ -115,9 +115,11 @@ Current status of data source support.
 | **Scrape** HBO GO | planned | events, content |
 | **Scrape** YouTube | planned | events, content |
 
-### Browser Plugin
+### App
 
-| **Native App** | Native app | planned | events, content, contacts, places |
+| Name | Status | Data Collected |
+|--|--|--|
+| **Scrape** YouTube | Native app | planned | events, content, contacts, places |
 
 ![fractal][fractal]
 
@@ -150,6 +152,6 @@ Ografy site screenshot
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
 [gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMDQ0NTY5MywtODEwNjI1MzA4LDEzMD
+eyJoaXN0b3J5IjpbMTQzNzg1NTMyNiwtODEwNjI1MzA4LDEzMD
 UwODk5NDEsLTEyMDI2MjUwMDYsMTMxMDYzODM2M119
 -->
