@@ -6,7 +6,7 @@
 - voice response
 - capture voice data
 
-Browser Web Speech API allows for speech recognition and synthesis support in Chrome, Edge, Firefox, Safari (partial)
+Browser Web Speech API allows for speech recognition and synthesis support in Chrome, Edge, Firefox, Safari (partial). This API is super badass and no one ever u
 
 Examples:
 - https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API
@@ -14,6 +14,6 @@ Examples:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MjQzOTY0NiwtMTQ3NTkwNTc3MiwxNj
-U0MTkxOTg1XX0=
+eyJoaXN0b3J5IjpbLTg5NDc0MDUxNCwtNDYyNDM5NjQ2LC0xND
+c1OTA1NzcyLDE2NTQxOTE5ODVdfQ==
 -->
