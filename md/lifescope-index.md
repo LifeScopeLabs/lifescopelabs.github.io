@@ -32,7 +32,7 @@ We are currently looking for designers, creators, developers, and data scientist
 
 ### **[Join the team!](https://lifescope.io/signupdev)**
 
-# Repository Documentation Index
+# Documentation Index
 
 Here is the repository documentation and development status of all project components.
 | Repository Documentation | Priority | Status |
@@ -153,4 +153,7 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 [gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTM5NTE2NDI3Nl19
+-->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTY0NDQwNDc4OF19
 -->
