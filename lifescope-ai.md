@@ -44,6 +44,9 @@ Impersonation Ideas:
 
 ## Geolocation Based Models
 
+  
+![https://github.com/numenta/nupic.geospatial/raw/master/images/viewer.png
+
 Prediction and anomaly detection based on location history.
   
 #### [Using the NuPIC Geospatial Tracking Application](http://www.youtube.com/watch?v=M4dD9wCQLkA)
@@ -63,6 +66,6 @@ Prediction and anomaly detection based on location history.
 [deepviz]:https://lifescopelabs.github.io/assets/wireframes/DeepLearningViz.png
 [webviz]:https://lifescopelabs.github.io/assets/wireframes/3d-graph.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODY5MDEwMjcsNTEzNzQ1NjA0LDkyOD
-I3MjczNCwtMTEzNzM2NTA0MSwtMzUwNTA1MTk3XX0=
+eyJoaXN0b3J5IjpbODcxNTc0MDc1LDUxMzc0NTYwNCw5MjgyNz
+I3MzQsLTExMzczNjUwNDEsLTM1MDUwNTE5N119
 -->
