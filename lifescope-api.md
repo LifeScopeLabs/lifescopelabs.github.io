@@ -1,4 +1,7 @@
-# LIFESCOPE-API
+# [LIFESCOPE-API](https://github.com/LifeScopeLabs/lifescope-api)
+
+## [Repository](https://github.com/LifeScopeLabs/lifescope-api)
+
 
 Universal API backend for the LIFESCOPE platform.
 
@@ -146,5 +149,5 @@ REST API for login/logout/signup and connection OAUTH workflow
 * [graphql-compose-mongoose](https://github.com/graphql-compose/graphql-compose-mongoose)
 * Vue/Nuxt
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNDcwMTk0Nl19
+eyJoaXN0b3J5IjpbLTE3MTIxMjk5NTAsLTIzNDcwMTk0Nl19
 -->
