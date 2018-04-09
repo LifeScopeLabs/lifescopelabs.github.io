@@ -5,6 +5,10 @@
 - voice search
 - voice response
 - capture voice data
+
+https://speechlogger.appspot.com/developers/
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzE0NDQ3MywxNjQ3MTY2ODg3XX0=
+eyJoaXN0b3J5IjpbMTY1NDE5MTk4NSwxNjQ3MTY2ODg3XX0=
 -->
