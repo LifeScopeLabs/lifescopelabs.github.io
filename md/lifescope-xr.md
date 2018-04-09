@@ -98,6 +98,23 @@ Examples
 
 ![infinitewalls]
 
+### Requirements
+- **MVP**: Shows AR gateways around the current location (GPS) from the LIFESCOPE database
+- Able to select gateways, zoom, objects
+- Able to see friends
+
+### Dependencies
+- Vue/Nuxt compatible
+- [AR.JS](https://github.com/jeromeetienne/AR.js/tree/master/aframe/demos/demo-mapbox)
+- [AFrame (0.8+)](https://aframe.io/)
+
+### Examples
+- [AR.JS markerless](https://github.com/1d10t/test)
+- [Web Geo adapter (De-noise web GPS data](https://github.com/Esri/html5-geolocation-tool-js/blob/master/js/GeolocationHelper.js)
+- [Marker Maker](https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html)
+- [BitScoop Marker](https://github.com/LifeScopeLabs/lifescopelabs.github.io/tree/master/assets/xr)
+- [Networked AFrame](https://github.com/networked-aframe/networked-aframe#more-examples)
+
 ## 3. Memory palace (concept phase, low priority)
 
 ![proceduralvr1]
@@ -131,5 +148,6 @@ BitScoop Marker Pattern File. Notice how the bitmap matches the file.
 [proceduralvr1]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame1.png
 [proceduralvr2]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2OTM5MDMyNiwtMjg3NTA3Mjc0XX0=
+eyJoaXN0b3J5IjpbMTY3Mjc5NTE4OSwtOTY5MzkwMzI2LC0yOD
+c1MDcyNzRdfQ==
 -->
