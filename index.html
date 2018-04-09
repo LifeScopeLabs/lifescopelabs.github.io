@@ -19,15 +19,19 @@
 <li></li>
 </ul>
 </li>
+<li><a href="#repository-documentation-index">Repository Documentation Index</a></li>
 <li><a href="#how-does-it-work">How does it work?</a>
 <ul>
 <li><a href="#data-collection">Data Collection</a></li>
-<li><a href="#data-organization-storage-and-services">Data Organization, Storage, and Services</a></li>
+<li><a href="#data-organization-and-storage">Data Organization and Storage</a></li>
 <li><a href="#single-app-architecture">Single App Architecture</a></li>
 </ul>
 </li>
-<li><a href="#repository-index">Repository Index</a></li>
-<li><a href="#data-sources">Data Sources</a></li>
+<li><a href="#data-sources">Data Sources</a>
+<ul>
+<li></li>
+</ul>
+</li>
 <li><a href="#history">History</a></li>
 </ul>
 
@@ -46,32 +50,19 @@
 <p>The internet landscape is a vast, overwhelming, and broken terrain of data. Only the best companies in the world can tap into a tiny fraction of data’s potential. People create and consume digital information without understanding what’s going on.  It is hopeless for anyone to create a complete and up to date accounting of their information, let alone search and organize their data.</p>
 <p>The study and use of psychometircs and psychographics is the biggest hidden force in the world. Our personal data doesn’t just describe who we really are, but also give others power over us by enabling them to reverse engineer our minds. Understanding and controlling our own data should be a human right.</p>
 <p>LIFESCOPE is an open platform for personal data designed to empower anyone with insights while preserving privacy and ownership. Master time and space with a digital memory. The platform is designed the ultimate private repository of your digital life.</p>
+<p><img src="https://lifescopelabs.github.io/assets/img/concept-diagram.png" alt="conceptdiagram"></p>
 <p>Connect anywhere and everywhere your information resides and LIFESCOPE will automatically collect, organize, and present everything in your digital memory. Search and leverage your entire digital and social footprint, while streamlining your life online. Curate your history data into the stories you care about.</p>
 <p>LIFESCOPE as an open source platform for anything you want to do with your personal data. We have plans to expand this platform so it can power the next generation of software technology.</p>
 <ul>
 <li><a href="https://lifescope.io">LIFESCOPE Main Site</a></li>
 <li><a href="https://app.lifescope.io">LIFESCOPE Legacy App</a></li>
 <li><a href="https://lifescope.io/learn">LIFESCOPE Documentation</a></li>
+<li><a href="https://github.com/LifeScopeLabs">LIFESCOPE GitHub</a></li>
 </ul>
 <h1 id="want-to-help">Want to help?</h1>
 <p>We are currently looking for designers, creators, developers, and data scientists to help build and grow LIFESCOPE.</p>
 <h3 id="join-the-team"><strong><a href="https://lifescope.io/signupdev">Join the team!</a></strong></h3>
-<h1 id="how-does-it-work">How does it work?</h1>
-<p>The core of LIFESCOPE is an automated set of tools to collect personal data (via <a href="https://lifescopelabs.github.io/etl.html">API ETL Scripts</a>, <a href="https://lifescopelabs.github.io/browser-extension.html">Browser Plugin</a>, <a href="https://lifescopelabs.github.io/app.html">App</a> repositories) and organize everything a standard way. All of the collected data is organized into a <a href="https://lifescopelabs.github.io/database.html">database</a> and presented with the <a href="https://lifescopelabs.github.io/api.html">API</a>.</p>
-<p>The LIFESCOPE platform is designed to be completely pluggable. Easily add data sources, change data organization, change database technologies, and create apps on the API.</p>
-<p>The <a href="https://lifescopelabs.github.io/app.html">LIFESCOPE App</a> is a suite of experiences letting you explore your entire digital life.</p>
-<h2 id="data-collection">Data Collection</h2>
-<p>LIFESCOPE collects personal information from three places. When you create connections in the App or API, <a href="https://lifescopelabs.github.io/etl.html">API ETL Scripts</a> will run. The <a href="https://lifescopelabs.github.io/browser-extension.html">Browser Plugin</a> allows for opting into recording url and visits. The plugin can also scrape webpages. The native and web JavaScrip <a href="https://lifescopelabs.github.io/app.html">App</a> can pull information on the device such as locations and contacts.</p>
-<p><img src="https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png" alt="soureflow"></p>
-<h2 id="data-organization-storage-and-services">Data Organization, Storage, and Services</h2>
-<p>The <a href="https://lifescopelabs.github.io/api.html">LIFESCOPE API</a> uses GraphQL and REST to signup, login, manage sources, and access all your data. LIFESCOPE’s API will eventually allow for pluggable <a href="https://lifescopelabs.github.io/database.html">Database Support</a>.</p>
-<p><img src="https://lifescopelabs.github.io/assets/img/concept-diagram.png" alt="conceptdiagram"></p>
-<h2 id="single-app-architecture">Single App Architecture</h2>
-<p>The <a href="https://lifescopelabs.github.io/app.html">LIFESCOPE App</a> is to search, explore, and curate your personal data in various views. Explore data with various views (Feed, List, Map, Gallery, Timeline, <a href="https://lifescopelabs.github.io/xr.html">Virtual Reality, Augmented Reality</a>.  Let the app look and <a href="https://lifescopelabs.github.io/voice.html">listen to you</a>. Speak questions about yourself or record and automatically respond.</p>
-<p>Curate your data with saved searches and hashtags. See <a href="https://lifescopelabs.github.io/ai.html">reports and data visualizations</a>. Get smart notifications with machine learning. Explore people from your history. People are represented as related contacts and history across services.</p>
-<p>Single-page Universal web app built on Nuxt and Vue.js. Desktop/mobile reactive design interface with javascript extensions. Written with plugin framework such as location tracking, WebXR and Web Speech. Should be containerizable inside a universal app framework like Cordova (iOS, Android, Mac, Win).</p>
-<p><img src="https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg" alt="arch"></p>
-<h1 id="repository-index">Repository Index</h1>
+<h1 id="repository-documentation-index">Repository Documentation Index</h1>
 <p>Status of source repositories and project components.</p>
 
 <table>
@@ -84,42 +75,42 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="https://lifescopelabs.github.io/ai.html">lifescope-ai</a></td>
+<td><strong><a href="https://lifescopelabs.github.io/ai.html">LIFESCOPE-AI</a></strong></td>
 <td>low</td>
 <td>concept</td>
 </tr>
 <tr>
-<td><a href="https://lifescopelabs.github.io/api.html">lifescope-api</a></td>
+<td><strong><a href="https://lifescopelabs.github.io/api.html">LIFESCOPE-API</a></strong></td>
 <td>high</td>
 <td>production</td>
 </tr>
 <tr>
-<td><a href="https://lifescopelabs.github.io/app.html">lifescope-app</a></td>
+<td><strong><a href="https://lifescopelabs.github.io/app.html">LIFESCOPE-APP</a></strong></td>
 <td>high</td>
 <td>development</td>
 </tr>
 <tr>
-<td><a href="https://lifescopelabs.github.io/browser-extension.html">lifescope-browser-extension</a></td>
+<td><strong><a href="https://lifescopelabs.github.io/browser-extension.html">LIFESCOPE-BROWSER-EXTENSION</a></strong></td>
 <td>medium</td>
 <td>development</td>
 </tr>
 <tr>
-<td><a href="https://lifescopelabs.github.io/etl.html">lifescope-etl</a></td>
+<td><strong><a href="https://lifescopelabs.github.io/etl.html">LIFESCOPE-ETL</a></strong></td>
 <td>high</td>
 <td>production</td>
 </tr>
 <tr>
-<td><a href="https://lifescopelabs.github.io/site.html">lifescope-site</a></td>
+<td><strong><a href="https://lifescopelabs.github.io/site.html">LIFESCOPE-SITE</a></strong></td>
 <td>low</td>
-<td>development</td>
+<td>beta</td>
 </tr>
 <tr>
-<td><a href="https://lifescopelabs.github.io/voice.html">lifescope-voice</a></td>
+<td><strong><a href="https://lifescopelabs.github.io/voice.html">LIFESCOPE-VOICE</a></strong></td>
 <td>low</td>
 <td>concept</td>
 </tr>
 <tr>
-<td><a href="https://lifescopelabs.github.io/xr.html">lifescope-xr</a></td>
+<td><strong><a href="https://lifescopelabs.github.io/xr.html">LIFESCOPE-XR</a></strong></td>
 <td>medium</td>
 <td>development</td>
 </tr>
@@ -128,14 +119,32 @@
 <li><a href="https://lifescopelabs.github.io/db.html">Database Documentation</a></li>
 <li><a href="https://github.com/LifeScopeLabs/lifescope-etl/tree/master/archive/tutorial">Legacy App Documentation</a></li>
 </ul>
+<h1 id="how-does-it-work">How does it work?</h1>
+<p>The core of LIFESCOPE is an automated set of tools to collect personal data (via <a href="https://lifescopelabs.github.io/etl.html">API ETL Scripts</a>, <a href="https://lifescopelabs.github.io/browser-extension.html">Browser Plugin</a>, <a href="https://lifescopelabs.github.io/app.html">App</a> repositories) and organize everything a standard way. All of the collected data is organized into a <a href="https://lifescopelabs.github.io/database.html">database</a> and presented with the <a href="https://lifescopelabs.github.io/api.html">API</a>.</p>
+<p>The LIFESCOPE platform is designed to be completely pluggable. Easily add data sources, change data organization, change database technologies, and create apps on the API.</p>
+<p>The <a href="https://lifescopelabs.github.io/app.html">LIFESCOPE App</a> is a suite of experiences letting you explore your entire digital life.</p>
+<h2 id="data-collection">Data Collection</h2>
+<p>LIFESCOPE collects personal information from three places. When you create connections in the App or API, <a href="https://lifescopelabs.github.io/etl.html">API ETL Scripts</a> will run. The <a href="https://lifescopelabs.github.io/browser-extension.html">Browser Plugin</a> allows for opting into recording url and visits. The plugin can also scrape webpages. The native and web JavaScrip <a href="https://lifescopelabs.github.io/app.html">App</a> can pull information on the device such as locations and contacts.</p>
+<p><img src="https://lifescopelabs.github.io/assets/diagrams/data-source-flow.png" alt="soureflow"></p>
+<h2 id="data-organization-and-storage">Data Organization and Storage</h2>
+<p><a href="https://lifescopelabs.github.io/api.html">LIFESCOPE API</a> uses GraphQL and REST to signup, login, manage sources, and access all your data. LIFESCOPE’s API will eventually allow for pluggable <a href="https://lifescopelabs.github.io/database.html">Database Support</a>.</p>
+<p><strong>LIFESCOPE Schema</strong> Replicated in MongoDB and the GraphQL API.</p>
+<p><img src="https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png" alt="gqlschema"></p>
+<h2 id="single-app-architecture">Single App Architecture</h2>
+<p>The <a href="https://lifescopelabs.github.io/app.html">LIFESCOPE App</a> is to search, explore, and curate your personal data in various views. Explore data with various views (Feed, List, Map, Gallery, Timeline, <a href="https://lifescopelabs.github.io/xr.html">Virtual Reality, Augmented Reality</a>.  Let the app look and <a href="https://lifescopelabs.github.io/voice.html">listen to you</a>. Speak questions about yourself or record and automatically respond.</p>
+<p>Curate your data with saved searches and hashtags. See <a href="https://lifescopelabs.github.io/ai.html">reports and data visualizations</a>. Get smart notifications with machine learning. Explore people from your history. People are represented as related contacts and history across services.</p>
+<p>Single-page Universal web app built on Nuxt and Vue.js. Desktop/mobile reactive design interface with javascript extensions. Written with plugin framework such as location tracking, WebXR and Web Speech. Should be containerizable inside a universal app framework like Cordova (iOS, Android, Mac, Win).</p>
+<p>The current LIFESCOPE codebases are hosted on Amazon Web Services to power the web platform.</p>
+<p><strong>AWS Developer Stack</strong></p>
+<p><img src="https://lifescopelabs.github.io/assets/diagrams/LifeScope%20Architecture%20PlanningNEW.jpg" alt="arch"></p>
 <h1 id="data-sources">Data Sources</h1>
-<p>Current status of data source support.</p>
+<p><strong>Current status of data source support.</strong></p>
+<h3 id="api-etl">API ETL</h3>
 
 <table>
 <thead>
 <tr>
-<th>Name</th>
-<th>Source</th>
+<th>Data Source</th>
 <th>Status</th>
 <th>Data Collected</th>
 </tr>
@@ -143,101 +152,162 @@
 <tbody>
 <tr>
 <td>Facebook</td>
-<td>API ETL</td>
 <td>production</td>
 <td>events, content, contacts, locations</td>
 </tr>
 <tr>
 <td>Twitter</td>
-<td>API ETL</td>
 <td>production</td>
 <td>events, content, contacts, locations</td>
 </tr>
 <tr>
 <td>Pinterest</td>
-<td>API ETL</td>
-<td>production</td>
+<td>beta</td>
 <td>events, content, locations</td>
 </tr>
 <tr>
 <td>Dropbox</td>
-<td>API ETL</td>
 <td>production</td>
 <td>events, content, locations</td>
 </tr>
 <tr>
 <td>Steam</td>
-<td>API ETL</td>
 <td>production</td>
 <td>events, content</td>
 </tr>
 <tr>
 <td>Reddit</td>
-<td>API ETL</td>
 <td>production</td>
 <td>events, content, contacts, contacts</td>
 </tr>
 <tr>
 <td>Spotify</td>
-<td>API ETL</td>
 <td>production</td>
 <td>events, content</td>
 </tr>
 <tr>
 <td>GitHub</td>
-<td>API ETL</td>
 <td>production</td>
 <td>events, content, contacts</td>
 </tr>
 <tr>
 <td>Instagram</td>
-<td>API ETL</td>
 <td>production</td>
 <td>events, content, contacts</td>
 </tr>
 <tr>
 <td>Google</td>
-<td>API ETL</td>
 <td>production</td>
 <td>events, content, contacts</td>
 </tr>
 <tr>
 <td>Slice</td>
-<td>API ETL</td>
 <td>development</td>
-<td>events, content, contacts</td>
+<td>events, content, things</td>
 </tr>
 <tr>
 <td>FitBit</td>
-<td>API ETL</td>
 <td>planned</td>
 <td>events, things</td>
 </tr>
+</tbody>
+</table><h3 id="browser-plugin">Browser Plugin</h3>
+
+<table>
+<thead>
 <tr>
-<td><strong>Browser</strong></td>
-<td>Browser plugin</td>
-<td>planned</td>
-<td>events, content, places</td>
+<th>Data Source</th>
+<th>Status</th>
+<th>Data Collected</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>URL History</td>
+<td>beta</td>
+<td>events, content</td>
 </tr>
 <tr>
-<td><strong>Native App</strong></td>
+<td>Location History</td>
+<td>development</td>
+<td>locations</td>
+</tr>
+<tr>
+<td><strong>Scrape</strong> Netflix</td>
+<td>planned</td>
+<td>events, content</td>
+</tr>
+<tr>
+<td><strong>Scrape</strong> Hulu</td>
+<td>planned</td>
+<td>events, content</td>
+</tr>
+<tr>
+<td><strong>Scrape</strong> Amazon Prime</td>
+<td>planned</td>
+<td>events, content</td>
+</tr>
+<tr>
+<td><strong>Scrape</strong> HBO GO</td>
+<td>planned</td>
+<td>events, content</td>
+</tr>
+<tr>
+<td><strong>Scrape</strong> YouTube</td>
+<td>planned</td>
+<td>events, content</td>
+</tr>
+</tbody>
+</table><h3 id="app">App</h3>
+
+<table>
+<thead>
+<tr>
+<th>Data Source</th>
+<th>Support</th>
+<th>Status</th>
+<th>Data Collected</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Location History</td>
+<td>Universal</td>
+<td>development</td>
+<td>locations</td>
+</tr>
+<tr>
+<td><strong>Scrape</strong> Calls</td>
 <td>Native app</td>
 <td>planned</td>
-<td>events, content, contacts, places</td>
+<td>events, content</td>
+</tr>
+<tr>
+<td><strong>Scrape</strong> Messages</td>
+<td>Native app</td>
+<td>planned</td>
+<td>events, content</td>
+</tr>
+<tr>
+<td><strong>Scrape</strong> Media</td>
+<td>Native app</td>
+<td>planned</td>
+<td>events, content</td>
+</tr>
+<tr>
+<td><strong>Scrape</strong> Files</td>
+<td>Native app</td>
+<td>planned</td>
+<td>events, content</td>
 </tr>
 </tbody>
 </table><p><img src="https://lifescopelabs.github.io/assets/img/fractal.png" alt="fractal"></p>
 <h1 id="history">History</h1>
-<p>Liam Broza and the team at BitScoop Labs have been working on problems big data and quantified self for over a decade. This project started as SmokeSignal in 2009 as a Java desktop app for crawling android app data.</p>
-<p><a href="https://web.archive.org/web/20141222111903/http://www.smokesignal.info/">https://web.archive.org/web/20141222111903/http://www.smokesignal.info/</a></p>
-<p>SmokeSignal site screenshot<br>
-<img src="https://lifescopelabs.github.io/assets/screenshots/smokesignal-io-legacy-2.png" alt="smokesignalss2"></p>
-<p>SmokeSignal Sources<br>
-<img src="https://lifescopelabs.github.io/assets/screenshots/smokesignal-io-legacy-1.png" alt="smokesignalss1"></p>
-<p>In 2016, BitScoop Labs rebuilt the project as Live Explorer. This is now the legacy LIFESCOPE app.</p>
-<p><a href="https://web.archive.org/web/20151116131419/http://ografy.io/">https://web.archive.org/web/20151116131419/http://ografy.io/</a></p>
-<p>Ografy site screenshot<br>
-<img src="https://lifescopelabs.github.io/assets/screenshots/ografy.png" alt="ografy"></p>
+<p><a>Liam Broza</a> and the team at <a href="https://bitscoop.com">BitScoop Labs</a> have been working on problems big data and quantified self for over a decade. This project started as SmokeSignal in 2009 as a Java desktop app for crawling android app data.  <a href="https://web.archive.org/web/20141222111903/http://www.smokesignal.info/">Origional SmokeSignal LifeLogger Site</a> In 2016, BitScoop Labs rebuilt the project as Live Explorer (and is now the legacy LIFESCOPE app). In 2018, LIFESCOPE was released open source by the BitScoop team to help give people control of their digital identity.</p>
+<p><strong>Origional SmokeSignal LifeLogger Site</strong></p>
+<p><img src="https://lifescopelabs.github.io/assets/screenshots/smokesignal-io-legacy-2.png" alt="smokesignalss2"></p>
+<p><strong>Origional SmokeSignal LifeLogger Sources</strong></p>
+<p><img src="https://lifescopelabs.github.io/assets/screenshots/smokesignal-io-legacy-1.png" alt="smokesignalss1"></p>
 
     </div>
   </div>
