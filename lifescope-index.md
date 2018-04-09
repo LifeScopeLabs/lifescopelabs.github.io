@@ -131,13 +131,13 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 
 # History
 
-[Liam Broza](httos://liambroza.com) and the team at [BitScoop Labs](https://bitscoop.com) have been working on problems big data and quantified self for over a decade. This project started as SmokeSignal in 2009 as a Java desktop app for crawling android app data.  [Origional SmokeSignal LifeLogger Site](https://web.archive.org/web/20141222111903/http://www.smokesignal.info/) In 2016, BitScoop Labs rebuilt the project as Live Explorer (and is now the legacy LIFESCOPE app). In 2018, LIFESCOPE was released open source by the BitScoop team to help give people control of their digital identity.  
+[Liam Broza](httos://liambroza.com) and the team at [BitScoop Labs](https://bitscoop.com) have been working on problems big data and quantified self for over a decade. This project started as SmokeSignal in 2009 as a Java desktop app for crawling android app data.  [Original SmokeSignal LifeLogger Site](https://web.archive.org/web/20141222111903/http://www.smokesignal.info/) In 2016, BitScoop Labs rebuilt the project as Live Explorer (and is now the legacy LIFESCOPE app). In 2018, LIFESCOPE was released open source by the BitScoop team to help give people control of their digital identity.  
 
-**Origional SmokeSignal LifeLogger Site**
+**Original SmokeSignal LifeLogger Site**
 
 ![smokesignalss2]
 
-**Origional SmokeSignal LifeLogger Sources**
+**Original SmokeSignal LifeLogger Sources**
 
 ![smokesignalss1] 
 
@@ -151,8 +151,8 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
 [gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg5NzA3OTU5LC04NTYwMjk1NDEsLTY1NT
-E1ODUwMSwtMTY4OTQwNzg0NSwtNDY4MjE2ODY0LC0xMDA5NDcx
-NTkzLC05MTQwMDg3NTcsLTgxMDYyNTMwOCwxMzA1MDg5OTQxLC
-0xMjAyNjI1MDA2LDEzMTA2MzgzNjNdfQ==
+eyJoaXN0b3J5IjpbLTIwNjAxODg0ODAsLTg1NjAyOTU0MSwtNj
+U1MTU4NTAxLC0xNjg5NDA3ODQ1LC00NjgyMTY4NjQsLTEwMDk0
+NzE1OTMsLTkxNDAwODc1NywtODEwNjI1MzA4LDEzMDUwODk5ND
+EsLTEyMDI2MjUwMDYsMTMxMDYzODM2M119
 -->
