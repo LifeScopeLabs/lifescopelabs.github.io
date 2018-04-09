@@ -19,9 +19,9 @@
 ## Explorer
 
 ### Views
-* Feed
+* History Feed
 * List
-* Map
+* Trail Map
 * Gallery
 * [Timeline](http://timeline.knightlab.com)
 * Virtual Reality Rooms
@@ -61,5 +61,5 @@ Alt Feed View
 [lifescope-app-legacy]:https://lifescopelabs.github.io/assets/screenshots/lifescope-app-legacy.png
 [lifescope-app-wireframe]:https://lifescopelabs.github.io/assets/wireframes/week-content-feed.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNzExNjY5OCwxMzMzMjU3NTZdfQ==
+eyJoaXN0b3J5IjpbLTEyNDIzNDI1MTYsMTMzMzI1NzU2XX0=
 -->
