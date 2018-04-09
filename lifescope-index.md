@@ -104,6 +104,7 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 | Google | production | events, content, contacts |
 | Slice | development | events, content, things |
 | FitBit | planned | events, things |
+| TV Time | planned | events, content |
 
 ### Browser Plugin
 
@@ -151,8 +152,9 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
 [gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjAxODg0ODAsLTg1NjAyOTU0MSwtNj
-U1MTU4NTAxLC0xNjg5NDA3ODQ1LC00NjgyMTY4NjQsLTEwMDk0
-NzE1OTMsLTkxNDAwODc1NywtODEwNjI1MzA4LDEzMDUwODk5ND
-EsLTEyMDI2MjUwMDYsMTMxMDYzODM2M119
+eyJoaXN0b3J5IjpbLTEyNjU4NTY0NTUsLTIwNjAxODg0ODAsLT
+g1NjAyOTU0MSwtNjU1MTU4NTAxLC0xNjg5NDA3ODQ1LC00Njgy
+MTY4NjQsLTEwMDk0NzE1OTMsLTkxNDAwODc1NywtODEwNjI1Mz
+A4LDEzMDUwODk5NDEsLTEyMDI2MjUwMDYsMTMxMDYzODM2M119
+
 -->
