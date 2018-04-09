@@ -8,6 +8,9 @@ Machine learning models based on LIFESCOPE data are currently focused on behavio
 
 # Reporting (concept phase, low priority)
 
+##
+## Examples
+
 Create infographics and reports for LIFESCOPE users based on their data. 
 
 ## Personal Infographic Examples
@@ -86,5 +89,6 @@ Prediction and anomaly detection based on location history.
 [webviz]:https://lifescopelabs.github.io/assets/wireframes/3d-graph.jpg
 [mlgeo]:https://raw.githubusercontent.com/numenta/nupic.geospatial/master/images/viewer.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNjUxNjc2MCwtNzE0MjE4NzA2XX0=
+eyJoaXN0b3J5IjpbMTU2Nzg0NzA0MSwxNzI2NTE2NzYwLC03MT
+QyMTg3MDZdfQ==
 -->
