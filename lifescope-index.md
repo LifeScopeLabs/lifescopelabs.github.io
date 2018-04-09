@@ -88,7 +88,7 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 
 **Current status of data source support.**
 
-### API ETL
+## API ETL
 
 | Data Source | Status | Data Collected |
 |--|--|--|
@@ -106,7 +106,7 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 | FitBit | planned | events, things |
 | TV Time | planned | events, content |
 
-### Browser Plugin
+## Browser Plugin
 
 | Data Source | Status | Data Collected |
 |--|--|--|
@@ -118,7 +118,7 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 | **Scrape** HBO GO | planned | events, content |
 | **Scrape** YouTube | planned | events, content |
 
-### App
+## App
 
 | Data Source | Support | Status | Data Collected |
 |--|--|--|--|
@@ -152,9 +152,9 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
 [gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjU4NTY0NTUsLTIwNjAxODg0ODAsLT
-g1NjAyOTU0MSwtNjU1MTU4NTAxLC0xNjg5NDA3ODQ1LC00Njgy
-MTY4NjQsLTEwMDk0NzE1OTMsLTkxNDAwODc1NywtODEwNjI1Mz
-A4LDEzMDUwODk5NDEsLTEyMDI2MjUwMDYsMTMxMDYzODM2M119
-
+eyJoaXN0b3J5IjpbLTM5NTE2NDI3NiwtMTI2NTg1NjQ1NSwtMj
+A2MDE4ODQ4MCwtODU2MDI5NTQxLC02NTUxNTg1MDEsLTE2ODk0
+MDc4NDUsLTQ2ODIxNjg2NCwtMTAwOTQ3MTU5MywtOTE0MDA4Nz
+U3LC04MTA2MjUzMDgsMTMwNTA4OTk0MSwtMTIwMjYyNTAwNiwx
+MzEwNjM4MzYzXX0=
 -->
