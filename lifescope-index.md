@@ -108,8 +108,13 @@ Current status of data source support.
 | Name | Status | Data Collected |
 |--|--|--|
 | URL History | beta | events, content |
-| URL History | develop | events, content |
-| URL History | planned | events, content |
+| URL History | development | location |
+| **Scrape** Netflix | planned | events, content |
+| **Scrape** Hulu | planned | events, content |
+| **Scrape** Amazon  | planned | events, content |
+| **Scrape** Netflix | planned | events, content |
+| **Scrape** Netflix | planned | events, content |
+| **Scrape** Netflix | planned | events, content |
 
 
 | **Native App** | Native app | planned | events, content, contacts, places |
@@ -145,6 +150,6 @@ Ografy site screenshot
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
 [gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzE2NjQ1ODgsLTgxMDYyNTMwOCwxMz
-A1MDg5OTQxLC0xMjAyNjI1MDA2LDEzMTA2MzgzNjNdfQ==
+eyJoaXN0b3J5IjpbMjI3OTkxMTE4LC04MTA2MjUzMDgsMTMwNT
+A4OTk0MSwtMTIwMjYyNTAwNiwxMzEwNjM4MzYzXX0=
 -->
