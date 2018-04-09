@@ -8,7 +8,8 @@ This repo contains a series of AR/VR Views written to extend lifescope-app codeb
 
 # Augmented Reality
 
-### LIFESCOPE AR Marker
+**LIFESCOPE AR Marker**
+
 ![marker]
 
 **LIFESCOPE AR Marker Pattern file.** 
@@ -84,10 +85,12 @@ Examples
 ## 1. Globe of LIFESCOPE trails (development phase, medium priority)
 
 **Aframe Earth wireframe.**
+
 ![vrglobe]
 
 
 **Mapbox trail wireframe.**
+
 ![vrmapbox]
 
 ### Requirements
@@ -183,7 +186,7 @@ Social Wars in React VR. A VR demo using the BitScoop Platform for Social Login.
 [proceduralvr1]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame1.png
 [proceduralvr2]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDIzOTc5NDcsMTc4NDYzNTgzNyw1ND
-cyNzgxMSwtMTYyMDA3OTg1OSwxNjcyNzk1MTg5LC05NjkzOTAz
-MjYsLTI4NzUwNzI3NF19
+eyJoaXN0b3J5IjpbMTQ4Mjc2MDM3MiwxNzg0NjM1ODM3LDU0Nz
+I3ODExLC0xNjIwMDc5ODU5LDE2NzI3OTUxODksLTk2OTM5MDMy
+NiwtMjg3NTA3Mjc0XX0=
 -->
