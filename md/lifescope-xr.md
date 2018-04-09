@@ -102,6 +102,8 @@ Examples
 
 ## 2. Infinite procedural walls (concept phase, low priority)
 
+### LifeScope Gallery Mockup
+
 ![infinitewalls]
 
 ### Requirements
@@ -128,7 +130,7 @@ Examples
 ![proceduralvr1]
 
 
-**AFrame generated rooms.**
+**AFrame generated media content frames for HTML Shader.**
 
 ![proceduralvr2]
 
@@ -176,7 +178,7 @@ Social Wars in React VR. A VR demo using the BitScoop Platform for Social Login.
 [proceduralvr1]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame1.png
 [proceduralvr2]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjcwMTA2MTUsMTc4NDYzNTgzNyw1ND
-cyNzgxMSwtMTYyMDA3OTg1OSwxNjcyNzk1MTg5LC05NjkzOTAz
-MjYsLTI4NzUwNzI3NF19
+eyJoaXN0b3J5IjpbMTAyMTQ1OTAzNywxNzg0NjM1ODM3LDU0Nz
+I3ODExLC0xNjIwMDc5ODU5LDE2NzI3OTUxODksLTk2OTM5MDMy
+NiwtMjg3NTA3Mjc0XX0=
 -->
