@@ -1,4 +1,4 @@
-# LIFESCOPE-AI
+# [LIFESCOPE-AI](https://github.com/LifeScopeLabs/lifescope-ai)
 
 This is a suite of tools for reporting and machine learning from LIFESCOPE data. Reporting is focused on building approachable dashboard visualizations and infographics.
 
@@ -47,5 +47,5 @@ Prediction and anomaly detection based on location history.
 [deepviz]:https://lifescopelabs.github.io/assets/wireframes/DeepLearningViz.png
 [webviz]:https://lifescopelabs.github.io/assets/wireframes/3d-graph.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MDUwNTE5N119
+eyJoaXN0b3J5IjpbMTkzNDIwNzQ5OCwtMzUwNTA1MTk3XX0=
 -->
