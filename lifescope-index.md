@@ -1,4 +1,20 @@
 # LIFESCOPE
+# Repository Index
+
+Status of source repositories and project components.
+| Repository | Priority | Status |
+|--|--|--|
+| [lifescope-ai](https://lifescopelabs.github.io/ai.html) | low | concept |
+| [lifescope-api](https://lifescopelabs.github.io/api.html) | high | production |
+| [lifescope-app](https://lifescopelabs.github.io/app.html) | high | development |
+| [lifescope-browser-extension](https://lifescopelabs.github.io/browser-extension.html) | medium | development |
+| [lifescope-etl](https://lifescopelabs.github.io/etl.html) | high | production |
+| [lifescope-site](https://lifescopelabs.github.io/site.html) | low | development |
+| [lifescope-voice](https://lifescopelabs.github.io/voice.html) | low | concept |
+| [lifescope-xr](https://lifescopelabs.github.io/xr.html) | medium | development |
+
+- [Database Documentation](https://lifescopelabs.github.io/db.html)
+- [Legacy App Documentation](https://github.com/LifeScopeLabs/lifescope-etl/tree/master/archive/tutorial)
 
 **The Internet of You**
 
@@ -58,27 +74,15 @@ Single-page Universal web app built on Nuxt and Vue.js. Desktop/mobile reactive 
 
 ![arch]
 
-# Repository Index
 
-Status of source repositories and project components.
-| Repository | Priority | Status |
-|--|--|--|
-| [lifescope-ai](https://lifescopelabs.github.io/ai.html) | low | concept |
-| [lifescope-api](https://lifescopelabs.github.io/api.html) | high | production |
-| [lifescope-app](https://lifescopelabs.github.io/app.html) | high | development |
-| [lifescope-browser-extension](https://lifescopelabs.github.io/browser-extension.html) | medium | development |
-| [lifescope-etl](https://lifescopelabs.github.io/etl.html) | high | production |
-| [lifescope-site](https://lifescopelabs.github.io/site.html) | low | development |
-| [lifescope-voice](https://lifescopelabs.github.io/voice.html) | low | concept |
-| [lifescope-xr](https://lifescopelabs.github.io/xr.html) | medium | development |
 
-- [Database Documentation](https://lifescopelabs.github.io/db.html)
-- [Legacy App Documentation](https://github.com/LifeScopeLabs/lifescope-etl/tree/master/archive/tutorial)
 
 # Data Sources
 
 Current status of data source support.
-| Name | Source | Status | Data Collected |
+
+
+| Name | Status | Data Collected |
 |--|--|--|--|
 | Facebook | API ETL | production | events, content, contacts, locations |
 | Twitter | API ETL | production | events, content, contacts, locations |
@@ -125,5 +129,6 @@ Ografy site screenshot
 [fractal]:https://lifescopelabs.github.io/assets/img/fractal.png
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDI2MjUwMDYsMTMxMDYzODM2M119
+eyJoaXN0b3J5IjpbLTQwNzE5NTYwOSwtMTIwMjYyNTAwNiwxMz
+EwNjM4MzYzXX0=
 -->
