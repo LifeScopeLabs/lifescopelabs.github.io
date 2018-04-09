@@ -65,7 +65,7 @@ The [LIFESCOPE API](https://lifescopelabs.github.io/api.html) uses GraphQL and R
 
 ![conceptdiagram]
 
-he current objects and relationships created for each LIFESCOPE user in MongoDB and accessible from GraphQL.
+he current objects and relationships created for each LIFESCOPE schema. Replicated in MongoDB and GraphQL A.
 
 ![gqlschema]
 
@@ -79,6 +79,7 @@ Single-page Universal web app built on Nuxt and Vue.js. Desktop/mobile reactive 
 
 The current LIFESCOPE codebases are hosted on Amazon Web Services to power the web platform.
 
+**AWS Developer Stack**
 
 ![arch]
 
@@ -155,6 +156,6 @@ In 2016, BitScoop Labs rebuilt the project as Live Explorer. This is now the leg
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
 [gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzgyMDg4NTYsLTgxMDYyNTMwOCwxMz
-A1MDg5OTQxLC0xMjAyNjI1MDA2LDEzMTA2MzgzNjNdfQ==
+eyJoaXN0b3J5IjpbMTE1Nzk3MDgzOSwtODEwNjI1MzA4LDEzMD
+UwODk5NDEsLTEyMDI2MjUwMDYsMTMxMDYzODM2M119
 -->
