@@ -46,7 +46,7 @@ Here is the repository documentation and development status of all project compo
 | **[LIFESCOPE-VOICE](https://lifescopelabs.github.io/voice.html)** | low | concept |
 | **[LIFESCOPE-XR](https://lifescopelabs.github.io/xr.html)** | medium | development |
 
-- [Database Documentation](https://lifescopelabs.github.io/db.html)
+- [Database Documentation](https://lifescopelabs.github.io/database.html)
 - [Legacy App Documentation](https://github.com/LifeScopeLabs/lifescope-etl/tree/master/archive/tutorial)
 
 # How does it work?
@@ -152,5 +152,5 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
 [gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NTE2NDI3Nl19
+eyJoaXN0b3J5IjpbLTE3NDU3NDUyNzFdfQ==
 -->
