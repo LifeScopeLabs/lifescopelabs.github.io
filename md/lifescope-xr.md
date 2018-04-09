@@ -111,6 +111,7 @@ Examples
 
 ### Examples
 - [AFrame Room Component](https://github.com/omgitsraven/aframe-room-component)
+- [](https://3d.io/docs/api/1/aframe-components.html)
 - [Networked AFrame](https://github.com/networked-aframe/networked-aframe#more-examples)
 
 ## 3. Memory palace (concept phase, low priority)
@@ -146,6 +147,6 @@ BitScoop Marker Pattern File. Notice how the bitmap matches the file.
 [proceduralvr1]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame1.png
 [proceduralvr2]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjI0MTY1NDQsMTY3Mjc5NTE4OSwtOT
-Y5MzkwMzI2LC0yODc1MDcyNzRdfQ==
+eyJoaXN0b3J5IjpbLTM3NDg2MjA2NCwxNjcyNzk1MTg5LC05Nj
+kzOTAzMjYsLTI4NzUwNzI3NF19
 -->
