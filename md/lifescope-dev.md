@@ -1,4 +1,4 @@
-# Developer Setup
+# LIFESCOPE Developer Setup
 
 How to devlop node repositories.
 
@@ -25,5 +25,5 @@ Configure > Target: lifescope-api.glitch.me:3001
 Example on glitch:
 [https://lifescope-api.glitch.me/gql-p/](https://lifescope-api.glitch.me/gql-p/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDExNzMyNl19
+eyJoaXN0b3J5IjpbLTE5NjcyMzYyNzgsLTE4NDExNzMyNl19
 -->
