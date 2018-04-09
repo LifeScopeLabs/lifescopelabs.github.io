@@ -16,6 +16,8 @@ The study and use of psychometircs and psychographics is the biggest hidden forc
 
 LIFESCOPE is an open platform for personal data designed to empower anyone with insights while preserving privacy and ownership. Master time and space with a digital memory. The platform is designed the ultimate private repository of your digital life. 
 
+![conceptdiagram]
+
 Connect anywhere and everywhere your information resides and LIFESCOPE will automatically collect, organize, and present everything in your digital memory. Search and leverage your entire digital and social footprint, while streamlining your life online. Curate your history data into the stories you care about.
 
 LIFESCOPE as an open source platform for anything you want to do with your personal data. We have plans to expand this platform so it can power the next generation of software technology. 
@@ -60,12 +62,11 @@ LIFESCOPE collects personal information from three places. When you create conne
 
 ![soureflow]
 
-## Data Organization, Storage, and Services
-The [LIFESCOPE API](https://lifescopelabs.github.io/api.html) uses GraphQL and REST to signup, login, manage sources, and access all your data. LIFESCOPE's API will eventually allow for pluggable [Database Support](https://lifescopelabs.github.io/database.html).
+## Data Organization Storage, an [LIFESCOPE API](https://lifescopelabs.github.io/api.html) uses GraphQL and REST to signup, login, manage sources, and access all your data. LIFESCOPE's API will eventually allow for pluggable [Database Support](https://lifescopelabs.github.io/database.html).
 
 ![conceptdiagram]
 
-**LIFESCOPE Schema** Replicated in MongoDB and the GraphQL API.
+**LIFESCOPE chema* Replicated in MongoDB and the GraphQL API.
 
 ![gqlschema]
 
@@ -156,6 +157,7 @@ In 2016, BitScoop Labs rebuilt the project as Live Explorer. This is now the leg
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
 [gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNDAwODc1NywtODEwNjI1MzA4LDEzMD
-UwODk5NDEsLTEyMDI2MjUwMDYsMTMxMDYzODM2M119
+eyJoaXN0b3J5IjpbLTEwMDk0NzE1OTMsLTkxNDAwODc1NywtOD
+EwNjI1MzA4LDEzMDUwODk5NDEsLTEyMDI2MjUwMDYsMTMxMDYz
+ODM2M119
 -->
