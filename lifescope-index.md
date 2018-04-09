@@ -100,7 +100,7 @@ Current status of data source support.
 | GitHub | production | events, content, contacts |
 | Instagram | production | events, content, contacts |
 | Google | production | events, content, contacts |
-| Slice | development | events, content, contacts |
+| Slice | development | events, content, things |
 | FitBit | planned | events, things |
 
 ### Browser Plugin
@@ -108,7 +108,7 @@ Current status of data source support.
 | Data Source | Status | Data Collected |
 |--|--|--|
 | URL History | beta | events, content |
-| Location History | development | location |
+| Location History | development | locations |
 | **Scrape** Netflix | planned | events, content |
 | **Scrape** Hulu | planned | events, content |
 | **Scrape** Amazon Prime | planned | events, content |
@@ -119,11 +119,11 @@ Current status of data source support.
 
 | Data Source | Support | Status | Data Collected |
 |--|--|--|--|
-| Location History | Universal | development | location
+| Location History | Universal | development | locations
 | **Scrape** Calls | Native app | planned | events, content |
-| **Scrape** Calls | Native app | planned | events, content |
-| **Scrape** Calls | Native app | planned | events, content |
-| **Scrape** Calls | Native app | planned | events, content |
+| **Scrape** Messages | Native app | planned | events, content |
+| **Scrape** Media | Native app | planned | events, content |
+| **Scrape** Files | Native app | planned | events, content |
 
 ![fractal][fractal]
 
@@ -157,6 +157,6 @@ Ografy site screenshot
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
 [gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTEwNzk2MCwtODEwNjI1MzA4LDEzMD
+eyJoaXN0b3J5IjpbMTg5NzI0NDQyNiwtODEwNjI1MzA4LDEzMD
 UwODk5NDEsLTEyMDI2MjUwMDYsMTMxMDYzODM2M119
 -->
