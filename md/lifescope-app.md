@@ -29,6 +29,7 @@ Search anything about yourself in a web browser
 ![providerpage]
 
 ## Homepage
+
 * List saved searches and hashtags
 
 ![nativeapp]
@@ -111,7 +112,7 @@ Alt Feed View
 
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDU0NDkwNTMsMTE5ODkyNjYwLC0xNT
+eyJoaXN0b3J5IjpbLTIwMjczNjkwMDcsMTE5ODkyNjYwLC0xNT
 ExOTQxNzg4LDE5NTk2MzI5Myw3MzU2NTA5MjksODY4MTkyOTk2
 LDE4MDgyNTQzMjAsMTkyODMxMTc2Ml19
 -->
