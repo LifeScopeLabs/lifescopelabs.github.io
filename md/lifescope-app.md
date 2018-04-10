@@ -16,8 +16,6 @@
 ### Dependencies
 - Vue/Nuxt compatible
 
-### Examples
-
 ## Login
 * Able to sign up and login with any provider
 
@@ -98,6 +96,6 @@ Alt Feed View
 [lifescope-app-legacy]:https://lifescopelabs.github.io/assets/screenshots/lifescope-app-legacy.png
 [lifescope-app-wireframe]:https://lifescopelabs.github.io/assets/wireframes/week-content-feed.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4MTkyOTk2LDE4MDgyNTQzMjAsMTkyOD
-MxMTc2Ml19
+eyJoaXN0b3J5IjpbMzEwNTU3Mjk0LDg2ODE5Mjk5NiwxODA4Mj
+U0MzIwLDE5MjgzMTE3NjJdfQ==
 -->
