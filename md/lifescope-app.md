@@ -95,7 +95,8 @@ Alt Feed View
 [mappoly]:https://lifescopelabs.github.io/assets/wireframes/sat-select-poly.png
 [lifescope-app-legacy]:https://lifescopelabs.github.io/assets/screenshots/lifescope-app-legacy.png
 [lifescope-app-wireframe]:https://lifescopelabs.github.io/assets/wireframes/week-content-feed.jpg
+[lifescope-app-wireframe]:https://lifescopelabs.github.io/assets/wireframes/HawaiiV2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM1NjUwOTI5LDg2ODE5Mjk5NiwxODA4Mj
-U0MzIwLDE5MjgzMTE3NjJdfQ==
+eyJoaXN0b3J5IjpbLTc5MDcxNDA3Myw3MzU2NTA5MjksODY4MT
+kyOTk2LDE4MDgyNTQzMjAsMTkyODMxMTc2Ml19
 -->
