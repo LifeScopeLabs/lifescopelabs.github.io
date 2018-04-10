@@ -1,4 +1,4 @@
-# [LIFESCOPE-Browser-Extension](https://github.com/LifeScopeLabs/lifescope-browser-extension)
+# [LIFESCOPE-B-Extension](https://github.com/LifeScopeLabs/lifescope-browser-extension)
 
 ## [Repository](https://github.com/LifeScopeLabs/lifescope-browser-extension)
 
@@ -39,5 +39,5 @@
 1. Clone this repo
 2. Install the repo's directory as an extension
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYwNDU3MjAzLDE5Mjc3Nzc0MjldfQ==
+eyJoaXN0b3J5IjpbMTk5MTQ3OTk4MSwxOTI3Nzc3NDI5XX0=
 -->
