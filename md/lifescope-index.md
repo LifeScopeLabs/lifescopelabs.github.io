@@ -38,6 +38,16 @@ We are currently looking for designers, creators, developers, and data scientist
 
 Developer documentation serves as a roadmap planning workbook for each repository.
 
+
+[LIFESCOPE-AI](https://lifescopelabs.github.io/ai.html)
+[LIFESCOPE-API](https://lifescopelabs.github.io/api.html)
+[LIFESCOPE-APP](https://lifescopelabs.github.io/app.html)
+[LIFESCOPE-BROWSER-EXTENSION](https://lifescopelabs.github.io/browser-extension.html)
+[LIFESCOPE-ETL](https://lifescopelabs.github.io/etl.html)
+[LIFESCOPE-SITE](https://lifescopelabs.github.io/site.html)
+[LIFESCOPE-VOICE](https://lifescopelabs.github.io/voice.html)
+## [LIFESCOPE-XR](https://lifescopelabs.github.io/xr.html)
+
 | Repository Documentation | Priority | Status |
 |--|--|--|
 | **[LIFESCOPE-AI](https://lifescopelabs.github.io/ai.html)** | low | concept |
@@ -167,7 +177,8 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 [browserextscrape]:https://lifescopelabs.github.io/assets/screenshots/browser-extensions.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTcyMzI5ODcsLTI0ODAxNTI3OCw1OT
-gzNzAzMjIsLTk4NDAyMzU1MCwtOTM4NTg2Nzk5LC0xMjkyMjE3
-MjQwLC0xMTQ2MzgwNjQyLDE2NDQ0MDQ3ODhdfQ==
+eyJoaXN0b3J5IjpbMTk1NTE0OTY4MSwtMTY1NzIzMjk4NywtMj
+Q4MDE1Mjc4LDU5ODM3MDMyMiwtOTg0MDIzNTUwLC05Mzg1ODY3
+OTksLTEyOTIyMTcyNDAsLTExNDYzODA2NDIsMTY0NDQwNDc4OF
+19
 -->
