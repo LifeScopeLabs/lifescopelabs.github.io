@@ -12,7 +12,7 @@ This is the LIFESCOPE automated data collection system for connected services. T
 * Provider scripts keep a copy of original data.
 
 # Requirements
-- **MVP**:  Change current ETL Provider Scripts to work off GraphQL instead of MongoDB directly.
+- **MVP**:  Change current ETL Provider Scripts to save via GraphQL instead of MongoDB directly.
 - Add support for new Providers and expand support of current providers.
 - Make ETL system platform independent and able to run locally on a scheduled basis.
 
@@ -267,6 +267,6 @@ In order to begin running the local Lambda function run the following code in th
 
 you will then be shown the urls to your lambda functions along with their port numbers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM1ODAyNTMxLDkwNjA3ODE5NywxNTMyMT
-g0NzQ1LC0xMTE1MzYyMTgzLC02MDcxMzMzNTldfQ==
+eyJoaXN0b3J5IjpbLTc3MjA0OTQ4MCw5MDYwNzgxOTcsMTUzMj
+E4NDc0NSwtMTExNTM2MjE4MywtNjA3MTMzMzU5XX0=
 -->
