@@ -6,7 +6,8 @@ This repository contains a suite of tools for reporting and machine learning wor
 
 Machine learning models based on LIFESCOPE data are currently focused on behavior modeling, correlation, prediction, suggestion, and impersonation.
 
-# Reporting (concept phase, low priority)
+# Reporting 
+(concept phase, low priority)
 
 ## Requirements
 
@@ -53,7 +54,8 @@ Create infographics and reports for LIFESCOPE users based on their data.
 
 ![deepviz]
 
-# Machine Learning (concept phase, low priority)
+# Machine Learning 
+(concept phase, low priority)
 
 ## Conversational Agents
 
@@ -92,7 +94,8 @@ Prediction and anomaly detection based on location history.
 - [Numenta Geospatioal](https://numenta.com/assets/pdf/whitepapers/Geospatial%20Tracking%20White%20Paper.pdf)
 - [Numenta Geospatioal Github Example](https://github.com/numenta/nupic.geospatial)
 
-### Others (Tensorflow)
+### Others 
+(Tensorflow)
 - [Tenorflow Research Models for (Speech, Text, Video, Geodata](https://github.com/tensorflow/models/tree/master/research)
 
 [heatmap]:https://lifescopelabs.github.io/assets/maps/heat-map.png
@@ -102,6 +105,6 @@ Prediction and anomaly detection based on location history.
 [webviz]:https://lifescopelabs.github.io/assets/wireframes/3d-graph.jpg
 [mlgeo]:https://raw.githubusercontent.com/numenta/nupic.geospatial/master/images/viewer.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MTg2OTUzNywxNzI2NTE2NzYwLC03MT
-QyMTg3MDZdfQ==
+eyJoaXN0b3J5IjpbMTAyODMwNTAwOSwtODgxODY5NTM3LDE3Mj
+Y1MTY3NjAsLTcxNDIxODcwNl19
 -->
