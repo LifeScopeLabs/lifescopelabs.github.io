@@ -2,6 +2,8 @@
 
 ## [Repository](https://github.com/LifeScopeLabs/lifescope-voice)
 
+(development phase, low priority)
+
 The LIFESCOPE API allows anyone to create a shared virtual space to access their memory and tell their stories.
 
 This repo contains a series of voice command search applets written to extend the lifescope-app codebase as JS/Vue/Nuxt plugins.
@@ -29,7 +31,6 @@ Browser Web Speech API allows for speech recognition and synthesis support in Ch
 	- "Here were the highlights from your trip to Hawaii...."
 
 # Dependencies
-
 - Vue/Nuxt compatible
 
 # Examples
@@ -37,7 +38,7 @@ Browser Web Speech API allows for speech recognition and synthesis support in Ch
 - [Web Speech API Documentation and Examples](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
 - [Speech Logger Web Speech API examples](https://speechlogger.appspot.com/developers/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNjEwNjkxNiwtMTU3ODE1MjI2MCwxOD
-UzMzA1NDk2LDIwMjc2MjkzMDQsLTQ2MjQzOTY0NiwtMTQ3NTkw
-NTc3MiwxNjU0MTkxOTg1XX0=
+eyJoaXN0b3J5IjpbNjU3NTI3Mjg1LDEwMjYxMDY5MTYsLTE1Nz
+gxNTIyNjAsMTg1MzMwNTQ5NiwyMDI3NjI5MzA0LC00NjI0Mzk2
+NDYsLTE0NzU5MDU3NzIsMTY1NDE5MTk4NV19
 -->
