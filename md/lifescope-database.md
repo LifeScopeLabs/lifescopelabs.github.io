@@ -43,7 +43,6 @@ Navigate to the Lifescope-Core directory, and in the config folder
 create a local.json and production.json copy of config/default.json
 Do not commit the production keys to GitHub under penalty of death!
 
-
 From the top level of the Lifescope-Core directory run:
 
 `yarn install`
@@ -61,7 +60,6 @@ Run NGINX
 `sudo nginx -p . -c nginx.conf`
 
 Install MongoDB Compass
-
 
 ## Migrations
 
@@ -94,5 +92,5 @@ gulp devel
 Next, go to lambda/migrations/fixtures/providers and open up each JSON file.
 You will need to copy the ID of the API Map you made for each service into the 'remote_provider_id' field in the corresponding provider file.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MjIyNDc5XX0=
+eyJoaXN0b3J5IjpbMTYyNjk2MDg4MywxNTgyMjI0NzldfQ==
 -->
