@@ -16,6 +16,7 @@
 ### Dependencies
 - Vue/Nuxt compatible
 
+**Opt in to URL 
 ![browserextscrape]
 ![browserext]
 
@@ -44,6 +45,6 @@
 [browserextscrape]:https://lifescopelabs.github.io/assets/screenshots/browser-extensions.png
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTA5ODA2LC0xNjAxMzUzMjI0LC01Mj
-g2NDg3MTQsLTg1MjAzMTUwMSwxOTI3Nzc3NDI5XX0=
+eyJoaXN0b3J5IjpbMTM0OTcyMzg4MCwtMTYwMTM1MzIyNCwtNT
+I4NjQ4NzE0LC04NTIwMzE1MDEsMTkyNzc3NzQyOV19
 -->
