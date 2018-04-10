@@ -15,8 +15,8 @@ the codebase is a single-page Universal web app built on Nuxt and Vue.js. Deskto
 
 ### Requirements
 - **MVP**:  Rewrite the [LIFESCOPE Archive App](https://lifescopelabs.github.io/etl.html#lifescope-archive-app) for Nuxt.
+- Get location tracking working with the LIFESCOPE API.
 - Port the LIFESCOPE web App to Cordova or other native framework.
-- 
 
 ### Dependencies
 - Vue/Nuxt compatible
@@ -134,8 +134,8 @@ Map Timeline "Wedding Destination Vacation"
 [HawaiiV2]:https://lifescopelabs.github.io/assets/wireframes/HawaiiV2.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTE4MTEwNDgsLTIxMDk4MzAzNjMsMT
-gwNjE0NDczMSw0NDgzNTc3NDgsMTE5ODkyNjYwLC0xNTExOTQx
-Nzg4LDE5NTk2MzI5Myw3MzU2NTA5MjksODY4MTkyOTk2LDE4MD
-gyNTQzMjAsMTkyODMxMTc2Ml19
+eyJoaXN0b3J5IjpbOTUwODY2MDY0LC0yMTA5ODMwMzYzLDE4MD
+YxNDQ3MzEsNDQ4MzU3NzQ4LDExOTg5MjY2MCwtMTUxMTk0MTc4
+OCwxOTU5NjMyOTMsNzM1NjUwOTI5LDg2ODE5Mjk5NiwxODA4Mj
+U0MzIwLDE5MjgzMTE3NjJdfQ==
 -->
