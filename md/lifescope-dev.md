@@ -1,6 +1,6 @@
 # LIFESCOPE Developer Setup
 
-How to devlop node repositories.
+How to develop LI repositories.
 
 We suggest using [Glitch](https://glitch.com).
 
@@ -25,5 +25,6 @@ Configure > Target: lifescope-api.glitch.me:3001
 Example on glitch:
 [https://lifescope-api.glitch.me/gql-p/](https://lifescope-api.glitch.me/gql-p/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjcyMzYyNzgsLTE4NDExNzMyNl19
+eyJoaXN0b3J5IjpbMTAzOTIyMzAzNiwtMTk2NzIzNjI3OCwtMT
+g0MTE3MzI2XX0=
 -->
