@@ -11,7 +11,7 @@
 * Capture and store location data
 
 ### Requirements
-- **MVP**: 
+- **MVP**:  Reconnect current extension
 
 ### Dependencies
 - Vue/Nuxt compatible
@@ -49,6 +49,7 @@
 [browserextscrape]:https://lifescopelabs.github.io/assets/screenshots/browser-extensions.png
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njc2NDg5MDMsLTE2MDEzNTMyMjQsLT
-UyODY0ODcxNCwtODUyMDMxNTAxLDE5Mjc3Nzc0MjldfQ==
+eyJoaXN0b3J5IjpbNDExMzExMDUwLC0xNTY3NjQ4OTAzLC0xNj
+AxMzUzMjI0LC01Mjg2NDg3MTQsLTg1MjAzMTUwMSwxOTI3Nzc3
+NDI5XX0=
 -->
