@@ -6,7 +6,6 @@
 
 The LIFESCOPE API is a universal platform backend. There are two components to the API; a GraphQL-based API for CRUD operations on the LIFESCOPE data schema and a REST API for login/logout/signup and connection OAuth workflow.
 
-
 # Requirements
 
 - Add WSS support for GraphQL Subscriptions
@@ -161,6 +160,6 @@ The LIFESCOPE API is a universal platform backend. There are two components to t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NDgzNDgwNCwxNjkzNDgwNjM2LDg0MD
-c0Nzg4MSwtMTU4NTI0OTg1N119
+eyJoaXN0b3J5IjpbLTE0ODAwMTU2NzQsMjA1NDgzNDgwNCwxNj
+kzNDgwNjM2LDg0MDc0Nzg4MSwtMTU4NTI0OTg1N119
 -->
