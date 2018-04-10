@@ -15,6 +15,7 @@ Browser Web Speech API allows for speech recognition and synthesis support in Ch
 		- "Tell me about [Person Name] and I"
 	- Voice Response
 		- "28 Events match your saved search"
+		- "Today's List of events. You received a message from Jane at 5:44 pm saying...."
 - Deep Voice Search
 	- **MVP**: Structured search terms (who, what, when, where, why)
 	- Natural Language Processing.
@@ -30,7 +31,7 @@ Browser Web Speech API allows for speech recognition and synthesis support in Ch
 - [Web Speech API Documentation and Examples](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
 - [Speech Logger Web Speech API examples](https://speechlogger.appspot.com/developers/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjY3ODM4NzQsLTE1NzgxNTIyNjAsMT
-g1MzMwNTQ5NiwyMDI3NjI5MzA0LC00NjI0Mzk2NDYsLTE0NzU5
-MDU3NzIsMTY1NDE5MTk4NV19
+eyJoaXN0b3J5IjpbMTUwOTY3NjEyNiwtMTU3ODE1MjI2MCwxOD
+UzMzA1NDk2LDIwMjc2MjkzMDQsLTQ2MjQzOTY0NiwtMTQ3NTkw
+NTc3MiwxNjU0MTkxOTg1XX0=
 -->
