@@ -4,7 +4,9 @@
 
 (development phase, high priority)
 
-[LIFESCOPE Archive App](https://lifescopelabs.github.io/etl.html#lifescope-archive-app)
+## [LIFESCOPE Archive App](https://lifescopelabs.github.io/etl.html#lifescope-archive-app)
+
+### [LIFESCOPE Archive App Documentation](https://lifescope.io/getting-started/)
 
 * App to search explorer and curate your personal data in various views
 * Single-page Universal web app built on Nuxt and Vue.js
@@ -12,7 +14,6 @@
 * Written with plugin framework such as location tracking, web xr and web voice
 * Should be containerizable inside a universal app framework Cordova
 
-https://lifescope.io/getting-started/
 
 ### Requirements
 - **MVP**: 
@@ -104,7 +105,7 @@ Alt Feed View
 [Hawaii]:https://lifescopelabs.github.io/assets/wireframes/Hawaii.png
 [HawaiiV2]:https://lifescopelabs.github.io/assets/wireframes/HawaiiV2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMzc0ODU5MywxOTU5NjMyOTMsNzM1Nj
-UwOTI5LDg2ODE5Mjk5NiwxODA4MjU0MzIwLDE5MjgzMTE3NjJd
-fQ==
+eyJoaXN0b3J5IjpbLTE1NzA5MTgxMDIsMTk1OTYzMjkzLDczNT
+Y1MDkyOSw4NjgxOTI5OTYsMTgwODI1NDMyMCwxOTI4MzExNzYy
+XX0=
 -->
