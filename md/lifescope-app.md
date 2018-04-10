@@ -25,9 +25,10 @@ the codebase is a single-page Universal web app built on Nuxt and Vue.js. Deskto
 
 ### LIFESCOPE Dependencies 
 #### [LIFESCOPE-XR](https://github.com/LifeScopeLabs/lifescope-xr)
-This is for AR and VR views of LifeScope data
+This is for AR and VR views of LifeScope data as Vue Plugins.
 
 #### [LIFESCOPE-VOICE](https://github.com/LifeScopeLabs/lifescope-voice)
+This is a conversational interface of LifeScope data as Vue Plugins.
 
 
 ## Login
@@ -119,8 +120,8 @@ Alt Feed View
 [HawaiiV2]:https://lifescopelabs.github.io/assets/wireframes/HawaiiV2.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDExMDcyNTgyLDE4MDYxNDQ3MzEsNDQ4Mz
-U3NzQ4LDExOTg5MjY2MCwtMTUxMTk0MTc4OCwxOTU5NjMyOTMs
-NzM1NjUwOTI5LDg2ODE5Mjk5NiwxODA4MjU0MzIwLDE5MjgzMT
-E3NjJdfQ==
+eyJoaXN0b3J5IjpbLTY2Mjk3MTE0OSwxODA2MTQ0NzMxLDQ0OD
+M1Nzc0OCwxMTk4OTI2NjAsLTE1MTE5NDE3ODgsMTk1OTYzMjkz
+LDczNTY1MDkyOSw4NjgxOTI5OTYsMTgwODI1NDMyMCwxOTI4Mz
+ExNzYyXX0=
 -->
