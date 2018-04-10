@@ -25,11 +25,9 @@ the codebase is a single-page Universal web app built on Nuxt and Vue.js. Deskto
 
 #### LIFESCOPE Location
 
-#### LIFESCOPE Location
+#### [LIFESCOPE-XR](https://github.com/LifeScopeLabs/lifescope-xr)
 
-#### LIFESCOPE Location
-
-#### LIFESCOPE Location
+#### LIFESCOPE VOICE
 
 ## Login
 
@@ -120,8 +118,8 @@ Alt Feed View
 [HawaiiV2]:https://lifescopelabs.github.io/assets/wireframes/HawaiiV2.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTg4NTQyNzAsMTgwNjE0NDczMSw0ND
-gzNTc3NDgsMTE5ODkyNjYwLC0xNTExOTQxNzg4LDE5NTk2MzI5
-Myw3MzU2NTA5MjksODY4MTkyOTk2LDE4MDgyNTQzMjAsMTkyOD
-MxMTc2Ml19
+eyJoaXN0b3J5IjpbMTMwMjM3Mzc0OSwxODA2MTQ0NzMxLDQ0OD
+M1Nzc0OCwxMTk4OTI2NjAsLTE1MTE5NDE3ODgsMTk1OTYzMjkz
+LDczNTY1MDkyOSw4NjgxOTI5OTYsMTgwODI1NDMyMCwxOTI4Mz
+ExNzYyXX0=
 -->
