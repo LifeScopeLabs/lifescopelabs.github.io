@@ -16,8 +16,10 @@
 ### Dependencies
 - Vue/Nuxt compatible
 
-**Opt in to URL 
+**Opt in to browser history collection and scraping on supported sites.**
 ![browserextscrape]
+
+**Review and edit your collected history.
 ![browserext]
 
 ## Data Collection Sources
@@ -45,6 +47,6 @@
 [browserextscrape]:https://lifescopelabs.github.io/assets/screenshots/browser-extensions.png
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0OTcyMzg4MCwtMTYwMTM1MzIyNCwtNT
-I4NjQ4NzE0LC04NTIwMzE1MDEsMTkyNzc3NzQyOV19
+eyJoaXN0b3J5IjpbLTIwMzIwMjQ3MzksLTE2MDEzNTMyMjQsLT
+UyODY0ODcxNCwtODUyMDMxNTAxLDE5Mjc3Nzc0MjldfQ==
 -->
