@@ -4,7 +4,7 @@
 
 (development phase, high priority)
 
-Search anything about yourself in a web browser 
+Search anything about yourself in a web browser or on a native app (iOS/Android/Windows/Mac)
 
 ## [LIFESCOPE Archive App](https://lifescopelabs.github.io/etl.html#lifescope-archive-app)
 
@@ -111,7 +111,7 @@ Alt Feed View
 [HawaiiV2]:https://lifescopelabs.github.io/assets/wireframes/HawaiiV2.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MzEwMzM2MSwxMTk4OTI2NjAsLTE1MT
-E5NDE3ODgsMTk1OTYzMjkzLDczNTY1MDkyOSw4NjgxOTI5OTYs
-MTgwODI1NDMyMCwxOTI4MzExNzYyXX0=
+eyJoaXN0b3J5IjpbNDQ4MzU3NzQ4LDExOTg5MjY2MCwtMTUxMT
+k0MTc4OCwxOTU5NjMyOTMsNzM1NjUwOTI5LDg2ODE5Mjk5Niwx
+ODA4MjU0MzIwLDE5MjgzMTE3NjJdfQ==
 -->
