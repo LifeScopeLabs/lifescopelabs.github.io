@@ -18,6 +18,8 @@
 <li><a href="#repository">Repository</a></li>
 </ul>
 </li>
+<li><a href="#requirements">Requirements</a></li>
+<li><a href="#dependencies">Dependencies</a></li>
 <li><a href="#workflows">Workflows</a>
 <ul>
 <li><a href="#connection-workflow">Connection Workflow</a></li>
@@ -45,8 +47,6 @@
 <li><a href="#users">users</a></li>
 </ul>
 </li>
-<li><a href="#requirements">Requirements</a></li>
-<li><a href="#dependencies">Dependencies</a></li>
 </ul>
 
     </div>
@@ -55,8 +55,22 @@
     <div class="stackedit__html">
       <h1 id="lifescope-api"><a href="https://github.com/LifeScopeLabs/lifescope-api">LIFESCOPE-API</a></h1>
 <h2 id="repository"><a href="https://github.com/LifeScopeLabs/lifescope-api">Repository</a></h2>
-<h3 id="development-phase-high-priority">(development phase, high priority)</h3>
+<p>(development phase, high priority)</p>
 <p>The LIFESCOPE API is a universal platform backend. There are two components to the API; a GraphQL-based API for CRUD operations on the LIFESCOPE data schema and a REST API for login/logout/signup and connection OAuth workflow.</p>
+<h1 id="requirements">Requirements</h1>
+<ul>
+<li>Add WSS support for GraphQL Subscriptions
+<ul>
+<li>Example: <a href="https://github.com/apollographql/subscriptions-transport-ws">https://github.com/apollographql/subscriptions-transport-ws</a></li>
+</ul>
+</li>
+</ul>
+<h1 id="dependencies">Dependencies</h1>
+<ul>
+<li><a href="https://github.com/graphql-compose/graphql-compose">graphql-compose</a></li>
+<li><a href="https://github.com/graphql-compose/graphql-compose-mongoose">graphql-compose-mongoose</a></li>
+<li>Vue/Nuxt</li>
+</ul>
 <h1 id="workflows">Workflows</h1>
 <h2 id="connection-workflow">Connection Workflow</h2>
 <ol>
@@ -80,21 +94,83 @@
 <li>Exposes the connection, signup, and login workflows as GraphQL endpoints</li>
 </ul>
 <h2 id="providers">Providers</h2>
-<ul>
-<li>Facebook</li>
-<li>Twitter</li>
-<li>Pinterest</li>
-<li>Dropbox</li>
-<li>Steam</li>
-<li>Reddit</li>
-<li>Spotify</li>
-<li>GitHub</li>
-<li>Instagram</li>
-<li>Google</li>
-<li><strong>Slice - In Development</strong></li>
-<li><strong>FitBit - In Development</strong></li>
-</ul>
-<h1 id="data-schema">Data Schema</h1>
+
+<table>
+<thead>
+<tr>
+<th>Data Source</th>
+<th>Status</th>
+<th>Data Collected</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Facebook</td>
+<td>production</td>
+<td>events, content, contacts, locations</td>
+</tr>
+<tr>
+<td>Twitter</td>
+<td>production</td>
+<td>events, content, contacts, locations</td>
+</tr>
+<tr>
+<td>Pinterest</td>
+<td>beta</td>
+<td>events, content, locations</td>
+</tr>
+<tr>
+<td>Dropbox</td>
+<td>production</td>
+<td>events, content, locations</td>
+</tr>
+<tr>
+<td>Steam</td>
+<td>production</td>
+<td>events, content</td>
+</tr>
+<tr>
+<td>Reddit</td>
+<td>production</td>
+<td>events, content, contacts, contacts</td>
+</tr>
+<tr>
+<td>Spotify</td>
+<td>production</td>
+<td>events, content</td>
+</tr>
+<tr>
+<td>GitHub</td>
+<td>production</td>
+<td>events, content, contacts</td>
+</tr>
+<tr>
+<td>Instagram</td>
+<td>production</td>
+<td>events, content, contacts</td>
+</tr>
+<tr>
+<td>Google</td>
+<td>production</td>
+<td>events, content, contacts</td>
+</tr>
+<tr>
+<td>Slice</td>
+<td>development</td>
+<td>events, content, things</td>
+</tr>
+<tr>
+<td>FitBit</td>
+<td>planned</td>
+<td>events, things</td>
+</tr>
+<tr>
+<td>TV Time</td>
+<td>planned</td>
+<td>events, content</td>
+</tr>
+</tbody>
+</table><h1 id="data-schema">Data Schema</h1>
 <p><img src="https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png" alt="gqlschema"></p>
 <h2 id="connections">connections</h2>
 <ul>
@@ -218,20 +294,6 @@
 <h2 id="tags">tags</h2>
 <h2 id="things">things</h2>
 <h2 id="users">users</h2>
-<h1 id="requirements">Requirements</h1>
-<ul>
-<li>Add WSS support for GraphQL Subscriptions
-<ul>
-<li>Example: <a href="https://github.com/apollographql/subscriptions-transport-ws">https://github.com/apollographql/subscriptions-transport-ws</a></li>
-</ul>
-</li>
-</ul>
-<h1 id="dependencies">Dependencies</h1>
-<ul>
-<li><a href="https://github.com/graphql-compose/graphql-compose">graphql-compose</a></li>
-<li><a href="https://github.com/graphql-compose/graphql-compose-mongoose">graphql-compose-mongoose</a></li>
-<li>Vue/Nuxt</li>
-</ul>
 
     </div>
   </div>
