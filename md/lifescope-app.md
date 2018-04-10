@@ -31,7 +31,6 @@ This is for AR and VR views of LifeScope data as Vue Plugins.
 #### [LIFESCOPE-VOICE](https://github.com/LifeScopeLabs/lifescope-voice)
 This is a conversational interface of LifeScope data as Vue Plugins.
 
-
 ## Login
 
 **Sign up and login with any provider. Automatically adds an API ETL connection.**
@@ -134,8 +133,8 @@ Map Timeline "Wedding Destination Vacation"
 [HawaiiV2]:https://lifescopelabs.github.io/assets/wireframes/HawaiiV2.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwODY2MDY0LC0yMTA5ODMwMzYzLDE4MD
-YxNDQ3MzEsNDQ4MzU3NzQ4LDExOTg5MjY2MCwtMTUxMTk0MTc4
-OCwxOTU5NjMyOTMsNzM1NjUwOTI5LDg2ODE5Mjk5NiwxODA4Mj
-U0MzIwLDE5MjgzMTE3NjJdfQ==
+eyJoaXN0b3J5IjpbNzQ5MzYyMDE4LDk1MDg2NjA2NCwtMjEwOT
+gzMDM2MywxODA2MTQ0NzMxLDQ0ODM1Nzc0OCwxMTk4OTI2NjAs
+LTE1MTE5NDE3ODgsMTk1OTYzMjkzLDczNTY1MDkyOSw4NjgxOT
+I5OTYsMTgwODI1NDMyMCwxOTI4MzExNzYyXX0=
 -->
