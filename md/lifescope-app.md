@@ -45,7 +45,7 @@ This is a conversational interface of LifeScope data as Vue Plugins.
 
 ## Explorer
 
-
+Filter, Sort, and Search. See Advanced and Saved searches.
 
 ### History Views
 * Feed
@@ -133,8 +133,8 @@ Map Timeline "Wedding Destination Vacation"
 [HawaiiV2]:https://lifescopelabs.github.io/assets/wireframes/HawaiiV2.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3Mzg2MDM3NSwtMjEwOTgzMDM2MywxOD
-A2MTQ0NzMxLDQ0ODM1Nzc0OCwxMTk4OTI2NjAsLTE1MTE5NDE3
-ODgsMTk1OTYzMjkzLDczNTY1MDkyOSw4NjgxOTI5OTYsMTgwOD
-I1NDMyMCwxOTI4MzExNzYyXX0=
+eyJoaXN0b3J5IjpbLTE2MTc2Mjg0ODMsLTIxMDk4MzAzNjMsMT
+gwNjE0NDczMSw0NDgzNTc3NDgsMTE5ODkyNjYwLC0xNTExOTQx
+Nzg4LDE5NTk2MzI5Myw3MzU2NTA5MjksODY4MTkyOTk2LDE4MD
+gyNTQzMjAsMTkyODMxMTc2Ml19
 -->
