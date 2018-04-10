@@ -14,7 +14,7 @@
 - **MVP**:  Reconnect current extension to the LIFESCOPE API.
 - Remove CoffeeScript and convert to a Universal Browser Extension.
 - Add Scraping for selected domains.
-- 
+- Record locations.
 
 ### Dependencies
 - Vue/Nuxt compatible
@@ -55,7 +55,7 @@
 [browserextscrape]:https://lifescopelabs.github.io/assets/screenshots/browser-extensions.png
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMTIzNzUxMCw0MTEzMTEwNTAsLTE1Nj
-c2NDg5MDMsLTE2MDEzNTMyMjQsLTUyODY0ODcxNCwtODUyMDMx
-NTAxLDE5Mjc3Nzc0MjldfQ==
+eyJoaXN0b3J5IjpbMTU3NjM0MzYzNSwxNjExMjM3NTEwLDQxMT
+MxMTA1MCwtMTU2NzY0ODkwMywtMTYwMTM1MzIyNCwtNTI4NjQ4
+NzE0LC04NTIwMzE1MDEsMTkyNzc3NzQyOV19
 -->
