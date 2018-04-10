@@ -39,14 +39,16 @@ This is a conversational interface of LifeScope data as Vue Plugins.
 
 ## Homepage
 
-* List saved searches and hashtags
+**List saved searches and hashtags**
 
 ![nativeapp]
 
 ## Explorer
 
-### Views
-* History Feed
+
+
+### History Views
+* Feed
 * List
 * Trail Map
 * Gallery
@@ -131,8 +133,8 @@ Map Timeline "Wedding Destination Vacation"
 [HawaiiV2]:https://lifescopelabs.github.io/assets/wireframes/HawaiiV2.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDk4MzAzNjMsMTgwNjE0NDczMSw0ND
-gzNTc3NDgsMTE5ODkyNjYwLC0xNTExOTQxNzg4LDE5NTk2MzI5
-Myw3MzU2NTA5MjksODY4MTkyOTk2LDE4MDgyNTQzMjAsMTkyOD
-MxMTc2Ml19
+eyJoaXN0b3J5IjpbMTg3Mzg2MDM3NSwtMjEwOTgzMDM2MywxOD
+A2MTQ0NzMxLDQ0ODM1Nzc0OCwxMTk4OTI2NjAsLTE1MTE5NDE3
+ODgsMTk1OTYzMjkzLDczNTY1MDkyOSw4NjgxOTI5OTYsMTgwOD
+I1NDMyMCwxOTI4MzExNzYyXX0=
 -->
