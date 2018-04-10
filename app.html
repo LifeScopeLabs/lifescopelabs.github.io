@@ -16,6 +16,7 @@
 <li><a href="#lifescope-app">LIFESCOPE-APP</a>
 <ul>
 <li><a href="#repository">Repository</a></li>
+<li><a href="#lifescope-archive-app">LIFESCOPE Archive App</a></li>
 <li><a href="#login">Login</a></li>
 <li><a href="#homepage">Homepage</a></li>
 <li><a href="#explorer">Explorer</a></li>
@@ -23,6 +24,7 @@
 <li><a href="#people-management">People Management</a></li>
 <li><a href="#settings">Settings</a></li>
 <li><a href="#published-content">Published Content</a></li>
+<li><a href="#data-collection-sources">Data Collection Sources</a></li>
 <li><a href="#notes">Notes</a></li>
 </ul>
 </li>
@@ -34,7 +36,10 @@
     <div class="stackedit__html">
       <h1 id="lifescope-app"><a href="https://github.com/LifeScopeLabs/lifescope-app">LIFESCOPE-APP</a></h1>
 <h2 id="repository"><a href="https://github.com/LifeScopeLabs/lifescope-app">Repository</a></h2>
-<h3 id="development-phase-high-priority">(development phase, high priority)</h3>
+<p>(development phase, high priority)</p>
+<p>Search anything about yourself in a web browser</p>
+<h2 id="lifescope-archive-app"><a href="https://lifescopelabs.github.io/etl.html#lifescope-archive-app">LIFESCOPE Archive App</a></h2>
+<h3 id="lifescope-archive-app-documentation"><a href="https://lifescope.io/getting-started/">LIFESCOPE Archive App Documentation</a></h3>
 <ul>
 <li>App to search explorer and curate your personal data in various views</li>
 <li>Single-page Universal web app built on Nuxt and Vue.js</li>
@@ -42,10 +47,19 @@
 <li>Written with plugin framework such as location tracking, web xr and web voice</li>
 <li>Should be containerizable inside a universal app framework Cordova</li>
 </ul>
+<h3 id="requirements">Requirements</h3>
+<ul>
+<li><strong>MVP</strong>:</li>
+</ul>
+<h3 id="dependencies">Dependencies</h3>
+<ul>
+<li>Vue/Nuxt compatible</li>
+</ul>
 <h2 id="login">Login</h2>
 <ul>
 <li>Able to sign up and login with any provider</li>
 </ul>
+<p><img src="https://lifescopelabs.github.io/assets/screenshots/provider-maps-screenshot.png" alt="providerpage"></p>
 <h2 id="homepage">Homepage</h2>
 <ul>
 <li>List saved searches and hashtags</li>
@@ -68,8 +82,83 @@
 <img src="https://lifescopelabs.github.io/assets/wireframes/sat-select-poly.png" alt="mappoly"></p>
 <p><img src="https://lifescopelabs.github.io/assets/maps/map-spider.png" alt="spider"></p>
 <h2 id="providers">Providers</h2>
-<p><img src="https://lifescopelabs.github.io/assets/screenshots/provider-maps-screenshot.png" alt="providerpage"></p>
-<h2 id="people-management">People Management</h2>
+
+<table>
+<thead>
+<tr>
+<th>Data Source</th>
+<th>Status</th>
+<th>Data Collected</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Facebook</td>
+<td>production</td>
+<td>events, content, contacts, locations</td>
+</tr>
+<tr>
+<td>Twitter</td>
+<td>production</td>
+<td>events, content, contacts, locations</td>
+</tr>
+<tr>
+<td>Pinterest</td>
+<td>beta</td>
+<td>events, content, locations</td>
+</tr>
+<tr>
+<td>Dropbox</td>
+<td>production</td>
+<td>events, content, locations</td>
+</tr>
+<tr>
+<td>Steam</td>
+<td>production</td>
+<td>events, content</td>
+</tr>
+<tr>
+<td>Reddit</td>
+<td>production</td>
+<td>events, content, contacts, contacts</td>
+</tr>
+<tr>
+<td>Spotify</td>
+<td>production</td>
+<td>events, content</td>
+</tr>
+<tr>
+<td>GitHub</td>
+<td>production</td>
+<td>events, content, contacts</td>
+</tr>
+<tr>
+<td>Instagram</td>
+<td>production</td>
+<td>events, content, contacts</td>
+</tr>
+<tr>
+<td>Google</td>
+<td>production</td>
+<td>events, content, contacts</td>
+</tr>
+<tr>
+<td>Slice</td>
+<td>development</td>
+<td>events, content, things</td>
+</tr>
+<tr>
+<td>FitBit</td>
+<td>planned</td>
+<td>events, things</td>
+</tr>
+<tr>
+<td>TV Time</td>
+<td>planned</td>
+<td>events, content</td>
+</tr>
+</tbody>
+</table><h2 id="people-management">People Management</h2>
 <ul>
 <li>Relate contacts together into People</li>
 <li>Relate People into Users</li>
@@ -84,9 +173,54 @@
 <li>Embed saved searches as dynamic iFrame</li>
 <li>Served publicly</li>
 </ul>
-<h2 id="notes">Notes</h2>
+<h2 id="data-collection-sources">Data Collection Sources</h2>
+
+<table>
+<thead>
+<tr>
+<th>Data Source</th>
+<th>Support</th>
+<th>Status</th>
+<th>Data Collected</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Location History</td>
+<td>Universal</td>
+<td>development</td>
+<td>locations</td>
+</tr>
+<tr>
+<td><strong>Scrape</strong> Calls</td>
+<td>Native app</td>
+<td>planned</td>
+<td>events, content</td>
+</tr>
+<tr>
+<td><strong>Scrape</strong> Messages</td>
+<td>Native app</td>
+<td>planned</td>
+<td>events, content</td>
+</tr>
+<tr>
+<td><strong>Scrape</strong> Media</td>
+<td>Native app</td>
+<td>planned</td>
+<td>events, content</td>
+</tr>
+<tr>
+<td><strong>Scrape</strong> Files</td>
+<td>Native app</td>
+<td>planned</td>
+<td>events, content</td>
+</tr>
+</tbody>
+</table><h2 id="notes">Notes</h2>
 <p>Alt Feed View<br>
-<img src="https://lifescopelabs.github.io/assets/wireframes/week-content-feed.jpg" alt="lifescope-app-wireframe"></p>
+<img src="https://lifescopelabs.github.io/assets/wireframes/week-content-feed.jpg" alt="lifescope-app-wireframe"><br>
+<img src="https://lifescopelabs.github.io/assets/wireframes/Hawaii.png" alt="Hawaii"><br>
+<img src="https://lifescopelabs.github.io/assets/wireframes/HawaiiV2.png" alt="HawaiiV2"></p>
 
     </div>
   </div>
