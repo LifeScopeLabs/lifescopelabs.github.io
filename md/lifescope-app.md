@@ -90,8 +90,8 @@ Map View
 * Relate People into Users
 
 ## Settings
-* Manage username
-* Manage providers
+* Manage User info
+* Manage Data sources providers
 
 ## Published Content
 * Embed saved searches as dynamic iFrame
@@ -133,8 +133,9 @@ Map Timeline "Wedding Destination Vacation"
 [HawaiiV2]:https://lifescopelabs.github.io/assets/wireframes/HawaiiV2.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODQwMzgxOTAsOTUwODY2MDY0LC0yMT
-A5ODMwMzYzLDE4MDYxNDQ3MzEsNDQ4MzU3NzQ4LDExOTg5MjY2
-MCwtMTUxMTk0MTc4OCwxOTU5NjMyOTMsNzM1NjUwOTI5LDg2OD
-E5Mjk5NiwxODA4MjU0MzIwLDE5MjgzMTE3NjJdfQ==
+eyJoaXN0b3J5IjpbLTEyMjYyMzcyNzksLTE0ODQwMzgxOTAsOT
+UwODY2MDY0LC0yMTA5ODMwMzYzLDE4MDYxNDQ3MzEsNDQ4MzU3
+NzQ4LDExOTg5MjY2MCwtMTUxMTk0MTc4OCwxOTU5NjMyOTMsNz
+M1NjUwOTI5LDg2ODE5Mjk5NiwxODA4MjU0MzIwLDE5MjgzMTE3
+NjJdfQ==
 -->
