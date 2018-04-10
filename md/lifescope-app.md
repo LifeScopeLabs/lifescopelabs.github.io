@@ -47,10 +47,10 @@ This is a conversational interface of LifeScope data as Vue Plugins.
 
 Filter, Sort, and Search. See Advanced and Saved searches.
 
-### History Views
+### Views
 * Feed
 * List
-* Trail Map
+* Map
 * Gallery
 * [Timeline](http://timeline.knightlab.com)
 * Virtual Reality Rooms
@@ -138,9 +138,9 @@ Map Timeline "Wedding Destination Vacation"
 [HawaiiV2]:https://lifescopelabs.github.io/assets/wireframes/HawaiiV2.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDczMDk1MSwtMTQ4NDAzODE5MCw5NT
-A4NjYwNjQsLTIxMDk4MzAzNjMsMTgwNjE0NDczMSw0NDgzNTc3
-NDgsMTE5ODkyNjYwLC0xNTExOTQxNzg4LDE5NTk2MzI5Myw3Mz
-U2NTA5MjksODY4MTkyOTk2LDE4MDgyNTQzMjAsMTkyODMxMTc2
-Ml19
+eyJoaXN0b3J5IjpbNTQwMTI4NjE5LC0xNDg0MDM4MTkwLDk1MD
+g2NjA2NCwtMjEwOTgzMDM2MywxODA2MTQ0NzMxLDQ0ODM1Nzc0
+OCwxMTk4OTI2NjAsLTE1MTE5NDE3ODgsMTk1OTYzMjkzLDczNT
+Y1MDkyOSw4NjgxOTI5OTYsMTgwODI1NDMyMCwxOTI4MzExNzYy
+XX0=
 -->
