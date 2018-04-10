@@ -11,7 +11,7 @@ Browser Web Speech API allows for speech recognition and synthesis support in Ch
 		- "Show me [View Name]"
 		- "Add [Provider Name]"
 		- "What was the last thing I did?"
-		- "What did I to today?"
+		- "What did I do today?"
 		- "Tell me about [Person Name] and I"
 	- Voice Response
 		- "28 Events match your saved search"
@@ -31,7 +31,7 @@ Browser Web Speech API allows for speech recognition and synthesis support in Ch
 - [Web Speech API Documentation and Examples](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
 - [Speech Logger Web Speech API examples](https://speechlogger.appspot.com/developers/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwOTY3NjEyNiwtMTU3ODE1MjI2MCwxOD
-UzMzA1NDk2LDIwMjc2MjkzMDQsLTQ2MjQzOTY0NiwtMTQ3NTkw
-NTc3MiwxNjU0MTkxOTg1XX0=
+eyJoaXN0b3J5IjpbODI5ODY5MTM0LC0xNTc4MTUyMjYwLDE4NT
+MzMDU0OTYsMjAyNzYyOTMwNCwtNDYyNDM5NjQ2LC0xNDc1OTA1
+NzcyLDE2NTQxOTE5ODVdfQ==
 -->
