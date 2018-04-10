@@ -9,7 +9,7 @@ Access your digital memory and tell their stories.  The LIFESCOPE App allows any
 The codebase is a single-page Universal web app built on Nuxt and Vue.js. Desktop/mobile responsive design interface with javascript extensions. Written with plugin framework for features such as location tracking, webXR and web voice. The web code is containerizable inside a universal app framework Cordova.
 
 ## [LIFESCOPE Archive App](https://lifescopelabs.github.io/etl.html#lifescope-archive-app)
-The cu
+The current LIFESCOPE web app is deprecated and is being rewritten. 
 
 ### [LIFESCOPE Archive App Documentation](https://lifescope.io/getting-started/)
 
@@ -139,9 +139,9 @@ Map "Wedding Destination Vacation"
 [HawaiiV2]:https://lifescopelabs.github.io/assets/wireframes/HawaiiV2.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDkzODQ5NDUsLTE0ODQwMzgxOTAsOT
-UwODY2MDY0LC0yMTA5ODMwMzYzLDE4MDYxNDQ3MzEsNDQ4MzU3
-NzQ4LDExOTg5MjY2MCwtMTUxMTk0MTc4OCwxOTU5NjMyOTMsNz
-M1NjUwOTI5LDg2ODE5Mjk5NiwxODA4MjU0MzIwLDE5MjgzMTE3
-NjJdfQ==
+eyJoaXN0b3J5IjpbLTg4ODgxMzUyOCwtMTQ4NDAzODE5MCw5NT
+A4NjYwNjQsLTIxMDk4MzAzNjMsMTgwNjE0NDczMSw0NDgzNTc3
+NDgsMTE5ODkyNjYwLC0xNTExOTQxNzg4LDE5NTk2MzI5Myw3Mz
+U2NTA5MjksODY4MTkyOTk2LDE4MDgyNTQzMjAsMTkyODMxMTc2
+Ml19
 -->
