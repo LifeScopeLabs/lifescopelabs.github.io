@@ -11,14 +11,10 @@ Search anything about yourself in a web browser or on a native app (iOS/Android/
 ### [LIFESCOPE Archive App Documentation](https://lifescope.io/getting-started/)
 
 The LIFESCOPE App to search and curate your personal data in various views.
-thingle-page Universal web app built on Nuxt and Vue.js
-* Desktop/mobile reactive design interface with javascript extentions
-* Written with plugin framework such as location tracking, web xr and web voice
-* Should be containerizable inside a universal app framework Cordova
-
+the codebase is a single-page Universal web app built on Nuxt and Vue.js. Desktop/mobile responsive design interface with javascript extensions. Written with plugin framework for features such as location tracking, webXR and web voice. Containerizable inside a universal app framework Cordova.
 
 ### Requirements
-- **MVP**: 
+- **MVP**:  Rewrite the 
 
 ### Dependencies
 - Vue/Nuxt compatible
@@ -115,8 +111,8 @@ Alt Feed View
 [HawaiiV2]:https://lifescopelabs.github.io/assets/wireframes/HawaiiV2.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTM0Nzk5MDYsMTgwNjE0NDczMSw0ND
-gzNTc3NDgsMTE5ODkyNjYwLC0xNTExOTQxNzg4LDE5NTk2MzI5
-Myw3MzU2NTA5MjksODY4MTkyOTk2LDE4MDgyNTQzMjAsMTkyOD
-MxMTc2Ml19
+eyJoaXN0b3J5IjpbMTczNjY5NTg0OCwxODA2MTQ0NzMxLDQ0OD
+M1Nzc0OCwxMTk4OTI2NjAsLTE1MTE5NDE3ODgsMTk1OTYzMjkz
+LDczNTY1MDkyOSw4NjgxOTI5OTYsMTgwODI1NDMyMCwxOTI4Mz
+ExNzYyXX0=
 -->
