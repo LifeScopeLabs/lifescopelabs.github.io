@@ -55,10 +55,12 @@ This is a conversational interface of LifeScope data as Vue Plugins.
 * Augmented Reality Maps and gateways
 * Voice Interaction
 
-Gallery View
+**Gallery View
+
 ![lifescope-app-legacy]
 
 Map View
+
 ![mappoly]
 
 ![spider]
@@ -129,8 +131,8 @@ Map Timeline "Wedding Destination Vacation"
 [HawaiiV2]:https://lifescopelabs.github.io/assets/wireframes/HawaiiV2.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDUzOTEwOSwxODA2MTQ0NzMxLDQ0OD
-M1Nzc0OCwxMTk4OTI2NjAsLTE1MTE5NDE3ODgsMTk1OTYzMjkz
-LDczNTY1MDkyOSw4NjgxOTI5OTYsMTgwODI1NDMyMCwxOTI4Mz
-ExNzYyXX0=
+eyJoaXN0b3J5IjpbLTIxMDk4MzAzNjMsMTgwNjE0NDczMSw0ND
+gzNTc3NDgsMTE5ODkyNjYwLC0xNTExOTQxNzg4LDE5NTk2MzI5
+Myw3MzU2NTA5MjksODY4MTkyOTk2LDE4MDgyNTQzMjAsMTkyOD
+MxMTc2Ml19
 -->
