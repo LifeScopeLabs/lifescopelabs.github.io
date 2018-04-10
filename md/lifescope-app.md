@@ -4,7 +4,7 @@
 
 (development phase, high priority)
 
-Search anything about yourself wi
+Search anything about yourself in a web browser 
 
 ## [LIFESCOPE Archive App](https://lifescopelabs.github.io/etl.html#lifescope-archive-app)
 
@@ -107,7 +107,7 @@ Alt Feed View
 [Hawaii]:https://lifescopelabs.github.io/assets/wireframes/Hawaii.png
 [HawaiiV2]:https://lifescopelabs.github.io/assets/wireframes/HawaiiV2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwOTI3NzE2MCwxOTU5NjMyOTMsNzM1Nj
-UwOTI5LDg2ODE5Mjk5NiwxODA4MjU0MzIwLDE5MjgzMTE3NjJd
-fQ==
+eyJoaXN0b3J5IjpbLTE1MTE5NDE3ODgsMTk1OTYzMjkzLDczNT
+Y1MDkyOSw4NjgxOTI5OTYsMTgwODI1NDMyMCwxOTI4MzExNzYy
+XX0=
 -->
