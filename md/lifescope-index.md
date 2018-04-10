@@ -52,7 +52,7 @@ Developer documentation serves as a roadmap planning workbook for each repositor
 - [Database Documentation](https://lifescopelabs.github.io/db.html)
 - [Legacy App Documentation](https://github.com/LifeScopeLabs/lifescope-etl/tree/master/archive/tutorial)
 
-**Note: Each repository has a seperate list of Status
+**Note**: Each repository has a seperate list of Status
 
 # How does it work?
 
@@ -160,7 +160,7 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 eyJoaXN0b3J5IjpbLTM5NTE2NDI3Nl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4MzcwMzIyLC05ODQwMjM1NTAsLTkzOD
-U4Njc5OSwtMTI5MjIxNzI0MCwtMTE0NjM4MDY0MiwxNjQ0NDA0
-Nzg4XX0=
+eyJoaXN0b3J5IjpbLTI0ODAxNTI3OCw1OTgzNzAzMjIsLTk4ND
+AyMzU1MCwtOTM4NTg2Nzk5LC0xMjkyMjE3MjQwLC0xMTQ2Mzgw
+NjQyLDE2NDQ0MDQ3ODhdfQ==
 -->
