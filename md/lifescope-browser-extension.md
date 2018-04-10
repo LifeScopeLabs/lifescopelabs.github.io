@@ -16,6 +16,12 @@
 ### Dependencies
 - Vue/Nuxt compatible
 
+### Examples
+- [Browser Extension Dev Example](https://www.smashingmagazine.com/2017/04/browser-extension-edge-chrome-firefox-opera-brave-vivaldi/)
+- [Mozilla WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions)
+- https://github.com/martinsbalodis/web-scraper-chrome-extension
+- https://github.com/mrhegemon/chrome-export-history
+
 **Opt in to browser history collection and scraping on supported sites.**
 
 ![browserextscrape]
@@ -36,10 +42,6 @@
 | **Scrape** HBO GO | planned | events, content |
 | **Scrape** YouTube | planned | events, content |
 
-## Examples
-- [Browser Extension Dev Example](https://www.smashingmagazine.com/2017/04/browser-extension-edge-chrome-firefox-opera-brave-vivaldi/)
-- [Mozilla WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions)
-
 ## Developer Setup
 
 1. Clone this repo
@@ -49,7 +51,7 @@
 [browserextscrape]:https://lifescopelabs.github.io/assets/screenshots/browser-extensions.png
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDExMzExMDUwLC0xNTY3NjQ4OTAzLC0xNj
-AxMzUzMjI0LC01Mjg2NDg3MTQsLTg1MjAzMTUwMSwxOTI3Nzc3
-NDI5XX0=
+eyJoaXN0b3J5IjpbMjA2NTkzNjEzNyw0MTEzMTEwNTAsLTE1Nj
+c2NDg5MDMsLTE2MDEzNTMyMjQsLTUyODY0ODcxNCwtODUyMDMx
+NTAxLDE5Mjc3Nzc0MjldfQ==
 -->
