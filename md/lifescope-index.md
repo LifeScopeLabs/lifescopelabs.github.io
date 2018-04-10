@@ -165,9 +165,9 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
 [gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 [browserextscrape]:https://lifescopelabs.github.io/assets/screenshots/browser-extensions.png
-[nativeapp]:
+[nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMzI0OTksLTI0ODAxNTI3OCw1OTgzNz
-AzMjIsLTk4NDAyMzU1MCwtOTM4NTg2Nzk5LC0xMjkyMjE3MjQw
-LC0xMTQ2MzgwNjQyLDE2NDQ0MDQ3ODhdfQ==
+eyJoaXN0b3J5IjpbLTE2NTcyMzI5ODcsLTI0ODAxNTI3OCw1OT
+gzNzAzMjIsLTk4NDAyMzU1MCwtOTM4NTg2Nzk5LC0xMjkyMjE3
+MjQwLC0xMTQ2MzgwNjQyLDE2NDQ0MDQ3ODhdfQ==
 -->
