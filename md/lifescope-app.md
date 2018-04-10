@@ -110,12 +110,12 @@ Map View
 
 ## Notes
 
-**Alt Feed View Wireframe**
+**Alternate Feed View Wireframe**
 Content this Week
 
 ![lifescope-app-wireframe]
 
-**Story based publishing Wireframe**
+**Story based publishing Wireframes**
 Map "Wedding Destination Vacation"
 
 ![Hawaii]
@@ -133,8 +133,8 @@ Map Timeline "Wedding Destination Vacation"
 [HawaiiV2]:https://lifescopelabs.github.io/assets/wireframes/HawaiiV2.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ5MzYyMDE4LDk1MDg2NjA2NCwtMjEwOT
-gzMDM2MywxODA2MTQ0NzMxLDQ0ODM1Nzc0OCwxMTk4OTI2NjAs
-LTE1MTE5NDE3ODgsMTk1OTYzMjkzLDczNTY1MDkyOSw4NjgxOT
-I5OTYsMTgwODI1NDMyMCwxOTI4MzExNzYyXX0=
+eyJoaXN0b3J5IjpbLTE0ODQwMzgxOTAsOTUwODY2MDY0LC0yMT
+A5ODMwMzYzLDE4MDYxNDQ3MzEsNDQ4MzU3NzQ4LDExOTg5MjY2
+MCwtMTUxMTk0MTc4OCwxOTU5NjMyOTMsNzM1NjUwOTI5LDg2OD
+E5Mjk5NiwxODA4MjU0MzIwLDE5MjgzMTE3NjJdfQ==
 -->
