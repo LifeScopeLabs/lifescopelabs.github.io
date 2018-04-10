@@ -44,7 +44,7 @@ This is the LIFESCOPE automated data collection system for connected services. T
 The old front end LIFESCOPE app is in the LIFESCOPE-etl /archive folder.
 
 ### Old Frontend App Architecture
-![arch][arche]
+![arche]
 
 [arche]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeArchitectureOLD.jpg
 
@@ -265,6 +265,6 @@ In order to begin running the local Lambda function run the following code in th
 
 you will then be shown the urls to your lambda functions along with their port numbers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMjE4NDc0NSwtMTExNTM2MjE4MywtNj
-A3MTMzMzU5XX0=
+eyJoaXN0b3J5IjpbOTA2MDc4MTk3LDE1MzIxODQ3NDUsLTExMT
+UzNjIxODMsLTYwNzEzMzM1OV19
 -->
