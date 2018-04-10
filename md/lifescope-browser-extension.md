@@ -16,9 +16,8 @@
 ### Dependencies
 - Vue/Nuxt compatible
 
-### Examples
-![queue]
 ![browserextscrape]
+![browserext]
 
 ## Data Collection Sources
 
@@ -41,6 +40,6 @@
 [browserextscrape]:https://lifescopelabs.github.io/assets/screenshots/browser-extensions.png
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4ODM1MzYwLC01Mjg2NDg3MTQsLTg1Mj
-AzMTUwMSwxOTI3Nzc3NDI5XX0=
+eyJoaXN0b3J5IjpbLTE2MDEzNTMyMjQsLTUyODY0ODcxNCwtOD
+UyMDMxNTAxLDE5Mjc3Nzc0MjldfQ==
 -->
