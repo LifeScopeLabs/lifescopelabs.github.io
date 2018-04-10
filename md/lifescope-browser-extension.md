@@ -11,10 +11,12 @@
 * Capture and store location data
 
 ### Requirements
-- **MVP**:  Reconnect current extension
+- **MVP**:  Reconnect current extension to the LIFESCOPE API.
+- Remove CoffeeScript
 
 ### Dependencies
 - Vue/Nuxt compatible
+- CoffeeScript (To be removed)
 
 ### Examples
 - [Universal Browser Extension Dev Example](https://www.smashingmagazine.com/2017/04/browser-extension-edge-chrome-firefox-opera-brave-vivaldi/)
@@ -51,7 +53,7 @@
 [browserextscrape]:https://lifescopelabs.github.io/assets/screenshots/browser-extensions.png
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQyNTk3NDQ4LDQxMTMxMTA1MCwtMTU2Nz
-Y0ODkwMywtMTYwMTM1MzIyNCwtNTI4NjQ4NzE0LC04NTIwMzE1
-MDEsMTkyNzc3NzQyOV19
+eyJoaXN0b3J5IjpbMTY5MzQzMDY0NSw0MTEzMTEwNTAsLTE1Nj
+c2NDg5MDMsLTE2MDEzNTMyMjQsLTUyODY0ODcxNCwtODUyMDMx
+NTAxLDE5Mjc3Nzc0MjldfQ==
 -->
