@@ -89,6 +89,8 @@ Map View
 
 Alt Feed View
 ![lifescope-app-wireframe]
+![Hawaii]
+![HawaiiV2]
 
 [providerpage]:https://lifescopelabs.github.io/assets/screenshots/provider-maps-screenshot.png
 [spider]:https://lifescopelabs.github.io/assets/maps/map-spider.png
@@ -98,6 +100,6 @@ Alt Feed View
 [Hawaii]:https://lifescopelabs.github.io/assets/wireframes/Hawaii.png
 [HawaiiV2]:https://lifescopelabs.github.io/assets/wireframes/HawaiiV2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTUzMjk4NSw3MzU2NTA5MjksODY4MT
-kyOTk2LDE4MDgyNTQzMjAsMTkyODMxMTc2Ml19
+eyJoaXN0b3J5IjpbMTk1OTYzMjkzLDczNTY1MDkyOSw4NjgxOT
+I5OTYsMTgwODI1NDMyMCwxOTI4MzExNzYyXX0=
 -->
