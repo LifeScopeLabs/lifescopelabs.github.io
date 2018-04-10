@@ -4,15 +4,14 @@
 
 (development phase, high priority)
 
-Search anything about yourself in a web browser or on a native app (Firefox, Chrome, Android, iOS, Windows, Mac).
+Access your digital memory and tell their stories.  The LIFESCOPE App allows anyone to search and curate your personal data in various views. Search anything about yourself in a web browser or on a native app (Firefox, Chrome, Android, iOS, Windows, Mac).
+
+The codebase is a single-page Universal web app built on Nuxt and Vue.js. Desktop/mobile responsive design interface with javascript extensions. Written with plugin framework for features such as location tracking, webXR and web voice. The web code is containerizable inside a universal app framework Cordova.
 
 ## [LIFESCOPE Archive App](https://lifescopelabs.github.io/etl.html#lifescope-archive-app)
+The cu
 
 ### [LIFESCOPE Archive App Documentation](https://lifescope.io/getting-started/)
-
-Access your digital memory and tell their stories.  The LIFESCOPE App allows anyone to search and curate your personal data in various views.
-
-The codebase is a single-page Universal web app built on Nuxt and Vue.js. Desktop/mobile responsive design interface with javascript extensions. Written with plugin framework for features such as location tracking, webXR and web voice. The Containerizable inside a universal app framework Cordova.
 
 ### Requirements
 - **MVP**:  Rewrite the [LIFESCOPE Archive App](https://lifescopelabs.github.io/etl.html#lifescope-archive-app) for Nuxt.
@@ -140,7 +139,7 @@ Map "Wedding Destination Vacation"
 [HawaiiV2]:https://lifescopelabs.github.io/assets/wireframes/HawaiiV2.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzAxNzMzODcsLTE0ODQwMzgxOTAsOT
+eyJoaXN0b3J5IjpbLTE2NDkzODQ5NDUsLTE0ODQwMzgxOTAsOT
 UwODY2MDY0LC0yMTA5ODMwMzYzLDE4MDYxNDQ3MzEsNDQ4MzU3
 NzQ4LDExOTg5MjY2MCwtMTUxMTk0MTc4OCwxOTU5NjMyOTMsNz
 M1NjUwOTI5LDg2ODE5Mjk5NiwxODA4MjU0MzIwLDE5MjgzMTE3
