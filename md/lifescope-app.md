@@ -67,6 +67,9 @@ Filter, Sort, and Search. See Advanced and Saved searches.
 
 ![mappoly]
 
+**Map View **
+Multiple result at location Exploded Spider
+
 ![spider]
 
 ## Providers
@@ -135,7 +138,7 @@ Map Timeline "Wedding Destination Vacation"
 [HawaiiV2]:https://lifescopelabs.github.io/assets/wireframes/HawaiiV2.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNzQ3NDY2MSwtMTQ4NDAzODE5MCw5NT
+eyJoaXN0b3J5IjpbLTg5NDczMDk1MSwtMTQ4NDAzODE5MCw5NT
 A4NjYwNjQsLTIxMDk4MzAzNjMsMTgwNjE0NDczMSw0NDgzNTc3
 NDgsMTE5ODkyNjYwLC0xNTExOTQxNzg4LDE5NTk2MzI5Myw3Mz
 U2NTA5MjksODY4MTkyOTk2LDE4MDgyNTQzMjAsMTkyODMxMTc2
