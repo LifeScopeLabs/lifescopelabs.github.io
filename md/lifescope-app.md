@@ -106,9 +106,15 @@ Map View
 
 ## Notes
 
-Alt Feed View
+**Alt Content Feed View Wireframe**
+
 ![lifescope-app-wireframe]
+
+**Story based publishing Wireframe**
+
 ![Hawaii]
+
+
 ![HawaiiV2]
 
 [providerpage]:https://lifescopelabs.github.io/assets/screenshots/provider-maps-screenshot.png
@@ -120,7 +126,7 @@ Alt Feed View
 [HawaiiV2]:https://lifescopelabs.github.io/assets/wireframes/HawaiiV2.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MDQ4MDAzMiwxODA2MTQ0NzMxLDQ0OD
+eyJoaXN0b3J5IjpbMTI3NDczMTE0NCwxODA2MTQ0NzMxLDQ0OD
 M1Nzc0OCwxMTk4OTI2NjAsLTE1MTE5NDE3ODgsMTk1OTYzMjkz
 LDczNTY1MDkyOSw4NjgxOTI5OTYsMTgwODI1NDMyMCwxOTI4Mz
 ExNzYyXX0=
