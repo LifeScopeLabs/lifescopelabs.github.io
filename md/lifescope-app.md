@@ -31,6 +31,8 @@ Search anything about yourself in a web browser
 ## Homepage
 * List saved searches and hashtags
 
+![nativeapp]
+
 ## Explorer
 
 ### Views
@@ -106,8 +108,10 @@ Alt Feed View
 [lifescope-app-wireframe]:https://lifescopelabs.github.io/assets/wireframes/week-content-feed.jpg
 [Hawaii]:https://lifescopelabs.github.io/assets/wireframes/Hawaii.png
 [HawaiiV2]:https://lifescopelabs.github.io/assets/wireframes/HawaiiV2.png
+
+[nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5ODkyNjYwLC0xNTExOTQxNzg4LDE5NT
-k2MzI5Myw3MzU2NTA5MjksODY4MTkyOTk2LDE4MDgyNTQzMjAs
-MTkyODMxMTc2Ml19
+eyJoaXN0b3J5IjpbLTEwNDU0NDkwNTMsMTE5ODkyNjYwLC0xNT
+ExOTQxNzg4LDE5NTk2MzI5Myw3MzU2NTA5MjksODY4MTkyOTk2
+LDE4MDgyNTQzMjAsMTkyODMxMTc2Ml19
 -->
