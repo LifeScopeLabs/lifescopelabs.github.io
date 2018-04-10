@@ -2,7 +2,7 @@
 
 ## [Repository](https://github.com/LifeScopeLabs/lifescope-browser-extension)
 
-### (development phase, medium priority)
+(development phase, medium priority)
 
 * Regularly post browser history into LIFESCOPE schema
 * Capture web history on a url, site visit, or domain basis
@@ -39,5 +39,6 @@
 1. Clone this repo
 2. Install the repo's directory as an extension
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MjAzMTUwMSwxOTI3Nzc3NDI5XX0=
+eyJoaXN0b3J5IjpbLTUyODY0ODcxNCwtODUyMDMxNTAxLDE5Mj
+c3Nzc0MjldfQ==
 -->
