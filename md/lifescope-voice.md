@@ -6,6 +6,7 @@ Browser Web Speech API allows for speech recognition and synthesis support in Ch
 
 # Requirements
 - **MVP** Respond to simple voice commands:
+	- Examples:
 	- "Run Saved Search: [Search Name]"
 	- "Show me [View Name]"
 	- "Add [Provider Name]"
@@ -13,9 +14,9 @@ Browser Web Speech API allows for speech recognition and synthesis support in Ch
 	- "What did I to today?"
 	- "Tell me about [Person Name] and I"
 - Deep Voice Search
-	- Using structured search terms (who, what, when, where, why)
-	- Using Natural Language Processing.
-- voice response
+	- **MVP**: Structured search terms (who, what, when, where, why)
+	- Natural Language Processing.
+- Voice response
 - capture voice data
 
 # Dependencies
@@ -27,7 +28,7 @@ Browser Web Speech API allows for speech recognition and synthesis support in Ch
 - [Web Speech API Documentation and Examples](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
 - [Speech Logger Web Speech API examples](https://speechlogger.appspot.com/developers/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MzMwMzQwNywtMTU3ODE1MjI2MCwxOD
+eyJoaXN0b3J5IjpbLTYyNjI3OTU1NCwtMTU3ODE1MjI2MCwxOD
 UzMzA1NDk2LDIwMjc2MjkzMDQsLTQ2MjQzOTY0NiwtMTQ3NTkw
 NTc3MiwxNjU0MTkxOTg1XX0=
 -->
