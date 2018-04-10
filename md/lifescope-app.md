@@ -2,7 +2,7 @@
 
 ## [Repository](https://github.com/LifeScopeLabs/lifescope-app)
 
-### (development phase, high priority)
+(development phase, high priority)
 
 * App to search explorer and curate your personal data in various views
 * Single-page Universal web app built on Nuxt and Vue.js
@@ -96,6 +96,6 @@ Alt Feed View
 [lifescope-app-legacy]:https://lifescopelabs.github.io/assets/screenshots/lifescope-app-legacy.png
 [lifescope-app-wireframe]:https://lifescopelabs.github.io/assets/wireframes/week-content-feed.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEwNTU3Mjk0LDg2ODE5Mjk5NiwxODA4Mj
+eyJoaXN0b3J5IjpbNzM1NjUwOTI5LDg2ODE5Mjk5NiwxODA4Mj
 U0MzIwLDE5MjgzMTE3NjJdfQ==
 -->
