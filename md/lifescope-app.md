@@ -22,6 +22,9 @@ Search anything about yourself in a web browser or on a native app (iOS/Android/
 
 ### Dependencies
 - Vue/Nuxt compatible
+- Apollo GraphQL
+- https://github.com/gonativeio/gonative-android
+- https://github.com/gonativeio/gonative-ios
 
 ## Login
 * Able to sign up and login with any provider
@@ -111,7 +114,7 @@ Alt Feed View
 [HawaiiV2]:https://lifescopelabs.github.io/assets/wireframes/HawaiiV2.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4MzU3NzQ4LDExOTg5MjY2MCwtMTUxMT
-k0MTc4OCwxOTU5NjMyOTMsNzM1NjUwOTI5LDg2ODE5Mjk5Niwx
-ODA4MjU0MzIwLDE5MjgzMTE3NjJdfQ==
+eyJoaXN0b3J5IjpbMTgwNjE0NDczMSw0NDgzNTc3NDgsMTE5OD
+kyNjYwLC0xNTExOTQxNzg4LDE5NTk2MzI5Myw3MzU2NTA5Mjks
+ODY4MTkyOTk2LDE4MDgyNTQzMjAsMTkyODMxMTc2Ml19
 -->
