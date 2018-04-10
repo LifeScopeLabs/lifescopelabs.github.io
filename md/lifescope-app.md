@@ -23,6 +23,14 @@ the codebase is a single-page Universal web app built on Nuxt and Vue.js. Deskto
 - https://github.com/gonativeio/gonative-android
 - https://github.com/gonativeio/gonative-ios
 
+#### LIFESCOPE Location
+
+#### LIFESCOPE Location
+
+#### LIFESCOPE Location
+
+#### LIFESCOPE Location
+
 ## Login
 
 **Sign up and login with any provider. Automatically adds an API ETL connection.**
@@ -112,7 +120,7 @@ Alt Feed View
 [HawaiiV2]:https://lifescopelabs.github.io/assets/wireframes/HawaiiV2.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDcwNzQxMTAsMTgwNjE0NDczMSw0ND
+eyJoaXN0b3J5IjpbLTIwNTg4NTQyNzAsMTgwNjE0NDczMSw0ND
 gzNTc3NDgsMTE5ODkyNjYwLC0xNTExOTQxNzg4LDE5NTk2MzI5
 Myw3MzU2NTA5MjksODY4MTkyOTk2LDE4MDgyNTQzMjAsMTkyOD
 MxMTc2Ml19
