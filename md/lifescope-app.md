@@ -10,6 +10,8 @@
 * Written with plugin framework such as location tracking, web xr and web voice
 * Should be containerizable inside a universal app framework Cordova
 
+https://lifescope.io/getting-started/
+
 ### Requirements
 - **MVP**: 
 
@@ -100,6 +102,7 @@ Alt Feed View
 [Hawaii]:https://lifescopelabs.github.io/assets/wireframes/Hawaii.png
 [HawaiiV2]:https://lifescopelabs.github.io/assets/wireframes/HawaiiV2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1OTYzMjkzLDczNTY1MDkyOSw4NjgxOT
-I5OTYsMTgwODI1NDMyMCwxOTI4MzExNzYyXX0=
+eyJoaXN0b3J5IjpbMTkyMzgyOTk4MCwxOTU5NjMyOTMsNzM1Nj
+UwOTI5LDg2ODE5Mjk5NiwxODA4MjU0MzIwLDE5MjgzMTE3NjJd
+fQ==
 -->
