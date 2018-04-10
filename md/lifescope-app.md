@@ -109,10 +109,9 @@ Alt Feed View
 [lifescope-app-wireframe]:https://lifescopelabs.github.io/assets/wireframes/week-content-feed.jpg
 [Hawaii]:https://lifescopelabs.github.io/assets/wireframes/Hawaii.png
 [HawaiiV2]:https://lifescopelabs.github.io/assets/wireframes/HawaiiV2.png
-
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjczNjkwMDcsMTE5ODkyNjYwLC0xNT
-ExOTQxNzg4LDE5NTk2MzI5Myw3MzU2NTA5MjksODY4MTkyOTk2
-LDE4MDgyNTQzMjAsMTkyODMxMTc2Ml19
+eyJoaXN0b3J5IjpbLTU2MzEwMzM2MSwxMTk4OTI2NjAsLTE1MT
+E5NDE3ODgsMTk1OTYzMjkzLDczNTY1MDkyOSw4NjgxOTI5OTYs
+MTgwODI1NDMyMCwxOTI4MzExNzYyXX0=
 -->
