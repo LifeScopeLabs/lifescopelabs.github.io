@@ -8,7 +8,7 @@ We suggest using [Glitch](https://glitch.com).
 
 [https://app.lifescope.io/](https://app.lifescope.io/)		[localhost or glitch]
 
-## Set your environment variables:
+## Set your environment variables
  
 MONGODB_URI="mongodb://[user]:[password]@[url]/live?ssl=true&replicaSet=[lifescope-shards]authSource=admin"
 
@@ -25,6 +25,6 @@ Configure > Target: lifescope-api.glitch.me:3001
 Example on glitch:
 [https://lifescope-api.glitch.me/gql-p/](https://lifescope-api.glitch.me/gql-p/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0Mjc5NTUyNiwtMTk2NzIzNjI3OCwtMT
-g0MTE3MzI2XX0=
+eyJoaXN0b3J5IjpbLTE0OTAyMTU4MzAsLTE5NjcyMzYyNzgsLT
+E4NDExNzMyNl19
 -->
