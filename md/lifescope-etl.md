@@ -15,7 +15,7 @@ This is the LIFESCOPE automated data collection system for connected services. T
 
 # Dependencies
 
-- [AWS Lambda
+- AWS Lambda (Plans to move to [Serverless](https://serverless.com/))
 - [BitScoop Platform](https://bitscoop.com)
 
 # Examples
@@ -264,6 +264,6 @@ In order to begin running the local Lambda function run the following code in th
 
 you will then be shown the urls to your lambda functions along with their port numbers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NjI3MjU0MSwtMTExNTM2MjE4MywtNj
+eyJoaXN0b3J5IjpbLTQ3NjU2MjYyNCwtMTExNTM2MjE4MywtNj
 A3MTMzMzU5XX0=
 -->
