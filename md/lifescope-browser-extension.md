@@ -31,6 +31,9 @@
 | **Scrape** HBO GO | planned | events, content |
 | **Scrape** YouTube | planned | events, content |
 
+## Examples
+- [Browser Extension Dev Example](https://www.smashingmagazine.com/2017/04/browser-extension-edge-chrome-firefox-opera-brave-vivaldi/)
+
 ## Developer Setup
 
 1. Clone this repo
@@ -40,6 +43,6 @@
 [browserextscrape]:https://lifescopelabs.github.io/assets/screenshots/browser-extensions.png
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDEzNTMyMjQsLTUyODY0ODcxNCwtOD
-UyMDMxNTAxLDE5Mjc3Nzc0MjldfQ==
+eyJoaXN0b3J5IjpbODM2ODczMjkyLC0xNjAxMzUzMjI0LC01Mj
+g2NDg3MTQsLTg1MjAzMTUwMSwxOTI3Nzc3NDI5XX0=
 -->
