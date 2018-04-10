@@ -1,6 +1,6 @@
 # LIFESCOPE DATABASE
 
-* Common Schema (schema.org)
+The lifescope datastructure is designed to be a simple sommon schema (insschema.org)
 * User level encryption
 * Whole DB backups
 * Eventually pluggable (Local/OBDC/JBDC/Etc)
@@ -92,5 +92,6 @@ gulp devel
 Next, go to lambda/migrations/fixtures/providers and open up each JSON file.
 You will need to copy the ID of the API Map you made for each service into the 'remote_provider_id' field in the corresponding provider file.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNjk2MDg4MywxNTgyMjI0NzldfQ==
+eyJoaXN0b3J5IjpbMTkzMzQzNDMwMywxNjI2OTYwODgzLDE1OD
+IyMjQ3OV19
 -->
