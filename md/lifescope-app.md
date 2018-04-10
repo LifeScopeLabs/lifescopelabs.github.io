@@ -27,7 +27,8 @@ Search anything about yourself in a web browser or on a native app (iOS/Android/
 - https://github.com/gonativeio/gonative-ios
 
 ## Login
-* Able to sign up and login with any provider
+
+**Sign up and login with any provider. Automatically adds an API ETL connection.**
 
 ![providerpage]
 
@@ -114,7 +115,8 @@ Alt Feed View
 [HawaiiV2]:https://lifescopelabs.github.io/assets/wireframes/HawaiiV2.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNjE0NDczMSw0NDgzNTc3NDgsMTE5OD
-kyNjYwLC0xNTExOTQxNzg4LDE5NTk2MzI5Myw3MzU2NTA5Mjks
-ODY4MTkyOTk2LDE4MDgyNTQzMjAsMTkyODMxMTc2Ml19
+eyJoaXN0b3J5IjpbMTY2OTgxMjUzNywxODA2MTQ0NzMxLDQ0OD
+M1Nzc0OCwxMTk4OTI2NjAsLTE1MTE5NDE3ODgsMTk1OTYzMjkz
+LDczNTY1MDkyOSw4NjgxOTI5OTYsMTgwODI1NDMyMCwxOTI4Mz
+ExNzYyXX0=
 -->
