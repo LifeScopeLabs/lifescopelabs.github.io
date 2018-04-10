@@ -17,8 +17,8 @@
 - Vue/Nuxt compatible
 
 ### Examples
-- [Browser Extension Dev Example](https://www.smashingmagazine.com/2017/04/browser-extension-edge-chrome-firefox-opera-brave-vivaldi/)
-- [Mozilla WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions)
+- [Universal Browser Extension Dev Example](https://www.smashingmagazine.com/2017/04/browser-extension-edge-chrome-firefox-opera-brave-vivaldi/)
+- [Mozilla WebExtensions Standards](https://developer.mozilla.org/en-US/Add-ons/WebExtensions)
 - https://github.com/martinsbalodis/web-scraper-chrome-extension
 - https://github.com/mrhegemon/chrome-export-history
 
@@ -51,7 +51,7 @@
 [browserextscrape]:https://lifescopelabs.github.io/assets/screenshots/browser-extensions.png
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NTkzNjEzNyw0MTEzMTEwNTAsLTE1Nj
-c2NDg5MDMsLTE2MDEzNTMyMjQsLTUyODY0ODcxNCwtODUyMDMx
-NTAxLDE5Mjc3Nzc0MjldfQ==
+eyJoaXN0b3J5IjpbNDQyNTk3NDQ4LDQxMTMxMTA1MCwtMTU2Nz
+Y0ODkwMywtMTYwMTM1MzIyNCwtNTI4NjQ4NzE0LC04NTIwMzE1
+MDEsMTkyNzc3NzQyOV19
 -->
