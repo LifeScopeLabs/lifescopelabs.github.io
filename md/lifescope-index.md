@@ -113,6 +113,10 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 
 ## Browser Plugin
 
+**Opt in to browser history collection and scraping on supported sites.**
+
+![browserextscrape]
+
 | Data Source | Status | Data Collected |
 |--|--|--|
 | URL History | beta | events, content |
@@ -124,6 +128,10 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 | **Scrape** YouTube | planned | events, content |
 
 ## App
+
+**Native app for.**
+
+![browserextscrape]
 
 | Data Source | Support | Status | Data Collected |
 |--|--|--|--|
@@ -159,7 +167,7 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 [browserextscrape]:https://lifescopelabs.github.io/assets/screenshots/browser-extensions.png
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTM4MjU1MTgsLTI0ODAxNTI3OCw1OT
-gzNzAzMjIsLTk4NDAyMzU1MCwtOTM4NTg2Nzk5LC0xMjkyMjE3
-MjQwLC0xMTQ2MzgwNjQyLDE2NDQ0MDQ3ODhdfQ==
+eyJoaXN0b3J5IjpbMzcxNzUyNDI1LC0yNDgwMTUyNzgsNTk4Mz
+cwMzIyLC05ODQwMjM1NTAsLTkzODU4Njc5OSwtMTI5MjIxNzI0
+MCwtMTE0NjM4MDY0MiwxNjQ0NDA0Nzg4XX0=
 -->
