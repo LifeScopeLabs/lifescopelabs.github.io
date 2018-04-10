@@ -18,6 +18,9 @@
 <li><a href="#repository">Repository</a></li>
 </ul>
 </li>
+<li><a href="#requirements">Requirements</a></li>
+<li><a href="#dependencies">Dependencies</a></li>
+<li><a href="#examples">Examples</a></li>
 <li><a href="#lifescope-archive-app">LIFESCOPE Archive App</a>
 <ul>
 <li></li>
@@ -47,6 +50,7 @@
     <div class="stackedit__html">
       <h1 id="lifescope-etl"><a href="https://github.com/LifeScopeLabs/lifescope-etl">LIFESCOPE-ETL</a></h1>
 <h2 id="repository"><a href="https://github.com/LifeScopeLabs/lifescope-etl">Repository</a></h2>
+<p>(production phase, high priority)</p>
 <p>This is the LIFESCOPE automated data collection system for connected services. The serverless ETL functions are built for Lambda and pull user data data from APIs on a scheduled basis into MongoDB.</p>
 <ul>
 <li>Pull data from source apis through BitScoop SDK</li>
@@ -54,11 +58,97 @@
 <li>Transform data into LIFESCOPE schema.</li>
 <li>Provider scripts keep a copy of original data.</li>
 </ul>
-<h1 id="lifescope-archive-app">LIFESCOPE Archive App</h1>
+<h1 id="requirements">Requirements</h1>
+<ul>
+<li><strong>MVP</strong>:</li>
+</ul>
+<h1 id="dependencies">Dependencies</h1>
+<ul>
+<li>AWS Lambda (Plans to move to <a href="https://serverless.com/">Serverless</a>)</li>
+<li><a href="https://bitscoop.com">BitScoop Platform</a></li>
+</ul>
+<h1 id="examples">Examples</h1>
+
+<table>
+<thead>
+<tr>
+<th>Data Source</th>
+<th>Status</th>
+<th>Data Collected</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Facebook</td>
+<td>production</td>
+<td>events, content, contacts, locations</td>
+</tr>
+<tr>
+<td>Twitter</td>
+<td>production</td>
+<td>events, content, contacts, locations</td>
+</tr>
+<tr>
+<td>Pinterest</td>
+<td>beta</td>
+<td>events, content, locations</td>
+</tr>
+<tr>
+<td>Dropbox</td>
+<td>production</td>
+<td>events, content, locations</td>
+</tr>
+<tr>
+<td>Steam</td>
+<td>production</td>
+<td>events, content</td>
+</tr>
+<tr>
+<td>Reddit</td>
+<td>production</td>
+<td>events, content, contacts, contacts</td>
+</tr>
+<tr>
+<td>Spotify</td>
+<td>production</td>
+<td>events, content</td>
+</tr>
+<tr>
+<td>GitHub</td>
+<td>production</td>
+<td>events, content, contacts</td>
+</tr>
+<tr>
+<td>Instagram</td>
+<td>production</td>
+<td>events, content, contacts</td>
+</tr>
+<tr>
+<td>Google</td>
+<td>production</td>
+<td>events, content, contacts</td>
+</tr>
+<tr>
+<td>Slice</td>
+<td>development</td>
+<td>events, content, things</td>
+</tr>
+<tr>
+<td>FitBit</td>
+<td>planned</td>
+<td>events, things</td>
+</tr>
+<tr>
+<td>TV Time</td>
+<td>planned</td>
+<td>events, content</td>
+</tr>
+</tbody>
+</table><h1 id="lifescope-archive-app">LIFESCOPE Archive App</h1>
 <p><strong>Note: DEPRICATED</strong></p>
 <p>The old front end LIFESCOPE app is in the LIFESCOPE-etl /archive folder.</p>
 <h3 id="old-frontend-app-architecture">Old Frontend App Architecture</h3>
-<p><img src="https://lifescopelabs.github.io/assets/diagrams/LifeScopeArchitectureOLD.jpg" alt="arch"></p>
+<p><img src="https://lifescopelabs.github.io/assets/diagrams/LifeScopeArchitectureOLD.jpg" alt="arche"></p>
 <p>Learn more about the Old Frontend App:<br>
 <a href="https://github.com/LifeScopeLabs/lifescope-etl/tree/master/archive/tutorial">https://github.com/LifeScopeLabs/lifescope-etl/tree/master/archive/tutorial</a></p>
 <h1 id="aws-services-required">AWS services Required</h1>
