@@ -37,49 +37,56 @@
       <h1 id="lifescope-app"><a href="https://github.com/LifeScopeLabs/lifescope-app">LIFESCOPE-APP</a></h1>
 <h2 id="repository"><a href="https://github.com/LifeScopeLabs/lifescope-app">Repository</a></h2>
 <p>(development phase, high priority)</p>
-<p>Search anything about yourself in a web browser</p>
+<p>Access your digital memory and tell their stories.  The LIFESCOPE App allows anyone to search and curate your personal data in various views. Search anything about yourself in a web browser or on a native app (Firefox, Chrome, Android, iOS, Windows, Mac).</p>
+<p>The codebase is a single-page Universal web app built on Nuxt and Vue.js. Desktop/mobile responsive design interface with javascript extensions. Written with plugin framework for features such as location tracking, webXR and web voice. The web code is containerizable inside a universal app framework Cordova.</p>
 <h2 id="lifescope-archive-app"><a href="https://lifescopelabs.github.io/etl.html#lifescope-archive-app">LIFESCOPE Archive App</a></h2>
+<p>The current LIFESCOPE web app is deprecated and is being rewritten.</p>
 <h3 id="lifescope-archive-app-documentation"><a href="https://lifescope.io/getting-started/">LIFESCOPE Archive App Documentation</a></h3>
-<ul>
-<li>App to search explorer and curate your personal data in various views</li>
-<li>Single-page Universal web app built on Nuxt and Vue.js</li>
-<li>Desktop/mobile reactive design interface with javascript extentions</li>
-<li>Written with plugin framework such as location tracking, web xr and web voice</li>
-<li>Should be containerizable inside a universal app framework Cordova</li>
-</ul>
 <h3 id="requirements">Requirements</h3>
 <ul>
-<li><strong>MVP</strong>:</li>
+<li><strong>MVP</strong>:  Rewrite the <a href="https://lifescopelabs.github.io/etl.html#lifescope-archive-app">LIFESCOPE Archive App</a> for Nuxt.</li>
+<li>Get location tracking working with the LIFESCOPE API.</li>
+<li>Port the LIFESCOPE web App to Cordova or other native framework.</li>
 </ul>
 <h3 id="dependencies">Dependencies</h3>
 <ul>
 <li>Vue/Nuxt compatible</li>
+<li>Apollo GraphQL</li>
+<li><a href="https://github.com/gonativeio/gonative-android">https://github.com/gonativeio/gonative-android</a></li>
+<li><a href="https://github.com/gonativeio/gonative-ios">https://github.com/gonativeio/gonative-ios</a></li>
 </ul>
+<h3 id="lifescope-plugins">LIFESCOPE Plugins</h3>
+<h4 id="lifescope-xr"><a href="https://github.com/LifeScopeLabs/lifescope-xr">LIFESCOPE-XR</a></h4>
+<p>This is for AR and VR views of LifeScope data as Vue Plugins.</p>
+<h4 id="lifescope-voice"><a href="https://github.com/LifeScopeLabs/lifescope-voice">LIFESCOPE-VOICE</a></h4>
+<p>This is a conversational interface of LifeScope data as Vue Plugins.</p>
 <h2 id="login">Login</h2>
-<ul>
-<li>Able to sign up and login with any provider</li>
-</ul>
+<p><strong>Sign up and login with any provider. Automatically adds an API ETL connection.</strong></p>
 <p><img src="https://lifescopelabs.github.io/assets/screenshots/provider-maps-screenshot.png" alt="providerpage"></p>
 <h2 id="homepage">Homepage</h2>
-<ul>
-<li>List saved searches and hashtags</li>
-</ul>
+<p><strong>List saved searches and hashtags</strong></p>
+<p><img src="https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png" alt="nativeapp"></p>
 <h2 id="explorer">Explorer</h2>
+<p>Filter, Sort, and Search. See Advanced and Saved searches.</p>
 <h3 id="views">Views</h3>
 <ul>
-<li>History Feed</li>
+<li>Feed</li>
 <li>List</li>
-<li>Trail Map</li>
+<li>Map</li>
 <li>Gallery</li>
 <li><a href="http://timeline.knightlab.com">Timeline</a></li>
 <li>Virtual Reality Rooms</li>
 <li>Augmented Reality Maps and gateways</li>
 <li>Voice Interaction</li>
 </ul>
-<p>Gallery View<br>
-<img src="https://lifescopelabs.github.io/assets/screenshots/lifescope-app-legacy.png" alt="lifescope-app-legacy"></p>
-<p>Map View<br>
-<img src="https://lifescopelabs.github.io/assets/wireframes/sat-select-poly.png" alt="mappoly"></p>
+<p><strong>Gallery View</strong><br>
+"Recent Media" Saved Search</p>
+<p><img src="https://lifescopelabs.github.io/assets/screenshots/lifescope-app-legacy.png" alt="lifescope-app-legacy"></p>
+<p><strong>Map Satellite View</strong><br>
+"Where Filter" Polygon</p>
+<p><img src="https://lifescopelabs.github.io/assets/wireframes/sat-select-poly.png" alt="mappoly"></p>
+<p><strong>Map View</strong><br>
+Multiple result at location Exploded Spider</p>
 <p><img src="https://lifescopelabs.github.io/assets/maps/map-spider.png" alt="spider"></p>
 <h2 id="providers">Providers</h2>
 
@@ -165,8 +172,8 @@
 </ul>
 <h2 id="settings">Settings</h2>
 <ul>
-<li>Manage username</li>
-<li>Manage providers</li>
+<li>Manage user info</li>
+<li>Manage data providers</li>
 </ul>
 <h2 id="published-content">Published Content</h2>
 <ul>
@@ -217,10 +224,15 @@
 </tr>
 </tbody>
 </table><h2 id="notes">Notes</h2>
-<p>Alt Feed View<br>
-<img src="https://lifescopelabs.github.io/assets/wireframes/week-content-feed.jpg" alt="lifescope-app-wireframe"><br>
-<img src="https://lifescopelabs.github.io/assets/wireframes/Hawaii.png" alt="Hawaii"><br>
-<img src="https://lifescopelabs.github.io/assets/wireframes/HawaiiV2.png" alt="HawaiiV2"></p>
+<p><strong>Alternate Feed View Wireframe</strong><br>
+Content this Week</p>
+<p><img src="https://lifescopelabs.github.io/assets/wireframes/week-content-feed.jpg" alt="lifescope-app-wireframe"></p>
+<p><strong>Story based publishing Wireframes</strong><br>
+Map “Wedding Destination Vacation”</p>
+<p><img src="https://lifescopelabs.github.io/assets/wireframes/Hawaii.png" alt="Hawaii"></p>
+<p><strong>Map Timeline</strong><br>
+"Wedding Destination Vacation"</p>
+<p><img src="https://lifescopelabs.github.io/assets/wireframes/HawaiiV2.png" alt="HawaiiV2"></p>
 
     </div>
   </div>
