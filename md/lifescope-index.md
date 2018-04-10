@@ -2,7 +2,7 @@
 
 **The Internet of You** 
 
-This GitHub.io Site contains Developer documentation and serves as planning planning workbook for each repository.
+This GitHub.io Site contains Developer documentation and serves as planning workbook for each repository.
 
 > "My friends and I work, play, and communicate on dozens platforms. Conversation start on texts, continue on Facebook Messenger, continue in person, then go to Skype and conclude on Slack. Retracing my history keeps me jumping from app to app."
 
@@ -160,6 +160,6 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 eyJoaXN0b3J5IjpbLTM5NTE2NDI3Nl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2OTUxOTMyOCwtMTI5MjIxNzI0MCwtMT
+eyJoaXN0b3J5IjpbLTkzODU4Njc5OSwtMTI5MjIxNzI0MCwtMT
 E0NjM4MDY0MiwxNjQ0NDA0Nzg4XX0=
 -->
