@@ -129,9 +129,9 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 
 ## App
 
-**Native app for.**
+**Native app for iOS, Android, Windows, and Mac.**
 
-![browserextscrape]
+![nativeapp]
 
 | Data Source | Support | Status | Data Collected |
 |--|--|--|--|
@@ -165,9 +165,9 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 [ografy]:https://lifescopelabs.github.io/assets/screenshots/ografy.png
 [gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
 [browserextscrape]:https://lifescopelabs.github.io/assets/screenshots/browser-extensions.png
-
+[nativeapp]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcxNzUyNDI1LC0yNDgwMTUyNzgsNTk4Mz
-cwMzIyLC05ODQwMjM1NTAsLTkzODU4Njc5OSwtMTI5MjIxNzI0
-MCwtMTE0NjM4MDY0MiwxNjQ0NDA0Nzg4XX0=
+eyJoaXN0b3J5IjpbMTczMzI0OTksLTI0ODAxNTI3OCw1OTgzNz
+AzMjIsLTk4NDAyMzU1MCwtOTM4NTg2Nzk5LC0xMjkyMjE3MjQw
+LC0xMTQ2MzgwNjQyLDE2NDQ0MDQ3ODhdfQ==
 -->
