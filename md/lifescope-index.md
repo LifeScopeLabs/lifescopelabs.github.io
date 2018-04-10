@@ -32,7 +32,7 @@ LIFESCOPE as an open source platform for anything you want to do with your perso
 # Want to help?
 We are currently looking for designers, creators, developers, and data scientists to help build and grow LIFESCOPE.
 
-### **[Join the team!](https://lifescope.io/signupdev)**
+## **[Join the team!](https://lifescope.io/open-source/)**
 
 # Documentation Index
 
@@ -160,6 +160,6 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 eyJoaXN0b3J5IjpbLTM5NTE2NDI3Nl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzODU4Njc5OSwtMTI5MjIxNzI0MCwtMT
-E0NjM4MDY0MiwxNjQ0NDA0Nzg4XX0=
+eyJoaXN0b3J5IjpbLTk4NDAyMzU1MCwtOTM4NTg2Nzk5LC0xMj
+kyMjE3MjQwLC0xMTQ2MzgwNjQyLDE2NDQ0MDQ3ODhdfQ==
 -->
