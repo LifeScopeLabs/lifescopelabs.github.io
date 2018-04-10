@@ -9,19 +9,20 @@
 Browser Web Speech API allows for speech recognition and synthesis support in Chrome, Edge, Firefox, Safari (partial). This API is super badass but no one ever uses it. 
 
 Examples:
-- https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API
-- https://speechlogger.appspot.com/developers/
+
 
 ### Requirements
-- **MVP**: 
+- **MVP**: Respond to simple voice commands:
+	- 
 ### Dependencies
 - Vue/Nuxt compatible
-- [AR.JS](https://github.com/jeromeetienne/AR.js/tree/master/aframe/demos/demo-mapbox)
-- [AFrame (0.8+)](https://aframe.io/)
-- [GURI VR](https://gurivr.com/)
 
 ### Examples
+
+- https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API
+- https://speechlogger.appspot.com/developers/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MzMwNTQ5NiwyMDI3NjI5MzA0LC00Nj
-I0Mzk2NDYsLTE0NzU5MDU3NzIsMTY1NDE5MTk4NV19
+eyJoaXN0b3J5IjpbNDAyNDQzMTIxLDE4NTMzMDU0OTYsMjAyNz
+YyOTMwNCwtNDYyNDM5NjQ2LC0xNDc1OTA1NzcyLDE2NTQxOTE5
+ODVdfQ==
 -->
