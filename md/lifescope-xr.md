@@ -66,6 +66,7 @@ This repo contains a series of AR/VR Views written to extend lifescope-app codeb
 
 ### Examples
 - [AR.JS markerless](https://github.com/1d10t/test)
+- [aframe vuejs 3dio](https://github.com/frederic-schwarz/aframe-vuejs-3dio)
 - [Web Geo adapter (De-noise web GPS data](https://github.com/Esri/html5-geolocation-tool-js/blob/master/js/GeolocationHelper.js)
 - [Marker Maker](https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html)
 - [BitScoop Marker](https://github.com/LifeScopeLabs/lifescopelabs.github.io/tree/master/assets/xr)
@@ -152,6 +153,7 @@ Examples
 ### Dependencies
 - Vue/Nuxt compatible
 - [AR.JS](https://github.com/jeromeetienne/AR.js/tree/master/aframe/demos/demo-mapbox)
+- [aframe vuejs 3dio](https://github.com/frederic-schwarz/aframe-vuejs-3dio)
 - [AFrame (0.8+)](https://aframe.io/)
 - [GURI VR](https://gurivr.com/)
 
@@ -186,7 +188,7 @@ Social Wars in React VR. A VR demo using the BitScoop Platform for Social Login.
 [proceduralvr1]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame1.png
 [proceduralvr2]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4Mjc2MDM3MiwxNzg0NjM1ODM3LDU0Nz
-I3ODExLC0xNjIwMDc5ODU5LDE2NzI3OTUxODksLTk2OTM5MDMy
-NiwtMjg3NTA3Mjc0XX0=
+eyJoaXN0b3J5IjpbMTA1MjE5ODY1NiwxNDgyNzYwMzcyLDE3OD
+Q2MzU4MzcsNTQ3Mjc4MTEsLTE2MjAwNzk4NTksMTY3Mjc5NTE4
+OSwtOTY5MzkwMzI2LC0yODc1MDcyNzRdfQ==
 -->
