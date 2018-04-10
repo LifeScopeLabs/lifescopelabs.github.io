@@ -2,6 +2,10 @@
 
 ## [Repository](https://github.com/LifeScopeLabs/lifescope-voice)
 
+The LIFESCOPE API allows anyone to create a shared virtual space to access their memory and tell their stories.
+
+This repo contains a series of AR/VR Views written to extend lifescope-app codebase as JS/Vue/Nuxt plugins.
+
 Browser Web Speech API allows for speech recognition and synthesis support in Chrome, Edge, Firefox, Safari (partial). This API is super badass but no one ever uses it. 
 
 # Requirements
@@ -21,6 +25,8 @@ Browser Web Speech API allows for speech recognition and synthesis support in Ch
 	- Natural Language Processing.
 
 - Passively capture voice data (speech text and recording) and store in LIFESCOPE.
+- AI storytelling.
+	- "Here's what you "
 
 # Dependencies
 
@@ -31,7 +37,7 @@ Browser Web Speech API allows for speech recognition and synthesis support in Ch
 - [Web Speech API Documentation and Examples](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
 - [Speech Logger Web Speech API examples](https://speechlogger.appspot.com/developers/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI5ODY5MTM0LC0xNTc4MTUyMjYwLDE4NT
-MzMDU0OTYsMjAyNzYyOTMwNCwtNDYyNDM5NjQ2LC0xNDc1OTA1
-NzcyLDE2NTQxOTE5ODVdfQ==
+eyJoaXN0b3J5IjpbMTc4ODIyNTk0NywtMTU3ODE1MjI2MCwxOD
+UzMzA1NDk2LDIwMjc2MjkzMDQsLTQ2MjQzOTY0NiwtMTQ3NTkw
+NTc3MiwxNjU0MTkxOTg1XX0=
 -->
