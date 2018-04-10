@@ -10,7 +10,7 @@ Machine learning models based on LIFESCOPE data are currently focused on behavio
 
 ## Requirements
 
-- **MVP** Infographic reports individuals can run on demand.
+- **MVP**: Infographic reports individuals can run on demand.
 - Weekly email of reports.
 - Custom reporting.
 - Reporting on groups.
@@ -102,6 +102,6 @@ Prediction and anomaly detection based on location history.
 [webviz]:https://lifescopelabs.github.io/assets/wireframes/3d-graph.jpg
 [mlgeo]:https://raw.githubusercontent.com/numenta/nupic.geospatial/master/images/viewer.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTA0MzcyNzMsMTcyNjUxNjc2MCwtNz
-E0MjE4NzA2XX0=
+eyJoaXN0b3J5IjpbLTg4MTg2OTUzNywxNzI2NTE2NzYwLC03MT
+QyMTg3MDZdfQ==
 -->
