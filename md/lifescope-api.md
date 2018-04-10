@@ -2,7 +2,7 @@
 
 ## [Repository](https://github.com/LifeScopeLabs/lifescope-api)
 
-### (development phase, high priority)
+(development phase, high priority)
 
 The LIFESCOPE API is a universal platform backend. There are two components to the API; a GraphQL-based API for CRUD operations on the LIFESCOPE data schema and a REST API for login/logout/signup and connection OAuth workflow.
 
@@ -160,6 +160,7 @@ The LIFESCOPE API is a universal platform backend. There are two components to t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODAwMTU2NzQsMjA1NDgzNDgwNCwxNj
-kzNDgwNjM2LDg0MDc0Nzg4MSwtMTU4NTI0OTg1N119
+eyJoaXN0b3J5IjpbNTQ0NzQwNTE1LC0xNDgwMDE1Njc0LDIwNT
+Q4MzQ4MDQsMTY5MzQ4MDYzNiw4NDA3NDc4ODEsLTE1ODUyNDk4
+NTddfQ==
 -->
