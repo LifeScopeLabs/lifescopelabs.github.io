@@ -26,6 +26,8 @@ Search anything about yourself in a web browser
 ## Login
 * Able to sign up and login with any provider
 
+![providerpage]
+
 ## Homepage
 * List saved searches and hashtags
 
@@ -67,8 +69,6 @@ Map View
 | FitBit | planned | events, things |
 | TV Time | planned | events, content |
 
-![providerpage]
-
 ## People Management
 * Relate contacts together into People
 * Relate People into Users
@@ -107,7 +107,7 @@ Alt Feed View
 [Hawaii]:https://lifescopelabs.github.io/assets/wireframes/Hawaii.png
 [HawaiiV2]:https://lifescopelabs.github.io/assets/wireframes/HawaiiV2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTE5NDE3ODgsMTk1OTYzMjkzLDczNT
-Y1MDkyOSw4NjgxOTI5OTYsMTgwODI1NDMyMCwxOTI4MzExNzYy
-XX0=
+eyJoaXN0b3J5IjpbMTE5ODkyNjYwLC0xNTExOTQxNzg4LDE5NT
+k2MzI5Myw3MzU2NTA5MjksODY4MTkyOTk2LDE4MDgyNTQzMjAs
+MTkyODMxMTc2Ml19
 -->
