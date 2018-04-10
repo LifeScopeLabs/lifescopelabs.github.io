@@ -4,7 +4,7 @@
 
 (development phase, high priority)
 
-Search anything about yourself in a web browser or on a native app (iOS/Android/Windows/Mac).
+Search anything about yourself in a web browser or on a native app (Chrome, FirefoiOS, Android, Windows, Mac).
 
 ## [LIFESCOPE Archive App](https://lifescopelabs.github.io/etl.html#lifescope-archive-app)
 
@@ -62,12 +62,12 @@ Filter, Sort, and Search. See Advanced and Saved searches.
 
 ![lifescope-app-legacy]
 
-**Map Satellite View **
+**Map Satellite View**
 "Where Filter" Polygon
 
 ![mappoly]
 
-**Map View **
+**Map View**
 Multiple result at location Exploded Spider
 
 ![spider]
@@ -125,7 +125,8 @@ Map "Wedding Destination Vacation"
 
 ![Hawaii]
 
-Map Timeline "Wedding Destination Vacation"
+**Map Timeline**
+"Wedding Destination Vacation"
 
 ![HawaiiV2]
 
@@ -138,9 +139,9 @@ Map Timeline "Wedding Destination Vacation"
 [HawaiiV2]:https://lifescopelabs.github.io/assets/wireframes/HawaiiV2.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQwMTI4NjE5LC0xNDg0MDM4MTkwLDk1MD
-g2NjA2NCwtMjEwOTgzMDM2MywxODA2MTQ0NzMxLDQ0ODM1Nzc0
-OCwxMTk4OTI2NjAsLTE1MTE5NDE3ODgsMTk1OTYzMjkzLDczNT
-Y1MDkyOSw4NjgxOTI5OTYsMTgwODI1NDMyMCwxOTI4MzExNzYy
-XX0=
+eyJoaXN0b3J5IjpbLTg2MzY0NDQxOSwtMTQ4NDAzODE5MCw5NT
+A4NjYwNjQsLTIxMDk4MzAzNjMsMTgwNjE0NDczMSw0NDgzNTc3
+NDgsMTE5ODkyNjYwLC0xNTExOTQxNzg4LDE5NTk2MzI5Myw3Mz
+U2NTA5MjksODY4MTkyOTk2LDE4MDgyNTQzMjAsMTkyODMxMTc2
+Ml19
 -->
