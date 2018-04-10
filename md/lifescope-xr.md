@@ -2,7 +2,7 @@
 
 ## [Repository](https://github.com/LifeScopeLabs/lifescope-xr)
 
-(development phase, mediu priority)
+(development phase, medium priority)
 
 The LIFESCOPE API allows anyone to create a shared virtual space to access their memory and tell their stories. 
 
@@ -190,7 +190,8 @@ Social Wars in React VR. A VR demo using the BitScoop Platform for Social Login.
 [proceduralvr1]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame1.png
 [proceduralvr2]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMzQ2ODA2OSwxMDUyMTk4NjU2LDE0OD
-I3NjAzNzIsMTc4NDYzNTgzNyw1NDcyNzgxMSwtMTYyMDA3OTg1
-OSwxNjcyNzk1MTg5LC05NjkzOTAzMjYsLTI4NzUwNzI3NF19
+eyJoaXN0b3J5IjpbLTE0MDM3NzYyMjQsMTA1MjE5ODY1NiwxND
+gyNzYwMzcyLDE3ODQ2MzU4MzcsNTQ3Mjc4MTEsLTE2MjAwNzk4
+NTksMTY3Mjc5NTE4OSwtOTY5MzkwMzI2LC0yODc1MDcyNzRdfQ
+==
 -->
