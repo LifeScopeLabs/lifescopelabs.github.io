@@ -17,10 +17,8 @@
 - Vue/Nuxt compatible
 
 ### Examples
-
-![browserext]
-
-[browserext]:https://lifescopelabs.github.io/assets/screenshots/browser-plugin-screenshot.png
+![queue]
+![browserextscrape]
 
 ## Data Collection Sources
 
@@ -38,7 +36,11 @@
 
 1. Clone this repo
 2. Install the repo's directory as an extension
+
+[browserext]:https://lifescopelabs.github.io/assets/screenshots/browser-plugin-screenshot.png
+[browserextscrape]:https://lifescopelabs.github.io/assets/screenshots/browser-extensions.png
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyODY0ODcxNCwtODUyMDMxNTAxLDE5Mj
-c3Nzc0MjldfQ==
+eyJoaXN0b3J5IjpbMTQ4ODM1MzYwLC01Mjg2NDg3MTQsLTg1Mj
+AzMTUwMSwxOTI3Nzc3NDI5XX0=
 -->
