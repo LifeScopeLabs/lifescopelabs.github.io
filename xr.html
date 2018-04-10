@@ -13,10 +13,13 @@
     <div class="stackedit__toc">
       
 <ul>
-<li><a href="#lifescope-xr">LIFESCOPE-XR</a></li>
+<li><a href="#lifescope-xr">LIFESCOPE-XR</a>
+<ul>
+<li><a href="#repository">Repository</a></li>
+</ul>
+</li>
 <li><a href="#augmented-reality">Augmented Reality</a>
 <ul>
-<li></li>
 <li><a href="#ar-floor-topography-map-development-phase-medium-priority">1. AR Floor Topography Map (development phase, medium priority)</a></li>
 <li><a href="#phone-ar-gateways-concept-phase-low-priority">2. Phone AR Gateways (concept phase, low priority)</a></li>
 <li><a href="#facial-recognition-concept-phase-low-priority">3. Facial recognition (concept phase, low priority)</a></li>
@@ -30,22 +33,30 @@
 <li><a href="#memory-palace-concept-phase-low-priority">3. Memory palace (concept phase, low priority)</a></li>
 </ul>
 </li>
-<li><a href="#bitscoop-webxr-examples">BitScoop WebXR Examples</a></li>
+<li><a href="#bitscoop-webxr-examples">BitScoop WebXR Examples</a>
+<ul>
+<li><a href="#bitscoop-vr-social-login-demo">BitScoop VR Social Login Demo</a></li>
+<li><a href="#bitscoop-ar-marker">BitScoop AR Marker</a></li>
+</ul>
+</li>
 </ul>
 
     </div>
   </div>
   <div class="stackedit__right">
     <div class="stackedit__html">
-      <h1 id="lifescope-xr">LIFESCOPE-XR</h1>
+      <h1 id="lifescope-xr"><a href="https://github.com/LifeScopeLabs/lifescope-xr">LIFESCOPE-XR</a></h1>
+<h2 id="repository"><a href="https://github.com/LifeScopeLabs/lifescope-xr">Repository</a></h2>
+<p>The LIFESCOPE API allows anyone to create a shared virtual space to access their memory and tell their stories.</p>
 <p>This repo contains a series of AR/VR Views written to extend lifescope-app codebase as JS/Vue/Nuxt plugins.</p>
 <h1 id="augmented-reality">Augmented Reality</h1>
-<h3 id="lifescope-ar-marker">LIFESCOPE AR Marker</h3>
+<p><strong>LIFESCOPE AR Marker</strong></p>
 <p><img src="https://lifescopelabs.github.io/assets/xr/marker.png" alt="marker"></p>
-<h3 id="lifescope-ar-marker-pattern-file.">LIFESCOPE AR Marker Pattern file.</h3>
-<p>Notice how the pattern encodes the variance of the bitmap<br>
-<img src="https://lifescopelabs.github.io/assets/xr/marker-patt-file.png" alt="patternar"></p>
+<p><strong>LIFESCOPE AR Marker Pattern file.</strong></p>
+<p><strong>Notice how the pattern encodes the variance of the bitmap</strong></p>
+<p><img src="https://lifescopelabs.github.io/assets/xr/marker-patt-file.png" alt="patternar"></p>
 <h2 id="ar-floor-topography-map-development-phase-medium-priority">1. AR Floor Topography Map (development phase, medium priority)</h2>
+<p><strong>Marker based AR.JS Mapbox trail wireframes.</strong></p>
 <p><img src="https://lifescopelabs.github.io/assets/maps/ar-phone-topo-mapbox.jpg" alt="armap"><br>
 <img src="https://lifescopelabs.github.io/assets/maps/ar-phone-topo-mapbox2.jpg" alt="armap"></p>
 <h3 id="requirements">Requirements</h3>
@@ -93,6 +104,7 @@
 <h3 id="examples-1">Examples</h3>
 <ul>
 <li><a href="https://github.com/1d10t/test">AR.JS markerless</a></li>
+<li><a href="https://github.com/frederic-schwarz/aframe-vuejs-3dio">aframe vuejs 3dio</a></li>
 <li><a href="https://github.com/Esri/html5-geolocation-tool-js/blob/master/js/GeolocationHelper.js">Web Geo adapter (De-noise web GPS data</a></li>
 <li><a href="https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html">Marker Maker</a></li>
 <li><a href="https://github.com/LifeScopeLabs/lifescopelabs.github.io/tree/master/assets/xr">BitScoop Marker</a></li>
@@ -110,7 +122,9 @@ Examples</li>
 </ul>
 <h1 id="virtual-reality">Virtual Reality</h1>
 <h2 id="globe-of-lifescope-trails-development-phase-medium-priority">1. Globe of LIFESCOPE trails (development phase, medium priority)</h2>
+<p><strong>Aframe Earth wireframe.</strong></p>
 <p><img src="https://lifescopelabs.github.io/assets/xr/arglobe.gif" alt="vrglobe"></p>
+<p><strong>Mapbox trail wireframe.</strong></p>
 <p><img src="https://lifescopelabs.github.io/assets/wireframes/vr-maps-aframe-mapbox.png" alt="vrmapbox"></p>
 <h3 id="requirements-3">Requirements</h3>
 <ul>
@@ -131,16 +145,65 @@ Examples</li>
 <li><a href="https://github.com/networked-aframe/networked-aframe#more-examples">Networked AFrame</a></li>
 </ul>
 <h2 id="infinite-procedural-walls-concept-phase-low-priority">2. Infinite procedural walls (concept phase, low priority)</h2>
+<p><strong>LifeScope Gallery Mockup</strong></p>
 <p><img src="https://lifescopelabs.github.io/assets/wireframes/PlayCanvasLifeScopeGalleryWireframes.png" alt="infinitewalls"></p>
+<h3 id="requirements-4">Requirements</h3>
+<ul>
+<li><strong>MVP</strong>: Show an infinite “gallery” of content from your lifescope data.</li>
+<li>Able to sort, search, curate, modify content shown.</li>
+<li>Able to draw in the gallery.</li>
+<li>Able to see friends.</li>
+</ul>
+<h3 id="dependencies-3">Dependencies</h3>
+<ul>
+<li>Vue/Nuxt compatible</li>
+<li><a href="https://github.com/jeromeetienne/AR.js/tree/master/aframe/demos/demo-mapbox">AR.JS</a></li>
+<li><a href="https://aframe.io/">AFrame (0.8+)</a></li>
+<li><a href="https://gurivr.com/">GURI VR</a></li>
+</ul>
+<h3 id="examples-3">Examples</h3>
+<ul>
+<li><a href="https://github.com/omgitsraven/aframe-room-component">AFrame Room Component</a></li>
+<li><a href="https://3d.io/docs/api/1/aframe-components.html">3d.io Room Objects</a></li>
+<li><a href="https://github.com/networked-aframe/networked-aframe#more-examples">Networked AFrame</a></li>
+</ul>
 <h2 id="memory-palace-concept-phase-low-priority">3. Memory palace (concept phase, low priority)</h2>
+<p><strong>AFrame generated rooms.</strong></p>
 <p><img src="https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame1.png" alt="proceduralvr1"></p>
+<p><strong>AFrame generated media content frames for HTML Shader.</strong></p>
 <p><img src="https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame2.png" alt="proceduralvr2"></p>
-<p><a href="https://gurivr.com/">https://gurivr.com/</a></p>
+<h3 id="requirements-5">Requirements</h3>
+<ul>
+<li><strong>MVP</strong>: Show an infinite “gallery” of content from your lifescope data.
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Method_of_loci">Method_of_loci</a>  <a href="https://www.wikihow.com/Build-a-Memory-Palace">Learn more on how to build-a-memory-palace</a></li>
+</ul>
+</li>
+<li>Able to sort, search, curate, modify content shown.</li>
+<li>Able to draw in the gallery.</li>
+<li>Able to see friends.</li>
+</ul>
+<h3 id="dependencies-4">Dependencies</h3>
+<ul>
+<li>Vue/Nuxt compatible</li>
+<li><a href="https://github.com/jeromeetienne/AR.js/tree/master/aframe/demos/demo-mapbox">AR.JS</a></li>
+<li><a href="https://github.com/frederic-schwarz/aframe-vuejs-3dio">aframe vuejs 3dio</a></li>
+<li><a href="https://aframe.io/">AFrame (0.8+)</a></li>
+<li><a href="https://gurivr.com/">GURI VR</a></li>
+</ul>
+<h3 id="examples-4">Examples</h3>
+<ul>
+<li><a href="https://github.com/omgitsraven/aframe-room-component">AFrame Room Component</a></li>
+<li><a href="https://3d.io/docs/api/1/aframe-components.html">3d.io Room Objects</a></li>
+<li><a href="https://github.com/networked-aframe/networked-aframe#more-examples">Networked AFrame</a></li>
+</ul>
 <h1 id="bitscoop-webxr-examples">BitScoop WebXR Examples</h1>
-<p>BitScoop Marker<br>
-<img src="https://lifescopelabs.github.io/assets/xr/bitscoop-marker.png" alt="markerbs"></p>
-<p>BitScoop Marker Pattern File<br>
-<img src="https://lifescopelabs.github.io/assets/xr/bitscoop-marker-patt-file.png" alt="patternarbs"></p>
+<h2 id="bitscoop-vr-social-login-demo"><a href="https://github.com/mrhegemon/bitscoop-vr-demo">BitScoop VR Social Login Demo</a></h2>
+<p>Social Wars in React VR. A VR demo using the BitScoop Platform for Social Login. Filled with demo data.</p>
+<h2 id="bitscoop-ar-marker">BitScoop AR Marker</h2>
+<p><img src="https://lifescopelabs.github.io/assets/xr/bitscoop-marker.png" alt="markerbs"></p>
+<p><strong>BitScoop Marker Pattern File. Notice how the bitmap matches the file.</strong></p>
+<p><img src="https://lifescopelabs.github.io/assets/xr/bitscoop-marker-patt-file.png" alt="patternarbs"></p>
 
     </div>
   </div>
