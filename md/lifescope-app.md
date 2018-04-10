@@ -57,11 +57,12 @@ Filter, Sort, and Search. See Advanced and Saved searches.
 * Augmented Reality Maps and gateways
 * Voice Interaction
 
-**Gallery View
+**Gallery View**
+"Recent Media" Saved Search
 
 ![lifescope-app-legacy]
 
-Map View
+**Map View Polygon **
 
 ![mappoly]
 
@@ -90,8 +91,8 @@ Map View
 * Relate People into Users
 
 ## Settings
-* Manage User info
-* Manage Data sources providers
+* Manage user info
+* Manage data providers
 
 ## Published Content
 * Embed saved searches as dynamic iFrame
@@ -133,7 +134,7 @@ Map Timeline "Wedding Destination Vacation"
 [HawaiiV2]:https://lifescopelabs.github.io/assets/wireframes/HawaiiV2.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjYyMzcyNzksLTE0ODQwMzgxOTAsOT
+eyJoaXN0b3J5IjpbLTE5NjczOTI3MDEsLTE0ODQwMzgxOTAsOT
 UwODY2MDY0LC0yMTA5ODMwMzYzLDE4MDYxNDQ3MzEsNDQ4MzU3
 NzQ4LDExOTg5MjY2MCwtMTUxMTk0MTc4OCwxOTU5NjMyOTMsNz
 M1NjUwOTI5LDg2ODE5Mjk5NiwxODA4MjU0MzIwLDE5MjgzMTE3
