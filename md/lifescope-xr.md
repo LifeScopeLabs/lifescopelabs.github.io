@@ -81,6 +81,7 @@ This repo contains a series of AR/VR Views written to extend lifescope-app codeb
 - [BitScoop Marker](https://github.com/LifeScopeLabs/lifescopelabs.github.io/tree/master/assets/xr)
 - [Networked AFrame](https://github.com/networked-aframe/networked-aframe#more-examples)
 - https://github.com/jeromeetienne/aframe-ar
+- https://immersive-web.github.io/webxr/
 
 ## 3. Facial recognition (concept phase, low priority)
 ## Requirements
@@ -198,7 +199,7 @@ Social Wars in React VR. A VR demo using the BitScoop Platform for Social Login.
 [proceduralvr1]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame1.png
 [proceduralvr2]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjI1MzE4MywtMTQwMzgyMDgxMywxMD
+eyJoaXN0b3J5IjpbMTU2NDkzODk0MiwtMTQwMzgyMDgxMywxMD
 k4NTU4MjgwLC0xNDAzNzc2MjI0LDEwNTIxOTg2NTYsMTQ4Mjc2
 MDM3MiwxNzg0NjM1ODM3LDU0NzI3ODExLC0xNjIwMDc5ODU5LD
 E2NzI3OTUxODksLTk2OTM5MDMyNiwtMjg3NTA3Mjc0XX0=
