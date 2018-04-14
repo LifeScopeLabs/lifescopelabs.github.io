@@ -71,6 +71,7 @@ This repo contains a series of AR/VR Views written to extend lifescope-app codeb
 - [AR.JS](https://github.com/jeromeetienne/AR.js/tree/master/aframe/demos/demo-mapbox)
 - [AFrame (0.8+)](https://aframe.io/)
 - [Mapbox (0.44.1+)](https://www.mapbox.com/mapbox-gl-js/api/)
+- chrome://flags/#enable-gamepad-extensions
 
 ### Examples
 - [AR.JS markerless](https://github.com/1d10t/test)
@@ -197,8 +198,8 @@ Social Wars in React VR. A VR demo using the BitScoop Platform for Social Login.
 [proceduralvr1]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame1.png
 [proceduralvr2]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDM4MjA4MTMsMTA5ODU1ODI4MCwtMT
-QwMzc3NjIyNCwxMDUyMTk4NjU2LDE0ODI3NjAzNzIsMTc4NDYz
-NTgzNyw1NDcyNzgxMSwtMTYyMDA3OTg1OSwxNjcyNzk1MTg5LC
-05NjkzOTAzMjYsLTI4NzUwNzI3NF19
+eyJoaXN0b3J5IjpbMTczNjI1MzE4MywtMTQwMzgyMDgxMywxMD
+k4NTU4MjgwLC0xNDAzNzc2MjI0LDEwNTIxOTg2NTYsMTQ4Mjc2
+MDM3MiwxNzg0NjM1ODM3LDU0NzI3ODExLC0xNjIwMDc5ODU5LD
+E2NzI3OTUxODksLTk2OTM5MDMyNiwtMjg3NTA3Mjc0XX0=
 -->
