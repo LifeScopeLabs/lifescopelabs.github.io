@@ -147,11 +147,11 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 
 [Liam Broza](httos://liambroza.com) and the team at [BitScoop Labs](https://bitscoop.com) have been working on problems in big data and quantified self for over a decade. This project started as SmokeSignal in 2009. SmokeSignal was originally written as a Java desktop app for crawling android app data.  [Original SmokeSignal LifeLogger Site](https://web.archive.org/web/20141222111903/http://www.smokesignal.info/) In 2016, BitScoop Labs rebuilt the project as Live Explorer (and is now the legacy LIFESCOPE app). In 2018, LIFESCOPE was released open source by the BitScoop team to help give people control of their digital identity.
 
-**Original SmokeSignal LifeLogger Site (2**
+**Original SmokeSignal LifeLogger Site (2010)**
 
 ![smokesignalss2]
 
-**Original SmokeSignal LifeLogger Sources**
+**Original SmokeSignal LifeLogger Sources (2010)**
 
 ![smokesignalss1]
 
@@ -167,8 +167,8 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 [browserextscrape]:https://lifescopelabs.github.io/assets/screenshots/browser-extensions.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc4MDAxMjUxLDg1MTkxNjQwNywyOTQ1OD
-E1NDYsLTE2NTcyMzI5ODcsLTE2NTcyMzI5ODcsLTI0ODAxNTI3
-OCw1OTgzNzAzMjIsLTk4NDAyMzU1MCwtOTM4NTg2Nzk5LC0xMj
-kyMjE3MjQwLC0xMTQ2MzgwNjQyLDE2NDQ0MDQ3ODhdfQ==
+eyJoaXN0b3J5IjpbLTE3Mjg1Mjg3MTcsODUxOTE2NDA3LDI5ND
+U4MTU0NiwtMTY1NzIzMjk4NywtMTY1NzIzMjk4NywtMjQ4MDE1
+Mjc4LDU5ODM3MDMyMiwtOTg0MDIzNTUwLC05Mzg1ODY3OTksLT
+EyOTIyMTcyNDAsLTExNDYzODA2NDIsMTY0NDQwNDc4OF19
 -->
