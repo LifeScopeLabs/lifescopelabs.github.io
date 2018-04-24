@@ -2,7 +2,8 @@
 
 **The Internet of You** 
 
-This GitHub.io Site contains Developer documentation and serves as planning workbook for each repository.
+This GitHub.io Site contains LIFESCOPE Developer documentation and serves as planning workbook for each lifescope code repository.
+
 
 > "My friends and I work, play, and communicate on dozens platforms. Conversation start on texts, continue on Facebook Messenger, continue in person, then go to Skype and conclude on Slack. Retracing my history keeps me jumping from app to app."
 
@@ -167,8 +168,8 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 [browserextscrape]:https://lifescopelabs.github.io/assets/screenshots/browser-extensions.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTcyMzI5ODcsLTE2NTcyMzI5ODcsLT
-I0ODAxNTI3OCw1OTgzNzAzMjIsLTk4NDAyMzU1MCwtOTM4NTg2
-Nzk5LC0xMjkyMjE3MjQwLC0xMTQ2MzgwNjQyLDE2NDQ0MDQ3OD
-hdfQ==
+eyJoaXN0b3J5IjpbLTExODQyMzA5MTYsLTE2NTcyMzI5ODcsLT
+E2NTcyMzI5ODcsLTI0ODAxNTI3OCw1OTgzNzAzMjIsLTk4NDAy
+MzU1MCwtOTM4NTg2Nzk5LC0xMjkyMjE3MjQwLC0xMTQ2MzgwNj
+QyLDE2NDQ0MDQ3ODhdfQ==
 -->
