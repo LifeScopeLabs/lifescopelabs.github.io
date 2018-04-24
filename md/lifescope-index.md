@@ -83,7 +83,7 @@ Curate your data with saved searches and hashtags. See [reports and data visuali
 
 Th eapp is a Single-page Universal web app built on Nuxt and Vue.js. Desktop/mobile reactive design interface with javascript extensions. Written with plugin framework with modules of features such as location tracking, WebXR and Web Speech. Designed to be containerizable inside a universal app framework like Cordova (iOS, Android, Mac, Win).
 
-The current LIFESCOPE codebases are hosted on Amazon Web Services to power the web platform hosted on lifescope.io.  [BitScoop](https://bitscoop.com) is currently a dependency of lifescope and will be sponsoring free platform support for any 
+The current LIFESCOPE codebases are hosted on Amazon Web Services to power the web platform hosted on lifescope.io. 
 
 **AWS Developer Stack**
 
@@ -167,8 +167,8 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 [browserextscrape]:https://lifescopelabs.github.io/assets/screenshots/browser-extensions.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTYxMjQxNDIsODUxOTE2NDA3LDI5ND
-U4MTU0NiwtMTY1NzIzMjk4NywtMTY1NzIzMjk4NywtMjQ4MDE1
-Mjc4LDU5ODM3MDMyMiwtOTg0MDIzNTUwLC05Mzg1ODY3OTksLT
-EyOTIyMTcyNDAsLTExNDYzODA2NDIsMTY0NDQwNDc4OF19
+eyJoaXN0b3J5IjpbLTQ3MDI0ODc2Nyw4NTE5MTY0MDcsMjk0NT
+gxNTQ2LC0xNjU3MjMyOTg3LC0xNjU3MjMyOTg3LC0yNDgwMTUy
+NzgsNTk4MzcwMzIyLC05ODQwMjM1NTAsLTkzODU4Njc5OSwtMT
+I5MjIxNzI0MCwtMTE0NjM4MDY0MiwxNjQ0NDA0Nzg4XX0=
 -->
