@@ -69,7 +69,7 @@ LIFESCOPE collects personal information from three places. When you create conne
 
 ## Data Organization and Storage
 
-[LIFESCOPE API](https://lifescopelabs.github.io/api.html) uses GraphQL and REST to signup, login, manage sources, and access all your data. LIFESCOPE's API will eventually allow for pluggable [Database Support](https://lifescopelabs.github.io/database.html).
+[LIFESCOPE API](https://lifescopelabs.github.io/api.html) uses GraphQL and REST to signup, login, manage connection sources, and access all your data. LIFESCOPE's API will eventually allow for pluggable [Database Support](https://lifescopelabs.github.io/database.html).
 
 **LIFESCOPE Schema** Replicated in MongoDB and the GraphQL API.
 
@@ -77,7 +77,7 @@ LIFESCOPE collects personal information from three places. When you create conne
 
 ## Single App Architecture
 
-The [LIFESCOPE App](https://lifescopelabs.github.io/app.html) is to search, explore, and curate your personal data in various views. Explore data with various views (Feed, List, Map, Gallery, Timeline, [Virtual Reality, Augmented Reality](https://lifescopelabs.github.io/xr.html).  Let the app look and [listen to you](https://lifescopelabs.github.io/voice.html). Speak questions about yourself or record and automatically respond.
+The [LIFESCOPE App](https://lifescopelabs.github.io/app.html) is  to search, explore, and curate your personal data in various views. Explore data with various views (Feed, List, Map, Gallery, Timeline, [Virtual Reality, Augmented Reality](https://lifescopelabs.github.io/xr.html).  Let the app look and [listen to you](https://lifescopelabs.github.io/voice.html). Speak questions about yourself or record and automatically respond.
 
 Curate your data with saved searches and hashtags. See [reports and data visualizations](https://lifescopelabs.github.io/ai.html). Get smart notifications with machine learning. Explore people from your history. People are represented as related contacts and history across services.
 
@@ -167,8 +167,8 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 [browserextscrape]:https://lifescopelabs.github.io/assets/screenshots/browser-extensions.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjYyNjczOTcsODUxOTE2NDA3LDI5ND
-U4MTU0NiwtMTY1NzIzMjk4NywtMTY1NzIzMjk4NywtMjQ4MDE1
-Mjc4LDU5ODM3MDMyMiwtOTg0MDIzNTUwLC05Mzg1ODY3OTksLT
-EyOTIyMTcyNDAsLTExNDYzODA2NDIsMTY0NDQwNDc4OF19
+eyJoaXN0b3J5IjpbMTE1NTM2ODk1LDg1MTkxNjQwNywyOTQ1OD
+E1NDYsLTE2NTcyMzI5ODcsLTE2NTcyMzI5ODcsLTI0ODAxNTI3
+OCw1OTgzNzAzMjIsLTk4NDAyMzU1MCwtOTM4NTg2Nzk5LC0xMj
+kyMjE3MjQwLC0xMTQ2MzgwNjQyLDE2NDQ0MDQ3ODhdfQ==
 -->
