@@ -12,7 +12,7 @@ _Does this sound familiar?_
 
 **Internet connected software is broken.**
 
-The internet landscape is a vast, overwhelming, and broken terrain of data. Only the best companies in the world can tap into a tiny fraction of data's potential. People create and consume digital information without understanding what’s going on.  It is hopeless for anyone to create a complete and up to date accounting of their information, let alone search and organize their data.
+The internet landscape is a vast, overwhelming, and broken terrain of data. Only the best companies in the world can tap into a tiny fraction of internet data's potential. People create and consume digital information without understanding what’s going on.  It is hopeless for anyone to create a complete and up to date accounting of their information, let alone search and organize their data.
 
 The study and use of psychometircs and psychographics is the biggest hidden force in the world. Our personal data doesn't just describe who we really are, but also give others power over us by enabling them to reverse engineer our minds. Understanding and controlling our own data should be a human right.
 
@@ -167,8 +167,8 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 [browserextscrape]:https://lifescopelabs.github.io/assets/screenshots/browser-extensions.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk0NTgxNTQ2LC0xNjU3MjMyOTg3LC0xNj
-U3MjMyOTg3LC0yNDgwMTUyNzgsNTk4MzcwMzIyLC05ODQwMjM1
-NTAsLTkzODU4Njc5OSwtMTI5MjIxNzI0MCwtMTE0NjM4MDY0Mi
-wxNjQ0NDA0Nzg4XX0=
+eyJoaXN0b3J5IjpbLTE3NTA4NzA5OTcsMjk0NTgxNTQ2LC0xNj
+U3MjMyOTg3LC0xNjU3MjMyOTg3LC0yNDgwMTUyNzgsNTk4Mzcw
+MzIyLC05ODQwMjM1NTAsLTkzODU4Njc5OSwtMTI5MjIxNzI0MC
+wtMTE0NjM4MDY0MiwxNjQ0NDA0Nzg4XX0=
 -->
