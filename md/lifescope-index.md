@@ -16,7 +16,7 @@ The internet landscape is a vast, overwhelming, and broken terrain of data. Only
 
 The study and use of psychometrics and psychographics are the biggest hidden forces in the modern world. Our personal data doesn't just describe who we really are, but also give others power over us by enabling them to reverse engineer our minds. Understanding and controlling our own data should be a human right.
 
-LIFESCOPE is an open platform for personal data designed to empower anyone with insights while preserving privacy and ownership. Master time and space with a digital memory. The platform is designed the ultimate private repository of your digital life.
+LIFESCOPE is an open platform for personal data designed to empower anyone with insights while preserving privacy and ownership. Access and control of your data is a human right. The platform is designed the ultimate private repository of your digital life. Master time and space with a digital memory.
 
 ![conceptdiagram]
 
@@ -167,8 +167,8 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 [browserextscrape]:https://lifescopelabs.github.io/assets/screenshots/browser-extensions.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUxOTE2NDA3LDI5NDU4MTU0NiwtMTY1Nz
-IzMjk4NywtMTY1NzIzMjk4NywtMjQ4MDE1Mjc4LDU5ODM3MDMy
-MiwtOTg0MDIzNTUwLC05Mzg1ODY3OTksLTEyOTIyMTcyNDAsLT
-ExNDYzODA2NDIsMTY0NDQwNDc4OF19
+eyJoaXN0b3J5IjpbLTE4MjA2NjY3MTcsODUxOTE2NDA3LDI5ND
+U4MTU0NiwtMTY1NzIzMjk4NywtMTY1NzIzMjk4NywtMjQ4MDE1
+Mjc4LDU5ODM3MDMyMiwtOTg0MDIzNTUwLC05Mzg1ODY3OTksLT
+EyOTIyMTcyNDAsLTExNDYzODA2NDIsMTY0NDQwNDc4OF19
 -->
