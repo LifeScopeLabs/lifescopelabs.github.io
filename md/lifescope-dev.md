@@ -10,19 +10,20 @@
 127.0.0.1     app.lifescope.io api.lifescope.io xr.lifescope.io static.lifescope.io
 ```
 
-## Add Config Files to approproate libraries
+## Add Config Files to API, ETL, APP
 
 Add node config files for production variables. 
+
 Such as: 
 
 /config/dev.json  
 or
 /config/prod.json
-~~~
 
+~~~
 {
   "bitscoop": {
-    "api_key": "[KEY]"
+    "api_key": "[key]"
   },
   "mongodb": {
     "address": "mongodb://[user]:[password]@[url]/live?ssl=true&replicaSet=[lifescope-shards]authSource=admin"
@@ -41,6 +42,6 @@ Configure > Target: lifescope-api.glitch.me:3001
 Example on glitch:
 [https://lifescope-api.glitch.me/gql-p/](https://lifescope-api.glitch.me/gql-p/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MDIzNTAyMCwtMTQ5MDIxNTgzMCwtMT
+eyJoaXN0b3J5IjpbLTM2MzA4MjU3MiwtMTQ5MDIxNTgzMCwtMT
 k2NzIzNjI3OCwtMTg0MTE3MzI2XX0=
 -->
