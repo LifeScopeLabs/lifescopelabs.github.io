@@ -56,7 +56,7 @@ Developer documentation serves as a roadmap planning workbook for each repositor
 
 # How does it work?
 
-The core of LIFESCOPE is an automated set of tools to collect personal data (via [API ETL Scripts](https://lifescopelabs.github.io/etl.html), [Browser Plugin](https://lifescopelabs.github.io/browser-extension.html), [App](https://lifescopelabs.github.io/app.html) repositories) and organize everything a standard way. All of the collected data is organized into a [database](https://lifescopelabs.github.io/database.html) and presented with the [API](https://lifescopelabs.github.io/api.html).
+The core of LIFESCOPE is an automated set of tools to collect personal data (via [API ETL Scripts](https://lifescopelabs.github.io/etl.html), [Browser Plugin](https://lifescopelabs.github.io/browser-extension.html), [App](https://lifescopelabs.github.io/app.html) repositories) and organize everything a standard format (lifescope schema). All of the collected data is organized into a [database](https://lifescopelabs.github.io/database.html) and presented with the [API](https://lifescopelabs.github.io/api.html).
 
 The LIFESCOPE platform is designed to be completely pluggable. Easily add data sources, change data organization, change database technologies, and create apps on the API.
 
@@ -167,7 +167,7 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 [browserextscrape]:https://lifescopelabs.github.io/assets/screenshots/browser-extensions.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjA2NjY3MTcsODUxOTE2NDA3LDI5ND
+eyJoaXN0b3J5IjpbLTE3Mjg5MzkzMzksODUxOTE2NDA3LDI5ND
 U4MTU0NiwtMTY1NzIzMjk4NywtMTY1NzIzMjk4NywtMjQ4MDE1
 Mjc4LDU5ODM3MDMyMiwtOTg0MDIzNTUwLC05Mzg1ODY3OTksLT
 EyOTIyMTcyNDAsLTExNDYzODA2NDIsMTY0NDQwNDc4OF19
