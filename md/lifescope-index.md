@@ -34,7 +34,7 @@ We are currently looking for designers, creators, developers, and data scientist
 
 ## **[Join the team!](https://lifescope.io/open-source/)**
 
-## [Developer Setup](https://lifescopelabs.github.io/dev.html)
+## [Developer ](https://lifescopelabs.github.io/dev.html)
 
 # Documentation Index
 
@@ -169,9 +169,9 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 [browserextscrape]:https://lifescopelabs.github.io/assets/screenshots/browser-extensions.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzY5MjQ4OTgsLTE3Mjg1Mjg3MTcsOD
-UxOTE2NDA3LDI5NDU4MTU0NiwtMTY1NzIzMjk4NywtMTY1NzIz
-Mjk4NywtMjQ4MDE1Mjc4LDU5ODM3MDMyMiwtOTg0MDIzNTUwLC
-05Mzg1ODY3OTksLTEyOTIyMTcyNDAsLTExNDYzODA2NDIsMTY0
-NDQwNDc4OF19
+eyJoaXN0b3J5IjpbMzA0NjE2NjE1LC0xNzI4NTI4NzE3LDg1MT
+kxNjQwNywyOTQ1ODE1NDYsLTE2NTcyMzI5ODcsLTE2NTcyMzI5
+ODcsLTI0ODAxNTI3OCw1OTgzNzAzMjIsLTk4NDAyMzU1MCwtOT
+M4NTg2Nzk5LC0xMjkyMjE3MjQwLC0xMTQ2MzgwNjQyLDE2NDQ0
+MDQ3ODhdfQ==
 -->
