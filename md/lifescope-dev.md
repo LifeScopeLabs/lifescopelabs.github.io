@@ -10,17 +10,13 @@
 127.0.0.1     app.lifescope.io api.lifescope.io xr.lifescope.io static.lifescope.io
 ```
 
-  
+## Install and run NGINX  
 
+Config in lifescope-api
+```
 sudo nginx -p . -c nginx.conf
-
+```
   
-
-127.0.0.1 app.lifescope.io api.lifescope.io xr.lifescope.io static.lifescope.io
-
-  
-
-
 ## Add Config Files to API, ETL, APP
 
 Add node config files for production variables. 
@@ -44,6 +40,8 @@ or
 
 ## How to debug:
 
+RUN APP
+
 NODE_ENV=dev babel-node server.js --inspect-brk=localhost:3333
 
 In Chrome go to: [chrome://inspect/#devices](chrome://inspect/#devices)
@@ -55,6 +53,6 @@ Configure > Target: apl.lifescope.io:3333
 Example on glitch:
 [https://apl.lifescope.io:3333/gql-p/](https://apl.lifescope.io:3333/gql-p/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTg4MTEzOTIsLTE0OTAyMTU4MzAsLT
-E5NjcyMzYyNzgsLTE4NDExNzMyNl19
+eyJoaXN0b3J5IjpbMTAxNjM0Mzg2MywtMTQ5MDIxNTgzMCwtMT
+k2NzIzNjI3OCwtMTg0MTE3MzI2XX0=
 -->
