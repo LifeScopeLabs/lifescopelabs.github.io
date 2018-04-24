@@ -13,10 +13,16 @@
     <div class="stackedit__toc">
       
 <ul>
-<li><a href="#lifescope-developer-setup">LIFESCOPE Developer Setup</a>
+<li><a href="#lifescope-contributor-quickstart">LIFESCOPE Contributor Quickstart</a>
+<ul>
+<li><a href="#join-the-developer-team">Join the developer team</a></li>
+</ul>
+</li>
+<li><a href="#developer-setup">Developer Setup</a>
 <ul>
 <li><a href="#change-your-host-file">Change your host file</a></li>
-<li><a href="#set-your-environment-variables">Set your environment variables:</a></li>
+<li><a href="#install-and-run-nginx">Install and run NGINX</a></li>
+<li><a href="#add-config-files-to-api-etl-app">Add Config Files to API, ETL, APP</a></li>
 <li><a href="#how-to-debug">How to debug:</a></li>
 <li><a href="#graphql-playground-web-interface-for-api">GraphQL Playground web interface for API</a></li>
 </ul>
@@ -27,20 +33,39 @@
   </div>
   <div class="stackedit__right">
     <div class="stackedit__html">
-      <h1 id="lifescope-developer-setup">LIFESCOPE Developer Setup</h1>
-<p>How to devlop node repositories.</p>
-<p>We suggest using <a href="https://glitch.com">Glitch</a>.</p>
+      <h1 id="lifescope-contributor-quickstart">LIFESCOPE Contributor Quickstart</h1>
+<h2 id="join-the-developer-team"><a href="https://lifescope.io/open-source/">Join the developer team</a></h2>
+<h1 id="developer-setup">Developer Setup</h1>
 <h2 id="change-your-host-file">Change your host file</h2>
-<p><a href="https://app.lifescope.io/">https://app.lifescope.io/</a>		[localhost or glitch]</p>
-<h2 id="set-your-environment-variables">Set your environment variables:</h2>
-<p>MONGODB_URI=“mongodb://[user]:[password]@[url]/live?ssl=true&amp;replicaSet=[lifescope-shards]authSource=admin”</p>
-<p>BITSCOOP_API_KEY=“key”</p>
+<pre><code>127.0.0.1     app.lifescope.io api.lifescope.io xr.lifescope.io static.lifescope.io
+</code></pre>
+<h2 id="install-and-run-nginx">Install and run NGINX</h2>
+<p>Config in lifescope-api</p>
+<pre><code>sudo nginx -p . -c nginx.conf
+</code></pre>
+<h2 id="add-config-files-to-api-etl-app">Add Config Files to API, ETL, APP</h2>
+<p>Add node config files for production variables.</p>
+<p>Such as:</p>
+<p>/config/dev.json<br>
+or<br>
+/config/prod.json</p>
+<pre><code>{
+  "bitscoop": {
+    "api_key": "[key]"
+  },
+  "mongodb": {
+    "address": "mongodb://[user]:[password]@[url]/live?ssl=true&amp;replicaSet=[lifescope-shards]authSource=admin"
+  }
+}
+</code></pre>
 <h2 id="how-to-debug">How to debug:</h2>
+<p>RUN APP</p>
+<p>NODE_ENV=dev babel-node server.js --inspect-brk=localhost:3333</p>
 <p>In Chrome go to: <a>chrome://inspect/#devices</a></p>
-<p>Configure &gt; Target: <a href="http://lifescope-api.glitch.me:3001">lifescope-api.glitch.me:3001</a></p>
+<p>Configure &gt; Target: <a href="http://apl.lifescope.io:3333">apl.lifescope.io:3333</a></p>
 <h2 id="graphql-playground-web-interface-for-api">GraphQL Playground web interface for API</h2>
 <p>Example on glitch:<br>
-<a href="https://lifescope-api.glitch.me/gql-p/">https://lifescope-api.glitch.me/gql-p/</a></p>
+<a href="https://apl.lifescope.io:3333/gql-p/">https://apl.lifescope.io:3333/gql-p/</a></p>
 
     </div>
   </div>
