@@ -9,10 +9,10 @@ The LIFESCOPE API allows anyone to create a shared virtual space to access their
 This repo contains a series of AR/VR Views written to extend lifescope-app codebase as JS/Vue/Nuxt plugins.
 
 # Demos
-- [VR Gallery](https://rawgit.com/LifeScopeLabs/lifescope-xr/master/vrgallery.html)
-- [AR Map](https://rawgit.com/LifeScopeLabs/lifescope-xr/master/armap.html)
-- [VR Map](https://rawgit.com/LifeScopeLabs/lifescope-xr/master/vrmap.html)
-- [VR Portal](https://rawgit.com/LifeScopeLabs/lifescope-xr/master/index.html)
+- [VR Gallery](https://cdn.rawgit.com/LifeScopeLabs/lifescope-xr/adc7a0a4d042e838cf85327bd1ca4d5ef44536fb/vrgallery.html)
+- [AR Map](https://cdn.rawgit.com/LifeScopeLabs/lifescope-xr/adc7a0a4d042e838cf85327bd1ca4d5ef44536fb/armap.html)
+- [VR Map](https://cdn.rawgit.com/LifeScopeLabs/lifescope-xr/adc7a0a4d042e838cf85327bd1ca4d5ef44536fb/vrmap.html)
+- [VR Portal](https://cdn.rawgit.com/LifeScopeLabs/lifescope-xr/adc7a0a4d042e838cf85327bd1ca4d5ef44536fb/index.html)
 
 # Augmented Reality
 
@@ -199,8 +199,9 @@ Social Wars in React VR. A VR demo using the BitScoop Platform for Social Login.
 [proceduralvr1]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame1.png
 [proceduralvr2]:https://lifescopelabs.github.io/assets/wireframes/ProceduralAFrame2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NDkzODk0MiwtMTQwMzgyMDgxMywxMD
-k4NTU4MjgwLC0xNDAzNzc2MjI0LDEwNTIxOTg2NTYsMTQ4Mjc2
-MDM3MiwxNzg0NjM1ODM3LDU0NzI3ODExLC0xNjIwMDc5ODU5LD
-E2NzI3OTUxODksLTk2OTM5MDMyNiwtMjg3NTA3Mjc0XX0=
+eyJoaXN0b3J5IjpbMjA3MDU1MjgwNCwxNTY0OTM4OTQyLC0xND
+AzODIwODEzLDEwOTg1NTgyODAsLTE0MDM3NzYyMjQsMTA1MjE5
+ODY1NiwxNDgyNzYwMzcyLDE3ODQ2MzU4MzcsNTQ3Mjc4MTEsLT
+E2MjAwNzk4NTksMTY3Mjc5NTE4OSwtOTY5MzkwMzI2LC0yODc1
+MDcyNzRdfQ==
 -->
