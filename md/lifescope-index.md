@@ -145,9 +145,9 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 
 # History
 
-[Liam Broza](httos://liambroza.com) and the team at [BitScoop Labs](https://bitscoop.com) have been working on problems big data and quantified self for over a decade. This project started as SmokeSignal in 2009 as a Java desktop app for crawling android app data.  [Original SmokeSignal LifeLogger Site](https://web.archive.org/web/20141222111903/http://www.smokesignal.info/) In 2016, BitScoop Labs rebuilt the project as Live Explorer (and is now the legacy LIFESCOPE app). In 2018, LIFESCOPE was released open source by the BitScoop team to help give people control of their digital identity.
+[Liam Broza](httos://liambroza.com) and the team at [BitScoop Labs](https://bitscoop.com) have been working on problems in big data and quantified self for over a decade. This project started as SmokeSignal in 2009. SmokeSignal was originally written as a Java desktop app for crawling android app data.  [Original SmokeSignal LifeLogger Site](https://web.archive.org/web/20141222111903/http://www.smokesignal.info/) In 2016, BitScoop Labs rebuilt the project as Live Explorer (and is now the legacy LIFESCOPE app). In 2018, LIFESCOPE was released open source by the BitScoop team to help give people control of their digital identity.
 
-**Original SmokeSignal LifeLogger Site**
+**Original SmokeSignal LifeLogger Site (2**
 
 ![smokesignalss2]
 
@@ -167,8 +167,8 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 [browserextscrape]:https://lifescopelabs.github.io/assets/screenshots/browser-extensions.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MDI0ODc2Nyw4NTE5MTY0MDcsMjk0NT
-gxNTQ2LC0xNjU3MjMyOTg3LC0xNjU3MjMyOTg3LC0yNDgwMTUy
-NzgsNTk4MzcwMzIyLC05ODQwMjM1NTAsLTkzODU4Njc5OSwtMT
-I5MjIxNzI0MCwtMTE0NjM4MDY0MiwxNjQ0NDA0Nzg4XX0=
+eyJoaXN0b3J5IjpbNjc4MDAxMjUxLDg1MTkxNjQwNywyOTQ1OD
+E1NDYsLTE2NTcyMzI5ODcsLTE2NTcyMzI5ODcsLTI0ODAxNTI3
+OCw1OTgzNzAzMjIsLTk4NDAyMzU1MCwtOTM4NTg2Nzk5LC0xMj
+kyMjE3MjQwLC0xMTQ2MzgwNjQyLDE2NDQ0MDQ3ODhdfQ==
 -->
