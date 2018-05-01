@@ -41,8 +41,13 @@ or
 
 ## How to debug:
 
-RUN APP
+### Prod
 
+NODE_ENV=prod yarn start
+
+### Debug
+
+NODE_ENV=prod yarn debug
 NODE_ENV=dev babel-node server.js --inspect-brk=localhost:3333
 
 In Chrome go to: [chrome://inspect/#devices](chrome://inspect/#devices)
@@ -54,6 +59,7 @@ Configure > Target: apl.lifescope.io:3333
 Example on glitch:
 [https://apl.lifescope.io:3333/gql-p/](https://apl.lifescope.io:3333/gql-p/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU0ODQ4MTQ2LDEwMTYzNDM4NjMsLTE0OT
-AyMTU4MzAsLTE5NjcyMzYyNzgsLTE4NDExNzMyNl19
+eyJoaXN0b3J5IjpbMTY1Nzk4MDMyMyw4NTQ4NDgxNDYsMTAxNj
+M0Mzg2MywtMTQ5MDIxNTgzMCwtMTk2NzIzNjI3OCwtMTg0MTE3
+MzI2XX0=
 -->
