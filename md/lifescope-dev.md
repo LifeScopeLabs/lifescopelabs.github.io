@@ -5,7 +5,8 @@
 # Developer Setup
 
 ## Change your host file
-  
+ 
+ Add the following aliases.
 ```
 127.0.0.1     app.lifescope.io api.lifescope.io xr.lifescope.io static.lifescope.io
 ```
@@ -53,6 +54,6 @@ Configure > Target: apl.lifescope.io:3333
 Example on glitch:
 [https://apl.lifescope.io:3333/gql-p/](https://apl.lifescope.io:3333/gql-p/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNjM0Mzg2MywtMTQ5MDIxNTgzMCwtMT
-k2NzIzNjI3OCwtMTg0MTE3MzI2XX0=
+eyJoaXN0b3J5IjpbODU0ODQ4MTQ2LDEwMTYzNDM4NjMsLTE0OT
+AyMTU4MzAsLTE5NjcyMzYyNzgsLTE4NDExNzMyNl19
 -->
