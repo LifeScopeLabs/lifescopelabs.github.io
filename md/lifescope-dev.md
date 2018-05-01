@@ -41,7 +41,7 @@ or
 
 ## How to debug:
 
-### Prod
+### Run/Prod
 
 NODE_ENV=prod yarn start
 
@@ -59,7 +59,7 @@ Configure > Target: apl.lifescope.io:3333
 Example on glitch:
 [https://apl.lifescope.io:3333/gql-p/](https://apl.lifescope.io:3333/gql-p/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1Nzk4MDMyMyw4NTQ4NDgxNDYsMTAxNj
+eyJoaXN0b3J5IjpbLTY4OTQzNjE2MSw4NTQ4NDgxNDYsMTAxNj
 M0Mzg2MywtMTQ5MDIxNTgzMCwtMTk2NzIzNjI3OCwtMTg0MTE3
 MzI2XX0=
 -->
