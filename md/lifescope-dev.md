@@ -5,6 +5,10 @@
 # Developer Setup
 
 ## Change your host file
+
+```
+sudo nano /etc/hosts
+```
  
  Add the following aliases.
 ```
@@ -60,7 +64,7 @@ Configure > Target: apl.lifescope.io:3333
 Example on glitch:
 [https://apl.lifescope.io:3333/gql-p/](https://apl.lifescope.io:3333/gql-p/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1OTg2MjAzOCwtNjg5NDM2MTYxLDg1ND
-g0ODE0NiwxMDE2MzQzODYzLC0xNDkwMjE1ODMwLC0xOTY3MjM2
-Mjc4LC0xODQxMTczMjZdfQ==
+eyJoaXN0b3J5IjpbLTEyODA2MTI3MDgsMTI1OTg2MjAzOCwtNj
+g5NDM2MTYxLDg1NDg0ODE0NiwxMDE2MzQzODYzLC0xNDkwMjE1
+ODMwLC0xOTY3MjM2Mjc4LC0xODQxMTczMjZdfQ==
 -->
