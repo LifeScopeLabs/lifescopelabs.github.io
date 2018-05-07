@@ -15,6 +15,7 @@
 
 Config in lifescope-api
 ```
+brew install nginx
 sudo nginx -p . -c nginx.conf
 ```
   
@@ -59,7 +60,7 @@ Configure > Target: apl.lifescope.io:3333
 Example on glitch:
 [https://apl.lifescope.io:3333/gql-p/](https://apl.lifescope.io:3333/gql-p/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4OTQzNjE2MSw4NTQ4NDgxNDYsMTAxNj
-M0Mzg2MywtMTQ5MDIxNTgzMCwtMTk2NzIzNjI3OCwtMTg0MTE3
-MzI2XX0=
+eyJoaXN0b3J5IjpbMTI1OTg2MjAzOCwtNjg5NDM2MTYxLDg1ND
+g0ODE0NiwxMDE2MzQzODYzLC0xNDkwMjE1ODMwLC0xOTY3MjM2
+Mjc4LC0xODQxMTczMjZdfQ==
 -->
