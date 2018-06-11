@@ -2,7 +2,7 @@
 
 **The Internet of You** 
 
-This GitHub.io Site contains LIFESCOPE Developer documentation and serves as planning workbook for each lifescope code repository.
+This GitHub.io Site contains LIFESCOPE Developer documentation and serves as planning work book for each LIFESCOPE code repository.
 
 > "My friends and I work, play, and communicate on dozens platforms. Conversation start on texts, continue on Facebook Messenger, continue in person, then go to Skype and conclude on Slack. Retracing my history keeps me jumping from app to app."
 
@@ -51,7 +51,7 @@ Developer documentation serves as a roadmap planning workbook for each repositor
 | **[LIFESCOPE-VOICE](https://lifescopelabs.github.io/voice.html)** | low | concept |
 | **[LIFESCOPE-XR](https://lifescopelabs.github.io/xr.html)** | medium | development |
 
-- [Database Documentation](https://lifescopelabs.github.io/db.html)
+- [Database Documentation](https://lifescopelabs.github.io/database.html)
 - [Legacy App Documentation](https://github.com/LifeScopeLabs/lifescope-etl/tree/master/archive/tutorial)
 
 **Note**: Each repository has a seperate list of Status
@@ -169,9 +169,9 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 [browserextscrape]:https://lifescopelabs.github.io/assets/screenshots/browser-extensions.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI0MDYyMzc5LC0xNzI4NTI4NzE3LDg1MT
-kxNjQwNywyOTQ1ODE1NDYsLTE2NTcyMzI5ODcsLTE2NTcyMzI5
-ODcsLTI0ODAxNTI3OCw1OTgzNzAzMjIsLTk4NDAyMzU1MCwtOT
-M4NTg2Nzk5LC0xMjkyMjE3MjQwLC0xMTQ2MzgwNjQyLDE2NDQ0
-MDQ3ODhdfQ==
+eyJoaXN0b3J5IjpbLTExNTYzNjY1NzIsODI0MDYyMzc5LC0xNz
+I4NTI4NzE3LDg1MTkxNjQwNywyOTQ1ODE1NDYsLTE2NTcyMzI5
+ODcsLTE2NTcyMzI5ODcsLTI0ODAxNTI3OCw1OTgzNzAzMjIsLT
+k4NDAyMzU1MCwtOTM4NTg2Nzk5LC0xMjkyMjE3MjQwLC0xMTQ2
+MzgwNjQyLDE2NDQ0MDQ3ODhdfQ==
 -->
