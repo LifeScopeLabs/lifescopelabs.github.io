@@ -6,7 +6,7 @@ The LIFESCOPE code repository is a manifesto in the form of a codebase. Everyone
 
 This GitHub.io Site contains LIFESCOPE Developer documentation and serves as planning workbook for each LIFESCOPE code repository. 
 
-> "My friends and I work, play, and communicate on dozens platforms. Conversation start on texts, continue on Facebook Messenger, continue in person, then go to Skype and conclude on Slack. Retracing my history keeps me jumping from app to app."
+> "My friends and I work, play, and communicate on dozens of platforms. A conversation start on texts, continues on Facebook Messenger, goes on in person, then goes to Skype, and concludes on Slack. Retracing my history keeps me jumping from app to app."
 
 _Does this sound familiar?_
 
@@ -171,9 +171,9 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 [browserextscrape]:https://lifescopelabs.github.io/assets/screenshots/browser-extensions.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMjYwODUsMTI4OTk5Njc1Nyw4MjQwNj
-IzNzksLTE3Mjg1Mjg3MTcsODUxOTE2NDA3LDI5NDU4MTU0Niwt
-MTY1NzIzMjk4NywtMTY1NzIzMjk4NywtMjQ4MDE1Mjc4LDU5OD
-M3MDMyMiwtOTg0MDIzNTUwLC05Mzg1ODY3OTksLTEyOTIyMTcy
-NDAsLTExNDYzODA2NDIsMTY0NDQwNDc4OF19
+eyJoaXN0b3J5IjpbMTEyNTk4MDM2NywxMjg5OTk2NzU3LDgyND
+A2MjM3OSwtMTcyODUyODcxNyw4NTE5MTY0MDcsMjk0NTgxNTQ2
+LC0xNjU3MjMyOTg3LC0xNjU3MjMyOTg3LC0yNDgwMTUyNzgsNT
+k4MzcwMzIyLC05ODQwMjM1NTAsLTkzODU4Njc5OSwtMTI5MjIx
+NzI0MCwtMTE0NjM4MDY0MiwxNjQ0NDA0Nzg4XX0=
 -->
