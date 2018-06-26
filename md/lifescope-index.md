@@ -18,11 +18,11 @@ The internet landscape is a vast, overwhelming, and broken terrain of data. Only
 
 The study and use of psychometrics and psychographics are the biggest hidden forces in the modern world. Our personal data doesn't just describe who we really are, but also give others power over us by enabling them to reverse engineer our minds. Understanding and controlling our own data should be a human right.
 
-LIFESCOPE is an open platform for personal data designed to empower anyone with insights while preserving privacy and ownership. Access and control of your data is a human right. The platform is designed the ultimate private repository of your digital life. Master time and space with a digital memory.
+LIFESCOPE is an open platform for personal data designed to empower anyone with insights while preserving privacy and ownership. Access and control of your data is a human right. The platform is designed to be the ultimate private repository of your digital life. Master time and space with a digital memory.
 
 ![conceptdiagram]
 
-Connect anywhere and everywhere your information resides and LIFESCOPE will automatically collect, organize, and present everything in your digital memory. Search and leverage your entire digital and social footprint, while streamlining your life online. Curate your history data into the stories you care about.
+Connect anything and everywhere your information resides and LIFESCOPE will automatically collect, organize, and present everything in your digital memory. Search and leverage your entire digital and social footprint, while streamlining your life online. Curate your history data into the stories you care about.
 
 LIFESCOPE as an open source platform for anything you want to do with your personal data. We have plans to expand this platform so it can power the next generation of distributed software technology. You will never be the product.
 
@@ -171,9 +171,10 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 [browserextscrape]:https://lifescopelabs.github.io/assets/screenshots/browser-extensions.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNTk4MDM2NywxMjg5OTk2NzU3LDgyND
-A2MjM3OSwtMTcyODUyODcxNyw4NTE5MTY0MDcsMjk0NTgxNTQ2
-LC0xNjU3MjMyOTg3LC0xNjU3MjMyOTg3LC0yNDgwMTUyNzgsNT
-k4MzcwMzIyLC05ODQwMjM1NTAsLTkzODU4Njc5OSwtMTI5MjIx
-NzI0MCwtMTE0NjM4MDY0MiwxNjQ0NDA0Nzg4XX0=
+eyJoaXN0b3J5IjpbMTI4NDY4MjMwMiwxMTI1OTgwMzY3LDEyOD
+k5OTY3NTcsODI0MDYyMzc5LC0xNzI4NTI4NzE3LDg1MTkxNjQw
+NywyOTQ1ODE1NDYsLTE2NTcyMzI5ODcsLTE2NTcyMzI5ODcsLT
+I0ODAxNTI3OCw1OTgzNzAzMjIsLTk4NDAyMzU1MCwtOTM4NTg2
+Nzk5LC0xMjkyMjE3MjQwLC0xMTQ2MzgwNjQyLDE2NDQ0MDQ3OD
+hdfQ==
 -->
