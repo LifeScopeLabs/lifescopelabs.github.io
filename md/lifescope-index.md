@@ -23,7 +23,7 @@ LIFESCOPE is an open platform for personal data designed to empower anyone with 
 ![conceptdiagram]
 
 Connect anywhere and everywhere your information resides and the LIFESCOPE platform will automatically collect, organize, and present everything in your digital memory. Search and leverage your entire digital and social footprint, while streamlining your life online. Curate your history data into the stories you care about.
-
+ 
 LIFESCOPE as an open source platform for anything you want to do with your personal data. We have plans to expand this platform so it can power the next generation of distributed software technology. You will never be the product.
 
 - [LIFESCOPE Main Site](https://lifescope.io)
@@ -171,10 +171,10 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 [browserextscrape]:https://lifescopelabs.github.io/assets/screenshots/browser-extensions.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNzg0ODg2NSwxMTI1OTgwMzY3LDEyOD
-k5OTY3NTcsODI0MDYyMzc5LC0xNzI4NTI4NzE3LDg1MTkxNjQw
-NywyOTQ1ODE1NDYsLTE2NTcyMzI5ODcsLTE2NTcyMzI5ODcsLT
-I0ODAxNTI3OCw1OTgzNzAzMjIsLTk4NDAyMzU1MCwtOTM4NTg2
-Nzk5LC0xMjkyMjE3MjQwLC0xMTQ2MzgwNjQyLDE2NDQ0MDQ3OD
-hdfQ==
+eyJoaXN0b3J5IjpbNzI1MjU3MDA3LDIxMjc4NDg4NjUsMTEyNT
+k4MDM2NywxMjg5OTk2NzU3LDgyNDA2MjM3OSwtMTcyODUyODcx
+Nyw4NTE5MTY0MDcsMjk0NTgxNTQ2LC0xNjU3MjMyOTg3LC0xNj
+U3MjMyOTg3LC0yNDgwMTUyNzgsNTk4MzcwMzIyLC05ODQwMjM1
+NTAsLTkzODU4Njc5OSwtMTI5MjIxNzI0MCwtMTE0NjM4MDY0Mi
+wxNjQ0NDA0Nzg4XX0=
 -->
