@@ -29,7 +29,7 @@
 <p>The lifescope data-structure is designed to be a simple common schema (inspired by <a href="http://schema.org">schema.org</a> best practices). LIFESCOPE currently enforces user level security with only Admin, User, and Public security levels. Currently designed around whole DB backups on a scheduled basis and easy data rebuilds. Focus is to build every component around the GraphQL API so the DB backend is eventually pluggable (PostgresQL Protocol  etc.).</p>
 <p><strong>LIFESCOPE currently requires a MongoDB instance to run.</strong></p>
 <p>We suggest creating a free instance of <a href="https://www.mongodb.com/cloud/atlas">MongoDB Atlas</a> to test things out. When the free instance is created, click the ‘Connect’ button. You’ll need to whitelist the IP address(es) that will be connecting to it, or use 0.0.0.0/0 to allow all incoming traffic. You’ll have to copy the Connection URI into ‘databases.mongo.address’ in config/default.json, making sure to fill in the password and database name. You can use ‘admin’ as the database name since our code specifies the ‘lifescope’ database whenever it reads from or writes to Mongo.</p>
-<h2 id="install-dependencies-and-fill-in-remote-map-ids">Install dependencies and fill in Remote Map IDs</h2>
+<h2 id="install-dependencies-and-fill-in-remote-map-ids">Install local dependencies and fill in Remote Map IDs</h2>
 <p>All the migration scripts are currently in LIFESCOPE-etl /archive/</p>
 <p>Install brew</p>
 <p><code>/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"</code></p>
