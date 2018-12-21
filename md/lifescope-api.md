@@ -20,94 +20,48 @@ The LifeScope API is a universal platform backend. There are two components to t
 
   
 
-# Setup Instructions
-
-  
-
-[Please follow the instructions in the 'setup' folder.](https://github.com/LifeScopeLabs/lifescope-api/blob/master/setup/01-mongo-bitscoop.md)
-
-  
-  
+# [Setup Instructions](https://github.com/LifeScopeLabs/lifescope-api/blob/master/setup/01-mongo-bitscoop.md)
 
 # LifeScope API Pltafrom Documentation
 
-  
-
 ## [OAuth API Documentation](https://github.com/LifeScopeLabs/lifescope-api/blob/master/documentation/oauth.md)
-
-  
-
-## Data Schema
-
-  
 
 ## [Schema Documentation](https://github.com/LifeScopeLabs/lifescope-api/blob/master/documentation/schema.md)
 
-  
-
 ![gqlschema]
-
-  
 
 ## Providers
 
 | Data Source | Status | Data Collected |
-
 |--|--|--|
-
 | Facebook | production | events, content, contacts, locations |
-
 | Twitter | production | events, content, contacts, locations |
-
 | Pinterest | beta | events, content, locations |
-
 | Dropbox | production | events, content, locations |
-
 | Steam | production | events, content |
-
 | Reddit | production | events, content, contacts, contacts |
-
 | Spotify | production | events, content |
-
 | GitHub | production | events, content, contacts |
-
 | Instagram | production | events, content, contacts |
-
 | Google | production | events, content, contacts |
-
 | Slice | development | events, content, things |
-
 | FitBit | planned | events, things |
-
 | TV Time | planned | events, content |
-
   
-  
-
 # Dependencies
 
-  
-
 * [graphql-compose](https://github.com/graphql-compose/graphql-compose)
-
 * [graphql-compose-mongoose](https://github.com/graphql-compose/graphql-compose-mongoose)
-
 * Vue/Nuxt
-
-  
 
 # Development Roadmap
 
-  
-
 - Improved Place and Thing Support
-
 - Add WSS support for GraphQL Subscriptions
-
 - Example: https://github.com/apollographql/subscriptions-transport-ws
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzEzMjAyODgsMTI2MTI2NDg3NSwtMT
-kyNzE0NDk2MCw1NDQ3NDA1MTUsLTE0ODAwMTU2NzQsMjA1NDgz
-NDgwNCwxNjkzNDgwNjM2LDg0MDc0Nzg4MSwtMTU4NTI0OTg1N1
-19
+eyJoaXN0b3J5IjpbNTUwMzkzNjc3LC0xMDMxMzIwMjg4LDEyNj
+EyNjQ4NzUsLTE5MjcxNDQ5NjAsNTQ0NzQwNTE1LC0xNDgwMDE1
+Njc0LDIwNTQ4MzQ4MDQsMTY5MzQ4MDYzNiw4NDA3NDc4ODEsLT
+E1ODUyNDk4NTddfQ==
 -->
