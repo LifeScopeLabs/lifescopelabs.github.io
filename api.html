@@ -28,27 +28,13 @@
 <li><a href="#login-workflow">Login Workflow</a></li>
 </ul>
 </li>
-<li><a href="#api-endpoints">API Endpoints</a>
+<li><a href="#api-endpoints">API Endpoints</a></li>
+<li><a href="#lifescope-api-pltafrom-documentation">LifeScope API Pltafrom Documentation</a>
 <ul>
 <li><a href="#providers">Providers</a></li>
 </ul>
 </li>
 <li><a href="#data-schema">Data Schema</a>
-<ul>
-<li><a href="#connections">connections</a></li>
-<li><a href="#events">events</a></li>
-<li><a href="#contacts">contacts</a></li>
-<li><a href="#content">content</a></li>
-<li><a href="#locations">locations</a></li>
-<li><a href="#providers-1">providers</a></li>
-<li><a href="#searches">searches</a></li>
-<li><a href="#sessions">sessions</a></li>
-<li><a href="#tags">tags</a></li>
-<li><a href="#things">things</a></li>
-<li><a href="#users">users</a></li>
-</ul>
-</li>
-<li><a href="#lifescope-api-pltafrom-documentation">LifeScope API Pltafrom Documentation</a>
 <ul>
 <li><a href="#creating-apps-with-oauth2">Creating Apps with OAuth2</a></li>
 <li><a href="#oauth-2-endpoints">OAuth 2 Endpoints</a></li>
@@ -57,11 +43,11 @@
 <li><a href="#lifescope-data-schema">LifeScope Data Schema</a>
 <ul>
 <li><a href="#retrieving-related-objects">Retrieving Related Objects</a></li>
-<li><a href="#events-1">Events</a></li>
+<li><a href="#events">Events</a></li>
 <li><a href="#example-graphql-request-with-schema">Example GraphQL Request with Schema</a></li>
-<li><a href="#contacts-1">Contacts</a></li>
-<li><a href="#content-1">Content</a></li>
-<li><a href="#locations-1">Locations</a></li>
+<li><a href="#contacts">Contacts</a></li>
+<li><a href="#content">Content</a></li>
+<li><a href="#locations">Locations</a></li>
 <li><a href="#tagmasks-not-an-object-but-a-field-of-most-object">tagMasks (not an object, but a field of most object)</a></li>
 </ul>
 </li>
@@ -113,6 +99,7 @@
 <li>Exposes objects of the data schema for CRUD operations in GraphQL</li>
 <li>Exposes the connection, signup, and login workflows as GraphQL endpoints</li>
 </ul>
+<h1 id="lifescope-api-pltafrom-documentation">LifeScope API Pltafrom Documentation</h1>
 <h2 id="providers">Providers</h2>
 
 <table>
@@ -192,132 +179,6 @@
 </tbody>
 </table><h1 id="data-schema">Data Schema</h1>
 <p><img src="https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png" alt="gqlschema"></p>
-<h2 id="connections">connections</h2>
-<ul>
-<li>auth
-<ul>
-<li>status
-<ul>
-<li>authorized</li>
-<li>complete</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>enabled</li>
-<li>endpoint_data
-<ul>
-<li>XXX</li>
-</ul>
-</li>
-<li>frequency</li>
-<li>last_run</li>
-<li>permissions
-<ul>
-<li>ETC…</li>
-</ul>
-</li>
-<li>provider_id</li>
-<li>provider_name</li>
-<li>remote_connection_id</li>
-<li>status</li>
-<li>user_id</li>
-</ul>
-<h2 id="events">events</h2>
-<ul>
-<li>connection_id</li>
-<li>contact_interaction_type</li>
-<li>contacts</li>
-<li>content</li>
-<li>context</li>
-<li>created</li>
-<li>datetime</li>
-<li>identifier</li>
-<li>provider_id</li>
-<li>provider_name</li>
-<li>source</li>
-<li>type</li>
-<li>updated</li>
-<li>user_id</li>
-</ul>
-<h2 id="contacts">contacts</h2>
-<ul>
-<li>avatar_url</li>
-<li>connection_id</li>
-<li>created</li>
-<li>handle</li>
-<li>identifier</li>
-<li>name</li>
-<li>provider_id</li>
-<li>provider_name</li>
-<li>remote_id</li>
-<li>updated</li>
-<li>user_id</li>
-</ul>
-<h2 id="content">content</h2>
-<ul>
-<li>connection_id</li>
-<li>created</li>
-<li>embed_content</li>
-<li>embed_format</li>
-<li>embed_thumbnail</li>
-<li>embedded_format</li>
-<li>identifier</li>
-<li>mimeType</li>
-<li>mimetype</li>
-<li>owner</li>
-<li>provider_id</li>
-<li>provider_name</li>
-<li>remote_id</li>
-<li>tagMasks</li>
-<li>text</li>
-<li>thumbnail</li>
-<li>title</li>
-<li>type</li>
-<li>updated</li>
-<li>url</li>
-<li>user_id</li>
-</ul>
-<h2 id="locations">locations</h2>
-<ul>
-<li>connection_id</li>
-<li>created</li>
-<li>datetime</li>
-<li>estimated</li>
-<li>geo_format</li>
-<li>geolocation</li>
-<li>identifier</li>
-<li>provider_id</li>
-<li>updated</li>
-<li>user_id</li>
-</ul>
-<h2 id="providers-1">providers</h2>
-<ul>
-<li>alt_sources
-<ul>
-<li>likes
-<ul>
-<li>description</li>
-<li>enabled_by_default</li>
-<li>mapping</li>
-<li>name</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>remote_map_id</li>
-<li>sources
-<ul>
-<li>todo</li>
-</ul>
-</li>
-</ul>
-<h2 id="searches">searches</h2>
-<h2 id="sessions">sessions</h2>
-<h2 id="tags">tags</h2>
-<h2 id="things">things</h2>
-<h2 id="users">users</h2>
-<h1 id="lifescope-api-pltafrom-documentation">LifeScope API Pltafrom Documentation</h1>
 <h2 id="creating-apps-with-oauth2">Creating Apps with OAuth2</h2>
 <p>OAuth2 is a protocol that lets external applications or services access a user’s data without giving the third-party service access to the user’s credentials.<br>
 In the context of LifeScope, this means that the third-party service does not have access to a user’s OAuth Tokens for their Connections to other services.</p>
@@ -2781,7 +2642,7 @@ To get human-readable forms of those fields, one would make the following GraphQ
 </code></pre>
 <p>It is <strong>not</strong> required to request the binary field when requesting related fields.<br>
 As demonstrated in the example in ‘Retrieving Related Objects’, you would not need to request <code>contact_ids</code> in order to get <code>hydratedContacts</code>.</p>
-<h2 id="events-1">Events</h2>
+<h2 id="events">Events</h2>
 <p>Events are the central-most object in LifeScope.<br>
 They represent an action in a user’s history, and are related to virtually every other object in the schema.</p>
 <h3 id="fields">Fields</h3>
@@ -2988,7 +2849,7 @@ They represent an action in a user’s history, and are related to virtually eve
     }
 }
 </code></pre>
-<h2 id="contacts-1">Contacts</h2>
+<h2 id="contacts">Contacts</h2>
 <p>Contacts represent an entity that a user has interacted with through a digital service, such as a Twitter user or a Gmail account.<br>
 As of this writing, there is no linkage between different Contacts; even if the same person controls those Twitter and Gmail accounts, each account is treated as a separate Contact.<br>
 We hope to introduce a separate object in the future to represent a person in their entirety.</p>
@@ -3109,7 +2970,7 @@ A Contact has no record of which Events it’s associated with.</p>
     }
 }
 </code></pre>
-<h2 id="content-1">Content</h2>
+<h2 id="content">Content</h2>
 <p>Content represents a digital object that a user has interacted with, such as an image, a video, a file, an achievement, or a webpage.</p>
 <p>A specific Content can be associated with multiple Events, though that association is strictly one-sided from the perspective of Events.<br>
 A Content has no record of which Events it’s associated with.</p>
@@ -3265,7 +3126,7 @@ A Content has no record of which Events it’s associated with.</p>
 }
 
 </code></pre>
-<h2 id="locations-1">Locations</h2>
+<h2 id="locations">Locations</h2>
 <p>Locations represent where a user was at a given date and time.<br>
 There can be many different Locations for the exact same coordinates; a user will likely have many Locations at their home, but each one will have a different <code>datetime</code>.<br>
 We hope to introduce a new object in the future to generalize related Locations into a Place.</p>
