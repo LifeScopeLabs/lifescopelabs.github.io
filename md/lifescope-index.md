@@ -171,10 +171,10 @@ The current LIFESCOPE codebases are hosted on Amazon Web Services to power the w
 [browserextscrape]:https://lifescopelabs.github.io/assets/screenshots/browser-extensions.png
 [nativeapp]:https://lifescopelabs.github.io/assets/screenshots/ss-savedsearches.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI1MjU3MDA3LDIxMjc4NDg4NjUsMTEyNT
-k4MDM2NywxMjg5OTk2NzU3LDgyNDA2MjM3OSwtMTcyODUyODcx
-Nyw4NTE5MTY0MDcsMjk0NTgxNTQ2LC0xNjU3MjMyOTg3LC0xNj
-U3MjMyOTg3LC0yNDgwMTUyNzgsNTk4MzcwMzIyLC05ODQwMjM1
-NTAsLTkzODU4Njc5OSwtMTI5MjIxNzI0MCwtMTE0NjM4MDY0Mi
-wxNjQ0NDA0Nzg4XX0=
+eyJoaXN0b3J5IjpbLTg3OTIyNTY1Nyw3MjUyNTcwMDcsMjEyNz
+g0ODg2NSwxMTI1OTgwMzY3LDEyODk5OTY3NTcsODI0MDYyMzc5
+LC0xNzI4NTI4NzE3LDg1MTkxNjQwNywyOTQ1ODE1NDYsLTE2NT
+cyMzI5ODcsLTE2NTcyMzI5ODcsLTI0ODAxNTI3OCw1OTgzNzAz
+MjIsLTk4NDAyMzU1MCwtOTM4NTg2Nzk5LC0xMjkyMjE3MjQwLC
+0xMTQ2MzgwNjQyLDE2NDQ0MDQ3ODhdfQ==
 -->
