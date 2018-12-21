@@ -1,24 +1,12 @@
-
 # [LifeScope-API](https://github.com/LifeScopeLabs/lifescope-api)
-
-  
 
 ## [Repository](https://github.com/LifeScopeLabs/lifescope-api)
 
-  
-
-(production phase, high priority)
-
-  
+**(production phase, high priority)**
 
 The LifeScope API is a universal platform backend. There are two components to the API; a GraphQL-based API for CRUD operations on the LifeScope data schema and a REST API for logout and connection OAuth workflow.
 
-  
-  
-
 [gqlschema]:https://lifescopelabs.github.io/assets/diagrams/LifeScopeSchema.png
-
-  
 
 # [Setup Instructions](https://github.com/LifeScopeLabs/lifescope-api/blob/master/setup/01-mongo-bitscoop.md)
 
@@ -60,8 +48,8 @@ The LifeScope API is a universal platform backend. There are two components to t
 - Add WSS support for GraphQL Subscriptions
 - Example: https://github.com/apollographql/subscriptions-transport-ws
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUwMzkzNjc3LC0xMDMxMzIwMjg4LDEyNj
-EyNjQ4NzUsLTE5MjcxNDQ5NjAsNTQ0NzQwNTE1LC0xNDgwMDE1
-Njc0LDIwNTQ4MzQ4MDQsMTY5MzQ4MDYzNiw4NDA3NDc4ODEsLT
-E1ODUyNDk4NTddfQ==
+eyJoaXN0b3J5IjpbMTAwODExOTUwMSwtMTAzMTMyMDI4OCwxMj
+YxMjY0ODc1LC0xOTI3MTQ0OTYwLDU0NDc0MDUxNSwtMTQ4MDAx
+NTY3NCwyMDU0ODM0ODA0LDE2OTM0ODA2MzYsODQwNzQ3ODgxLC
+0xNTg1MjQ5ODU3XX0=
 -->
