@@ -43,6 +43,8 @@ Please go to the 'setup' folder and follow the instructions.
 * Exposes objects of the data schema for CRUD operations in GraphQL
 * Exposes the connection, signup, and login workflows as GraphQL endpoints
 
+# LifeScope API Pltafrom Documentation
+
 ## Providers
 | Data Source | Status | Data Collected |
 |--|--|--|
@@ -63,109 +65,6 @@ Please go to the 'setup' folder and follow the instructions.
 # Data Schema
 
 ![gqlschema]
-
-## connections
-  * auth
-    * status
-      * authorized
-      * complete
- * enabled
- * endpoint_data
-   * XXX
-  * frequency
-  * last_run
-  * permissions
-    * ETC...
-* provider_id
-* provider_name
-* remote_connection_id
-* status
-* user_id
-
-## events
-
-* connection_id
-* contact_interaction_type
-* contacts
-* content
-* context
-* created
-* datetime
-* identifier
-* provider_id
-* provider_name
-* source
-* type
-* updated
-* user_id
-
-## contacts
-* avatar_url
-* connection_id
-* created
-* handle
-* identifier
-* name
-* provider_id
-* provider_name
-* remote_id
-* updated
-* user_id
-
-## content
-* connection_id
-* created
-* embed_content
-* embed_format
-* embed_thumbnail
-* embedded_format
-* identifier
-* mimeType
-* mimetype
-* owner
-* provider_id
-* provider_name
-* remote_id
-* tagMasks
-* text
-* thumbnail
-* title
-* type
-* updated
-* url
-* user_id
-
-
-## locations
-* connection_id
-* created
-* datetime
-* estimated
-* geo_format
-* geolocation
-* identifier
-* provider_id
-* updated
-* user_id
-
-## providers
-* alt_sources
-  * likes
-    * description
-    * enabled_by_default
-    * mapping
-    * name
-* remote_map_id
-* sources
-  * todo 
-
-## searches
-## sessions
-## tags
-## things
-## users
-
-# LifeScope API Pltafrom Documentation
 
 ## Creating Apps with OAuth2
 
@@ -1722,7 +1621,7 @@ tagMasks {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjcxNDQ5NjAsNTQ0NzQwNTE1LC0xND
-gwMDE1Njc0LDIwNTQ4MzQ4MDQsMTY5MzQ4MDYzNiw4NDA3NDc4
-ODEsLTE1ODUyNDk4NTddfQ==
+eyJoaXN0b3J5IjpbMTI2MTI2NDg3NSwtMTkyNzE0NDk2MCw1ND
+Q3NDA1MTUsLTE0ODAwMTU2NzQsMjA1NDgzNDgwNCwxNjkzNDgw
+NjM2LDg0MDc0Nzg4MSwtMTU4NTI0OTg1N119
 -->
